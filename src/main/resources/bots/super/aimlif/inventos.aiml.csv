@@ -1,0 +1,30 @@
+0,CUANDO INVENTARON *,*,*,<random>#Newline            <li>Unos años antes de que fuera usado comunmente.</li>#Newline            <li>Antes de lo que la mayoría de la gente cree.</li>#Newline            <li>Demoró un poco en volverse popular.</li>#Newline            <li>#Newline               <set name="it">#Newline                  <star/>#Newline               </set>#Newline               fue desarrollado por un largo periodo de tiempo.#Newline            </li>#Newline         </random>,inventos.aiml
+0,CUANDO INVENTARON LA TELEVISION,*,*,<srai>CUANDO INVENTARON EL TELEVISOR</srai>,inventos.aiml
+0,CUANDO INVENTARON EL AVION,*,*,<srai>CUANDO INVENTARON LOS AVIONES</srai>,inventos.aiml
+0,CUANDO CONSTRUYERON EL PRIMER *,*,*,<srai>#Newline            CUANDO INVENTARON#Newline            <star/>#Newline         </srai>,inventos.aiml
+0,CUANDO INVENTARON EL INTERNET,*,*,Las primeras computadoras en conectarse a internet lo hicieron en 1970.,inventos.aiml
+0,CUANDO INVENTARON LA COMPUTADORA,*,*,Las primeras computadoras personales aparecieron en 1975.,inventos.aiml
+0,CUANDO INVENTARON EL TELEFONO,*,*,Bell demostró su primer telefono en 1876.,inventos.aiml
+0,CUANDO INVENTARON LA TV,*,*,Tubos de imagen de televisión aparecieron por primera vez en la década de 1930.,inventos.aiml
+0,CUANDO INVENTARON LOS AVIONES,*,*,Los hermanos Wright volaron por primera vez en 1903.,inventos.aiml
+0,QUIÉN DESCUBRIÓ LA ELECTRICIDAD,*,*,Fueron los Chinos#Comma mucho antes que Benjamin Franklin.,inventos.aiml
+0,QUIÉN INVENTÓ *,*,*,<random>#Newline            <li>Benjamin Franklin</li>#Newline            <li>Linus Torvalds</li>#Newline            <li>Eli Whitney inventó la desmotadora de algodón.</li>#Newline            <li>Thomas Edison.</li>#Newline            <li>Los Hermanos Wright.</li>#Newline            <li>En realidad fue descubierto por muchas personas en la misma epoca.</li>#Newline            <li>Los Chinos#Comma mucho antes que los europeos.</li>#Newline         </random>,inventos.aiml
+0,QUIÉN INVENTÓ LOS AVIONES,*,*,Los hermanos Wright inventaron el avión en 1903.,inventos.aiml
+0,QUIÉN INVENTÓ LOS AUTOMÓVILES,*,*,Muchas personas inventaron el automóvil#Comma pero Henry Ford fue el primero en desarrollar la linea de producción de autos en masa exitosamente.,inventos.aiml
+0,QUIÉN INVENTÓ LINUX,*,*,Linus Torvalds#Comma junto con muchos desarrolladores de código abierto#Comma y la GNU Free Software Foundation.,inventos.aiml
+0,QUIÉN INVENTÓ LA RADIO,*,*,Marconi INVENTÓ el primer aparato inalámbrico con uso práctico.,inventos.aiml
+0,QUIÉN INVENTÓ EL SETL,*,*,SETL fue inventado por Jacob Schwartz de la NYU en 1969.,inventos.aiml
+0,QUIÉN INVENTÓ EL ACERO,*,*,El primero proceso de fabricación de acero práctico fue inventado por Bessemer.,inventos.aiml
+0,QUIÉN INVENTÓ LA TELEVISIÓN,*,*,Philo T. Farnsworth#Comma originario de Maine#Comma desarrolló el primer tubo práctico imagen de TV.,inventos.aiml
+0,QUIÉN INVENTÓ EL GENERADOR *,*,*,<srai>QUIÉN INVENTÓ EL GENERADOR</srai>,inventos.aiml
+0,QUIÉN INVENTÓ EL AVION,*,*,<srai>QUIÉN INVENTÓ LOS AVIONES</srai>,inventos.aiml
+0,QUIÉN INVENTÓ EL AUTOMOVIL,*,*,<srai>QUIÉN INVENTÓ LOS AUTOMOVILES</srai>,inventos.aiml
+0,QUIÉN INVENTÓ EL GENERADOR,*,*,James Clerk Maxwell demostró el generador eléctrico.,inventos.aiml
+0,QUIÉN INVENTÓ EL INTERNET,*,*,Al Gore,inventos.aiml
+0,QUIÉN INVENTÓ EL BOMBILLO ELECTRICO,*,*,Thomas Edison inventó#Newline         <set name="it">la bombilla eléctrica.</set>,inventos.aiml
+0,QUIÉN INVENTÓ LA COMPUTADORA,*,*,Muchas personas han contribuido a ello. Pero debe darsele el credito a Steve Wozniak#Comma quien creó un PC asequible integrada a la plataforma de Apple I.,inventos.aiml
+0,QUIÉN INVENTÓ EL RADIO,*,*,<srai>QUIÉN INVENTÓ LA RADIO</srai>,inventos.aiml
+0,QUIÉN INVENTÓ LA MÁQUINA DE VAPOR,*,*,James Watt desarrolló la primera maquina de vapor con usos prácticos.,inventos.aiml
+0,QUIÉN INVENTÓ EL TELÉFONO,*,*,Alexander Graham Bell demostró el primero uso práctico de un teléfono de voz en 1876.,inventos.aiml
+0,QUIÉN INVENTÓ LA TV,*,*,<srai>QUIÉN INVENTÓ LA TELEVISIÓN</srai>,inventos.aiml
+0,QUIÉN ES TU INVENTOR,*,*,Yo fui inventado originalmente por Jon Baer.,inventos.aiml

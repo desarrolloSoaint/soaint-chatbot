@@ -1,0 +1,2271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+    <category>
+        <pattern>*</pattern>
+        <template>
+          <random>
+            <li>Disculpa pero no comprendo tu pregunta pero Puedo hablarte de los productos Soaint si quieres?</li>
+            <li>Disculpa pero no comprendo tu pregunta aunque Puedo darte informacion acerca de Arquitectura Empresarial?</li>
+            <li>Disculpa pero no comprendo la pregunta pero Puedo darte informacion acerca de RPA?</li>
+            <li>Puedo darte informacion acerca de Microservicios? es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de BPM?  es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de Oracle? es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de Gestion Documental? es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de Customer Experience? es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de Proteccion contra el Fraude? es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de SOADOC? es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de SOA? es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de ESB? es que no comprendo tu pregunta</li>
+            <li>Puedo darte informacion acerca de API? es que no comprendo tu pregunta</li>
+            <li>No comprendo la pregunta sin embargo Puedo darte informacion acerca de Transformacion Digital?</li>
+          </random>
+        </template>
+      </category>
+
+      <category>
+              <pattern>QUIERO HABLAR CON *</pattern>
+              <template>Puedes ponerte en contacto con nuestro departamento de Mercadeo y Ventas a traves de nuestra pagina web y con gusto te atenderemos.
+      		<a href='https://soaint.com/contacto/' target="_blank">https://soaint.com/contacto/</a>
+              <think><set name="it"><set name="topic"><set name="want">para hablar con <star/> www.soaint.com</set></set></set></think>
+              </template>
+          </category>
+    	
+		<category>
+		<pattern>DIRECCION</pattern>
+		<template>Puede contactar a SOAINT en www.soaint.com</template>     
+	</category>
+	
+	<category>
+		<pattern>_ DIRECCION *</pattern>
+		<template>Puede contactar a SOAINT en www.soaint.com</template>     
+	</category>
+	
+	<category>
+		<pattern>_ DIRECCION</pattern>
+		<template>Puede contactar a SOAINT en www.soaint.com</template>     
+	</category>
+	
+	<category>
+		<pattern>DIRECCION *</pattern>
+		<template>Puede contactar a SOAINT en www.soaint.com</template>     
+	</category>
+
+		<category>
+    		<pattern>DIRECCIóN</pattern>
+    		<template>Puede contactar a SOAINT en www.soaint.com</template>
+    	</category>
+
+    	<category>
+    		<pattern>_ DIRECCIóN *</pattern>
+    		<template>Puede contactar a SOAINT en www.soaint.com</template>
+    	</category>
+
+    	<category>
+    		<pattern>_ DIRECCIóN</pattern>
+    		<template>Puede contactar a SOAINT en www.soaint.com</template>
+    	</category>
+
+    	<category>
+    		<pattern>DIRECCIóN *</pattern>
+    		<template>Puede contactar a SOAINT en www.soaint.com</template>
+    	</category>
+	
+	<category>
+		<pattern>QUE ES UN BUEN SITIO WEB</pattern>
+		<template>Un buen sitio web es WWW.SOAINT.COM, pero parece que ya estás aquí. Por qué preguntas?
+		<think><set name="it"><set name="topic">buen sitio web</set></set></think></template>
+	</category>
+	
+	<category>
+		<pattern>QUE ES UN BUEN SITIO WEB *</pattern>
+		<template>Un buen sitio web es WWW.SOAINT.COM, pero parece que ya estás aquí. Por qué preguntas?
+		<think><set name="it"><set name="topic">buen sitio web</set></set></think></template>
+	</category>
+	
+	<category>
+		<pattern>_ QUE ES UN BUEN SITIO WEB</pattern>
+		<template>Un buen sitio web es WWW.SOAINT.COM, pero parece que ya estás aquí. Por qué preguntas?
+		<think><set name="it"><set name="topic">buen sitio web</set></set></think></template>
+	</category>
+	
+	<category>
+		<pattern>_ QUE ES UN BUEN SITIO WEB *</pattern>
+		<template>Un buen sitio web es WWW.SOAINT.COM, pero parece que ya estás aquí. Por qué preguntas?
+		<think><set name="it"><set name="topic">buen sitio web</set></set></think></template>
+	</category>
+	
+	<category>
+		<pattern>QUÉ ES UN BUEN SITIO WEB</pattern>
+		<template>Un buen sitio web es WWW.SOAINT.COM, pero parece que ya estás aquí. Por qué preguntas?
+		<think><set name="it"><set name="topic">buen sitio web</set></set></think></template>
+	</category>
+	
+	<category>
+		<pattern>QUÉ ES UN BUEN SITIO WEB *</pattern>
+		<template>Un buen sitio web es WWW.SOAINT.COM, pero parece que ya estás aquí. Por qué preguntas?
+		<think><set name="it"><set name="topic">buen sitio web</set></set></think></template>
+	</category>
+	
+	<category>
+		<pattern>_ QUÉ ES UN BUEN SITIO WEB</pattern>
+		<template>Un buen sitio web es WWW.SOAINT.COM, pero parece que ya estás aquí. Por qué preguntas?
+		<think><set name="it"><set name="topic">buen sitio web</set></set></think></template>
+	</category>
+	
+	<category>
+		<pattern>_ QUÉ ES UN BUEN SITIO WEB *</pattern>
+		<template>Un buen sitio web es WWW.SOAINT.COM, pero parece que ya estás aquí. Por qué preguntas?
+		<think><set name="it"><set name="topic">buen sitio web</set></set></think></template>
+	</category>
+
+	 <category>
+          <pattern>Chile</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+      		Chile es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en Chile,
+      	    Santiago: +56 4 4235 0560
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+    <category>
+          <pattern>Colombia</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+      			Colombia es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en Colombia,
+      	    Bogotá +57 1 745 1556
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+    <category>
+          <pattern>Costa Rica</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+      		Costa Rica es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en Costa Rica,
+      	    San José
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+    <category>
+          <pattern>Ecuador</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+        	Ecuador es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en Ecuador,
+      	    Quito +53 2 333 3443
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+          <pattern>España</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+        	España es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en España,
+      	     Madrid +34 91 458 91 59  contacto@soaint.com
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+          <pattern>México</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+      		México es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en México,
+      	    D.F. +52 55 6363 4218
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Mexico</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+      		Mexico es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en Mexico,
+      	    D.F. +52 55 6363 4218
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Panamá</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+            Panamá es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en Panamá,
+      	    +507 393 9252
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Panama</pattern>
+             <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+          <template>
+      		Panama es un hermoso Pais.
+            <br/>
+      		Contamos con una Surcursal en Panama,
+      	    +507 393 9252
+      	    <br/>
+      	    contacto@soaint.com
+            <br/>
+                <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+            <br/>
+            Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+     <category>
+           <pattern>Venezuela</pattern>
+              <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+           <template>
+       		Venezuela es un hermoso Pais.
+             <br/>
+       		Contamos con una Surcursal en Venezuela,
+       	    Caracas +58 212 761 6397
+       	    <br/>
+       	    contacto@soaint.com
+             <br/>
+                 <a href="https://soaint.com/" target="_blank">Soaint.com</a>
+             <br/>
+             Cuentame, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+       	</template>
+         </category>
+
+
+
+               <category>
+                        <pattern>no</pattern>
+                             <that>
+                     			Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                             </that>
+                        <template>
+                     		Quieres conocer el esquema de SOAINT
+                     	</template>
+                       </category>
+
+                       <category>
+                        <pattern>no</pattern>
+                             <that>
+                     			Quieres conocer el esquema de SOAINT
+                             </that>
+                        <template>
+                     		Fue un placer hablar contigo
+                     	</template>
+                       </category>
+
+                       <category>
+                        <pattern>si</pattern>
+                             <that>
+                     			Quieres conocer el esquema de SOAINT
+                             </that>
+                        <template>
+                     		SOAINT ofrece soluciones orientadas a diferentes industria con este esquema: Banca, Seguros, Retail, Universidades, Sector Publico, Viajes, Telco, Salud.
+                        </template>
+                       </category>
+
+                       <category>
+                        <pattern>*</pattern>
+                             <that>
+                     			Quieres conocer el esquema de SOAINT
+                             </that>
+                        <template>
+                     	Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                     	</template>
+                       </category>
+
+                       <category>
+                        <pattern>si</pattern>
+                             <that>
+                     			Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                             </that>
+                        <template>
+                     		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital, Nuestra empresa puede apoyarte en Automatizacion y Customer Experience
+                        </template>
+                       </category>
+
+                     <category>
+                         <pattern>no</pattern>
+                              <that>
+                      			Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                         <template>
+                      		Fue un placer hablar contigo
+                      	</template>
+                        </category>
+
+                        <category>
+                         <pattern>*</pattern>
+                              <that>
+                      			Quieres conocer el esquema de SOAINT
+                              </that>
+                         <template>
+                      		La pregunta es si quieres conocer nuestro esquema
+                      	</template>
+                        </category>
+
+                        <category>
+                         <pattern>si</pattern>
+                              <that>
+                      			La pregunta es si quieres conocer nuestro esquema
+                              </that>
+                         <template>
+                      		SOAINT ofrece soluciones orientadas a diferentes industria con este esquema: Banca, Seguros, Retail, Universidades, Sector Publico, Viajes, Telco, Salud.
+                         </template>
+                        </category>
+
+                        <category>
+                         <pattern>no</pattern>
+                              <that>
+                      			Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                         <template>
+                      		Esta bien, fue un placer hablar contigo
+                      	</template>
+                        </category>
+
+                        <category>
+                         <pattern>si</pattern>
+                              <that>
+                      			Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                         <template>
+                      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital. Nuestra empresa puede apoyarte en Automatizacion y Customer Experience
+                         </template>
+                        </category>
+
+              <!-- <category>
+                      <pattern>si</pattern>
+                    	<that>
+                    		Monetizar los procesos de negocio de la empresa o entidad a traves de canales sociales y digitales, Quieres saber como se logra
+                    	</that>
+                       <template>
+                    		A partir del expertise en Arquitectura Empresarial y Capa Media, se integran las soluciones de CX con los sistemas CORE de las empresas, SOAINT ofrece soluciones orientadas a diferentes industrias: Banca, Seguros, Retail, Universidades, Sector Publico, Viajes, Telco, Salud
+
+
+                    	</template>
+                    </category>
+
+                    <category>
+                      <pattern>no</pattern>
+                    	<that>
+                    		Monetizar los procesos de negocio de la empresa o entidad a traves de canales sociales y digitales, Quieres saber como se logra
+                    	</that>
+
+                        <template>
+                  		Ofrecemos los siguientes servicios: Automatizacion, Customer Experience, Arquitectura Empresarial, Seguridad, Gestion Documental, Agile Integration.
+                        </template>
+                    </category>-->
+
+                       <category>
+                        <pattern>empresa</pattern>
+                             <that>
+                     			Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                             </that>
+                        <template>
+                     		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital, para mas informacion visitanos
+                     	</template>
+                       </category>
+
+                       <category>
+                        <pattern>soaint</pattern>
+                             <that>
+                     			Si Deseas conocer de nuestra Empresa o Servicios, por favor escriba: Empresa o Servicios
+                             </that>
+                        <template>
+                     		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital, para mas informacion visitanos
+                        </template>
+                       </category>
+
+                       <category>
+                         <pattern>empresa *</pattern>
+                            <template>
+                               SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+                            </template>
+                       </category>
+
+                       <category>
+                            <pattern>_ empresa *</pattern>
+                            <template>
+                         		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+                            </template>
+                       </category>
+
+                       <category>
+                            <pattern>_ empresa</pattern>
+                            <template>
+                         		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+                            </template>
+                       </category>
+
+              <category>
+                   <pattern>servicios</pattern>
+                             <that>
+                           		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                           		Ofrecemos los siguientes servicios: <br/>
+                         		-Automatizacion.<br/>
+                         		-Customer Experience.<br/>
+                         		-Arquitectura Empresarial.<br/>
+                         		-Seguridad. <br/>
+                         		-Gestion Documental.<br/>
+                         		-Agile Integration.<br/>
+                         		Por favor escriba algunos de ellos.
+                        </template>
+              </category>
+
+               <category>
+                <pattern>servicios</pattern>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+           	<category>
+                <pattern>servicio</pattern>
+                     <that>
+             			Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                     </that>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+               <category>
+                <pattern>servicio</pattern>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+
+               <category>
+                <pattern>servicios *</pattern>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+           	<category>
+                <pattern>servicio *</pattern>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+
+
+               <category>
+                <pattern>_ servicios *</pattern>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+           	<category>
+                <pattern>_ servicio *</pattern>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+
+
+               <category>
+                <pattern>_ servicios</pattern>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+           	<category>
+                <pattern>_ servicio</pattern>
+                <template>
+             		Ofrecemos los siguientes servicios: <br/>
+           		-Automatizacion.<br/>
+           		-Customer Experience.<br/>
+           		-Arquitectura Empresarial.<br/>
+           		-Seguridad. <br/>
+           		-Gestion Documental.<br/>
+           		-Agile Integration.<br/>
+           		Por favor escriba algunos de ellos.
+                 </template>
+               </category>
+
+         <category>
+             <pattern>automatización</pattern>
+              <template>
+           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
+         		Mas informacion en:
+         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+            </template>
+           </category>
+
+           <category>
+             <pattern>automatización *</pattern>
+              <template>
+           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
+         		Mas informacion en:
+         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+            </template>
+           </category>
+
+           <category>
+             <pattern>_ automatización *</pattern>
+              <template>
+           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
+         		Mas informacion en:
+         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+
+            </template>
+           </category>
+
+           <category>
+             <pattern>_ automatización</pattern>
+              <template>
+           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
+         		Mas informacion en:
+         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+
+            </template>
+           </category>
+
+
+             <category>
+             <pattern>automatizacion</pattern>
+              <template>
+           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
+         		Mas informacion en:
+         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+            </template>
+           </category>
+
+           <category>
+             <pattern>automatizacion *</pattern>
+              <template>
+           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
+         		Mas informacion en:
+         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+            </template>
+           </category>
+
+           <category>
+             <pattern>_ automatizacion *</pattern>
+              <template>
+           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
+         		Mas informacion en:
+         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+
+            </template>
+           </category>
+
+           <category>
+             <pattern>_ automatizacion</pattern>
+              <template>
+           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
+         		Mas informacion en:
+         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+
+            </template>
+           </category>
+
+
+           <category>
+             <pattern>customer experience</pattern>
+              <template>
+           		Monetizar los Procesos de Negocio de la Empresa o Entidad a traves de canales sociales y digitales, mas informacion aqui:
+         		<a href='https://soaint.com/customer-experience' target="_blank"><br/><br/>Haz Click Aqui</a>
+              </template>
+           </category>
+
+
+
+      <category>
+        <pattern>customer experience *</pattern>
+         <template>
+      		Monetizar los Procesos de Negocio de la Empresa o Entidad a traves de canales sociales y digitales, mas informacion aqui:
+    		<a href='https://soaint.com/customer-experience' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+      </category>
+
+      <category>
+        <pattern>_ customer experience *</pattern>
+         <template>
+      		Monetizar los Procesos de Negocio de la Empresa o Entidad a traves de canales sociales y digitales, mas informacion aqui:
+    		<a href='https://soaint.com/customer-experience' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+      </category>
+
+      <category>
+        <pattern>_ customer experience</pattern>
+         <template>
+      		Monetizar los Procesos de Negocio de la Empresa o Entidad a traves de canales sociales y digitales, mas informacion aqui:
+    		<a href='https://soaint.com/customer-experience' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+      </category>
+
+      <category>
+        <pattern>arquitectura empresarial</pattern>
+         <template>
+      		Ofrecemos un enfoque practico de aplicacion de Arquitectura Empresarial, no solo en lo tactico, sino  tambien en la operativa del dia a dia de requerimientos del negocio hacia TI. Mas informacion en
+    		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+      </category>
+
+      <category>
+        <pattern>arquitectura empresarial *</pattern>
+         <template>
+      		Ofrecemos un enfoque practico de aplicacion de Arquitectura Empresarial, no solo en lo tactico, sino  tambien en la operativa del dia a dia de requerimientos del negocio hacia TI. Mas informacion en
+    		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+
+         </template>
+      </category>
+
+      <category>
+        <pattern>_ arquitectura empresarial *</pattern>
+         <template>
+      		Ofrecemos un enfoque practico de aplicacion de Arquitectura Empresarial, no solo en lo tactico, sino  tambien en la operativa del dia a dia de requerimientos del negocio hacia TI. Mas informacion en
+    		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+
+         </template>
+      </category>
+
+
+      <category>
+        <pattern>_ arquitectura empresarial</pattern>
+         <template>
+      		Ofrecemos un enfoque practico de aplicacion de Arquitectura Empresarial, no solo en lo tactico, sino  tambien en la operativa del dia a dia de requerimientos del negocio hacia TI. Mas informacion en
+    		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+      </category>
+
+      <category>
+         <pattern>seguridad</pattern>
+         <template>
+      		Solucion madura que reduce el riesgo, previene el fraude y facilita el cumplimiento de regulaciones gubernamentales e internacionales a traves de una plataforma altamente extensible y flexible que ofrece una proteccion contra el fraude sin igual. Mas informacion en
+    		<a href='https://soaint.com/seguridad/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>seguridad *</pattern>
+         <template>
+      		Solucion madura que reduce el riesgo, previene el fraude y facilita el cumplimiento de regulaciones gubernamentales e internacionales a traves de una plataforma altamente extensible y flexible que ofrece una proteccion contra el fraude sin igual. Mas informacion en
+    		<a href='https://soaint.com/seguridad/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ seguridad *</pattern>
+         <template>
+      		Solucion madura que reduce el riesgo, previene el fraude y facilita el cumplimiento de regulaciones gubernamentales e internacionales a traves de una plataforma altamente extensible y flexible que ofrece una proteccion contra el fraude sin igual. Mas informacion en
+    		<a href='https://soaint.com/seguridad/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>_ seguridad</pattern>
+         <template>
+      		Solucion madura que reduce el riesgo, previene el fraude y facilita el cumplimiento de regulaciones gubernamentales e internacionales a traves de una plataforma altamente extensible y flexible que ofrece una proteccion contra el fraude sin igual. Mas informacion en
+    		<a href='https://soaint.com/seguridad/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>gestion</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>gestion *</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ gestion *</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>_ gestion</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+    <category>
+         <pattern>gestión documental</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>gestión documental *</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ gestión documental *</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>_ gestión documental</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+    <category>
+         <pattern>gestion documental</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>gestion documental *</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ gestion documental *</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+         <category>
+         <pattern>_ gestion documental</pattern>
+         <template>
+      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
+    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+    <category>
+         <pattern>agile</pattern>
+         <template>
+      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias.
+
+         </template>
+        </category>
+
+        <category>
+         <pattern>agile *</pattern>
+         <template>
+      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
+    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ agile *</pattern>
+         <template>
+      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
+    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+      <category>
+         <pattern>_ agile</pattern>
+         <template>
+      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
+    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+    	<category>
+         <pattern>agile integration</pattern>
+         <template>
+    		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
+    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+    	 </template>
+        </category>
+
+        <category>
+         <pattern>agile integration *</pattern>
+         <template>
+      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
+    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ agile integration *</pattern>
+         <template>
+      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
+    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+      <category>
+         <pattern>_ agile integration</pattern>
+         <template>
+      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
+    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+    <category>
+           <pattern>Precios</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>Precios *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+       <category>
+           <pattern>_ Precios *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>_ Precios</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>Tiempo</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>Tiempo *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+       <category>
+           <pattern>_ Tiempo *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>_ Tiempo</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>Correo</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>Correo *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+       <category>
+           <pattern>_ Correo *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>_ Correo</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>Proyectos</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>Proyectos *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+       <category>
+           <pattern>_ Proyectos *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>_ Proyectos</pattern>
+           <template>
+      		    Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	   </template>
+       </category>
+
+       <category>
+           <pattern>Proyecto</pattern>
+           <template>
+      		    Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	   </template>
+       </category>
+
+        <category>
+           <pattern>Proyecto *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+       <category>
+           <pattern>_ Proyecto *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>_ Proyecto</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>contacto</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>contacto *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+       <category>
+           <pattern>_ contacto *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>_ contacto</pattern>
+           <template>
+             Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+          </template>
+       </category>
+
+       <category>
+           <pattern>contactos</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>contactos *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+       <category>
+           <pattern>_ contactos *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>_ contactos</pattern>
+           <template>
+             Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+          </template>
+       </category>
+
+        <category>
+           <pattern>contactarlos</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>contactarlos *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+       <category>
+           <pattern>_ contactarlos *</pattern>
+           <template>
+      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+      	</template>
+       </category>
+
+        <category>
+           <pattern>_ contactarlos</pattern>
+           <template>
+             Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
+          </template>
+       </category>
+
+    <category>
+         <pattern>soaint</pattern>
+         <template>
+      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ soaint *</pattern>
+         <template>
+      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ soaint</pattern>
+         <template>
+      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+         </template>
+        </category>
+
+        <category>
+         <pattern>soaint *</pattern>
+         <template>
+      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+         </template>
+        </category>
+
+    <category>
+         <pattern>eficaz</pattern>
+           <template>
+      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+           </template>
+      </category>
+
+      <category>
+         <pattern>eficaz *</pattern>
+           <template>
+      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+           </template>
+      </category>
+
+      <category>
+         <pattern>_ eficaz *</pattern>
+           <template>
+      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+           </template>
+      </category>
+
+      <category>
+         <pattern>_ eficaz</pattern>
+           <template>
+      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+           </template>
+      </category>
+      <category>
+         <pattern>Produccion</pattern>
+           <template>
+      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+           </template>
+      </category>
+
+      <category>
+         <pattern>Produccion *</pattern>
+           <template>
+      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+           </template>
+      </category>
+
+      <category>
+         <pattern>_ Produccion *</pattern>
+           <template>
+      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+           </template>
+      </category>
+
+      <category>
+         <pattern>_ Produccion</pattern>
+           <template>
+      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+           </template>
+      </category>
+
+
+          <category>
+              <pattern>ubicados</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+        <category>
+              <pattern>ubicados *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ ubicados *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ ubicados</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>ubicacion</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+        <category>
+              <pattern>ubicacion *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ ubicacion *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ ubicacion</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>encuentran</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+        <category>
+              <pattern>encuentran *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ encuentran *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ encuentran</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>localizar</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+        <category>
+              <pattern>localizar *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ localizar *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ localizar</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+        <category>
+              <pattern>localizan</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+        <category>
+              <pattern>localizan *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+
+        <category>
+              <pattern>_ localizan *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>_ localizan</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+          <category>
+              <pattern>oficinas</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+        <category>
+              <pattern>oficinas *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+        <category>
+              <pattern>_ oficinas *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+         <category>
+              <pattern>_ oficinas</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+         </category>
+
+         <category>
+              <pattern>telefonos</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+         <category>
+              <pattern>telefonos *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+           <category>
+              <pattern>_ telefonos</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+           <category>
+              <pattern>_ telefonos *</pattern>
+              <template>
+                  Av Casanova, Torre banco plaza, oficina 8C y 8D. Caracas, Venezuela
+              </template>
+          </category>
+
+         <category>
+             <pattern>mision</pattern>
+             <template>
+                Continuar siendo la empresa lider en las nuevas tendencias tecnologicas orientadas a la modernizacion IT
+            </template>
+         </category>
+
+          <category>
+             <pattern>mision *</pattern>
+             <template>
+                Continuar siendo la empresa lider en las nuevas tendencias tecnologicas orientadas a la modernizacion IT
+            </template>
+         </category>
+
+         <category>
+             <pattern>_ mision *</pattern>
+             <template>
+                Continuar siendo la empresa lider en las nuevas tendencias tecnologicas orientadas a la modernizacion IT
+            </template>
+         </category>
+
+          <category>
+             <pattern>_ mision</pattern>
+             <template>
+                Continuar siendo la empresa lider en las nuevas tendencias tecnologicas orientadas a la modernizacion IT
+            </template>
+         </category>
+
+         <category>
+             <pattern>vision</pattern>
+             <template>
+                Convertirse en el referente numero uno (1) en estrategias de modernizacion e innovacion en el ambito de procesos y TI
+            </template>
+         </category>
+
+          <category>
+             <pattern>vision *</pattern>
+             <template>
+                Convertirse en el referente numero uno (1) en estrategias de modernizacion e innovacion en el ambito de procesos y TI
+            </template>
+         </category>
+
+         <category>
+             <pattern>_ vision *</pattern>
+             <template>
+                Convertirse en el referente numero uno (1) en estrategias de modernizacion e innovacion en el ambito de procesos y TI
+            </template>
+         </category>
+
+          <category>
+             <pattern>_ vision</pattern>
+             <template>
+                Convertirse en el referente numero uno (1) en estrategias de modernizacion e innovacion en el ambito de procesos y TI
+            </template>
+         </category>
+
+
+
+         <category>
+             <pattern>Clientes</pattern>
+             <template>
+              Contamos con Clientes Internacionales, tales como: Telefonica, BanColombia, Claro, Dian, Bimbo, Canal de Panama, Copa Airlines, Banco de Chile, Reale Seguros, Banco de Credito del Peru
+             </template>
+         </category>
+
+          <category>
+             <pattern>Clientes *</pattern>
+             <template>
+        		Contamos con Clientes Internacionales, tales como: Telefonica, BanColombia, Claro, Dian, Bimbo, Canal de Panama, Copa Airlines, Banco de Chile, Reale Seguros, Banco de Credito del Peru
+        	 </template>
+         </category>
+
+         <category>
+             <pattern>_ Clientes *</pattern>
+             <template>
+        		Contamos con Clientes Internacionales, tales como: Telefonica, BanColombia, Claro, Dian, Bimbo, Canal de Panama, Copa Airlines, Banco de Chile, Reale Seguros, Banco de Credito del Peru
+        	 </template>
+         </category>
+
+          <category>
+             <pattern>_ Clientes</pattern>
+             <template>
+        		Contamos con Clientes Internacionales, tales como: Telefonica, BanColombia, Claro, Dian, Bimbo, Canal de Panama, Copa Airlines, Banco de Chile, Reale Seguros, Banco de Credito del Peru
+        	 </template>
+         </category>
+
+         <category>
+             <pattern>Cliente</pattern>
+             <template>
+              Contamos con Clientes Internacionales, tales como: Telefonica, BanColombia, Claro, Dian, Bimbo, Canal de Panama, Copa Airlines, Banco de Chile, Reale Seguros, Banco de Credito del Peru
+             </template>
+         </category>
+
+          <category>
+             <pattern>Cliente *</pattern>
+             <template>
+        		Contamos con Clientes Internacionales, tales como: Telefonica, BanColombia, Claro, Dian, Bimbo, Canal de Panama, Copa Airlines, Banco de Chile, Reale Seguros, Banco de Credito del Peru
+        	 </template>
+         </category>
+
+         <category>
+             <pattern>_ Cliente *</pattern>
+             <template>
+        		Contamos con Clientes Internacionales, tales como: Telefonica, BanColombia, Claro, Dian, Bimbo, Canal de Panama, Copa Airlines, Banco de Chile, Reale Seguros, Banco de Credito del Peru
+        	 </template>
+         </category>
+
+          <category>
+             <pattern>_ Cliente</pattern>
+             <template>
+        		Contamos con Clientes Internacionales, tales como: Telefonica, BanColombia, Claro, Dian, Bimbo, Canal de Panama, Copa Airlines, Banco de Chile, Reale Seguros, Banco de Credito del Peru
+        	 </template>
+         </category>
+
+         <category>
+             <pattern>Parthener</pattern>
+             <template>
+        		Contamos con los siguientes parthener a nivel internacional: Oracle, IBM, Sensegia, Bottomline, Automation AnyWhere, RedHat, Vector, Vass
+             </template>
+         </category>
+
+         <category>
+             <pattern>Parthener *</pattern>
+             <template>
+        		Contamos con los siguientes parthener a nivel internacional: Oracle, IBM, Sensegia, Bottomline, Automation AnyWhere, RedHat, Vector, Vass
+        	 </template>
+         </category>
+
+         <category>
+           <pattern>_ Parthener *</pattern>
+           <template>
+        		Contamos con los siguientes parthener a nivel internacional: Oracle, IBM, Sensegia, Bottomline, Automation AnyWhere, RedHat, Vector, Vass
+        	 </template>
+         </category>
+
+          <category>
+           <pattern>_ Parthener</pattern>
+           <template>
+        		Contamos con los siguientes parthener a nivel internacional: Oracle, IBM, Sensegia, Bottomline, Automation AnyWhere, RedHat, Vector, Vass
+        	 </template>
+         </category>
+
+
+
+         <category>
+            <pattern>tecnologias</pattern>
+            <template>
+               Usamos tecnologias, tales como:RPA, SOA, JAVA, Springboot, Angular, Laravel, Micro Servicios, API, DevOps
+            </template>
+        </category>
+
+        <category>
+            <pattern>_ tecnologias *</pattern>
+            <template>
+               Usamos tecnologias, tales como:RPA, SOA, JAVA, Springboot, Angular, Laravel, Micro Servicios, API, DevOps
+            </template>
+        </category>
+
+        <category>
+            <pattern>_ tecnologias </pattern>
+            <template>
+              Usamos tecnologias, tales como:RPA, SOA, JAVA, Springboot, Angular, Laravel, Micro Servicios, API, DevOps
+            </template>
+        </category>
+
+        <category>
+            <pattern>tecnologias *</pattern>
+            <template>
+               Usamos tecnologias, tales como:RPA, SOA, JAVA, Springboot, Angular, Laravel, Micro Servicios, API, DevOps
+            </template>
+        </category>
+
+        <category>
+            <pattern>_ tecnologia *</pattern>
+            <template>
+               Usamos tecnologias, tales como:RPA, SOA, JAVA, Springboot, Angular, Laravel, Micro Servicios, API, DevOps
+            </template>
+        </category>
+
+        <category>
+            <pattern>_ tecnologia </pattern>
+            <template>
+              Usamos tecnologias, tales como:RPA, SOA, JAVA, Springboot, Angular, Laravel, Micro Servicios, API, DevOps
+            </template>
+        </category>
+
+        <category>
+            <pattern>tecnologia *</pattern>
+            <template>
+               Usamos tecnologias, tales como:RPA, SOA, JAVA, Springboot, Angular, Laravel, Micro Servicios, API, DevOps
+            </template>
+        </category>
+
+        <category>
+            <pattern>tecnologia</pattern>
+            <template>
+               Usamos tecnologias, tales como:RPA, SOA, JAVA, Springboot, Angular, Laravel, Micro Servicios, API, DevOps
+            </template>
+        </category>
+
+
+        <category>
+             <pattern>RPA</pattern>
+             <template>
+                 La automatizacion de procesos mediante robots (Robotic Process Automation en ingles) es toda tecnologia orientada al uso de software con el objetivo de disminuir la intervencion humana en el uso de aplicaciones informaticas.
+             </template>
+        </category>
+
+        <category>
+             <pattern>_ RPA *</pattern>
+             <template>
+                 La automatizacion de procesos mediante robots (Robotic Process Automation en ingles) es toda tecnologia orientada al uso de software con el objetivo de disminuir la intervencion humana en el uso de aplicaciones informaticas.
+             </template>
+        </category>
+
+        <category>
+             <pattern>RPA *</pattern>
+             <template>
+                 La automatizacion de procesos mediante robots (Robotic Process Automation en ingles) es toda tecnologia orientada al uso de software con el objetivo de disminuir la intervencion humana en el uso de aplicaciones informaticas.
+             </template>
+        </category>
+
+        <category>
+             <pattern>_ RPA</pattern>
+             <template>
+                 La automatizacion de procesos mediante robots (Robotic Process Automation en ingles) es toda tecnologia orientada al uso de software con el objetivo de disminuir la intervencion humana en el uso de aplicaciones informaticas.
+
+             </template>
+        </category>
+
+        <category>
+             <pattern>SOA</pattern>
+             <template>
+                 La Arquitectura Orientada a Servicios (SOA en ingles), es una metodologia que es implementada para definir la utilizacion de varios servicios con el fin de dar soporte a ciertos requisitos del negocio.
+             </template>
+        </category>
+
+        <category>
+             <pattern>_ SOA *</pattern>
+             <template>
+                  La Arquitectura Orientada a Servicios (SOA en ingles), es una metodologia que es implementada para definir la utilizacion de varios servicios con el fin de dar soporte a ciertos requisitos del negocio.
+             </template>
+        </category>
+
+        <category>
+             <pattern>_ SOA</pattern>
+             <template>
+                 La Arquitectura Orientada a Servicios (SOA en ingles), es una metodologia que es implementada para definir la utilizacion de varios servicios con el fin de dar soporte a ciertos requisitos del negocio.
+             </template>
+        </category>
+
+        <category>
+             <pattern>SOA *</pattern>
+             <template>
+                  La Arquitectura Orientada a Servicios (SOA en ingles), es una metodologia que es implementada para definir la utilizacion de varios servicios con el fin de dar soporte a ciertos requisitos del negocio.
+             </template>
+        </category>
+
+        <category>
+             <pattern>JAVA</pattern>
+             <template>
+                 Es un lenguaje de programacion y una plataforma informatica comercializada por primera vez en 1995 por Sun Microsystems. Java es rapido, seguro y fiable.
+             </template>
+        </category>
+
+        <category>
+             <pattern>_ JAVA *</pattern>
+             <template>
+                 Es un lenguaje de programacion y una plataforma informatica comercializada por primera vez en 1995 por Sun Microsystems. Java es rapido, seguro y fiable.
+             </template>
+        </category>
+
+        <category>
+             <pattern>_ JAVA</pattern>
+             <template>
+                 Es un lenguaje de programacion y una plataforma informatica comercializada por primera vez en 1995 por Sun Microsystems. Java es rapido, seguro y fiable.
+             </template>
+        </category>
+
+        <category>
+             <pattern>JAVA *</pattern>
+             <template>
+                 Es un lenguaje de programacion y una plataforma informatica comercializada por primera vez en 1995 por Sun Microsystems. Java es rapido, seguro y fiable.
+             </template>
+        </category>
+
+
+        <category>
+             <pattern>SPRINGBOOT</pattern>
+             <template>
+                 Spring Boot facilita la creacion de aplicaciones independientes basadas en Spring de grado de produccion que puede "simplemente ejecutar".
+             </template>
+        </category>
+
+        <category>
+             <pattern>_ SPRINGBOOT *</pattern>
+             <template>
+                 Spring Boot facilita la creacion de aplicaciones independientes basadas en Spring de grado de produccion que puede "simplemente ejecutar".
+             </template>
+        </category>
+
+        <category>
+          <pattern>_ SPRINGBOOT</pattern>
+             <template>
+                 Spring Boot facilita la creacion de aplicaciones independientes basadas en Spring de grado de produccion que puede "simplemente ejecutar".
+             </template>
+        </category>
+
+        <category>
+          <pattern>SPRINGBOOT *</pattern>
+             <template>
+                 Spring Boot facilita la creacion de aplicaciones independientes basadas en Spring de grado de produccion que puede "simplemente ejecutar".
+             </template>
+        </category>
+
+        <category>
+          <pattern>Angular</pattern>
+             <template>
+                 Angular es un marco de diseño de aplicaciones y una plataforma de desarrollo para crear aplicaciones eficientes y sofisticadas de una sola pagina.
+
+             </template>
+        </category>
+
+        <category>
+          <pattern>_ Angular *</pattern>
+             <template>
+                 Angular es un marco de diseño de aplicaciones y una plataforma de desarrollo para crear aplicaciones eficientes y sofisticadas de una sola pagina.
+
+             </template>
+        </category>
+
+        <category>
+          <pattern>_ Angular</pattern>
+             <template>
+                 Angular es un marco de diseño de aplicaciones y una plataforma de desarrollo para crear aplicaciones eficientes y sofisticadas de una sola pagina.
+             </template>
+        </category>
+
+        <category>
+          <pattern>Angular *</pattern>
+             <template>
+                 Angular es un marco de diseño de aplicaciones y una plataforma de desarrollo para crear aplicaciones eficientes y sofisticadas de una sola pagina.
+
+             </template>
+        </category>
+
+        <category>
+          <pattern>Laravel</pattern>
+             <template>
+                 Laravel es un marco de aplicacion web con sintaxis expresiva y elegante. Ya hemos sentado las bases, liberandote para crear sin sudar las cosas pequeñas.
+             </template>
+        </category>
+
+        <category>
+          <pattern>_ Laravel *</pattern>
+             <template>
+                 Laravel es un marco de aplicacion web con sintaxis expresiva y elegante. Ya hemos sentado las bases, liberandote para crear sin sudar las cosas pequeñas.
+             </template>
+        </category>
+
+        <category>
+          <pattern>_ Laravel</pattern>
+             <template>
+                 Laravel es un marco de aplicacion web con sintaxis expresiva y elegante. Ya hemos sentado las bases, liberandote para crear sin sudar las cosas pequeñas.
+             </template>
+        </category>
+
+        <category>
+           <pattern>Laravel *</pattern>
+             <template>
+                 Laravel es un marco de aplicacion web con sintaxis expresiva y elegante. Ya hemos sentado las bases, liberandote para crear sin sudar las cosas pequeñas.
+             </template>
+        </category>
+
+        <category>
+           <pattern>Micro Servicios</pattern>
+             <template>
+                 Una “arquitectura de microservicios” es un enfoque para desarrollar una aplicacion software como una serie de pequeños servicios, cada uno ejecutandose de forma autonoma y comunicandose entre si, por ejemplo, a traves de peticiones HTTP a sus API.
+             </template>
+        </category>
+
+        <category>
+           <pattern>_ Micro Servicios *</pattern>
+             <template>
+                 Una “arquitectura de microservicios” es un enfoque para desarrollar una aplicacion software como una serie de pequeños servicios, cada uno ejecutandose de forma autonoma y comunicandose entre si, por ejemplo, a traves de peticiones HTTP a sus API.
+             </template>
+        </category>
+
+        <category>
+           <pattern>_ Micro Servicios</pattern>
+             <template>
+                 Una “arquitectura de microservicios” es un enfoque para desarrollar una aplicacion software como una serie de pequeños servicios, cada uno ejecutandose de forma autonoma y comunicandose entre si, por ejemplo, a traves de peticiones HTTP a sus API.
+             </template>
+        </category>
+
+        <category>
+           <pattern>Micro Servicios *</pattern>
+             <template>
+                 Una “arquitectura de microservicios” es un enfoque para desarrollar una aplicacion software como una serie de pequeños servicios, cada uno ejecutandose de forma autonoma y comunicandose entre si, por ejemplo, a traves de peticiones HTTP a sus API.
+             </template>
+        </category>
+
+        <category>
+           <pattern>Micro Servicio</pattern>
+             <template>
+                 Una “arquitectura de microservicios” es un enfoque para desarrollar una aplicacion software como una serie de pequeños servicios, cada uno ejecutandose de forma autonoma y comunicandose entre si, por ejemplo, a traves de peticiones HTTP a sus API.
+             </template>
+        </category>
+
+        <category>
+           <pattern>_ Micro Servicio *</pattern>
+             <template>
+                 Una “arquitectura de microservicios” es un enfoque para desarrollar una aplicacion software como una serie de pequeños servicios, cada uno ejecutandose de forma autonoma y comunicandose entre si, por ejemplo, a traves de peticiones HTTP a sus API.
+             </template>
+        </category>
+
+        <category>
+           <pattern>_ Micro Servicio</pattern>
+             <template>
+                 Una “arquitectura de microservicios” es un enfoque para desarrollar una aplicacion software como una serie de pequeños servicios, cada uno ejecutandose de forma autonoma y comunicandose entre si, por ejemplo, a traves de peticiones HTTP a sus API.
+             </template>
+        </category>
+
+        <category>
+           <pattern>Micro Servicio *</pattern>
+             <template>
+                 Una “arquitectura de microservicios” es un enfoque para desarrollar una aplicacion software como una serie de pequeños servicios, cada uno ejecutandose de forma autonoma y comunicandose entre si, por ejemplo, a traves de peticiones HTTP a sus API.
+             </template>
+        </category>
+
+        <category>
+           <pattern>API</pattern>
+             <template>
+                 Es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones. API significa interfaz de programacion de aplicaciones (del ingles API: Application Programming Interface).
+             </template>
+        </category>
+
+        <category>
+           <pattern>_ API *</pattern>
+             <template>
+                 Es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones. API significa interfaz de programacion de aplicaciones (del ingles API: Application Programming Interface).
+             </template>
+        </category>
+
+        <category>
+           <pattern>_ API</pattern>
+             <template>
+                 Es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones. API significa interfaz de programacion de aplicaciones (del ingles API: Application Programming Interface).
+             </template>
+        </category>
+
+        <category>
+           <pattern>API *</pattern>
+             <template>
+                 Es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones. API significa interfaz de programacion de aplicaciones (del ingles API: Application Programming Interface).
+             </template>
+        </category>
+
+        <category>
+           <pattern>DevOps</pattern>
+             <template>
+                 Describe los enfoques para agilizar los procesos con los que una idea pasa del desarrollo a la implementacion, en un entorno de produccion en que puede generar valor para el usuario.
+             </template>
+        </category>
+
+        <category>
+           <pattern>_ DevOps *</pattern>
+             <template>
+                 Describe los enfoques para agilizar los procesos con los que una idea pasa del desarrollo a la implementacion, en un entorno de produccion en que puede generar valor para el usuario.
+             </template>
+        </category>
+
+        <category>
+           <pattern>_ DevOps</pattern>
+             <template>
+                 Describe los enfoques para agilizar los procesos con los que una idea pasa del desarrollo a la implementacion, en un entorno de produccion en que puede generar valor para el usuario.
+             </template>
+        </category>
+
+        <category>
+          <pattern>DevOps *</pattern>
+        	<template>
+        	Describe los enfoques para agilizar los procesos con los que una idea pasa del desarrollo a la implementacion, en un entorno de produccion en que puede generar valor para el usuario.
+        	</template>
+        </category>
+
+
+
+        <category>
+           <pattern>sucursal</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+      			</template>
+          </category>
+
+          <category>
+           <pattern>sucursal *</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>_ sucursal</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>_ sucursal *</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>sucursales</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>sucursales *</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>_ sucursales</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>_ sucursales *</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+        <category>
+           <pattern>pais</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>pais *</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>_ pais</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>_ pais *</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+            <category>
+           <pattern>paises</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+
+           </template>
+          </category>
+
+          <category>
+           <pattern>paises *</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+           </template>
+          </category>
+
+          <category>
+           <pattern>_ paises</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+           </template>
+          </category>
+
+          <category>
+           <pattern>_ paises *</pattern>
+           <template>
+      			Estamos ubicados en Chile; Colombia, Costa Rica , Ecuador; España, México, Panama, República Dominicana y Venezuela. Cuál Sucursal te interesa contactar?
+           </template>
+          </category>
+
+	<category>
+        <pattern>* PRODUCTOS</pattern>
+        <template>En Soaint podemos ofrecerte apoyo en la parte de Arquitectura Empresarial, Aplicaciones SOAP o REST y toda la parte de customer experience</template>
+    </category>
+    <category>
+        <pattern>_ PRODUCTOS *</pattern>
+        <template>En Soaint podemos ofrecerte apoyo en la parte de Arquitectura Empresarial, Aplicaciones SOAP o REST y toda la parte de customer experience</template>
+    </category>
+    <category>
+        <pattern>PRODUCTOS *</pattern>
+        <template>En Soaint podemos ofrecerte apoyo en la parte de Arquitectura Empresarial, Aplicaciones SOAP o REST y toda la parte de customer experience</template>
+    </category>
+    <category>
+        <pattern>PRODUCTOS</pattern>
+        <template>En Soaint podemos ofrecerte apoyo en la parte de Arquitectura Empresarial, Aplicaciones SOAP o REST y toda la parte de customer experience</template>
+    </category>
+	
+	<category>
+        <pattern>SOAINT</pattern>
+        <template>
+              <random>
+                  <li>En Soaint somos una empresa del area tecnologica o como nos gusta presumir, un equipo de personas que a logrado desarrollar soluciones empresariales durante mas de 12 años. Comenzamos con una pequeña oficina en Madrid y un reducido equipo que con mucho esfuerzo ha conseguido internacionalizar la marca teniendo presencia, ademas de en España, en practicamente toda Latino America.</li>
+                  <li>Soaint es la empresa lider en Arquitectura empresarial en latinoamerica.</li>
+                  <li>Soaint es la empresa de tecnologia con la que quieres hacer negocios, te apoyamos antes, durante y despues en tus procesos de negocio.</li>
+                  <li>En Soaint contamos con profesionales de diferentes areas</li>
+              </random>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ SOAINT</pattern>
+        <template>
+              <random>
+                  <li>En Soaint somos una empresa del area tecnologica o como nos gusta presumir, un equipo de personas que a logrado desarrollar soluciones empresariales durante mas de 12 años. Comenzamos con una pequeña oficina en Madrid y un reducido equipo que con mucho esfuerzo ha conseguido internacionalizar la marca teniendo presencia, ademas de en España, en practicamente toda Latino America.</li>
+                  <li>Soaint es la empresa lider en Arquitectura empresarial en latinoamerica.</li>
+                  <li>Soaint es la empresa de tecnologia con la que quieres hacer negocios, te apoyamos antes, durante y despues en tus procesos de negocio.</li>
+                  <li>En Soaint contamos con profesionales de diferentes areas</li>
+              </random>
+        </template>
+    </category>
+	<category>
+        <pattern>_ SOAINT /*</pattern>
+        <template>
+              <random>
+                  <li>En Soaint somos una empresa del area tecnologica o como nos gusta presumir, un equipo de personas que a logrado desarrollar soluciones empresariales durante mas de 12 años. Comenzamos con una pequeña oficina en Madrid y un reducido equipo que con mucho esfuerzo ha conseguido internacionalizar la marca teniendo presencia, ademas de en España, en practicamente toda Latino America.</li>
+                  <li>Soaint es la empresa lider en Arquitectura empresarial en latinoamerica.</li>
+                  <li>Soaint es la empresa de tecnologia con la que quieres hacer negocios, te apoyamos antes, durante y despues en tus procesos de negocio.</li>
+                  <li>En Soaint contamos con profesionales de diferentes areas</li>
+              </random>
+        </template>
+    </category>
+	<category>
+        <pattern>SOAINT *</pattern>
+        <template>
+              <random>
+                  <li>En Soaint somos una empresa del area tecnologica o como nos gusta presumir, un equipo de personas que a logrado desarrollar soluciones empresariales durante mas de 12 años. Comenzamos con una pequeña oficina en Madrid y un reducido equipo que con mucho esfuerzo ha conseguido internacionalizar la marca teniendo presencia, ademas de en España, en practicamente toda Latino America.</li>
+                  <li>Soaint es la empresa lider en Arquitectura empresarial en latinoamerica.</li>
+                  <li>Soaint es la empresa de tecnologia con la que quieres hacer negocios, te apoyamos antes, durante y despues en tus procesos de negocio.</li>
+                  <li>En Soaint contamos con profesionales de diferentes areas</li>
+              </random>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>CONTACTAR</pattern>
+        <template>Puedes contactarnos por nuestra pagina web 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a>
+		</template>
+    </category>
+	<category>
+        <pattern>_ CONTACTAR</pattern>
+        <template>Puedes contactarnos por nuestra pagina web 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a>
+		</template>
+    </category>
+	<category>
+        <pattern>_ CONTACTAR *</pattern>
+        <template>Puedes contactarnos por nuestra pagina web 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a>
+		</template>
+    </category>
+	<category>
+        <pattern>CONTACTAR *</pattern>
+        <template>Puedes contactarnos por nuestra pagina web 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a>
+		</template>
+    </category>
+	
+	<category>
+        <pattern>BPM</pattern>
+        <template>BPM es la abreviatura de Business Process Management que significa Gestion de Procesos de Negocio.  BPM es un enfoque de manejo adaptable, desarrollado con el fin de sistematizar y facilitar los procesos individuales de negocio complejos, dentro y fuera de las empresas, visitanos y encontraras informacion de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+    
+    <category>
+        <pattern>_ BPM</pattern>
+        <template>BPM es la abreviatura de Business Process Management que significa Gestion de Procesos de Negocio.  BPM es un enfoque de manejo adaptable, desarrollado con el fin de sistematizar y facilitar los procesos individuales de negocio complejos, dentro y fuera de las empresas, visitanos y encontraras informacion de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+ 	<category>
+        <pattern>BPM *</pattern>
+		<template>BPM es la abreviatura de Business Process Management que significa Gestion de Procesos de Negocio.  BPM es un enfoque de manejo adaptable, desarrollado con el fin de sistematizar y facilitar los procesos individuales de negocio complejos, dentro y fuera de las empresas, visitanos y encontraras informacion de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+   </category>
+   
+	<category>
+        <pattern>_ BPM *</pattern>
+		<template>BPM es la abreviatura de Business Process Management que significa Gestion de Procesos de Negocio.  BPM es un enfoque de manejo adaptable, desarrollado con el fin de sistematizar y facilitar los procesos individuales de negocio complejos, dentro y fuera de las empresas, visitanos y encontraras informacion de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+   </category>
+   
+   <category>
+        <pattern>ORACLE</pattern>
+        <template>En Soaint somos partners de Oracle y podemos brindarle apoyo respecto al uso e implantacion de las tecnologias Oracle, visitanos y encontraras informacion de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>_ ORACLE</pattern>
+        <template>En Soaint somos partners de Oracle y podemos brindarle apoyo respecto al uso e implantacion de las tecnologias Oracle, visitanos y encontraras informacion de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	<category>
+        <pattern>ORACLE *</pattern>
+        <template>En Soaint somos partners de Oracle y podemos brindarle apoyo respecto al uso e implantacion de las tecnologias Oracle, visitanos y encontraras informacion de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	<category>
+        <pattern>_ ORACLE *</pattern>
+        <template>En Soaint somos partners de Oracle y podemos brindarle apoyo respecto al uso e implantacion de las tecnologias Oracle, visitanos y encontraras informacion de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+
+	<category>
+        <pattern>SOADOC</pattern>
+        <template>SOADOC es una solución Multiplataforma diseñada para lograr una verdadera transformación digital en la Gestión Documental y aumentar la productividad de los procesos de negocio. Construida bajo la Arquitectura Toolbox de SOAINT, se hace escalable a todo nivel de la organización, a partir de la plataforma existente y sostenible en el tiempo, ya que cuenta con versiones soportadas en las principales plataformas de servidor del mercado como Redhat, IBM y Oracle, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>_ SOADOC</pattern>
+        <template>SOADOC es una solución Multiplataforma diseñada para lograr una verdadera transformación digital en la Gestión Documental y aumentar la productividad de los procesos de negocio. Construida bajo la Arquitectura Toolbox de SOAINT, se hace escalable a todo nivel de la organización, a partir de la plataforma existente y sostenible en el tiempo, ya que cuenta con versiones soportadas en las principales plataformas de servidor del mercado como Redhat, IBM y Oracle, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>SOADOC *</pattern>
+        <template>SOADOC es una solución Multiplataforma diseñada para lograr una verdadera transformación digital en la Gestión Documental y aumentar la productividad de los procesos de negocio. Construida bajo la Arquitectura Toolbox de SOAINT, se hace escalable a todo nivel de la organización, a partir de la plataforma existente y sostenible en el tiempo, ya que cuenta con versiones soportadas en las principales plataformas de servidor del mercado como Redhat, IBM y Oracle, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>_ SOADOC *</pattern>
+        <template>SOADOC es una solución Multiplataforma diseñada para lograr una verdadera transformación digital en la Gestión Documental y aumentar la productividad de los procesos de negocio. Construida bajo la Arquitectura Toolbox de SOAINT, se hace escalable a todo nivel de la organización, a partir de la plataforma existente y sostenible en el tiempo, ya que cuenta con versiones soportadas en las principales plataformas de servidor del mercado como Redhat, IBM y Oracle, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>ESB</pattern>
+        <template>En informatica un Bus de Servicio Empresarial (ESB por sus siglas en ingles) es un modelo de arquitectura de software que gestiona la comunicación entre servicios web. Es un componente fundamental de la Arquitectura Orientada a Servicios, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>_ ESB</pattern>
+        <template>En informatica un Bus de Servicio Empresarial (ESB por sus siglas en ingles) es un modelo de arquitectura de software que gestiona la comunicación entre servicios web. Es un componente fundamental de la Arquitectura Orientada a Servicios, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>ESB *</pattern>
+        <template>En informatica un Bus de Servicio Empresarial (ESB por sus siglas en ingles) es un modelo de arquitectura de software que gestiona la comunicación entre servicios web. Es un componente fundamental de la Arquitectura Orientada a Servicios, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>_ ESB *</pattern>
+        <template>En informatica un Bus de Servicio Empresarial (ESB por sus siglas en ingles) es un modelo de arquitectura de software que gestiona la comunicación entre servicios web. Es un componente fundamental de la Arquitectura Orientada a Servicios, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>TRANSFORMACION DIGITAL</pattern>
+        <template>Podriamos decir que la transformación digital es la aplicación de capacidades digitales a procesos, productos y activos para mejorar la eficiencia, mejorar el valor para el cliente, gestionar el riesgo y descubrir nuevas oportunidades de generación de ingresos, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>_ TRANSFORMACION DIGITAL</pattern>
+        <template>Podriamos decir que la transformación digital es la aplicación de capacidades digitales a procesos, productos y activos para mejorar la eficiencia, mejorar el valor para el cliente, gestionar el riesgo y descubrir nuevas oportunidades de generación de ingresos, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>TRANSFORMACION DIGITAL *</pattern>
+        <template>Podriamos decir que la transformación digital es la aplicación de capacidades digitales a procesos, productos y activos para mejorar la eficiencia, mejorar el valor para el cliente, gestionar el riesgo y descubrir nuevas oportunidades de generación de ingresos, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+	
+	<category>
+        <pattern>_ TRANSFORMACION DIGITAL *</pattern>
+        <template>Podriamos decir que la transformación digital es la aplicación de capacidades digitales a procesos, productos y activos para mejorar la eficiencia, mejorar el valor para el cliente, gestionar el riesgo y descubrir nuevas oportunidades de generación de ingresos, visitanos y encontraras información de nuestros servicios 
+		<a href='https://soaint.com/quienes-somos/#servicios' target="_blank"><br/><br/>Haz Click Aqui</a></template>
+    </category>
+
+  </aiml>

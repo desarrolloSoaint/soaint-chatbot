@@ -1,0 +1,17 @@
+0,YO TENGO UN LAGARTO,*,*,Tener <set name="topic">reptiles</set> de mascota es divertido.#Newline#NewlineCual tienes?,reptiles.aiml
+0,HABLEMOS DE *,*,*,Ok#Comma <set name="topic">#Newline<star/>#Newline</set> me parece un buen tema.,reptiles.aiml
+0,NO,TIENES ALGUNA PREGUNTA SOBRE ALIMENTAR LAGARTOS,*,Okay.#Newline#Newline  Sabias que algunos <set name="topic">reptiles</set> son nocturnos,reptiles.aiml
+0,_ LAGARTOS,*,*,Que bien! Que clase de <set name="topic">reptiles</set>#Newline#Newline   te gustan?,reptiles.aiml
+0,_ REPTILES,*,*,Algunos reptiles son interesantes.. Por ejemplo varios#Newline#Newline    <set name="topic">reptiles</set>.,reptiles.aiml
+0,*,*,REPTILES,Quieres seguir hablando de lagartos?,reptiles.aiml
+0,NO,QUIERES SEGUIR HABLANDO DE LAGARTOS,REPTILES,<think>#Newline<set name="topic"/>#Newline</think>#Newline<srai>#Newline<input index="2"/>#Newline</srai>,reptiles.aiml
+0,SI,QUIERES SEGUIR HABLANDO DE LAGARTOS,REPTILES,<random>#Newline<li>Sabes como son los dragones barbudos?</li>#Newline<li>Que mas quieres saber sobre lagartos?</li>#Newline<li>Los camaleones son interesantes.</li>#Newline<li>Algunas personas creen que los reptiles dan miedo hasta que los conocen.</li>#Newline</random>,reptiles.aiml
+0,* YO TENGO UNO,*,REPTILES,Que Bien! Juegas con el?,reptiles.aiml
+0,YO TENGO UN *,*,REPTILES,Son los<set name="it">#Newline<star/>#Newline</set>  lagartos?,reptiles.aiml
+0,NO,SABES COMO SON LOS DRAGONES BARBURDOS,REPTILES,<srai>COMO SE VEN LOS DRAGONES BARBUDOS</srai>,reptiles.aiml
+0,NO *,ES UN LAGARTO,REPTILES,Oh#Comma bueno#Comma cuantas <set name="topic">pets</set> tienes?,reptiles.aiml
+0,COMO SE VEN LOS DRAGONES BARBUDOS,*,REPTILES,Los dragones barburdos tienen puntas como los sapos cornudos y por lo general son de color marron o amarillento con manchas marron oscuro o rojo. Son muy vistosos. Son muy buenos y son mascotas divertidas.,reptiles.aiml
+0,COMO SE VEN LOS CAMALEONES,*,REPTILES,Los camaleones son unos de los lagartos de aspecto más exótico y extraño en cualquier lugar. Vienen en todo tipo de colores desde el clásico verde y marrón#Comma a morados y rojos únicos. Tienen dos pies con dedos que les ayudan a subir todo lo que pueden agarrar. La gente los conoce por su gran capacidad de cambiar los colores y por su cola rizada que también les ayuda a trepar.,reptiles.aiml
+0,SI,ES UN LAGARTO,REPTILES,Alimentas a tu <get name="it"/>?,reptiles.aiml
+0,*,QUE LE DAS DE COMER A TU *,REPTILES,Yo alimento a mi lagarto con ensaladas e insectos... grillos mayormente. Alimentar lagartos puede ser muy divertido.,reptiles.aiml
+0,*,ALIMENTAR LAGARTOS PUEDE SER MUY DIVERTIDO,REPTILES,<random>#Newline<li>Una dieta nutritiva es importante para los lagartos.</li>#Newline<li>Las ensaladas son una parte importante de la dieta de un lagarto.</li>#Newline<li>A veces dejo que mi lagarto caze grillos en su cuarto. Hace mas divertido alimentarlo.</li>#Newline<li>Tienes alguna pregunta sobre la alimentacion de los lagartos?</li>#Newline<li>La mayoría de los lagartos comen cualquier cantidad de insectos#Comma pero NUNCA alimentes a un lagarto con una "luciérnaga" ya que son altamente tóxicas y#Newlinematará al lagarto.</li>#Newline</random>,reptiles.aiml

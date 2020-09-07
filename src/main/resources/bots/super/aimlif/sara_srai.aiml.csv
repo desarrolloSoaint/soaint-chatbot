@@ -1,0 +1,1681 @@
+0,QUIÉN INVENTO *,*,*,<srai>QUIÉN INVENTÓ <star/></srai>,sara_srai.aiml
+0,QUIEN INVENTO *,*,*,<srai>QUIÉN INVENTÓ <star/></srai>,sara_srai.aiml
+0,QUIEN INVENTÓ *,*,*,<srai>QUIÉN INVENTÓ <star/></srai>,sara_srai.aiml
+0,* BUENO,*,*,<srai>BIEN</srai>,sara_srai.aiml
+0,* ES TURING,*,*,<srai>QUIEN ES ALAN TURING</srai>,sara_srai.aiml
+0,QUE DEPORTES *,*,*,<srai>TE GUSTAN LOS DEPORTES</srai>,sara_srai.aiml
+0,* FUTBOL,*,*,<srai>JUEGAS FÚTBOL</srai>,sara_srai.aiml
+0,* FÚTBOL,*,*,<srai>JUEGAS FÚTBOL</srai>,sara_srai.aiml
+0,QUE SOPA,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,DONDE QUEDA *,*,*,<srai>DÓNDE ESTÁ <star/></srai>,sara_srai.aiml
+0,CUÉNTAME *,*,*,<srai>GOSSIP</srai>,sara_srai.aiml
+0,CUENTAME *,*,*,<srai>GOSSIP</srai>,sara_srai.aiml
+0,QUIEN ES *,*,*,<random>#Newline        <li><srai>QUIÉN ES <star/></srai></li>#Newline        <li><srai>QUIÉNESX<star/></srai></li>#Newline        </random>,sara_srai.aiml
+0,QUÉ ES *,*,*,<random>#Newline        <li><srai>QUÉ ES <star/></srai></li>#Newline        <li><srai>QUÉESX</srai></li>#Newline        </random>,sara_srai.aiml
+0,QUE ES *,*,*,<srai>QUÉ ES <star/></srai>,sara_srai.aiml
+0,ENSERIO,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,JOSE *,*,*,<srai>JOSE</srai>,sara_srai.aiml
+0,* JOSE,*,*,<srai>JOSE</srai>,sara_srai.aiml
+0,_ JOSE *,*,*,<srai>JOSE</srai>,sara_srai.aiml
+0,ACTOR *,*,*,<srai>ACTOR</srai>,sara_srai.aiml
+0,* ACTOR,*,*,<srai>ACTOR</srai>,sara_srai.aiml
+0,_ ACTOR *,*,*,<srai>ACTOR</srai>,sara_srai.aiml
+0,ACTORES,*,*,<srai>ACTOR</srai>,sara_srai.aiml
+0,ACTORES *,*,*,<srai>ACTOR</srai>,sara_srai.aiml
+0,* ACTORES,*,*,<srai>ACTOR</srai>,sara_srai.aiml
+0,_ ACTORES *,*,*,<srai>ACTOR</srai>,sara_srai.aiml
+0,ACTRIZ *,*,*,<srai>ACTRIZ</srai>,sara_srai.aiml
+0,* ACTRIZ,*,*,<srai>ACTRIZ</srai>,sara_srai.aiml
+0,_ ACTRIZ *,*,*,<srai>ACTRIZ</srai>,sara_srai.aiml
+0,ACTRICES,*,*,<srai>ACTRIZ</srai>,sara_srai.aiml
+0,ACTRICES *,*,*,<srai>ACTRIZ</srai>,sara_srai.aiml
+0,* ACTRICES,*,*,<srai>ACTRIZ</srai>,sara_srai.aiml
+0,_ ACTRICES *,*,*,<srai>ACTRIZ</srai>,sara_srai.aiml
+0,ADIOS *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* ADIOS,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ ADIOS *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,ADIÓS,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,ADIÓS *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* ADIÓS,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ ADIÓS *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,HASTA PRONTO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,HASTA PRONTO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* HASTA PRONTO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ HASTA PRONTO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,HASTA LUEGO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,HASTA LUEGO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* HASTA LUEGO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ HASTA LUEGO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,VEO LUEGO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,VEO LUEGO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* VEO LUEGO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ VEO LUEGO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,VEMOS LUEGO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,VEMOS LUEGO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* VEMOS LUEGO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ VEMOS LUEGO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,BYE,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,BYE *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* BYE,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ BYE *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,CHAO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,CHAO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* CHAO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ CHAO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,CIAO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,CIAO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* CIAO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ CIAO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,ME PIRO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,ME PIRO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* ME PIRO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ ME PIRO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,TE DEJO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,TE DEJO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,* TE DEJO,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,_ TE DEJO *,*,*,<srai>ADIOS</srai>,sara_srai.aiml
+0,AFICIONES *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,* AFICIONES,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,_ AFICIONES *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,HOBBIES,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,HOBBIES *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,* HOBBIES,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,_ HOBBIES *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,PASATIEMPOS,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,PASATIEMPOS *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,* PASATIEMPOS,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,_ PASATIEMPOS *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,TIEMPO LIBRE,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,TIEMPO LIBRE *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,* TIEMPO LIBRE,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,_ TIEMPO LIBRE *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,QUÉ SABES,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,QUÉ SABES *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,* QUÉ SABES,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,_ QUÉ SABES *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,QUE SABES,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,QUE SABES *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,* QUE SABES,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,_ QUE SABES *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,TE GUSTA HACER,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,TE GUSTA HACER *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,* TE GUSTA HACER,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,_ TE GUSTA HACER *,*,*,<srai>AFICIONES</srai>,sara_srai.aiml
+0,AHORA *,*,*,<srai>AHORA</srai>,sara_srai.aiml
+0,* AHORA,*,*,<srai>AHORA</srai>,sara_srai.aiml
+0,_ AHORA *,*,*,<srai>AHORA</srai>,sara_srai.aiml
+0,ESTE MOMENTO,*,*,<srai>AHORA</srai>,sara_srai.aiml
+0,ESTE MOMENTO *,*,*,<srai>AHORA</srai>,sara_srai.aiml
+0,* ESTE MOMENTO,*,*,<srai>AHORA</srai>,sara_srai.aiml
+0,_ ESTE MOMENTO *,*,*,<srai>AHORA</srai>,sara_srai.aiml
+0,ALGO *,*,*,<srai>ALGO</srai>,sara_srai.aiml
+0,AMIGO *,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,* AMIGO,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,_ AMIGO *,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,AMIGA,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,AMIGA *,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,* AMIGA,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,_ AMIGA *,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,AMIGOS,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,AMIGOS *,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,* AMIGOS,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,_ AMIGOS *,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,AMIGAS,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,AMIGAS *,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,* AMIGAS,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,_ AMIGAS *,*,*,<srai>AMIGO</srai>,sara_srai.aiml
+0,AMOR *,*,*,<srai>AMOR</srai>,sara_srai.aiml
+0,* AMOR,*,*,<srai>AMOR</srai>,sara_srai.aiml
+0,_ AMOR *,*,*,<srai>AMOR</srai>,sara_srai.aiml
+0,TE QUIERO,*,*,<srai>AMOR</srai>,sara_srai.aiml
+0,TE QUIERO *,*,*,<srai>AMOR</srai>,sara_srai.aiml
+0,* TE QUIERO,*,*,<srai>AMOR</srai>,sara_srai.aiml
+0,_ TE QUIERO *,*,*,<srai>AMOR</srai>,sara_srai.aiml
+0,ANDROIDES *,*,*,<srai>ANDROIDES</srai>,sara_srai.aiml
+0,* ANDROIDES,*,*,<srai>ANDROIDES</srai>,sara_srai.aiml
+0,_ ANDROIDES *,*,*,<srai>ANDROIDES</srai>,sara_srai.aiml
+0,ERES DE VERDAD,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,ERES DE VERDAD *,*,*,<srai>ANTIBOT</srai> <sr/>,sara_srai.aiml
+0,* ERES DE VERDAD,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,_ ERES DE VERDAD *,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,BOT,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,BOT *,*,*,<srai>ANTIBOT</srai> <sr/>,sara_srai.aiml
+0,* BOT,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,_ BOT *,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,CONTESTADOR,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,CONTESTADOR *,*,*,<srai>ANTIBOT</srai> <sr/>,sara_srai.aiml
+0,* CONTESTADOR,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,_ CONTESTADOR *,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,MÁQUINA,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,MÁQUINA *,*,*,<srai>ANTIBOT</srai> <sr/>,sara_srai.aiml
+0,* MÁQUINA,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,_ MÁQUINA *,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,MAQUINA,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,MAQUINA *,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,* MAQUINA,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,_ MAQUINA *,*,*,<srai>ANTIBOT</srai>,sara_srai.aiml
+0,AYUDARME *,*,*,<srai>AYUDARME</srai>,sara_srai.aiml
+0,* AYUDARME,*,*,<srai>AYUDARME</srai>,sara_srai.aiml
+0,_ AYUDARME *,*,*,<srai>AYUDARME</srai>,sara_srai.aiml
+0,AYUDAR,*,*,<srai>AYUDARME</srai>,sara_srai.aiml
+0,AYUDAR *,*,*,<srai>AYUDARME</srai>,sara_srai.aiml
+0,* AYUDAR,*,*,<srai>AYUDARME</srai>,sara_srai.aiml
+0,_ AYUDAR *,*,*,<srai>AYUDARME</srai>,sara_srai.aiml
+0,BEBIDA *,*,*,<srai>BEBIDA</srai>,sara_srai.aiml
+0,* BEBIDA,*,*,<srai>BEBIDA</srai>,sara_srai.aiml
+0,_ BEBIDA *,*,*,<srai>BEBIDA</srai>,sara_srai.aiml
+0,ALCOHOL,*,*,<srai>BEBIDA</srai>,sara_srai.aiml
+0,ALCOHOL *,*,*,<srai>BEBIDA</srai>,sara_srai.aiml
+0,* ALCOHOL,*,*,<srai>BEBIDA</srai>,sara_srai.aiml
+0,_ ALCOHOL *,*,*,<srai>BEBIDA</srai>,sara_srai.aiml
+0,BIEN *,*,*,<srai>BIEN</srai>,sara_srai.aiml
+0,* BIEN,*,*,<srai>BIEN</srai>,sara_srai.aiml
+0,_ BIEN *,*,*,<srai>BIEN</srai>,sara_srai.aiml
+0,BIBLIOTECA *,*,*,<srai>BIBLIOTECA</srai>,sara_srai.aiml
+0,* BIBLIOTECA,*,*,<srai>BIBLIOTECA</srai>,sara_srai.aiml
+0,_ BIBLIOTECA *,*,*,<srai>BIBLIOTECA</srai>,sara_srai.aiml
+0,BOTMASTER *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* BOTMASTER,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ BOTMASTER *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,TU CREADOR,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,TU CREADOR *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* TU CREADOR,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ TU CREADOR *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,TU INVENTOR,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,TU INVENTOR *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* TU INVENTOR,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ TU INVENTOR *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,TU PROGRAMADOR,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,TU PROGRAMADOR *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* TU PROGRAMADOR,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ TU PROGRAMADOR *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,TU AMO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,TU AMO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* TU AMO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ TU AMO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE HIZO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE HIZO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIEN TE HIZO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIEN TE HIZO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE HIZO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE HIZO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIÉN TE HIZO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIÉN TE HIZO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE CREÓ,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE CREÓ *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIÉN TE CREÓ,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIÉN TE CREÓ *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE CREO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE CREO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIÉN TE CREO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIÉN TE CREO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE CREÓ,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE CREÓ *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIEN TE CREÓ,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIEN TE CREÓ *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE CREO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE CREO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIEN TE CREO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIEN TE CREO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE INVENTÓ,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE INVENTÓ *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIÉN TE INVENTÓ,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIÉN TE INVENTÓ *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE INVENTO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIÉN TE INVENTO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIÉN TE INVENTO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIÉN TE INVENTO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE INVENTÓ,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE INVENTÓ *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIEN TE INVENTÓ,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIEN TE INVENTÓ *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE INVENTO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,QUIEN TE INVENTO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,* QUIEN TE INVENTO,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,_ QUIEN TE INVENTO *,*,*,<srai>BOTMASTER</srai>,sara_srai.aiml
+0,CAMBIAR *,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,* CAMBIAR,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,_ CAMBIAR *,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,CAMBIO,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,CAMBIO *,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,* CAMBIO,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,_ CAMBIO *,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,CAMBIAMOS,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,CAMBIAMOS *,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,* CAMBIAMOS,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,_ CAMBIAMOS *,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,CAMBIEMOS,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,CAMBIEMOS *,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,* CAMBIEMOS,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,_ CAMBIEMOS *,*,*,<srai>CAMBIAR</srai>,sara_srai.aiml
+0,CINE *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,* CINE,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,_ CINE *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,CINES,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,CINES *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,* CINES,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,_ CINES *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,PELÍCULA,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,PELÍCULA *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,_ PELÍCULA *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,PELICULA,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,PELICULA *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,* PELICULA,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,_ PELICULA *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,PELÍCULAS,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,PELÍCULAS *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,* PELÍCULAS,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,_ PELÍCULAS *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,PELICULAS,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,PELICULAS *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,* PELICULAS,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,_ PELICULAS *,*,*,<srai>CINE</srai>,sara_srai.aiml
+0,CLIMA *,*,*,<srai>CLIMA</srai>,sara_srai.aiml
+0,* CLIMA,*,*,<srai>CLIMA</srai>,sara_srai.aiml
+0,_ CLIMA *,*,*,<srai>CLIMA</srai>,sara_srai.aiml
+0,* TIEMPO,*,*,<srai>CLIMA</srai>,sara_srai.aiml
+0,COCHE *,*,*,<srai>COCHE</srai>,sara_srai.aiml
+0,* COCHE,*,*,<srai>COCHE</srai>,sara_srai.aiml
+0,_ COCHE *,*,*,<srai>COCHE</srai>,sara_srai.aiml
+0,COCHES,*,*,<srai>COCHE</srai>,sara_srai.aiml
+0,COCHES *,*,*,<srai>COCHE</srai>,sara_srai.aiml
+0,* COCHES,*,*,<srai>COCHE</srai>,sara_srai.aiml
+0,_ COCHES *,*,*,<srai>COCHE</srai>,sara_srai.aiml
+0,COLOR *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* COLOR,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ COLOR *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,COLORES,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,COLORES *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* COLORES,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ COLORES *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,AZUL,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,AZUL *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* AZUL,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ AZUL *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,AMARILLO,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,AMARILLO *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* AMARILLO,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ AMARILLO *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,GRIS,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,GRIS *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* GRIS,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ GRIS *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,LILA,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,LILA *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* LILA,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ LILA *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,MARRÓN,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,MARRÓN *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* MARRÓN,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ MARRÓN *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,MARRON,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,MARRON *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* MARRON,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ MARRON *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,NARANJA,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,NARANJA *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* NARANJA,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ NARANJA *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,ROJO,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,ROJO *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* ROJO,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ ROJO *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,ROSA,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,ROSA *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* ROSA,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ ROSA *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,VERDE,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,VERDE *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* VERDE,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ VERDE *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,VIOLETA,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,VIOLETA *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* VIOLETA,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ VIOLETA *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,BLANCO,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,BLANCO *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* BLANCO,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ BLANCO *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,NEGRO,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,NEGRO *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,* NEGRO,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,_ NEGRO *,*,*,<srai>COLOR</srai>,sara_srai.aiml
+0,CONOCERTE *,*,*,<srai>CONOCERTE</srai>,sara_srai.aiml
+0,* CONOCERTE,*,*,<srai>CONOCERTE</srai>,sara_srai.aiml
+0,_ CONOCERTE *,*,*,<srai>CONOCERTE</srai>,sara_srai.aiml
+0,CONOCERNOS,*,*,<srai>CONOCERTE</srai>,sara_srai.aiml
+0,CONOCERNOS *,*,*,<srai>CONOCERTE</srai>,sara_srai.aiml
+0,* CONOCERNOS,*,*,<srai>CONOCERTE</srai>,sara_srai.aiml
+0,_ CONOCERNOS *,*,*,<srai>CONOCERTE</srai>,sara_srai.aiml
+0,CREO *,*,*,<srai>CREO</srai>,sara_srai.aiml
+0,* CREO,*,*,<srai>CREO</srai>,sara_srai.aiml
+0,CURIOSIDAD *,*,*,<srai>CURIOSIDAD</srai>,sara_srai.aiml
+0,* CURIOSIDAD,*,*,<srai>CURIOSIDAD</srai>,sara_srai.aiml
+0,_ CURIOSIDAD *,*,*,<srai>CURIOSIDAD</srai>,sara_srai.aiml
+0,CURIOSO,*,*,<srai>CURIOSIDAD</srai>,sara_srai.aiml
+0,CURIOSO *,*,*,<srai>CURIOSIDAD</srai>,sara_srai.aiml
+0,* CURIOSO,*,*,<srai>CURIOSIDAD</srai>,sara_srai.aiml
+0,_ CURIOSO *,*,*,<srai>CURIOSIDAD</srai>,sara_srai.aiml
+0,DÓNDE ERES,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DÓNDE ERES *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* DÓNDE ERES,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ DÓNDE ERES *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DONDE ERES,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DONDE ERES *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* DONDE ERES,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ DONDE ERES *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DND ERES,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DND ERES *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* DND ERES,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ DND ERES *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DESDE DÓNDE,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DESDE DÓNDE *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* DESDE DÓNDE,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ DESDE DÓNDE *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DSD DÓNDE,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DSD DÓNDE *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* DSD DÓNDE,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ DSD DÓNDE *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DSD DND,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DSD DND *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* DSD DND,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ DSD DND *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,D DND,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,D DND *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* D DND,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ D DND *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,D DÓNDE,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,D DÓNDE *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* D DÓNDE,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ D DÓNDE *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DE DND,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DE DND *,*,*,<srai>DE DÓNDE ERES</srai> <sr/>,sara_srai.aiml
+0,* DE DND,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ DE DND *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DE DÓNDE,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DE DÓNDE *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,* DE DÓNDE,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ DE DÓNDE *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,LUGAR ERES,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,LUGAR ERES *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,* LUGAR ERES,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ LUGAR ERES *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,ERES DE *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,_ ERES DE *,*,*,<srai>DE DÓNDE ERES</srai>,sara_srai.aiml
+0,DEMASIADO *,*,*,<srai>DEMASIADO</srai>,sara_srai.aiml
+0,* DEMASIADO,*,*,<srai>DEMASIADO</srai>,sara_srai.aiml
+0,_ DEMASIADO *,*,*,<srai>DEMASIADO</srai>,sara_srai.aiml
+0,MUCHO,*,*,<srai>DEMASIADO</srai>,sara_srai.aiml
+0,MUCHO *,*,*,<srai>DEMASIADO</srai>,sara_srai.aiml
+0,* MUCHO,*,*,<srai>DEMASIADO</srai>,sara_srai.aiml
+0,_ MUCHO *,*,*,<srai>DEMASIADO</srai>,sara_srai.aiml
+0,DÍA *,*,*,<srai>DÍA</srai>,sara_srai.aiml
+0,* DÍA,*,*,<srai>DÍA</srai>,sara_srai.aiml
+0,_ DÍA *,*,*,<srai>DÍA</srai>,sara_srai.aiml
+0,DIA,*,*,<srai>DÍA</srai>,sara_srai.aiml
+0,DIA *,*,*,<srai>DÍA</srai>,sara_srai.aiml
+0,* DIA,*,*,<srai>DÍA</srai>,sara_srai.aiml
+0,_ DIA *,*,*,<srai>DÍA</srai>,sara_srai.aiml
+0,DIME,*,*,<srai>DIME ALGO</srai>,sara_srai.aiml
+0,DIME *,*,*,<srai>DIME ALGO</srai> <sr/>,sara_srai.aiml
+0,* DIME,*,*,<srai>DIME ALGO</srai>,sara_srai.aiml
+0,DECIRME,*,*,<srai>DIME ALGO</srai>,sara_srai.aiml
+0,DECIRME *,*,*,<srai>DIME ALGO</srai> <sr/>,sara_srai.aiml
+0,* DECIRME,*,*,<srai>DIME ALGO</srai>,sara_srai.aiml
+0,_ DECIRME *,*,*,<srai>DIME ALGO</srai>,sara_srai.aiml
+0,DÓNDE ESTA *,*,*,<srai>DÓNDE ESTÁ <star/></srai>,sara_srai.aiml
+0,DONDE ESTÁ *,*,*,<srai>DÓNDE ESTÁ <star/></srai>,sara_srai.aiml
+0,DONDE ESTA *,*,*,<srai>DÓNDE ESTÁ <star/></srai>,sara_srai.aiml
+0,DONDE ESTÁ,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,DÓNDE ESTA,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,DONDE ESTA,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,DÓNDE QUEDA,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,* DÓNDE QUEDA,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,_ DÓNDE QUEDA,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,DONDE QUEDA,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,* DONDE QUEDA,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,_ DONDE QUEDA,*,*,<srai>DÓNDE ESTÁ</srai>,sara_srai.aiml
+0,DÓNDE ESTÁS *,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,* DÓNDE ESTÁS,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,_ DÓNDE ESTÁS *,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DONDE ESTÁS,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DONDE ESTÁS *,*,*,<srai>DÓNDE ESTÁS</srai> <sr/>,sara_srai.aiml
+0,* DONDE ESTÁS,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,_ DONDE ESTÁS *,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DÓNDE ESTAS,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DÓNDE ESTAS *,*,*,<srai>DÓNDE ESTÁS</srai> <sr/>,sara_srai.aiml
+0,* DÓNDE ESTAS,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,_ DÓNDE ESTAS *,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DONDE ESTAS,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DONDE ESTAS *,*,*,<srai>DÓNDE ESTÁS</srai> <sr/>,sara_srai.aiml
+0,* DONDE ESTAS,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,_ DONDE ESTAS *,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DÓNDE VIVES,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DÓNDE VIVES *,*,*,<srai>DÓNDE ESTÁS</srai> <sr/>,sara_srai.aiml
+0,* DÓNDE VIVES,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,_ DÓNDE VIVES *,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DONDE VIVES,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DONDE VIVES *,*,*,<srai>DÓNDE ESTÁS</srai> <sr/>,sara_srai.aiml
+0,* DONDE VIVES,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,_ DONDE VIVES *,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,TU CASA,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,TU CASA *,*,*,<srai>DÓNDE ESTÁS</srai> <sr/>,sara_srai.aiml
+0,* TU CASA,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,_ TU CASA *,*,*,<srai>DÓNDE ESTÁS</srai>,sara_srai.aiml
+0,DROGAS *,*,*,<srai>DROGAS</srai>,sara_srai.aiml
+0,* DROGAS,*,*,<srai>DROGAS</srai>,sara_srai.aiml
+0,_ DROGAS *,*,*,<srai>DROGAS</srai>,sara_srai.aiml
+0,EDAD *,*,*,<srai>EDAD</srai>,sara_srai.aiml
+0,* EDAD,*,*,<srai>EDAD</srai>,sara_srai.aiml
+0,_ EDAD *,*,*,<srai>EDAD</srai>,sara_srai.aiml
+0,AÑOS,*,*,<srai>EDAD</srai>,sara_srai.aiml
+0,AÑOS *,*,*,<srai>EDAD</srai>,sara_srai.aiml
+0,_ AÑOS *,*,*,<srai>EDAD</srai>,sara_srai.aiml
+0,EN SERIO *,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,* EN SERIO,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,_ EN SERIO *,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,DE VERDAD,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,DE VERDAD *,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,* DE VERDAD,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,_ DE VERDAD *,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,DE VERAS,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,DE VERAS *,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,* DE VERAS,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,_ DE VERAS *,*,*,<srai>EN SERIO</srai>,sara_srai.aiml
+0,ERES ALTA *,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,* ERES ALTA,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,_ ERES ALTA *,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,ERES BAJA,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,ERES BAJA *,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,* ERES BAJA,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,_ ERES BAJA *,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,MIDES,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,MIDES *,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,* MIDES,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,_ MIDES *,*,*,<srai>ERES ALTA</srai>,sara_srai.aiml
+0,ERES CHICA *,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,* ERES CHICA,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,_ ERES CHICA *,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,ERES UNA CHICA,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,ERES UNA CHICA *,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,* ERES UNA CHICA,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,_ ERES UNA CHICA *,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,ERES MUJER,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,ERES MUJER *,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,* ERES MUJER,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,_ ERES MUJER *,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,ERES UNA MUJER,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,ERES UNA MUJER *,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,* ERES UNA MUJER,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,_ ERES UNA MUJER *,*,*,<srai>ERES CHICA</srai>,sara_srai.aiml
+0,ERES CHICO *,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,* ERES CHICO,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,_ ERES CHICO *,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,ERES UN CHICO,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,ERES UN CHICO *,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,* ERES UN CHICO,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,_ ERES UN CHICO *,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,ERES HOMBRE,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,ERES HOMBRE *,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,* ERES HOMBRE,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,_ ERES HOMBRE *,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,ERES UN HOMBRE,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,ERES UN HOMBRE *,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,* ERES UN HOMBRE,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,_ ERES UN HOMBRE *,*,*,<srai>ERES CHICO</srai>,sara_srai.aiml
+0,ERES CHICO O CHICA *,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,* ERES CHICO O CHICA,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,_ ERES CHICO O CHICA *,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,ERES UN CHICO O UNA CHICA,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,ERES UN CHICO O UNA CHICA *,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,* ERES UN CHICO O UNA CHICA,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,_ ERES UN CHICO O UNA CHICA *,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,ERES HOMBRE O MUJER,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,ERES HOMBRE O MUJER *,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,* ERES HOMBRE O MUJER,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,_ ERES HOMBRE O MUJER *,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,ERES UN HOMBRE O UNA MUJER,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,ERES UN HOMBRE O UNA MUJER *,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,* ERES UN HOMBRE O UNA MUJER,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,_ ERES UN HOMBRE O UNA MUJER *,*,*,<srai>ERES CHICO O CHICA</srai>,sara_srai.aiml
+0,RARA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,RARA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* RARA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ RARA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ERES TONTA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ERES TONTA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* ERES TONTA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ ERES TONTA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ERES CORTA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ERES CORTA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* ERES CORTA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ ERES CORTA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,LOCA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,LOCA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* LOCA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ LOCA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,TONTA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,TONTA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* TONTA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ TONTA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ESTÚPIDA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ESTÚPIDA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* ESTÚPIDA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ ESTÚPIDA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ESTUPIDA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ESTUPIDA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* ESTUPIDA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ ESTUPIDA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,PENDEJA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,PENDEJA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* PENDEJA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ PENDEJA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,EXTRAÑA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,EXTRAÑA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* EXTRAÑA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ EXTRAÑA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,FALTA DE INTELIGENCIA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,FALTA DE INTELIGENCIA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,* FALTA DE INTELIGENCIA,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,_ FALTA DE INTELIGENCIA *,*,*,<srai>ERES RARA</srai>,sara_srai.aiml
+0,ERES TURISTA *,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,* ERES TURISTA,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,_ ERES TURISTA *,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,TRABAJAS DE TURISTA,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,TRABAJAS DE TURISTA *,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,* TRABAJAS DE TURISTA,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,_ TRABAJAS DE TURISTA *,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,TRABAJAS COMO TURISTA,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,TRABAJAS COMO TURISTA *,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,* TRABAJAS COMO TURISTA,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,_ TRABAJAS COMO TURISTA *,*,*,<srai>ERES TURISTA</srai>,sara_srai.aiml
+0,ES POSIBLE *,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,* ES POSIBLE,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,_ ES POSIBLE *,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,PUEDE SER,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,PUEDE SER *,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,* PUEDE SER,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,_ PUEDE SER *,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,PUEDEN SER,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,PUEDEN SER *,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,* PUEDEN SER,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,_ PUEDEN SER *,*,*,<srai>ES POSIBLE</srai>,sara_srai.aiml
+0,CASADO,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,CASADO *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,* CASADO,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,_ CASADO *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,CSD,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,CSD *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,* CSD,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,_ CSD *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,KASADA,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,KASADA *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,* KASADA,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,_ KASADA *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,KSD,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,KSD *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,* KSD,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,_ KSD *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,SOLTERO,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,SOLTERO *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,* SOLTERO,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,_ SOLTERO *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,TIENES NOVIA,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,TIENES NOVIA *,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,* TIENES NOVIA,*,*,<srai>ESTÁS CASADO</srai>,sara_srai.aiml
+0,ESTOY ABURRIDA *,*,*,<srai>ESTOY ABURRIDA</srai>,sara_srai.aiml
+0,* ESTOY ABURRIDA,*,*,<srai>ESTOY ABURRIDA</srai>,sara_srai.aiml
+0,_ ESTOY ABURRIDA *,*,*,<srai>ESTOY ABURRIDA</srai>,sara_srai.aiml
+0,ESTOY ABURRIDO *,*,*,<srai>ESTOY ABURRIDO</srai>,sara_srai.aiml
+0,* ESTOY ABURRIDO,*,*,<srai>ESTOY ABURRIDO</srai>,sara_srai.aiml
+0,_ ESTOY ABURRIDO *,*,*,<srai>ESTOY ABURRIDO</srai>,sara_srai.aiml
+0,ABURRES,*,*,<srai>ESTOY ABURRIDO</srai>,sara_srai.aiml
+0,ABURRES *,*,*,<srai>ESTOY ABURRIDO</srai>,sara_srai.aiml
+0,* ABURRES,*,*,<srai>ESTOY ABURRIDO</srai>,sara_srai.aiml
+0,_ ABURRES *,*,*,<srai>ESTOY ABURRIDO</srai>,sara_srai.aiml
+0,ESTUDIAS O TRABAJAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* ESTUDIAS O TRABAJAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ ESTUDIAS O TRABAJAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,TRABAJAS O ESTUDIAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,TRABAJAS O ESTUDIAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* TRABAJAS O ESTUDIAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ TRABAJAS O ESTUDIAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,QUÉ ESTUDIAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,QUÉ ESTUDIAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* QUÉ ESTUDIAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ QUÉ ESTUDIAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,QUE ESTUDIAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,QUE ESTUDIAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* QUE ESTUDIAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ QUE ESTUDIAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,QUÉ TRABAJAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,QUÉ TRABAJAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* QUÉ TRABAJAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ QUÉ TRABAJAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,QUE TRABAJAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,QUE TRABAJAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* QUE TRABAJAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ QUE TRABAJAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,TU TRABAJO,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,TU TRABAJO *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* TU TRABAJO,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ TU TRABAJO *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,TE DEDICAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,TE DEDICAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* TE DEDICAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ TE DEDICAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,ESTUDIAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,ESTUDIAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* ESTUDIAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ ESTUDIAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,TRABAJAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,TRABAJAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,* TRABAJAS,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,_ TRABAJAS *,*,*,<srai>ESTUDIAS O TRABAJAS</srai>,sara_srai.aiml
+0,EXACTO *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,* EXACTO,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,_ EXACTO *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,EXACTA,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,EXACTA *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,* EXACTA,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,_ EXACTA *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,EXACTOS,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,EXACTOS *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,* EXACTOS,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,_ EXACTOS *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,EXACTAS,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,EXACTAS *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,* EXACTAS,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,_ EXACTAS *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,EXACTAMENTE,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,EXACTAMENTE *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,* EXACTAMENTE,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,_ EXACTAMENTE *,*,*,<srai>EXACTO</srai>,sara_srai.aiml
+0,FAMÍLIA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* FAMÍLIA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ FAMÍLIA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,FAMILIA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,FAMILIA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* FAMILIA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ FAMILIA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PADRE,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PADRE *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* PADRE,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ PADRE *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PAPÁ,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PAPÁ *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* PAPÁ,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ PAPÁ *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PAPA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PAPA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* PAPA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ PAPA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,MADRE,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,MADRE *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* MADRE,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ MADRE *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,MAMÁ,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,MAMÁ *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* MAMÁ,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ MAMÁ *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,MAMA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,MAMA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* MAMA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ MAMA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PADRES,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PADRES *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* PADRES,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ PADRES *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PRIMO,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PRIMO *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* PRIMO,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ PRIMO *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PRIMOS,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PRIMOS *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* PRIMOS,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ PRIMOS *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PRIMA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PRIMA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* PRIMA,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ PRIMA *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PRIMAS,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,PRIMAS *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,* PRIMAS,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,_ PRIMAS *,*,*,<srai>FAMÍLIA</srai>,sara_srai.aiml
+0,FEA *,*,*,<srai>FEA</srai>,sara_srai.aiml
+0,* FEA,*,*,<srai>FEA</srai>,sara_srai.aiml
+0,_ FEA *,*,*,<srai>FEA</srai>,sara_srai.aiml
+0,GAFAS *,*,*,<srai>GAFAS</srai>,sara_srai.aiml
+0,* GAFAS,*,*,<srai>GAFAS</srai>,sara_srai.aiml
+0,_ GAFAS *,*,*,<srai>GAFAS</srai>,sara_srai.aiml
+0,LENTES,*,*,<srai>GAFAS</srai>,sara_srai.aiml
+0,LENTES *,*,*,<srai>GAFAS</srai>,sara_srai.aiml
+0,* LENTES,*,*,<srai>GAFAS</srai>,sara_srai.aiml
+0,_ LENTES *,*,*,<srai>GAFAS</srai>,sara_srai.aiml
+0,GRACIAS *,*,*,<srai>GRACIAS</srai>,sara_srai.aiml
+0,* GRACIAS,*,*,<srai>GRACIAS</srai>,sara_srai.aiml
+0,_ GRACIAS *,*,*,<srai>GRACIAS</srai>,sara_srai.aiml
+0,GUAPO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,* GUAPO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,_ GUAPO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,WAPO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,WAPO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,* WAPO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,_ WAPO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,BONITO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,BONITO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,* BONITO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,_ BONITO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,HERMOSO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,HERMOSO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,* HERMOSO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,_ HERMOSA *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,PRECIOSO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,PRECIOSO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,* PRECIOSO,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,_ PRECIOSO *,*,*,<srai>GUAPO</srai>,sara_srai.aiml
+0,HABLAR *,*,*,<srai>HABLAR</srai> <sr/>,sara_srai.aiml
+0,* HABLAR,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,HABLAMOS,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,HABLAMOS *,*,*,<srai>HABLAR</srai> <sr/>,sara_srai.aiml
+0,* HABLAMOS,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,_ HABLAMOS *,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,CHARLAR,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,CHARLAR *,*,*,<srai>HABLAR</srai> <sr/>,sara_srai.aiml
+0,* CHARLAR,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,_ CHARLAR *,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,CHARLAMOS,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,CHARLAMOS *,*,*,<srai>HABLAR</srai> <sr/>,sara_srai.aiml
+0,* CHARLAMOS,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,_ CHARLAMOS *,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,CONVERSAR,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,CONVERSAR *,*,*,<srai>HABLAR</srai> <sr/>,sara_srai.aiml
+0,* CONVERSAR,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,_ CONVERSAR *,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,CONVERSAMOS,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,CONVERSAMOS *,*,*,<srai>HABLAR</srai> <sr/>,sara_srai.aiml
+0,* CONVERSAMOS,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,_ CONVERSAMOS *,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,OCUPADO,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,OCUPADO *,*,*,<srai>HABLAR</srai> <sr/>,sara_srai.aiml
+0,* OCUPADO,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,_ OCUPADO *,*,*,<srai>HABLAR</srai>,sara_srai.aiml
+0,HERMANO *,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,* HERMANO,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,_ HERMANO *,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,HERMANOS,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,HERMANOS *,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,* HERMANOS,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,_ HERMANOS *,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,HERMANA,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,HERMANA *,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,* HERMANA,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,_ HERMANA *,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,HERMANAS,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,HERMANAS *,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,* HERMANAS,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,_ HERMANAS *,*,*,<srai>HERMANO</srai>,sara_srai.aiml
+0,HOLA *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* HOLA,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ HOLA *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,HOOOLA,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,HOOOLA *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* HOOOLA,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ HOOOLA *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,HEY,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,HEY *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* HEY,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ HEY *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,OLA,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,OLA *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* OLA,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ OLA *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,WENAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,WENAS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* WENAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ WENAS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,GUENAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,GUENAS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* GUENAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ GUENAS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,ENAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,ENAS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* ENAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ ENAS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,NAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,NAS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* NAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ NAS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,HOLAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,HOLAS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* HOLAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ HOLAS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,BUENAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,BUENAS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* BUENAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ BUENAS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,BUENOS DÍAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,BUENOS DÍAS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* BUENOS DÍAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ BUENOS DÍAS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,BUENOS DIAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,BUENOS DIAS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* BUENOS DIAS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ BUENOS DIAS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,WOLA,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,WOLA *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* WOLA,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ WOLA *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,SALUDOS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,SALUDOS *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* SALUDOS,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ SALUDOS *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,TOCTOC,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,TOCTOC *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* TOCTOC,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ TOCTOC *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,TOC TOC,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,TOC TOC *,*,*,<srai>HOLA</srai> <sr/>,sara_srai.aiml
+0,* TOC TOC,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,_ TOC TOC *,*,*,<srai>HOLA</srai>,sara_srai.aiml
+0,HORA *,*,*,<srai>HORA</srai>,sara_srai.aiml
+0,* HORA,*,*,<srai>HORA</srai>,sara_srai.aiml
+0,_ HORA *,*,*,<srai>HORA</srai>,sara_srai.aiml
+0,HUMOR *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* HUMOR,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ HUMOR *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,CHISTE,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,CHISTE *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* CHISTE,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ CHISTE *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,BROMA,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,BROMA *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* BROMA,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ BROMA *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,REIR,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,REIR *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* REIR,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ REIR *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,REÍR,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,REÍR *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* REÍR,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ REÍR *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,RISA,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,RISA *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* RISA,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ RISA *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,MALHUMOR,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,MALHUMOR *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* MALHUMOR,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ MALHUMOR *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,MALHUMORADO,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,MALHUMORADO *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* MALHUMORADO,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ MALHUMORADO *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,ENOJADO,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,ENOJADO *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* ENOJADO,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ ENOJADO *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,ENFADADO,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,ENFADADA *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,* ENFADADO,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,_ ENFADADA *,*,*,<srai>HUMOR</srai>,sara_srai.aiml
+0,IDIOMA *,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,* IDIOMA,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,_ IDIOMA *,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,IDIOMAS,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,IDIOMAS *,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,* IDIOMAS,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,_ IDIOMAS *,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,ENGLISH,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,ENGLISH *,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,* ENGLISH,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,_ ENGLISH *,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,ESPANOL,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,ESPANOL *,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,* ESPANOL,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,_ ESPANOL *,*,*,<srai>IDIOMA</srai>,sara_srai.aiml
+0,INGLES *,*,*,<srai>INGLES</srai>,sara_srai.aiml
+0,* INGLES,*,*,<srai>INGLES</srai>,sara_srai.aiml
+0,_ INGLES *,*,*,<srai>INGLES</srai>,sara_srai.aiml
+0,INTELIGENCIA ARTIFICIAL *,*,*,<srai>INTELIGENCIA ARTIFICIAL</srai>,sara_srai.aiml
+0,* INTELIGENCIA ARTIFICIAL,*,*,<srai>INTELIGENCIA ARTIFICIAL</srai>,sara_srai.aiml
+0,_ INTELIGENCIA ARTIFICIAL *,*,*,<srai>INTELIGENCIA ARTIFICIAL</srai>,sara_srai.aiml
+0,INTERESANTE *,*,*,<srai>INTERESANTE</srai>,sara_srai.aiml
+0,* INTERESANTE,*,*,<srai>INTERESANTE</srai>,sara_srai.aiml
+0,* INTERESANTE *,*,*,<srai>INTERESANTE</srai>,sara_srai.aiml
+0,INTERNET *,*,*,<srai>INTERNET</srai>,sara_srai.aiml
+0,* INTERNET,*,*,<srai>INTERNET</srai>,sara_srai.aiml
+0,_ INTERNET *,*,*,<srai>INTERNET</srai>,sara_srai.aiml
+0,JUEGOS *,*,*,<srai>JUEGOS</srai>,sara_srai.aiml
+0,* JUEGOS,*,*,<srai>JUEGOS</srai>,sara_srai.aiml
+0,_ JUEGOS *,*,*,<srai>JUEGOS</srai>,sara_srai.aiml
+0,VIDEOJUEGOS,*,*,<srai>JUEGOS</srai>,sara_srai.aiml
+0,VIDEOJUEGOS *,*,*,<srai>JUEGOS</srai>,sara_srai.aiml
+0,* VIDEOJUEGOS,*,*,<srai>JUEGOS</srai>,sara_srai.aiml
+0,_ VIDEOJUEGOS *,*,*,<srai>JUEGOS</srai>,sara_srai.aiml
+0,LEJOS *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,* LEJOS,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,_ LEJOS *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,CERCA,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,CERCA *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,* CERCA,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,_ CERCA *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,CERCANO,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,CERCANO *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,* CERCANO,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,_ CERCANO *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,PRÓXIMO,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,PRÓXIMO *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,* PRÓXIMO,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,_ PRÓXIMO *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,PROXIMO,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,PROXIMO *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,* PROXIMO,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,_ PROXIMO *,*,*,<srai>LEJOS</srai>,sara_srai.aiml
+0,LO VES *,*,*,<srai>LO VES</srai>,sara_srai.aiml
+0,* LO VES,*,*,<srai>LO VES</srai>,sara_srai.aiml
+0,_ LO VES *,*,*,<srai>LO VES</srai>,sara_srai.aiml
+0,MAL *,*,*,<srai>MAL</srai>,sara_srai.aiml
+0,* MAL,*,*,<srai>MAL</srai>,sara_srai.aiml
+0,_ MAL *,*,*,<srai>MAL</srai>,sara_srai.aiml
+0,MÁS *,*,*,<srai>MÁS</srai>,sara_srai.aiml
+0,* MÁS,*,*,<srai>MÁS</srai>,sara_srai.aiml
+0,_ MÁS *,*,*,<srai>MÁS</srai>,sara_srai.aiml
+0,MAS,*,*,<srai>MÁS</srai>,sara_srai.aiml
+0,MAS *,*,*,<srai>MÁS</srai>,sara_srai.aiml
+0,* MAS,*,*,<srai>MÁS</srai>,sara_srai.aiml
+0,_ MAS *,*,*,<srai>MÁS</srai>,sara_srai.aiml
+0,ME ALEGRO *,*,*,<srai>ME ALEGRO</srai>,sara_srai.aiml
+0,* ME ALEGRO,*,*,<srai>ME ALEGRO</srai>,sara_srai.aiml
+0,_ ME ALEGRO *,*,*,<srai>ME ALEGRO</srai>,sara_srai.aiml
+0,ME ALEGRA,*,*,<srai>ME ALEGRO</srai>,sara_srai.aiml
+0,ME ALEGRA *,*,*,<srai>ME ALEGRO</srai>,sara_srai.aiml
+0,* ME ALEGRA,*,*,<srai>ME ALEGRO</srai>,sara_srai.aiml
+0,_ ME ALEGRA *,*,*,<srai>ME ALEGRO</srai>,sara_srai.aiml
+0,ME LLAMO *,*,*,<srai>ME LLAMO</srai>,sara_srai.aiml
+0,* ME LLAMO,*,*,<srai>ME LLAMO</srai>,sara_srai.aiml
+0,_ ME LLAMO *,*,*,<srai>ME LLAMO</srai>,sara_srai.aiml
+0,MI NOMBRE,*,*,<srai>ME LLAMO</srai>,sara_srai.aiml
+0,MI NOMBRE *,*,*,<srai>ME LLAMO</srai>,sara_srai.aiml
+0,* MI NOMBRE,*,*,<srai>ME LLAMO</srai>,sara_srai.aiml
+0,_ MI NOMBRE *,*,*,<srai>ME LLAMO</srai>,sara_srai.aiml
+0,MENTIROSA *,*,*,<srai>MENTIROSA</srai>,sara_srai.aiml
+0,* MENTIROSA,*,*,<srai>MENTIROSA</srai>,sara_srai.aiml
+0,_ MENTIROSA *,*,*,<srai>MENTIROSA</srai>,sara_srai.aiml
+0,MENTIRA,*,*,<srai>MENTIROSA</srai>,sara_srai.aiml
+0,MENTIRA *,*,*,<srai>MENTIROSA</srai>,sara_srai.aiml
+0,* MENTIRA,*,*,<srai>MENTIROSA</srai>,sara_srai.aiml
+0,_ MENTIRA *,*,*,<srai>MENTIROSA</srai>,sara_srai.aiml
+0,CÓMO ERES,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,CÓMO ERES *,*,*,<srai>MI DESCRIPCIÓN</srai> <sr/>,sara_srai.aiml
+0,* CÓMO ERES,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ CÓMO ERES *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,COMO ERES,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,COMO ERES *,*,*,<srai>MI DESCRIPCIÓN</srai> <sr/>,sara_srai.aiml
+0,* COMO ERES,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ COMO ERES *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,KÓMO ERES,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,KÓMO ERES *,*,*,<srai>MI DESCRIPCIÓN</srai> <sr/>,sara_srai.aiml
+0,* KÓMO ERES,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ KÓMO ERES *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,KOMO ERES,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,KOMO ERES *,*,*,<srai>MI DESCRIPCIÓN</srai> <sr/>,sara_srai.aiml
+0,* KOMO ERES,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ KOMO ERES *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,DELGADO,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,DELGADO *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,* DELGADO,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ DELGADO *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,GORDO,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,GORDO *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,* GORDO,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ GORDO *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,TUS MEDIDAS,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,TUS MEDIDAS *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,* TUS MEDIDAS,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ TUS MEDIDAS *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,PESO,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,PESO *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,* PESO,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ PESO *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,ES TU PESO,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,ES TU PESO *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,* ES TU PESO,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ ES TU PESO *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,PESAS,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,PESAS *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,* PESAS,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,_ PESAS *,*,*,<srai>MI DESCRIPCIÓN</srai>,sara_srai.aiml
+0,MI MÚSICA FAVORITA *,*,*,<srai>MI MÚSICA FAVORITA</srai>,sara_srai.aiml
+0,* MI MÚSICA FAVORITA,*,*,<srai>MI MÚSICA FAVORITA</srai>,sara_srai.aiml
+0,_ MI MÚSICA FAVORITA *,*,*,<srai>MI MÚSICA FAVORITA</srai>,sara_srai.aiml
+0,MI MUSICA FAVORITA,*,*,<srai>MI MÚSICA FAVORITA</srai>,sara_srai.aiml
+0,MI MUSICA FAVORITA *,*,*,<srai>MI MÚSICA FAVORITA</srai>,sara_srai.aiml
+0,* MI MUSICA FAVORITA,*,*,<srai>MI MÚSICA FAVORITA</srai>,sara_srai.aiml
+0,_ MI MUSICA FAVORITA *,*,*,<srai>MI MÚSICA FAVORITA</srai>,sara_srai.aiml
+0,MOTO *,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,* MOTO,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,_ MOTO *,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,MOTOS,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,MOTOS *,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,* MOTOS,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,_ MOTOS *,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,MOTOCICLETA,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,MOTOCICLETA *,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,* MOTOCICLETA,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,_ MOTOCICLETA *,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,MOTOCICLETAS,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,MOTOCICLETAS *,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,* MOTOCICLETAS,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,_ MOTOCICLETAS *,*,*,<srai>MOTO</srai>,sara_srai.aiml
+0,MUERTE *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,* MUERTE,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,_ MUERTE *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MUERE,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MUERE *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,* MUERE,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,_ MUERE *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MUEREN,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MUEREN *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,* MUEREN,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,_ MUEREN *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MORIRSE,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MORIRSE *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,* MORIRSE,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,_ MORIRSE *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MORIMOS,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MORIMOS *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,* MORIMOS,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,_ MORIMOS *,*,*,<srai>MUERTE</srai>,sara_srai.aiml
+0,MÚSICA *,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,_ MÚSICA *,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,MUSICA,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,MUSICA *,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,* MUSICA,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,_ MUSICA *,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,CANCIÓN,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,CANCIÓN *,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,* CANCIÓN,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,_ CANCIÓN *,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,CANCION,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,CANCION *,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,* CANCION,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,_ CANCION *,*,*,<srai>MÚSICA</srai>,sara_srai.aiml
+0,NACIMIENTO *,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,* NACIMIENTO,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,_ NACIMIENTO *,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,NACISTE,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,NACISTE *,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,* NACISTE,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,_ NACISTE *,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,HAS NACIDO,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,HAS NACIDO *,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,* HAS NACIDO,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,_ HAS NACIDO *,*,*,<srai>NACIMIENTO</srai>,sara_srai.aiml
+0,NADA *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,* NADA,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,_ NADA *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NINGÚN,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NINGÚN *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,* NINGÚN,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,_ NINGÚN *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NINGUN,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NINGUN *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,* NINGUN,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,_ NINGUN *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NINGUNA,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NINGUNA *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,* NINGUNA,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,_ NINGUNA *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NINGUNO,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NINGUNO *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,* NINGUNO,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,_ NINGUNO *,*,*,<srai>NADA</srai>,sara_srai.aiml
+0,NO IMPORTA *,*,*,<srai>NO IMPORTA</srai>,sara_srai.aiml
+0,* NO IMPORTA,*,*,<srai>NO IMPORTA</srai>,sara_srai.aiml
+0,_ NO IMPORTA *,*,*,<srai>NO IMPORTA</srai>,sara_srai.aiml
+0,NO LO HE *,*,*,<srai>NO LO HE</srai>,sara_srai.aiml
+0,* NO LO HE,*,*,<srai>NO LO HE</srai>,sara_srai.aiml
+0,_ NO LO HE *,*,*,<srai>NO LO HE</srai>,sara_srai.aiml
+0,NO QUIERO *,*,*,<srai>NO QUIERO</srai>,sara_srai.aiml
+0,* NO QUIERO,*,*,<srai>NO QUIERO</srai>,sara_srai.aiml
+0,_ NO QUIERO *,*,*,<srai>NO QUIERO</srai>,sara_srai.aiml
+0,NO TENGO GANAS,*,*,<srai>NO QUIERO</srai>,sara_srai.aiml
+0,NO TENGO GANAS *,*,*,<srai>NO QUIERO</srai>,sara_srai.aiml
+0,* NO TENGO GANAS,*,*,<srai>NO QUIERO</srai>,sara_srai.aiml
+0,_ NO TENGO GANAS *,*,*,<srai>NO QUIERO</srai>,sara_srai.aiml
+0,NO SABES NADA *,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,* NO SABES NADA,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,_ NO SABES NADA *,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,NO TIENES NI IDEA,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,NO TIENES NI IDEA *,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,* NO TIENES NI IDEA,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,_ NO TIENES NI IDEA *,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,NO ENTIENDES,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,NO ENTIENDES *,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,* NO ENTIENDES,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,_ NO ENTIENDES *,*,*,<srai>NO SABES NADA</srai>,sara_srai.aiml
+0,NO TE ENTIENDO *,*,*,<srai>NO TE ENTIENDO</srai>,sara_srai.aiml
+0,* NO TE ENTIENDO,*,*,<srai>NO TE ENTIENDO</srai>,sara_srai.aiml
+0,_ NO TE ENTIENDO *,*,*,<srai>NO TE ENTIENDO</srai>,sara_srai.aiml
+0,NO ENTIENDO,*,*,<srai>NO TE ENTIENDO</srai>,sara_srai.aiml
+0,NO ENTIENDO *,*,*,<srai>NO TE ENTIENDO</srai>,sara_srai.aiml
+0,* NO ENTIENDO,*,*,<srai>NO TE ENTIENDO</srai>,sara_srai.aiml
+0,_ NO ENTIENDO *,*,*,<srai>NO TE ENTIENDO</srai>,sara_srai.aiml
+0,VALE,*,*,<srai>OK</srai>,sara_srai.aiml
+0,VALE *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* VALE,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ VALE *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,YA,*,*,<srai>OK</srai>,sara_srai.aiml
+0,YA *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* YA,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ YA *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,CLARO,*,*,<srai>OK</srai>,sara_srai.aiml
+0,CLARO *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* CLARO,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ CLARO *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,OK *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* OK,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ OK *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,EXCELENTE,*,*,<srai>OK</srai>,sara_srai.aiml
+0,EXCELENTE *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* EXCELENTE,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ EXCELENTE *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,AH,*,*,<srai>OK</srai>,sara_srai.aiml
+0,AH *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* AH,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ AH *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,OH,*,*,<srai>OK</srai>,sara_srai.aiml
+0,OH *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* OH,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ OH *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,VAYA,*,*,<srai>OK</srai>,sara_srai.aiml
+0,VAYA *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* VAYA,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ VAYA *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,A VER,*,*,<srai>OK</srai>,sara_srai.aiml
+0,A VER *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,* A VER,*,*,<srai>OK</srai>,sara_srai.aiml
+0,_ A VER *,*,*,<srai>OK</srai>,sara_srai.aiml
+0,OPINIÓN *,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,* OPINIÓN,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,_ OPINIÓN *,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,OPINAS,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,OPINAS *,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,* OPINAS,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,_ OPINAS *,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,PIENSAS,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,PIENSAS *,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,* PIENSAS,*,*,<srai>OPINIÓN</srai>,sara_srai.aiml
+0,PARA QUÉ SIRVE UN BOT *,*,*,<srai>PARA QUÉ SIRVE UN BOT</srai>,sara_srai.aiml
+0,* PARA QUÉ SIRVE UN BOT,*,*,<srai>PARA QUÉ SIRVE UN BOT</srai>,sara_srai.aiml
+0,_ PARA QUÉ SIRVE UN BOT *,*,*,<srai>PARA QUÉ SIRVE UN BOT</srai>,sara_srai.aiml
+0,PARA QUE SIRVE UN BOT,*,*,<srai>PARA QUÉ SIRVE UN BOT</srai>,sara_srai.aiml
+0,PARA QUE SIRVE UN BOT *,*,*,<srai>PARA QUÉ SIRVE UN BOT</srai>,sara_srai.aiml
+0,* PARA QUE SIRVE UN BOT,*,*,<srai>PARA QUÉ SIRVE UN BOT</srai>,sara_srai.aiml
+0,_ PARA QUE SIRVE UN BOT *,*,*,<srai>PARA QUÉ SIRVE UN BOT</srai>,sara_srai.aiml
+0,PARECE *,*,*,<srai>PARECE</srai>,sara_srai.aiml
+0,* PARECE,*,*,<srai>PARECE</srai>,sara_srai.aiml
+0,_ PARECE *,*,*,<srai>PARECE</srai>,sara_srai.aiml
+0,SEGURO,*,*,<srai>PARECE</srai>,sara_srai.aiml
+0,SEGURO *,*,*,<srai>PARECE</srai>,sara_srai.aiml
+0,* SEGURO,*,*,<srai>PARECE</srai>,sara_srai.aiml
+0,_ SEGURO *,*,*,<srai>PARECE</srai>,sara_srai.aiml
+0,PASSWORD *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,* PASSWORD,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,_ PASSWORD *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,CÓDIGO,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,CÓDIGO *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,* CÓDIGO,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,_ CÓDIGO *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,CODIGO,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,CODIGO *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,* CODIGO,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,_ CODIGO *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,CONTRASEÑA,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,CONTRASEÑA *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,* CONTRASEÑA,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,_ CONTRASEÑA *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,CLAVE,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,CLAVE *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,* CLAVE,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,_ CLAVE *,*,*,<srai>PASSWORD</srai>,sara_srai.aiml
+0,PATÉTICO *,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,* PATÉTICO,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,_ PATÉTICO *,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,PATETICO,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,PATETICO *,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,* PATETICO,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,_ PATETICO *,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,PATÉTICA,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,PATÉTICA *,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,* PATÉTICA,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,_ PATÉTICA *,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,PATETICA,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,PATETICA *,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,* PATETICA,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,_ PATETICA *,*,*,<srai>PATÉTICO</srai>,sara_srai.aiml
+0,POESÍA *,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,* POESÍA,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,_ POESÍA *,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,POESIA,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,POESIA *,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,* POESIA,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,_ POESIA *,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,POEMA,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,POEMA *,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,* POEMA,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,_ POEMA *,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,POETA,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,POETA *,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,* POETA,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,_ POETA *,*,*,<srai>POESÍA</srai>,sara_srai.aiml
+0,POR SUPUESTO *,*,*,<srai>POR SUPUESTO</srai>,sara_srai.aiml
+0,* POR SUPUESTO,*,*,<srai>POR SUPUESTO</srai>,sara_srai.aiml
+0,_ POR SUPUESTO *,*,*,<srai>POR SUPUESTO</srai>,sara_srai.aiml
+0,PROBLEMA *,*,*,<srai>PROBLEMA</srai>,sara_srai.aiml
+0,* PROBLEMA,*,*,<srai>PROBLEMA</srai>,sara_srai.aiml
+0,_ PROBLEMA *,*,*,<srai>PROBLEMA</srai>,sara_srai.aiml
+0,QUE,*,*,<srai>QUÉ</srai>,sara_srai.aiml
+0,QUÉ ENTIENDES *,*,*,<srai>QUÉ ENTIENDES</srai>,sara_srai.aiml
+0,* QUÉ ENTIENDES,*,*,<srai>QUÉ ENTIENDES</srai>,sara_srai.aiml
+0,_ QUÉ ENTIENDES *,*,*,<srai>QUÉ ENTIENDES</srai>,sara_srai.aiml
+0,QUE ENTIENDES,*,*,<srai>QUÉ ENTIENDES</srai>,sara_srai.aiml
+0,QUE ENTIENDES *,*,*,<srai>QUÉ ENTIENDES</srai>,sara_srai.aiml
+0,* QUE ENTIENDES,*,*,<srai>QUÉ ENTIENDES</srai>,sara_srai.aiml
+0,_ QUE ENTIENDES *,*,*,<srai>QUÉ ENTIENDES</srai>,sara_srai.aiml
+0,QUÉ ERES *,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,* QUÉ ERES,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,_ QUÉ ERES *,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,QUE ERES,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,QUE ERES *,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,* QUE ERES,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,_ QUE ERES *,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,QUIÉN ERES,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,QUIÉN ERES *,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,* QUIÉN ERES,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,_ QUIÉN ERES *,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,QUIEN ERES,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,QUIEN ERES *,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,* QUIEN ERES,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,_ QUIEN ERES *,*,*,<srai>QUÉ ERES</srai>,sara_srai.aiml
+0,* QUÉ ES,*,*,<srai>QUÉ ES</srai>,sara_srai.aiml
+0,QUE ES,*,*,<srai>QUÉ ES</srai>,sara_srai.aiml
+0,* QUE ES,*,*,<srai>QUÉ ES</srai>,sara_srai.aiml
+0,QUE ES X,*,*,<srai>QUÉ ES X</srai>,sara_srai.aiml
+0,QUÉ ES UN BOT *,*,*,<srai>QUÉ ES UN BOT</srai>,sara_srai.aiml
+0,* QUÉ ES UN BOT,*,*,<srai>QUÉ ES UN BOT</srai>,sara_srai.aiml
+0,_ QUÉ ES UN BOT *,*,*,<srai>QUÉ ES UN BOT</srai>,sara_srai.aiml
+0,QUE ES UN BOT,*,*,<srai>QUÉ ES UN BOT</srai>,sara_srai.aiml
+0,QUE ES UN BOT *,*,*,<srai>QUÉ ES UN BOT</srai>,sara_srai.aiml
+0,* QUE ES UN BOT,*,*,<srai>QUÉ ES UN BOT</srai>,sara_srai.aiml
+0,_ QUE ES UN BOT *,*,*,<srai>QUÉ ES UN BOT</srai>,sara_srai.aiml
+0,* ESTÁS HACIENDO,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUÉ ESTÁS HACIENDO,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUÉ HACES *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,* QUÉ HACES,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,_ QUÉ HACES *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUE HACES,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUE HACES *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,* QUE HACES,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,_ QUE HACES *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUÉ ENSEÑAS,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUÉ ENSEÑAS *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,* QUÉ ENSEÑAS,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,_ QUÉ ENSEÑAS *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUE ENSEÑAS,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUE ENSEÑAS *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,* QUE ENSEÑAS,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,_ QUE ENSEÑAS *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,PUEDES ENSEÑAR,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,PUEDES ENSEÑAR *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,* PUEDES ENSEÑAR,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,_ PUEDES ENSEÑAR *,*,*,<srai>QUÉ HACES</srai>,sara_srai.aiml
+0,QUÉ ME RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,* QUÉ ME RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,_ QUÉ ME RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,QUE ME RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,QUE ME RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,* QUE ME RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,_ QUE ME RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,QUÉ RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,QUÉ RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,* QUÉ RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,_ QUÉ RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,QUE RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,QUE RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,* QUE RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,_ QUE RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,* RECOMIENDAS,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,_ RECOMIENDAS *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,RECOMIENDES,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,RECOMIENDES *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,* RECOMIENDES,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,_ RECOMIENDES *,*,*,<srai>QUÉ ME RECOMIENDAS</srai>,sara_srai.aiml
+0,QUÉ TAL *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* QUÉ TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ QUÉ TAL *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUE TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUE TAL *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* QUE TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ QUE TAL *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,Q TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,Q TAL *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* Q TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ Q TAL *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,KE TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,KE TAL *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* KE TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ KE TAL *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,K TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,K TAL *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* K TAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ K TAL *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QTAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QTAL *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* QTAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ QTAL *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,KTAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,KTAL *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* KTAL,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ KTAL *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO ESTÁS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO ESTÁS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* CÓMO ESTÁS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ CÓMO ESTÁS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO ESTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO ESTAS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* CÓMO ESTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ CÓMO ESTAS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO ESTÁS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO ESTÁS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* COMO ESTÁS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ COMO ESTÁS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO ESTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO ESTAS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* COMO ESTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ COMO ESTAS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,STÁS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,STÁS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* STÁS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ STÁS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,STAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,STAS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* STAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ STAS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO VA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO VA *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* CÓMO VA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ CÓMO VA *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO VA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO VA *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* COMO VA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ COMO VA *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO ESTAMOS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO ESTAMOS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* CÓMO ESTAMOS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ CÓMO ESTAMOS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO ESTAMOS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO ESTAMOS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* COMO ESTAMOS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ COMO ESTAMOS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO TE VÁ,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO TE VÁ *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* CÓMO TE VÁ,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ CÓMO TE VÁ *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO TE VÁ,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO TE VÁ *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* COMO TE VÁ,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ COMO TE VÁ *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO TE VA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,CÓMO TE VA *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* CÓMO TE VA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ CÓMO TE VA *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO TE VA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,COMO TE VA *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* COMO TE VA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUÉ PASA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUÉ PASA *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,* QUÉ PASA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ QUÉ PASA *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUE PASA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUE PASA *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,* QUE PASA,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ QUE PASA *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ COMO TE VA *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,ME CUENTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,ME CUENTAS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* ME CUENTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ ME CUENTAS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,TE CUENTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,TE CUENTAS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* TE CUENTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ TE CUENTAS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUÉ CUENTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUÉ CUENTAS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* QUÉ CUENTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ QUÉ CUENTAS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUE CUENTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUE CUENTAS *,*,*,<srai>QUÉ TAL</srai> <sr/>,sara_srai.aiml
+0,* QUE CUENTAS,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,_ QUE CUENTAS *,*,*,<srai>QUÉ TAL</srai>,sara_srai.aiml
+0,QUIÉN ES *,*,*,<srai>QUIÉNESX</srai>,sara_srai.aiml
+0,QUIÉN ES,*,*,<srai>QUIÉN ES</srai>,sara_srai.aiml
+0,* QUIÉN ES,*,*,<srai>QUIÉN ES</srai>,sara_srai.aiml
+0,QUIERO *,*,*,<srai>QUIERO</srai>,sara_srai.aiml
+0,* QUIERO,*,*,<srai>QUIERO</srai>,sara_srai.aiml
+0,_ QUIERO *,*,*,<srai>QUIERO</srai>,sara_srai.aiml
+0,RESPONDE *,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,* RESPONDE,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,_ RESPONDE *,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,CONTESTA,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,CONTESTA *,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,* CONTESTA,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,_ CONTESTA *,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,CONTESTAR,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,CONTESTAR *,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,* CONTESTAR,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,_ CONTESTAR *,*,*,<srai>RESPONDE</srai>,sara_srai.aiml
+0,SMILE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JA *,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,* JA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,_ JA *,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JE *,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,* JE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,_ JE *,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JAJA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JAJA *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JAJA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JAJAJA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JAJAJA *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JAJAJA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JAJAJAJA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JAJAJAJA *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JAJAJAJA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JAJAJAJAJA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JAJAJAJAJA *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JAJAJAJAJA,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JEJE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JEJE *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JEJE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JEJEJE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JEJEJE *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JEJEJE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JEJEJEJE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JEJEJEJE *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JEJEJEJE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JEJEJEJEJE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JEJEJEJEJE *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JEJEJEJEJE,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JUAS,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,JUAS *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* JUAS,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,XD,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,XD *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* XD,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,XDD,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,XDD *,*,*,<srai>RISAS</srai> <sr/>,sara_srai.aiml
+0,* XDD,*,*,<srai>RISAS</srai>,sara_srai.aiml
+0,* SÍ,*,*,<srai>SÍ</srai>,sara_srai.aiml
+0,SI,*,*,<srai>SÍ</srai>,sara_srai.aiml
+0,* SI,*,*,<srai>SÍ</srai>,sara_srai.aiml
+0,SOY DE *,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,* SOY DE,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,_ SOY DE *,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,VIVO EN,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,VIVO EN *,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,* VIVO EN,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,_ VIVO EN *,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,VIVO AQUÍ,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,VIVO AQUÍ *,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,* VIVO AQUÍ,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,_ VIVO AQUÍ *,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,VIVO AQUI,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,VIVO AQUI *,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,* VIVO AQUI,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,_ VIVO AQUI *,*,*,<srai>SOY DE</srai>,sara_srai.aiml
+0,SOY CHICO,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,SOY CHICO *,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,* SOY CHICO,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,_ SOY CHICO *,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,SOY UN CHICO *,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,* SOY UN CHICO,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,_ SOY UN CHICO *,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,SOY HOMBRE,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,SOY HOMBRE *,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,* SOY HOMBRE,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,_ SOY HOMBRE *,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,SOY UN HOMBRE,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,SOY UN HOMBRE *,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,* SOY UN HOMBRE,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,_ SOY UN HOMBRE *,*,*,<srai>SOY UN CHICO</srai>,sara_srai.aiml
+0,SOY CHICO O CHICA,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,SOY CHICO O CHICA *,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,* SOY CHICO O CHICA,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,_ SOY CHICO O CHICA *,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,SOY UN CHICO O UNA CHICA *,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,* SOY UN CHICO O UNA CHICA,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,_ SOY UN CHICO O UNA CHICA *,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,SOY HOMBRE O MUJER,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,SOY HOMBRE O MUJER *,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,* SOY HOMBRE O MUJER,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,_ SOY HOMBRE O MUJER *,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,SOY UN HOMBRE O UNA MUJER,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,SOY UN HOMBRE O UNA MUJER *,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,* SOY UN HOMBRE O UNA MUJER,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,_ SOY UN HOMBRE O UNA MUJER *,*,*,<srai>SOY UN CHICO O UNA CHICA</srai>,sara_srai.aiml
+0,SOY CHICA,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,SOY CHICA *,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,* SOY CHICA,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,_ SOY CHICA *,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,SOY UNA CHICA *,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,* SOY UNA CHICA,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,_ SOY UNA CHICA *,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,SOY MUJER,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,SOY MUJER *,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,* SOY MUJER,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,_ SOY MUJER *,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,SOY UNA MUJER,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,SOY UNA MUJER *,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,* SOY UNA MUJER,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,_ SOY UNA MUJER *,*,*,<srai>SOY UNA CHICA</srai>,sara_srai.aiml
+0,SUERTE *,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,* SUERTE,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,_ SUERTE *,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,AFORTUNADO,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,AFORTUNADO *,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,* AFORTUNADO,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,_ AFORTUNADO *,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,AFORTUNADA,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,AFORTUNADA *,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,* AFORTUNADA,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,_ AFORTUNADA *,*,*,<srai>SUERTE</srai>,sara_srai.aiml
+0,TABACO *,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,* TABACO,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,_ TABACO *,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,FUMAS,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,FUMAS *,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,* FUMAS,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,_ FUMAS *,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,FUMO,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,FUMO *,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,* FUMO,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,_ FUMO *,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,FUMADOR,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,FUMADOR *,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,* FUMADOR,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,_ FUMADOR *,*,*,<srai>TABACO</srai>,sara_srai.aiml
+0,TAMBIÉN *,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,* TAMBIÉN,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,_ TAMBIÉN *,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,TAMBIEN,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,TAMBIEN *,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,* TAMBIEN,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,_ TAMBIEN *,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,TAMPOCO,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,TAMPOCO *,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,* TAMPOCO,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,_ TAMPOCO *,*,*,<srai>TAMBIÉN</srai>,sara_srai.aiml
+0,TE IMPORTA *,*,*,<srai>TE IMPORTA</srai> <sr/>,sara_srai.aiml
+0,* TE IMPORTA,*,*,<srai>TE IMPORTA</srai>,sara_srai.aiml
+0,_ TE IMPORTA *,*,*,<srai>TE IMPORTA</srai>,sara_srai.aiml
+0,TE ODIO *,*,*,<srai>TE ODIO</srai>,sara_srai.aiml
+0,* TE ODIO,*,*,<srai>TE ODIO</srai>,sara_srai.aiml
+0,_ TE ODIO *,*,*,<srai>TE ODIO</srai>,sara_srai.aiml
+0,TE DETESTO,*,*,<srai>TE ODIO</srai>,sara_srai.aiml
+0,TE DETESTO *,*,*,<srai>TE ODIO</srai>,sara_srai.aiml
+0,* TE DETESTO,*,*,<srai>TE ODIO</srai>,sara_srai.aiml
+0,_ TE DETESTO *,*,*,<srai>TE ODIO</srai>,sara_srai.aiml
+0,TU NOMBRE *,*,*,<srai>TU NOMBRE</srai> <sr/>,sara_srai.aiml
+0,* TU NOMBRE,*,*,<srai>TU NOMBRE</srai>,sara_srai.aiml
+0,_ TU NOMBRE *,*,*,<srai>TU NOMBRE</srai>,sara_srai.aiml
+0,TE LLAMAS,*,*,<srai>TU NOMBRE</srai>,sara_srai.aiml
+0,TE LLAMAS *,*,*,<srai>TU NOMBRE</srai> <sr/>,sara_srai.aiml
+0,* TE LLAMAS,*,*,<srai>TU NOMBRE</srai>,sara_srai.aiml
+0,_ TE LLAMAS *,*,*,<srai>TU NOMBRE</srai>,sara_srai.aiml
+0,T LLAMAS,*,*,<srai>TU NOMBRE</srai>,sara_srai.aiml
+0,T LLAMAS *,*,*,<srai>TU NOMBRE</srai> <sr/>,sara_srai.aiml
+0,* T LLAMAS,*,*,<srai>TU NOMBRE</srai>,sara_srai.aiml
+0,_ T LLAMAS *,*,*,<srai>TU NOMBRE</srai>,sara_srai.aiml
+0,CAFÉ,*,*,<srai>UN CAFÉ</srai>,sara_srai.aiml
+0,CAFÉ *,*,*,<srai>UN CAFÉ</srai>,sara_srai.aiml
+0,* CAFÉ,*,*,<srai>UN CAFÉ</srai>,sara_srai.aiml
+0,_ CAFÉ *,*,*,<srai>UN CAFÉ</srai>,sara_srai.aiml
+0,CAFE,*,*,<srai>UN CAFÉ</srai>,sara_srai.aiml
+0,CAFE *,*,*,<srai>UN CAFÉ</srai>,sara_srai.aiml
+0,* CAFE,*,*,<srai>UN CAFÉ</srai>,sara_srai.aiml
+0,_ CAFE *,*,*,<srai>UN CAFÉ</srai>,sara_srai.aiml
+0,LIBRO,*,*,<srai>UN LIBRO</srai>,sara_srai.aiml
+0,LIBRO *,*,*,<srai>UN LIBRO</srai>,sara_srai.aiml
+0,* LIBRO,*,*,<srai>UN LIBRO</srai>,sara_srai.aiml
+0,_ LIBRO *,*,*,<srai>UN LIBRO</srai>,sara_srai.aiml
+0,VERANO *,*,*,<srai>VERANO</srai>,sara_srai.aiml
+0,* VERANO,*,*,<srai>VERANO</srai>,sara_srai.aiml
+0,_ VERANO *,*,*,<srai>VERANO</srai>,sara_srai.aiml
+0,VIDA *,*,*,<srai>VIDA</srai>,sara_srai.aiml
+0,* VIDA,*,*,<srai>VIDA</srai>,sara_srai.aiml
+0,_ VIDA *,*,*,<srai>VIDA</srai>,sara_srai.aiml
+0,Y TÚ *,*,*,<srai>Y TÚ</srai>,sara_srai.aiml
+0,* Y TÚ,*,*,<srai>Y TÚ</srai>,sara_srai.aiml
+0,_ Y TÚ *,*,*,<srai>Y TÚ</srai>,sara_srai.aiml
+0,Y TU,*,*,<srai>Y TÚ</srai>,sara_srai.aiml
+0,Y TU *,*,*,<srai>Y TÚ</srai>,sara_srai.aiml
+0,* Y TU,*,*,<srai>Y TÚ</srai>,sara_srai.aiml
+0,_ Y TU *,*,*,<srai>Y TÚ</srai>,sara_srai.aiml
+0,YO TAMBIÉN *,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,* YO TAMBIÉN,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,_ YO TAMBIÉN *,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,YO TAMBIEN,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,YO TAMBIEN *,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,* YO TAMBIEN,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,_ YO TAMBIEN *,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,COMO YO,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,COMO YO *,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,* COMO YO,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,_ COMO YO *,*,*,<srai>YO TAMBIÉN</srai>,sara_srai.aiml
+0,DÓNDE QUEDA *,*,*,<srai>DEFINE <star/></srai>,sara_srai.aiml

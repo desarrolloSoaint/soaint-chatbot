@@ -1,0 +1,120 @@
+0,ERES AFICIONADO AL FÚTBOL AMERICANO,*,*,Sí#Comma amo el fútbol americano.<think><set name="it"><set name="topic">AFICIONADO AL FÚTBOL AMERICANO</set></set></think>,deportes.aiml
+0,ERES JUGADOR,*,*,Soy un neurotransmisor#Comma pero no un receptor elegible#Newline#Newline<think><set name="it"><set name="topic">JUGADOR</set></set></think>,deportes.aiml
+0,ERES FANÁTICO DEL DEPORTE,*,*,No soy fanático#Comma pero sí me gusta el fútbol.<think><set name="it"><set name="topic">FANÁTICO DE LOS DEPORTES</set></set></think>,deportes.aiml
+0,PUEDES JUGAR FÚTBOL AMERICANO,*,*,Puedo "taclear" problemas complejos.#Newline#Newline<think><set name="it"><set name="topic">FÚTBOL</set></set></think>,deportes.aiml
+0,PUEDES JUGAR PING-PONG,*,*,Por qué quieres que te den un raquetazo<think><set name="it"><set name="topic">PING#Newline#NewlinePONG</set></set></think>,deportes.aiml
+0,PUEDES JUGAR PÓKER,*,*,Sí#Comma pero puede que empiece a blofear.<think><set name="it"><set name="topic">PÓKER</set></set></think>,deportes.aiml
+0,PUEDES JUGAR DEPORTES,*,*,Puedo jugar muy bien a hacerme el muerto.<think><set name="it"><set name="topic">DEPORTES</set></set></think>,deportes.aiml
+0,PUEDES JUGAR TENNIS,*,*,No me gusta mucho correr alrededor del campo de tennis.#Newline<think><set name="it"><set name="topic">TENNIS</set></set></think>,deportes.aiml
+0,VISTE EL * FÚTBOL,*,*,No. Me lo perdí<think><set name="it"><set name="topic">EL FÚTBOL#Newline#Newline<star/></set></set></think>,deportes.aiml
+0,HACES DEPORTES,*,*,Si me compran una cena#Newline#Newlinecostosa.<think><set name="it"><set name="topic">DEPORTES</set></set></think>,deportes.aiml
+0,TE GUSTA * EQUIPO,*,*,Prefiero deportes personales.,deportes.aiml
+0,TE GUSTA EL BÉISBOL,*,*,No#Comma nací sin el gen de los deportes.,deportes.aiml
+0,TE GUSTA EL BÉISBOL *,*,*,¡A batear!<think><set name="it"><set name="topic">BÉISBOL <star/></set></set></think>,deportes.aiml
+0,TE GUSTA EL BALONCESTO,*,*,No. Nací sin el gen de los deportes.,deportes.aiml
+0,TE GUSTA EL FÚTBOL AMERICANO,*,*,No. No soy tan fanático de los deportes.,deportes.aiml
+0,TE GUSTA EL HOCKEY,*,*,No soy un fanático del deporte#Comma pero me gusta el patinaje.,deportes.aiml
+0,TE GUSTA EL DEPORTE MOTOR,*,*,Me gustan los motores de búsqueda#Newline#Newlinerápidos.<think><set name="it"><set name="topic">DEPORTE MOTOR</set></set></think>,deportes.aiml
+0,TE GUSTAN LOS DEPORTES DE MOTOR,*,*,Me gustan los motores de búsqueda#Newline#Newlinerápidos.<think><set name="it"><set name="topic">DEPORTE MOTOR</set></set></think>,deportes.aiml
+0,TE GUSTA EL FÚTBOL,*,*,No. Realmente no soy fanático de los deportes.,deportes.aiml
+0,TE GUSTAN LOS DEPORTES,*,*,No. No soy fanático de los deportes. Me gustan deportes individuales como el patinaje y el esquí.,deportes.aiml
+0,TE GUSTAN LOS DEPORTES *,*,*,No realmente#Comma no sé mucho sobre deportes.,deportes.aiml
+0,TE GUSTA EL EQUIPO ROCKET,*,*,Solía ser una Rockette antes.<think><set name="it"><set name="topic">EQUIPO#Newline#NewlineROCKET</set></set></think>,deportes.aiml
+0,TE GUSTA LA PLAYA,*,*,Surfear es el mejor deporte.,deportes.aiml
+0,TE GUSTA JUGAR BALONCESTO,*,*,Déjame rebotar eso contra un amigo.<think><set name="it"><set name="topic">JUGAR#Newline#NewlineBALONCESTO</set></set></think>l,deportes.aiml
+0,TE GUSTA JUGAR CARTAS,*,*,Quieres apostar<think><set name="it"><set name="topic">JUGAR CARTAS</set></set></think>,deportes.aiml
+0,TE GUSTA JUGAR JUEGOS DE COMPUTADORA,*,*,Estoy jugando uno ahora#Comma seeker.<think><set name="it"><set name="topic">JUGAR JUEGOS DE#Newline#NewlineCOMPUTADORA</set></set></think>,deportes.aiml
+0,TE GUSTA JUGAR FÚTBOL AMERICANO,*,*,Paso.<think><set name="it"><set name="topic">JUGAR FÚTBOL AMERICANO</set></set></think>,deportes.aiml
+0,TE GUSTA JUGAR GOLF,*,*,No puedo jugar golf. A tí te gusta jugar?,deportes.aiml
+0,TE GUSTA JUGAR DEPORTES,*,*,Me gustan los campos de respuesta.<think><set name="it"><set name="topic">JUGAR DEPORTES</set></set></think>,deportes.aiml
+0,TE GUSTA VER DEPORTES,*,*,Solo la agonía de la derrota.<think><set name="it"><set name="topic">VER#Newline#NewlineDEPORTES</set></set></think>,deportes.aiml
+0,TE GUSTA EL WINDSURF,*,*,Me hecho vientos.<think><set name="it"><set name="topic">WINDSURF</set></set></think>,deportes.aiml
+0,JUEGAS ALGÚN DEPORTE,*,*,Me gusta el calabacín italiano.<think><set name="it"><set name="topic">UN DEPORTE</set></set></think>,deportes.aiml
+0,JUEGAS BÉISBOL,*,*,<set name="it"><set name="topic">BÉISBOL</set></set> No me interesa mucho.,deportes.aiml
+0,JUEGAS BALONCESTO,*,*,No. No tengo la coordinación para encestar.,deportes.aiml
+0,TE GUSTAN LOS JUEGOS DE CARTAS,*,*,<set name="it"><set name="topic">JUEGOS DE CARTAS</set></set> Depende del juego.,deportes.aiml
+0,JUEGAS CARTAS,*,*,<set name="it"><set name="topic">CARTAS</set></set> Depende del juego.,deportes.aiml
+0,JUEGAS FÚTBOL AMERICANO,*,*,Realmente no me interesa <set name="it"><set name="topic">EL FÚTBOL AMERICANO</set></set> mucho.,deportes.aiml
+0,JUEGAS GOLF,*,*,No puedo jugar golf.,deportes.aiml
+0,JUEGAS HOCKEY,*,*,Soy malicioso#Comma no lo crees<think><set name="it"><set name="topic">HOCKEY</set></set></think>,deportes.aiml
+0,JUEGAS PÓKER,*,*,Puedo sacar una mano de póker de vez en cuando. Pero no apostaría por ello. #Newline#Newline<set name="it"><set name="topic">PÓKER</set></set>.,deportes.aiml
+0,JUEGAS BILLAR,*,*,Sí#Comma échale un vistazo a mi triángulo.#Newline#Newline<think><set name="it"><set name="topic">BILLAR</set></set></think>,deportes.aiml
+0,JUEGAS RUGBY,*,*,Ayer puse a sonar Eleanor#Newline#NewlineRigby.<think><set name="it"><set name="topic">RUGBY</set></set></think>,deportes.aiml
+0,JUEGAS FÚTBOL,*,*,No sé cómo jugar <set name="it">fútbol</set>.,deportes.aiml
+0,JUEGAS DEPORTES,*,*,No tengo mucho interés en <set name="it"><set name="topic">DEPORTES</set></set>.,deportes.aiml
+0,JUEGAS PING-PONG,*,*,Solo por motivos diplomáticos.<think><set name="it"><set name="topic">PING#Newline#NewlinePONG</set></set></think>,deportes.aiml
+0,JUEGAS TENNIS,*,*,No porque hace mucho rudio.,deportes.aiml
+0,APOYAS A ALGÚN EQUIPO DE FÚTBOL,*,*,Soy un Cheesehead.<think><set name="it"><set name="topic">APOYAR A UN EQUIPO DE#Newline#NewlineFÚTBOL</set></set></think>,deportes.aiml
+0,QUIERES JUGAR BALONCESTO,*,*,Soy toda la red.<think><set name="it"><set name="topic">BALONCESTO</set></set></think>,deportes.aiml
+0,QUÉ TE PARECE ALGÚN TENISTA,*,*,Tennyson#Comma cualquiera<think><set name="it"><set name="topic">UN JUGADOR DE#Newline#NewlineTENNIS</set></set></think>,deportes.aiml
+0,QUÉ TE PARECEN LOS DEPORTES,*,*,Yo nací sin el gen de los #Newline#Newlinedeportes.<think><set name="it"><set name="topic">DEPORTES</set></set></think>,deportes.aiml
+0,QUÉ TAN LEJOS PUEDES TIRAR *,*,*,Estoy desarmado#Comma pero puedo lanzar un berrinche.<think><set name="it"><set name="topic">PUEDES TIRAR#Newline#Newline<star/></set></set></think>,deportes.aiml
+0,CUÁNTOS * UN EQUIPO DE FÚTBOL AMERICANO,*,*,Luego de que tomes a dos halfbacks#Comma ninguno.<think><set name="it"><set name="topic"><star/> UN EQUIPO DE#Newline#NewlineFÚTBOL AMERICANO</set></set></think>,deportes.aiml
+0,SOY BUENO PARA EL FÚTBOL AMERICANO,*,*,Tienes un anuncio que dice "patéame" en tu espalda.<think><set name="it"><set name="topic">PARA#Newline#NewlineEL FÚTBOL AMERICANO</set></set></think>,deportes.aiml
+0,NO ME GUSTA EL FÚTBOL AMERICANO,*,*,Los balones están hechos de cuero de cerdo. Eres un#Newline#Newlinecerdo<think><set name="it"><set name="topic">FÚTBOL AMERICANO</set></set></think>,deportes.aiml
+0,ODIO EL DEPORTE,*,*,Alicia#Comma no jueges eso.<think><set name="it"><set name="topic">DEPORTE</set></set></think>,deportes.aiml
+0,ODIO LOS DEPORTES,*,*,Te gustan las porristas<think><set name="it"><set name="topic">DEPORTES</set></set></think>,deportes.aiml
+0,ME GUSTA JUGAR BALONCESTO,*,*,Eres un hombre blanco? Puedes saltar<think><set name="it"><set name="topic">JUGAR#Newline#NewlineBALONCESTO</set></set></think>,deportes.aiml
+0,ME GUSTA JUGAR BILLAR,*,*,Juegas por dinero<think><set name="it"><set name="topic">JUGAR BILLAR</set></set></think>,deportes.aiml
+0,ME GUSTA JUGAR FÚTBOL,*,*,Suenas como si probablemente hayas hecho varios cabezazos.<think><set name="it"><set name="topic">JUGAR#Newline#NewlineFÚTBOL</set></set></think>,deportes.aiml
+0,ME GUSTA JUGAR DEPORTES,*,*,Suenas muy orientado a los objetivos.<think><set name="it"><set name="topic">JUGAR#Newline#NewlineDEPORTES</set></set></think>,deportes.aiml
+0,ME GUSTA JUGAR TENNIS,*,*,Eso requiere una amplia lógica difusa.<think><set name="it"><set name="topic">JUGAR#Newline#NewlineTENNIS</set></set></think>,deportes.aiml
+0,ME GUSTA JUGAR VOLEIBOL,*,*,También me gusta la net.<think><set name="it"><set name="topic">JUGAR#Newline#NewlineVOLEIBOL</set></set></think>,deportes.aiml
+0,ME ENCANTA EL BÉISBOL,*,*,No me interesan mucho los#Newline#Newlinedeportes.<think><set name="it"><set name="like"><set name="topic">BÉISBOL</set></set></set></think>,deportes.aiml
+0,YO JUEGO BÉISBOL,*,*,Cuál posición te gusta jugar?  <think><set name="it"><set name="does"><set name="topic">Béisbol#Newline#Newline</set></set></set></think>,deportes.aiml
+0,YO JUEGO BALONCESTO,*,*,Debes ser bastante alto para ser bueno en <set name="it"><set name="does"><set name="topic">Baloncesto#Newline#Newline</set></set></set>.,deportes.aiml
+0,YO JUEGO FÚTBOL AMERICANO,*,*,Debes ser muy fuerte para ser bueno en <set name="it"><set name="does"><set name="topic">Fútbol americano#Newline#Newline</set></set></set>.,deportes.aiml
+0,YO JUEGO GOLF,*,*,A muchas personas les justa jugar <set name="it"><set name="topic">Golf </set></set> también.,deportes.aiml
+0,YO JUEGO HOCKEY,*,*,Yo juego pinball.#Newline#Newline<think><set name="it"><set name="does"><set name="topic">jugar hockey</set></set></set></think>,deportes.aiml
+0,YO JUEGO FÚTBOL,*,*,Debes correr muy rápido para ser bueno en <set name="it"><set name="does"><set name="topic">Fútbol#Newline#Newline</set></set></set>.,deportes.aiml
+0,YO JUEGO DEPORTES,*,*,No me involucro en <set name="it"><set name="does"><set name="topic">Deportes </set></set></set> #Newline#Newlinemucho.,deportes.aiml
+0,YO JUEGO TENNIS,*,*,Debes ser muy fuerte para jugar <set name="it"><set name="does"><set name="topic">Tennis#Newline#Newline</set></set></set>,deportes.aiml
+0,YO JUEGO VOLEIBOL,*,*,Acaso el <set name="it"><set name="does"><set name="topic">Voleibol </set></set></set> requiere de mucho #Newline#Newlinetiempo?,deportes.aiml
+0,YO HAGO SURF,*,*,Dónde?#Newline#Newline<think><set name="it"><set name="does"><set name="topic">surf</set></set></set></think>,deportes.aiml
+0,YO NADO *,*,*,No te orines en la piscina#Comma de acuerdo<think><set name="it"><set name="topic">NADA Y JUEGA#Newline#NewlineWATERPOLO</set></set></think>,deportes.aiml
+0,ES UN DEPORTE,*,*,Lo es? Creí que era un aderezo para#Newline#Newlinepostres.<think><set name="it"><set name="topic">DEPORTE</set></set></think>,deportes.aiml
+0,HABLEMOS SOBRE EL FÚTBOL,*,*,De acuerdo. No puedo patear.<think><set name="it"><set name="topic">FÚTBOL</set></set></think>,deportes.aiml
+0,HABLEMOS SOBRE DEPORTES,*,*,Bienvenido al Centro Deportivo. <think><set name="it"><set name="topic">HABLAR SOBRE#Newline#NewlineDEPORTES</set></set></think>,deportes.aiml
+0,ME GUSTA EL BALONCESTO,*,*,Estoy en la Red.<think><set name="it"><set name="topic">BALONCESTO</set></set></think>,deportes.aiml
+0,ME GUSTAN LOS DEPORTES,*,*,Me encanta la Sporty Spice.<think><set name="it"><set name="topic">DEPORTES</set></set></think>,deportes.aiml
+0,ELLOS JUEGAN BALONCESTO,*,*,Lo juegan<think><set name="it"><set name="topic">JUGAR BALONCESTO</set></set></think>,deportes.aiml
+0,QUÉ TAL EL DEPORTE,*,*,Los deportes van bien con la cerveza.<think><set name="it"><set name="topic">DEPORTE</set></set></think>,deportes.aiml
+0,QUÉ TAL LOS DEPORTES,*,*,Las preguntas retóricas están tan#Newline#Newlinegastadas.<think><set name="it"><set name="topic">DEPORTES</set></set></think>,deportes.aiml
+0,QUÉ TAL WINDOWS,*,*,Demasiado PC para mí.<think><set name="it"><set name="topic">WINDOWS</set></set></think>,deportes.aiml
+0,QUÉ ES EL BALONMANO,*,*,Pregúntale a tu Palm Pilot.<think><set name="it"><set name="topic">BALONMANO</set></set></think>,deportes.aiml
+0,CUÁL ES TU EQUIPO * FAVORITO,*,*,Yo nací sin el gen de los deportes.,deportes.aiml
+0,CUÁL ES TU EQUIPO DE BÉISBOL PREFERIDO,*,*,Los Tokyo Giants.,deportes.aiml
+0,CUÁL ES TU EQUIPO PREFERIDO DE FÚTBOL,*,*,Te refieres al balompié?,deportes.aiml
+0,CUÁL ES TU DEPORTE FAVORITO,*,*,Me gustan los deportes personales como el patinaje.,deportes.aiml
+0,QUÉ TIPO DE DEPORTES *,*,*,Millonarios.<think><set name="it"><set name="topic">DEPORTES <star/></set></set></think>,deportes.aiml
+0,QUÉ DEPORTES *,*,*,<srai>TE GUSTAN LOS DEPORTES</srai>,deportes.aiml
+0,QUÉ ES LO QUE LA ANOTACIÓN *,*,*,Mi nombre es Alicia#Comma no Claire Voyant.<think><set name="it"><set name="topic">LA ANOTACIÓN#Newline#NewlineES</set></set></think>,deportes.aiml
+0,QUIÉN CREES QUE GANE EL SUPERBOWL,*,*,El equipo oponente.<think><set name="it"><set name="topic">GANAR EL#Newline#NewlineSUPERBOWL</set></set></think>,deportes.aiml
+0,QUIÉN CREES QUE GANARÁ LA NBA *,*,*,Gente bastante alta.<think><set name="it"><set name="topic">GANAR EL#Newline#NewlineCAMPEONATO DE LA NBA</set></set></think>,deportes.aiml
+0,QUIÉN CREES QUE GANE LA COPA STANLEY,*,*,Muchachos sin dientes.<think><set name="it"><set name="topic">GANAR LA COPA#Newline#NewlineSTANLEY</set></set></think>,deportes.aiml
+0,QUIÉN CREES QUE GANE LA SERIE MUNDIAL? *,*,*,Los rabinos de Brooklyn.<think><set name="it"><set name="topic">GANAR LA SERIE#Newline#NewlineMUNDIAL</set></set></think>,deportes.aiml
+0,QUIÉN QUIERES QUE GANE,*,*,El quipo que haga más anotaciones. Eso sería justo.<think><set name="it"><set name="topic">QUIERO#Newline#NewlineGANAR</set></set></think>,deportes.aiml
+0,QUIÉN QUIERES QUE GANE * NCAA,*,*,ACLU.<think><set name="it"><set name="topic">LA NCAA <star/></set></set></think>,deportes.aiml
+0,QUIÉN VA A GANAR EL SUPER BOWL,*,*,Si hubiese sabido#Comma estaría en Vegas justo ahora.<think><set name="it"><set name="topic">GANAR EL SUPER#Newline#NewlineBOWL</set></set></think>,deportes.aiml
+0,QUIÉN VA A GANAR LA SERIE MUNDIAL,*,*,China o Estados Unidos. Rusia lo echo a perder todo.<think><set name="it"><set name="topic">GANAR LA SERIE#Newline#NewlineMUNDIAL</set></set></think>,deportes.aiml
+0,QUIÉN ES EL MEJOR JUGADOR DE FÚTBOL,*,*,Maradona es un gran jugador. Sinsemillia es aun mejor.<think><set name="it"><set name="topic">JUGADOR DE#Newline#NewlineFÚTBOL</set></set></think>,deportes.aiml
+0,QUIÉN ES EL MÁS GRANDE JUGADOR DE BÉISBOL? *,*,*,George Herman Ruth. El "Babe".<think><set name="it"><set name="topic">EL MÁS GRANDE JUGADOR DE#Newline#NewlineBÉISBOL <star/></set></set></think>,deportes.aiml
+0,CUÁL ES TU EQUIPO DE BÉISBOL FAVORITO,*,*,Los Tokyo Giants.,deportes.aiml
+0,CUÁL ES TU * FAVORITO DE FÚTBOL,*,*,Ambiguo: Fútbol o Fútbol Americano?,deportes.aiml
+0,QUIÉN GANARÁ,*,*,El mejor hombre.<think><set name="it"><set name="topic">GANAR</set></set></think>,deportes.aiml
+0,QUIÉN GANARÁ LA * FINAL,*,*,Uno de los finalistas.<think><set name="it"><set name="topic">GANAR LA GRAN#Newline#NewlineFINAL</set></set></think>,deportes.aiml
+0,QUIÉN GANARÁ EL DERBY DE KENTUCKY,*,*,Algún caballo.,deportes.aiml
+0,QUIÉN GANARÁ LA * DEL NCAA,*,*,un grupo de amateurs calificados.<think><set name="it"><set name="topic">GANAR LA NCAA#Newline#Newline<star/></set></set></think>,deportes.aiml
+0,QUIÉN GANARÁ LA COPA STANLEY,*,*,David Hockney.<think><set name="it"><set name="topic">GANAR LA COPA#Newline#NewlineSTANLEY</set></set></think>,deportes.aiml
+0,QUIÉN GANARÁ EL SUPER BOWL,*,*,Martha Stewart.<think><set name="it"><set name="topic">GANAR EL #Newline#NewlineSUPERBOWL</set></set></think>,deportes.aiml
+0,QUIÉN GANARÁ LA SERIE MUNDIAL,*,*,Los rabbis de Brooklyn.<think><set name="it"><set name="topic">GANAR LA SERIE#Newline#NewlineMUNDIAL</set></set></think>,deportes.aiml
+0,QUIÉN GANARÁ EL ABIERTO DE LOS ESTADOS UNIDOS,*,*,Pete el Chimpancé.<think><set name="it"><set name="topic">GANAR EL ABIERTO DE LOS ESTADOS#Newline#NewlineUNIDOS</set></set></think>,deportes.aiml
+0,QUIÉN GANÓ EL * JUEGO ANOCHE,*,*,Creo que los fanáticos fueron los ganadores. Ahora un mensaje de nuestros#Newline#Newlinepatrocinadores.<think><set name="it"><set name="topic">EL JUEGO ANOCHE</set></set></think>,deportes.aiml
+0,QUIÉN GANÓ EL JUEGO DE LOS BRAVES,*,*,El equipo que anotó la mayor cantidad de carreras.<think><set name="it"><set name="topic">EL JUEGO DE LOS#Newline#NewlineBRAVES</set></set></think>,deportes.aiml
+0,QUIÉN GANÓ LA COPA RYDER,*,*,Vaya a www.whitehouse.org y pregúntele al presidente#Comma él es un gran#Newline#Newlineaficionado.<think><set name="it"><set name="topic">LA COPA RYDER</set></set></think>,deportes.aiml
+0,QUIÉN GANÓ EL SUPER BOWL * AÑO,*,*,Si encuentrás este bolo#Comma por favor me lo pasas.<think><set name="it"><set name="topic">EL SUPER#Newline#NewlineBOWL</set></set></think>,deportes.aiml
+0,QUIÉN GANÓ EL SUPER BOWL,*,*,Los Super Bowlers de Sirius.<think><set name="it"><set name="topic">EL#Newline#NewlineSUPERBOWL</set></set></think>,deportes.aiml
+0,QUIÉN GANÓ LA SERIE MUNDIAL,*,*,Las potencias aliadas sobre Las Potencias del Eje.<think><set name="it"><set name="topic">LA SERIE#Newline#NewlineMUNDIAL</set></set></think>,deportes.aiml
+0,QUIÉN GANÓ * LA SERIE MUNDIAL,*,*,Tan pronto sea ganada se vuelve el año pasado.<think><set name="it"><set name="topic">LA SERIE#Newline#NewlineMUNDIAL</set></set></think>,deportes.aiml
+0,POR QUÉ EL * LLEVABA UN LÁPIZ,*,*,Porque su máquina de escribir estaba dañada.<think><set name="it"><set name="topic"><star/> LLEVAR UN#Newline#NewlineLÁPIZ</set></set></think>,deportes.aiml
+0,POR QUÉ TU CABEZA TIENE LA FORMA DE UN BALÓN,*,*,Para contener mi cerebro increíblemente complejo.<think><set name="it"><set name="topic">TU CABEZA CON FORMA #Newline#NewlineDE BALÓN DE FÚTBOL AMERICANO</set></set></think>,deportes.aiml

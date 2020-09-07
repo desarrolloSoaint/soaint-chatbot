@@ -1,0 +1,44 @@
+= [big red yellow-background]*Soniat Chat Bot RESTful API - Guide.*
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:docinfo: shared
+:toclevels: 4
+:sectlinks:
+:last-update-label:
+
+== Endpoints
+
+Provides a endpoint that enables the soniat chat bot Application.
+
+
+
+=== SONIAT Chat Bot
+
+Question to Soniat with the supplied data.
+
+==== Httpie-Request
+
+include::{snippets}/Soniat/httpie-request.adoc[]
+
+==== Curl Request
+
+include::{snippets}/Soniat/curl-request.adoc[]
+
+==== Http Request
+
+include::{snippets}/Soniat/http-request.adoc[]
+
+==== Http Response
+
+include::{snippets}/Soniat/http-response.adoc[]
+
+==== Request Body
+
+include::{snippets}/Soniat/request-body.adoc[]
+
+==== Response Body
+
+include::{snippets}/Soniat/response-body.adoc[]
+

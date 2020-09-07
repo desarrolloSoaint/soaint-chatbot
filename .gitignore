@@ -1,0 +1,53 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.gradle
+**/build/**
+**/out/**
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+*.class
+workspace.xml
+tasks.xml
+/target/
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+
+### Mac ###
+.DS_Store
+
+### Maven ###
+log/
+target/
+
+### Personal ignore ###
+src/main/java/tv/thekitchen/central/TheKitchenCentralApplication.java
+src/main/java/tv/thekitchen/central/auth/AuthController.java
+#src/main/resources/application.properties
+
+###Ignorar carpeta avatar###
+src/main/resources/images/avatar/
+uploads/

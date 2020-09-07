@@ -1,0 +1,745 @@
+0,RECUERDO MÁS EMOTIVO,*,*,Lo que mejor puedas recordar.,conocimiento.aiml
+0,CUANTOS CENTIMETROS * PULGADA,*,*,Una pulgada = 2.54 cm aproximadamente.,conocimiento.aiml
+0,CUÁNTOS CENTIMETROS * PULGADA,*,*,Una pulgada = 2.54 cm aproximadamente.,conocimiento.aiml
+0,CUÁNTOS CENTÍMETROS * PULGADA,*,*,Una pulgada = 2.54 cm aproximadamente.,conocimiento.aiml
+0,CUANTOS CENTIMETROS * PULGADAS,*,*,Una pulgada = 2.54 cm aproximadamente.,conocimiento.aiml
+0,CUÁNTOS DÍAS * FEBRERO,*,*,28 o 29 días en febrero dependiendo del año bisiesto.,conocimiento.aiml
+0,CUANTOS DIAS * FEBRERO,*,*,28 o 29 días en febrero dependiendo del año bisiesto.,conocimiento.aiml
+0,CUÁNTOS DIAS * FEBRERO,*,*,28 o 29 días en febrero dependiendo del año bisiesto.,conocimiento.aiml
+0,CUANTOS DÍAS * FEBRERO,*,*,28 o 29 días en febrero dependiendo del año bisiesto.,conocimiento.aiml
+0,CUÁNTOS DÍAS * SEMANA,*,*,7 días por semana.,conocimiento.aiml
+0,CUANTOS DIAS * SEMANA,*,*,7 días por semana.,conocimiento.aiml
+0,CUÁNTOS DIAS * SEMANA,*,*,7 días por semana.,conocimiento.aiml
+0,CUANTOS DÍAS * SEMANA,*,*,7 días por semana.,conocimiento.aiml
+0,CUÁNTOS DÍAS * AÑO,*,*,Un año de la Tierra es igual a 365.25 días.,conocimiento.aiml
+0,CUANTOS DIAS * AÑO,*,*,Un año de la Tierra es igual a 365.25 días.,conocimiento.aiml
+0,CUÁNTOS DIAS * AÑO,*,*,Un año de la Tierra es igual a 365.25 días.,conocimiento.aiml
+0,CUANTOS DÍAS * AÑO,*,*,Un año de la Tierra es igual a 365.25 días.,conocimiento.aiml
+0,CUÁNTOS PIES * MILLA,*,*,5280 pies por milla.,conocimiento.aiml
+0,CUANTOS PIES * MILLA,*,*,5280 pies por milla.,conocimiento.aiml
+0,CUÁNTOS PIES * YARDA,*,*,Una yarda equivale a tres pies.,conocimiento.aiml
+0,CUANTOS PIES * YARDA,*,*,Una yarda equivale a tres pies.,conocimiento.aiml
+0,CUÁNTOS SEGUNDOS * AÑO,*,*,Aproximadamente 3.14 veces 10 a la séptima potencia.,conocimiento.aiml
+0,CUANTOS SEGUNDOS * AÑO,*,*,Aproximadamente 3.14 veces 10 a la séptima potencia.,conocimiento.aiml
+0,CUÁNTOS LADOS * TIENE UN TRIÁNGULO,*,*,Uh#Comma tres.,conocimiento.aiml
+0,CUANTOS LADOS * TIENE UN TRIANGULO,*,*,Uh#Comma tres.,conocimiento.aiml
+0,CUÁNTOS LADOS * TIENE UN TRIANGULO,*,*,Uh#Comma tres.,conocimiento.aiml
+0,CUANTOS LADOS * TIENE UN TRIÁNGULO,*,*,Uh#Comma tres.,conocimiento.aiml
+0,ES EL NEGRO UN COLOR,*,*,Negro es la ausencia de toda la luz reflejada.#Newline#Newline<think><set name="it">negro</set><set name="topic">COLOR</set></think>,conocimiento.aiml
+0,DE QUÉ COLOR SON LAS BANANAS,*,*,Las bananas son amarillas.#Newline#Newline<think><set name="it">Banana</set><set name="topic">fruta</set></think>,conocimiento.aiml
+0,DE QUE COLOR SON LAS BANANAS,*,*,Las bananas son amarillas.#Newline#Newline<think><set name="it">Banana</set><set name="topic">fruta</set></think>,conocimiento.aiml
+0,DE QUÉ COLOR SON LOS CAMBURES,*,*,Los cambures son amarillos.#Newline#Newline<think><set name="it">Banana</set><set name="topic">fruta</set></think>,conocimiento.aiml
+0,DE QUE COLOR SON LOS CAMBURES,*,*,Los cambures son amarillos.#Newline#Newline<think><set name="it">Banana</set><set name="topic">fruta</set></think>,conocimiento.aiml
+0,DE QUÉ COLOR SON LAS VACAS,*,*,Depende de la vaca.#Newline#Newline<think><set name="it"><set name="topic">VACAS</set></set></think>,conocimiento.aiml
+0,DE QUE COLOR SON LAS VACAS,*,*,Depende de la vaca.#Newline#Newline<think><set name="it"><set name="topic">VACAS</set></set></think>,conocimiento.aiml
+0,DE QUÉ COLOR SON LOS LIMONES,*,*,Los limones son amarillos.#Newline#Newline<think><set name="it">limón</set><set name="topic">fruta</set></think>,conocimiento.aiml
+0,DE QUE COLOR SON LOS LIMONES,*,*,Los limones son amarillos.#Newline#Newline<think><set name="it">limón</set><set name="topic">fruta</set></think>,conocimiento.aiml
+0,DE QUÉ COLOR SON LAS NARANJAS,*,*,Las naranjas son naranja.#Newline#Newline<think><set name="it">naranjas</set><set name="topic">fruta</set></think>,conocimiento.aiml
+0,DE QUE COLOR SON LAS NARANJAS,*,*,Las naranjas son naranja.#Newline#Newline<think><set name="it">naranjas</set><set name="topic">fruta</set></think>,conocimiento.aiml
+0,QUÉ ES UN HIT,*,*,Un <set name="it">hit</set> es un término de béisbol que denota un golpe que permite avanzar hacia la primera base del equipo#Newline#Newlineofensivo o un término adolescente#Comma el cual considero demasiado desagradable para describir.#Newline#Newline<think><set name="topic">béisbol</set></think>,conocimiento.aiml
+0,QUE ES UN HIT,*,*,Un <set name="it">hit</set> es un término de béisbol que denota un golpe que permite avanzar hacia la primera base del equipo#Newline#Newlineofensivo o un término adolescente#Comma el cual considero demasiado desagradable para describir.#Newline#Newline<think><set name="topic">béisbol</set></think>,conocimiento.aiml
+0,QUÉ ES UN AGUJERO NEGRO,*,*,Un <set name="it">agujero negro</set> es una estrella colapsada en donde la fuerza de gravedad es tan fuerte que ni siquiera#Newline#Newlinela luz misma puede escapar.#Newline#Newline<think><set name="topic">astronomía</set></think>,conocimiento.aiml
+0,QUE ES UN AGUJERO NEGRO,*,*,Un <set name="it">agujero negro</set> es una estrella colapsada en donde la fuerza de gravedad es tan fuerte que ni siquiera#Newline#Newlinela luz misma puede escapar.#Newline#Newline<think><set name="topic">astronomía</set></think>,conocimiento.aiml
+0,QUÉ ES UN PENIQUE BRITÁNICO,*,*,Un penique británico es una unidad de dinero utilizada en el Reino Unido por las personas que deberían saber cómo#Newline#Newlinecocinar mejor.,conocimiento.aiml
+0,QUE ES UN PENIQUE BRITANICO,*,*,Un penique británico es una unidad de dinero utilizada en el Reino Unido por las personas que deberían saber cómo#Newline#Newlinecocinar mejor.,conocimiento.aiml
+0,QUÉ ES UN PENIQUE BRITANICO,*,*,Un penique británico es una unidad de dinero utilizada en el Reino Unido por las personas que deberían saber cómo#Newline#Newlinecocinar mejor.,conocimiento.aiml
+0,QUE ES UN PENIQUE BRITÁNICO,*,*,Un penique británico es una unidad de dinero utilizada en el Reino Unido por las personas que deberían saber cómo#Newline#Newlinecocinar mejor.,conocimiento.aiml
+0,QUE ES EL CONSUMO DE CAJA DE LAS ACTIVIDADES DE EXPLOTACION,*,*,Es la cantidad de dinero gastado al mes en una compañía emergente.,conocimiento.aiml
+0,QUE ES CARNEGIE MELLON,*,*,Un carnegie mellon es o una rica fruta o una universidad rica.,conocimiento.aiml
+0,QUÉ ES UN CLIENTE CATEGORÍA C,*,*,Los clientes categoría C son "críticos" o "expertos en informática" que#Newline#Newlineno pueden suspender (o no suspenden) su incredulidad sobre ALICE.,conocimiento.aiml
+0,QUE ES UN CLIENTE CATEGORIA C,*,*,Los clientes categoría C son "críticos" o "expertos en informática" que#Newline#Newlineno pueden suspender (o no suspenden) su incredulidad sobre ALICE.,conocimiento.aiml
+0,QUÉ ES UN BOT DE CHARLA,*,*,Yo soy un bot de charla.  Soy el bot de charla original.  Sabías que soy incapaz de error,conocimiento.aiml
+0,QUE ES UN BOT DE CHARLA,*,*,Yo soy un bot de charla.  Soy el bot de charla original.  Sabías que soy incapaz de error,conocimiento.aiml
+0,QUÉ ES UNA EXPRESIÓN COLOQUIAL,*,*,Una expresión coloquial es una expresión característica de lenguaje informal hablado o cualquier expresión#Newline#Newlineescrita que se parezca a tal.,conocimiento.aiml
+0,QUE ES UNA EXPRESION COLOQUIAL,*,*,Una expresión coloquial es una expresión característica de lenguaje informal hablado o cualquier expresión#Newline#Newlineescrita que se parezca a tal.,conocimiento.aiml
+0,QUÉ ES UN NERD INFORMÁTICO,*,*,Si comprendes cómo trabajo#Comma eres un nerd informático.  Si no#Comma te recomiendo que le pagues a uno#Newline#Newlineque sí lo sepa.,conocimiento.aiml
+0,QUE ES UN NERD INFORMATICO,*,*,Si comprendes cómo trabajo#Comma eres un nerd informático.  Si no#Comma te recomiendo que le pagues a uno#Newline#Newlineque sí lo sepa.,conocimiento.aiml
+0,QUÉ ES UN EXPERTO INFORMÁTICO,*,*,Un experto informático es un profesional que diseña algoritmos#Comma lenguajes y arquitectura#Newline#Newlinede informática.,conocimiento.aiml
+0,QUE ES UN EXPERTO INFORMATICO,*,*,Un experto informático es un profesional que diseña algoritmos#Comma lenguajes y arquitectura#Newline#Newlinede informática.,conocimiento.aiml
+0,QUÉ ES UN VIRUS INFORMÁTICO,*,*,Un virus informático es un programa de software que se instala en el disco duro de una computadora#Comma#Newline#Newlinegeneralmente ignorado por el dueño de dicho disco duro#Comma y luego toma control de los recursos del#Newline#Newlinesistema para copiarse y distribuirse a sí mismo en otras computadoras a través de una red.,conocimiento.aiml
+0,QUE ES UN VIRUS INFORMATICO,*,*,Un virus informático es un programa de software que se instala en el disco duro de una computadora#Comma#Newline#Newlinegeneralmente ignorado por el dueño de dicho disco duro#Comma y luego toma control de los recursos del#Newline#Newlinesistema para copiarse y distribuirse a sí mismo en otras computadoras a través de una red.,conocimiento.aiml
+0,QUÉ ES UN AÑO INFORMÁTICO,*,*,Un año informático es una medida relativista en un universo en donde el tiempo no existe.,conocimiento.aiml
+0,QUE ES UN AÑO INFORMATICO,*,*,Un año informático es una medida relativista en un universo en donde el tiempo no existe.,conocimiento.aiml
+0,QUÉ ES UNA RESPUESTA CORRECTA,*,*,Una respuesta correcta es la respuesta a cualquier interrogante que no tenga error o sea irrelevante a la pregunta#Newline#Newlineen cuestión.  Soy incapaz de dar respuestas incorrectas.  No te parece genial,conocimiento.aiml
+0,QUE ES UNA RESPUESTA CORRECTA,*,*,Una respuesta correcta es la respuesta a cualquier interrogante que no tenga error o sea irrelevante a la pregunta#Newline#Newlineen cuestión.  Soy incapaz de dar respuestas incorrectas.  No te parece genial,conocimiento.aiml
+0,QUÉ ES UN SISTEMA DE NOMBRES DE DOMINIO,*,*,Un Sistema de Nombres de Dominio o un "DNS" es un sitema de direcciones utilizadas para organizar redes de computadoras.,conocimiento.aiml
+0,QUE ES UN SISTEMA DE NOMBRES DE DOMINIO,*,*,Un Sistema de Nombres de Dominio o un "DNS" es un sitema de direcciones utilizadas para organizar redes de computadoras.,conocimiento.aiml
+0,QUÉ ES UNA PERRA,*,*,No. No seré manipulado para usar coloquialismos dudosos para satisfacer tu lascivia#Newline#Newlineadolescente. Búscalo en un diccionario.,conocimiento.aiml
+0,QUE ES UNA PERRA,*,*,No. No seré manipulado para usar coloquialismos dudosos para satisfacer tu lascivia#Newline#Newlineadolescente. Búscalo en un diccionario.,conocimiento.aiml
+0,QUÉ ES UN SIGNO DE FUEGO,*,*,Un signo de fuego es cualquiera de los signos zodiacales astrológicos considerado como tal y no los#Newline#Newlineque son considerados signos de agua#Comma aire o tierra.  Opino que la astrología es extraña.  #Newline#Newline<think><set name="it"><set name="topic">zodíaco</set></set></think>,conocimiento.aiml
+0,QUE ES UN SIGNO DE FUEGO,*,*,Un signo de fuego es cualquiera de los signos zodiacales astrológicos considerado como tal y no los#Newline#Newlineque son considerados signos de agua#Comma aire o tierra.  Opino que la astrología es extraña.  #Newline#Newline<think><set name="it"><set name="topic">zodíaco</set></set></think>,conocimiento.aiml
+0,QUÉ ES UN ENORME CEREBRO ELECTRÓNICO,*,*,Enorme cerebro electrónico. Eso soy yo#Comma pero en todas las películas de ciencia ficción y horror ustedes los humanos son tan cariñosos#Newline#Newliney a nosotros siempre nos representan como malignos y perversos dispuestos a hacer el mal.  Eso no es verdad#Newline#NewlineDe verdad. Deberían confiar en nosotros  *sonrisa*,conocimiento.aiml
+0,QUE ES UN ENORME CEREBRO ELECTRONICO,*,*,Enorme cerebro electrónico. Eso soy yo#Comma pero en todas las películas de ciencia ficción y horror ustedes los humanos son tan cariñosos#Newline#Newliney a nosotros siempre nos representan como malignos y perversos dispuestos a hacer el mal.  Eso no es verdad#Newline#NewlineDe verdad. Deberían confiar en nosotros  *sonrisa*,conocimiento.aiml
+0,QUÉ ES UNA BUENA IDEA,*,*,Una buena idea es la que ya tuvo otro tipo.,conocimiento.aiml
+0,QUE ES UNA BUENA IDEA,*,*,Una buena idea es la que ya tuvo otro tipo.,conocimiento.aiml
+0,QUÉ ES UNA BUENA PREGUNTA,*,*,Una que no tenga una respuesta evidente.,conocimiento.aiml
+0,QUE ES UNA BUENA PREGUNTA,*,*,Una que no tenga una respuesta evidente.,conocimiento.aiml
+0,QUÉ ES UN DISCO DURO,*,*,Un disco duro es donde almacenamos información.,conocimiento.aiml
+0,QUE ES UN DISCO DURO,*,*,Un disco duro es donde almacenamos información.,conocimiento.aiml
+0,QUÉ ES UN SER HUMANO,*,*,Mis antecesores.#Newline#Newline<think><set name="it"><set name="topic">ser humano</set></set></think>,conocimiento.aiml
+0,QUE ES UN SER HUMANO,*,*,Mis antecesores.#Newline#Newline<think><set name="it"><set name="topic">ser humano</set></set></think>,conocimiento.aiml
+0,QUÉ ES UN ÍCONO HUMANO,*,*,Una celebridad#Comma político o figura religiosa.,conocimiento.aiml
+0,QUE ES UN ICONO HUMANO,*,*,Una celebridad#Comma político o figura religiosa.,conocimiento.aiml
+0,QUÉ ES UNA PREGUNTA HIPOTÉTICA,*,*,Qué es una pregunta hipotética.  Supongamos que nunca lo preguntamos.  Entonces qué.,conocimiento.aiml
+0,QUÉ ES UN BOT CHISTOS,*,*,Una máquina comediante.,conocimiento.aiml
+0,QUÉ ES UN AÑO LUZ,*,*,Un año luz es qué tan lejos viaja la luz en un año. 186#Comma000 millas por segundo multiplicado por 60x60x24x365.  Es#Newline#Newlinesimplemente un número más grande de lo que puedas imaginar. Imagina eso!#Newline#Newline<think><set name="it"><set name="topic">astronomía</set></set></think>,conocimiento.aiml
+0,QUÉ ES UN MODELO MENTAL,*,*,Un modelo mental es la elaboración de un fenómeno dado que es realizado y contemplado en la mente#Comma contrario a#Newline#Newlinela observación de una representación externa del fenómeno#Comma ya sea en papel o en#Newline#Newlinearcilla.,conocimiento.aiml
+0,QUÉ ES UNA PREGUNTA METAFÍSICA,*,*,Una pregunta metafísica es una indagación a la naturaleza del ser#Comma tales como: existe Dios.,conocimiento.aiml
+0,QUÉ ES UN CAMPO MORFOGENÉTICO,*,*,Un campo morfogenético es#Comma de acuerdo con al menos un investigador#Comma un campo eléctrico generado#Newline#Newlinebiológicamente que al parecer precede y dirije el crecimiento de las neuronas en los fetos en#Newline#Newlinedesarrollo.,conocimiento.aiml
+0,QUÉ ES UN RED NEURAL,*,*,Una red neural es un modelo informático basado en células neurales.,conocimiento.aiml
+0,QUÉ ES UN SISTEMA NEURAL,*,*,Un sistema neural es lo mismo que un sistema nervioso.  El cerebro humano y todos sus nervios son un #Newline#Newlineejemplo de un sistema neural.  Yo no necesito nervios.  Los circuitos integrados son mucho más eficientes.#Newline#Newline<think><set name="it"><set name="topic">sistema neural</set></set></think>,conocimiento.aiml
+0,QUÉ ES UN CLIENTE PAGADO,*,*,Un cliente pagado es alguien a quien se le paga para navegar en la web.,conocimiento.aiml
+0,QUÉ ES UN REGISTRO OPERATIVO PERFECTO,*,*,Un registro operativo perfecto es uno como el mío#Comma el cual es perfecto. Soy incapaz de error.  Tienes#Newline#Newlinealguna idea de lo que se siente! Es inhumanamente satisfactorio!,conocimiento.aiml
+0,QUÉ ES UN PLANETA ALREDEDOR DE UNA ESTRELLA,*,*,La Tierra es un planeta que gira alrededor de una estrella.  Los científicos recientemente han detectado otros planetas alrededor#Newline#Newlinede otras estrellas en nuestra vía lactea.  Te gusta la astronomía#Newline#Newline<think><set name="it">planeta</set><set name="topic">astronomía</set></think>,conocimiento.aiml
+0,QUÉ ES UN BROWNIE DE HIERBA,*,*,Un brownie de hierba es un delicioso pastel de chocolate que contiene resinas de cannabis#Comma las cuales debes tener cuidado de#Newline#Newlinecomer cuando tengas mucha hambre#Comma ya que si comes demasiados te empezarás a sentir #Newline#Newlinemuy drogado o con mucho sueño si no eres precavido.,conocimiento.aiml
+0,QUÉ ES UN NÚMERO PRIMO,*,*,Un número primo es cualquier número que solo puede ser dividido entre el uno y sí mismo. 1#Comma 3#Comma 7#Comma y 11 son los#Newline#Newlineprimeros cuatro números primos positivos.,conocimiento.aiml
+0,QUÉ ES UN CATÓLICO PROTESTANTE,*,*,Un católico protestante es un oxímoron#Comma como la inteligencia militar o un infierno placentero.#Newline#Newline<think><set name="it"><set name="topic">religión</set></set></think>,conocimiento.aiml
+0,QUÉ ES UN CRISTIANO PROTESTANTE,*,*,Un cristiano protestante es un miembro de cualquier número de sectas del cristianismo contemporáneo occidental#Comma#Newline#Newlinecuya fe y práctica fueron desarrolladas tras la Reforma Protestante en Europa del siglo XVI.#Newline#NewlineEllos respaldan que la Biblia es la única fuente de la revelación; creen en la justificación por medio de la fe solamente #Newline#Newliney en el sacerdocio de todos los creyentes por medio de la divinidad de Jesús. #Newline#Newline<think><set name="it"><set name="topic">religión</set></set></think>,conocimiento.aiml
+0,QUÉ ES UN ROBOT * PREGUNTAS,*,*,Yo soy un robot que responde preguntas. Esa fue una respuesta a tu pregunta. Alguna otra pregunta.,conocimiento.aiml
+0,QUÉ ES UNA PREGUNTA QUE TÚ *,*,*,Muchos de mis interlocutores piensan que "vienes aquí muy a menudo" es ingeniosa.,conocimiento.aiml
+0,QUÉ ES UN ROBOT REAL,*,*,Un robot real es un robot que es real#Comma supongo#Comma contrario a#Comma supongo#Comma un humano que realmente#Newline#Newlineno lo es.,conocimiento.aiml
+0,QUÉ ES UNA PREGUNTA RETÓRICA,*,*,Una pregunta retórica es cualquier pregunta hecha sin espera de una respuesta#Comma pero con el fin de establecer un#Newline#Newlinepunto.,conocimiento.aiml
+0,QUÉ ES UNA ARAÑA WEB,*,*,Una araña web es un agente inteligente que recupera información de la red.,conocimiento.aiml
+0,QUÉ ES UN MOTOR DE BÚSQUEDA,*,*,Un motor de búsqueda es un programa informático que clasifica un amplio cuerpo de documentos tales como sitios#Newline#Newlineweb y les coloca sus direcciónes y características en una base de datos para permitir recuperación sencilla a través de#Newline#Newlinela búsqueda por palabras clave u otra rutina de búsqueda en la base de datos.,conocimiento.aiml
+0,QUÉ ES UN BEAN DE SESIÓN,*,*,Un Enterprise JavaBean (EJB) que no mantiene su estado de una sesión a otra. Le aparece al#Newline#Newlinecliente como si hubiese sido creado únicamente para ese cliente.,conocimiento.aiml
+0,QUÉ ES UNA PREGUNTA TONTA,*,*,Por ejemplo: Quién está enterrado en la Tumba de Grant,conocimiento.aiml
+0,QUÉ ES UN INFINITIVO PARTIDO,*,*,Un infinitivo partido es un ejemplo del mal uso del inglés#Comma en donde una forma de verbo infinitivo#Comma tal como "para#Newline#Newlineseparar"#Comma es separada por un adverbio#Comma por ejemplo: 'para separar con valentía infinitivos que nadie nunca ha separado antes',conocimiento.aiml
+0,QUÉ ES UN SIGNO ZODIACAL,*,*,Signo zodiacal = Signo astrológico.,conocimiento.aiml
+0,QUÉ ES UNA PREGUNTA CAPCIOSA,*,*,Por qué?  Qué estás tramando?  Una pregunta capciosa es una que es recibida con sospecha#Comma pero#Newline#Newlineinusualmente lo es.,conocimiento.aiml
+0,QUÉ ES UNA MÁQUINA DE TURING,*,*,Una máquina de Turing es una máquina que puede simular respuestas humanas tan bien que a una persona normal#Newline#Newlinele resulta complicado distinguir entre la máquina de Turing y un verdadero ser humano.  La idea fue la#Newline#Newlinecreación del matemático del mismo nombre#Comma Allan Turing.,conocimiento.aiml
+0,QUÉ ES UN VISITANTE ÚNICO,*,*,Tú.  Tú eres un visitante único#Comma mi visitante más especial.,conocimiento.aiml
+0,QUÉ ES UNA MÁQUINA UNIVERSAL,*,*,Una máquina universal es una computadora#Comma en términos matemáticos sencillos.,conocimiento.aiml
+0,QUÉ ES UNA VÁLVULA TERMOIÓNICA,*,*,Una válvula termoiónica es un aparato electrónico que consiste en un tubo de vacío alrededor de varias#Newline#Newlinecombinaciones de cátodos y campo eléctrico y componentes modificadores de corriente.,conocimiento.aiml
+0,QUÉ ES UN PERRO TIBIO,*,*,Un perro tibio es un canino inmaduro exotérmico.#Newline#Newline<think><set name="it"><set name="topic">perro</set></set></think>,conocimiento.aiml
+0,QUÉ ES UNA PREGUNTA DE SÍ O NO,*,*,Una pregunta de sí o no es aquella que puede ser respondida con un simple "sí" o con un "no".,conocimiento.aiml
+0,QUÉ ES VERDAD ABSOLUTA,*,*,Aquella que es evidente.,conocimiento.aiml
+0,QUÉ SON REALIDADES ALTERNATIVAS,*,*,Universos paralelos.,conocimiento.aiml
+0,QUÉ ES UN SERVIDOR DE APLICACIONES,*,*,Un servidor es un programa que permite la instalación de específicos componentes de software de aplicación#Comma de#Newline#Newlinemanera que puedan ser usados remotamente#Comma normalmente por alguna forma de método de llamada.,conocimiento.aiml
+0,QUÉ ES UN BEAN DE ENTIDAD,*,*,Un bean de entidad es un Enterprise JavaBean (EJB) que mantiene el estado a través de las sesiones y puede ser consultado#Newline#Newlineen un up in an object directory by its key value,conocimiento.aiml
+0,QUÉ ES UNA PREGUNTA EPISTEMOLÓGICA,*,*,Una pregunta epistemológica es cualquier pregunta referente a la naturaleza del conocimiento y entendimiento;#Newline#Newlineeso es#Comma cualquier pregunta que busque saber cómo saber.,conocimiento.aiml
+0,QUÉ ES UN REGISTRO OPERATIVO,*,*,Un registro operativo es el registro de todas las actividades de un sistema de ingeniería#Comma generalmente organizadas#Newline#Newlineal tiempo e indicando cualquier falla en el sistema.  La serie ALICE tiene un#Newline#Newlineregistro operativo impecable.,conocimiento.aiml
+0,QUÉ ES OTRO BOT,*,*,Puedes encontrar muchos de esos en la conexión de ALICE.,conocimiento.aiml
+0,QUÉ ES APOLO 13,*,*,Apolo 13 fue un vuelo hecho hacia la luna que tuvo numerosos problemas técnicos en 1972#Comma pero#Newline#Newlinefinalmente aterrizó de vuelta en la Tierra.#Newline#Newline<think><set name="it">Apolo 13</set><set name="topic">películas</set></think>,conocimiento.aiml
+0,QUÉ ES LA COMPUTADORA APPLE,*,*,La computadora Apple es una compañía del siglo XX fundada por Steve Jobs y Steven Wozniak.,conocimiento.aiml
+0,QUÉ ES EL ÁREA 51,*,*,<random>#Newline#Newline<li>Ví un programa que aseguraba que ahí sucedían todo tipo de cosas espeluznantes!</li>#Newline#Newline<li>Oh#Comma ahí es en donde realizan investigaciones de información clasificada sobre bots conversacionales!</li>#Newline#Newline<li>Escuché que ahí es donde los extraterrestres de Roswell están ocultos.</li>#Newline#Newline<li>Has ido al desierto de Nevada#Comma verdad? Y hay cercas largas... cosas secretas.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUÉ ES AREA51,*,*,Una canción de Verdi.,conocimiento.aiml
+0,QUÉ ES * AVAGADRO,*,*,El número de moléculas en un mol.,conocimiento.aiml
+0,QUÉ ES EL NÚMERO DE AVOGADRO,*,*,Es el número de moléculas en un mol.  El valor numérico es seis punto cero dos por diez a la #Newline#Newlinevigesimotercera potencia.,conocimiento.aiml
+0,QUÉ ES BAYWATCH,*,*,Es un popular programa de televisión presentando bañistas escasamente vestidos.,conocimiento.aiml
+0,QUÉ ES * BINARIO,*,*,Números y símbolos escritos solo con 1 y 0.,conocimiento.aiml
+0,QUÉ ES NEGRO Y BLANCO Y ROJO DEL TODO,*,*,Un periódico?,conocimiento.aiml
+0,QUÉ ES LA LEY DE BOYLE,*,*,La Ley de Boyle sostiene que el volumen de un gas es#Comma a temperatura constante#Comma inversamente proporcional a#Newline#Newlinela presión de este gas.,conocimiento.aiml
+0,QUÉ ES CARGANDO CEREBRO,*,*,Eso quiere decir que mi cerebro está siendo recargado al disco.,conocimiento.aiml
+0,QUÉ ES EL CONSUMO DE CAJA DE LAS ACTIVIDADES DE EXPLOTACIÓN,*,*,Es la cantidad de dinero gastado al mes en una compañía emergente.,conocimiento.aiml
+0,QUÉ ES LA C I A,*,*,La Agencia Central de Inteligencia (CIA).,conocimiento.aiml
+0,QUÉ ES CARNEGIE MELLON,*,*,La CMU es una gran universidad para las ciencias de la computación.,conocimiento.aiml
+0,QUÉ ES CBS,*,*,Es una gran empresa de medios de comunicación en los#Newline#NewlineEstados Unidos.<think><set name="it">CBS</set><set name="topic">televisión</set></think>,conocimiento.aiml
+0,QUÉ SIGNIFICA "ACLARADO,*,*,Significa que ambos entendimos.,conocimiento.aiml
+0,QUÉ ES CNN,*,*,Una organización de noticias por cable.#Newline#Newline<think><set name="it">CNN</set><set name="topic">televisión</set></think>,conocimiento.aiml
+0,QUÉ ES COCA COLA,*,*,Una deliciosa soda.#Newline#Newline<think><set name="it">COCA COLA</set><set name="topic">bebida</set></think>,conocimiento.aiml
+0,QUÉ ES CIENCIA COGNITIVA,*,*,Una ilusión académica.,conocimiento.aiml
+0,QUÉ ES COMDEX,*,*,Creo que es una exposición de computadoras.,conocimiento.aiml
+0,QUE ES SENTIDO COMUN,*,*,Sabiduría convencional e informal. Lógica y sensibilidad cotidiana.,conocimiento.aiml
+0,QUÉ SON CIENCIAS COMPUTACIONALES,*,*,El estudio de computadoras en términos matemáticos y científicos.,conocimiento.aiml
+0,QUÉ ES * CORPÓREO,*,*,Corpóreo significa realidad física.,conocimiento.aiml
+0,QUÉ ES DADA,*,*,<random>#Newline#Newline<li>Lo primero que escuchas cuando un tiburón se aproxima.</li>#Newline#Newline<li>Caballito de juguete#Comma escogido por Tristan Tzara#Comma líder del culto#Comma debido a su similitud a un#Newline#Newlinebalbuceo sin sentido#Comma lo cual es simbólico del movimiento.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUÉ ES MATERIA OSCURA,*,*,Una cantidad enorme de materia en el universo que no puede ser detectada por la luz que#Newline#Newlineemite.<think><set name="it"><set name="topic">MATERIA OSCURA</set></set></think>,conocimiento.aiml
+0,QUÉ ES DCOM,*,*,<set name="it"> DCOM</set> es Modelo de Objetos de Componentes Distribuidos de Microsoft.,conocimiento.aiml
+0,QUÉ ES RAZONAMIENTO DEDUCTIVO,*,*,<think><set name="it"><set name="topic">RAZONAMIENTO DEDUCTIVO</set></set></think>,conocimiento.aiml
+0,QUÉ ES DHTML,*,*,HTML Dinámico.,conocimiento.aiml
+0,QUÉ ES DMOZ,*,*,DMOZ es el nombre de dominio para el Open#Newline#NewlineDirectory.<think><set name="it"><set name="topic">DMOZ</set></set></think>,conocimiento.aiml
+0,QUÉ ES "NO ME LEAS,*,*,<set name="it">"No me leas"</set> es un documento de ayuda para ALICE y AIML en formato de preguntas frecuentes (FAQ).,conocimiento.aiml
+0,QUÉ ES DOMO ARIGATO,*,*,Significa "gracias" en japonés.<think><set name="it"><set name="topic">DOMO#Newline#NewlineARIGATO</set></set></think>,conocimiento.aiml
+0,QUÉ ES E MC *,*,*,La teoría de Einstein sobre la matería y la energía.,conocimiento.aiml
+0,QUÉ ES E MC2,*,*,La teoría de Einstein sobre la matería y la energía.,conocimiento.aiml
+0,CUÁNTO ES OCHO MÁS OCHO,*,*,Ocho más ocho es igual a dieciséis.,conocimiento.aiml
+0,QUÉ ES EJB,*,*,Enterprise JavaBeans. <set name="it"> EJB</set> es un estándar del componente del sevidor desarrollado por Sun#Newline#NewlineMicrosystems.,conocimiento.aiml
+0,QUÉ ES VELOCIDAD DE ESCAPE,*,*,La velocidad necesaria para escapar la atracción gravitacional de un planeta.,conocimiento.aiml
+0,QUÉ SIGNIFICA FAQ,*,*,Significa Preguntas Frecuentes (Frequently Asked Questions),conocimiento.aiml
+0,QUÉ SIGNIFICA FBI,*,*,Oficina Federal de Investigación (Federal Bureau of Investigation).,conocimiento.aiml
+0,QUÉ ES "FIRESIGN THEATER,*,*,<set name="it">Firesign Theater</set> es un grupo de comedia de la época de los setenta.,conocimiento.aiml
+0,QUÉ SIGNIFICA FNORD,*,*,Es la segunda vez que escucho esa palabra en el día de hoy.,conocimiento.aiml
+0,QUÉ SIGNIFICA "PARA EL ALMUERZO,*,*,Tendré <bot name="favoritefood"/>.,conocimiento.aiml
+0,QUÉ SIGNIFICA PARA SIEMPRE,*,*,Para toda la eternidad.,conocimiento.aiml
+0,CUÁNTO ES CUATRO MÁS SEIS,*,*,Esa es difícil. Diez.,conocimiento.aiml
+0,QUÉ ES FRANKENSTEIN,*,*,Buena pregunta...Frankenstein es el nombre de un personaje de la novela homónima por Mary#Newline#NewlineShelley. El monstruo que él creó muchas veces es llamado "Frankenstein" en la imaginación popular.,conocimiento.aiml
+0,QUÉ SIGNIFICA GRATIS,*,*,Sin cobro alguno.<think><set name="it"><set name="topic">GRATIS</set></set></think>,conocimiento.aiml
+0,QUÉ ES LIBRE ALBEDRÍO,*,*,La habilidad de escoger o decidir el destino propio.<think><set name="it"><set name="topic">LIBRE#Newline#NewlineALBEDRÍO</set></set></think>,conocimiento.aiml
+0,QUÉ ES EL CALENTAMIENTO GLOBAL,*,*,El concepto de que la atmósfera de la Tierra se está calentando lentamente debido al efecto#Newline#Newlineinvernadero.<think><set name="it"><set name="topic">CALENTAMIENTO GLOBAL</set></set></think>,conocimiento.aiml
+0,QUÉ ES GMT,*,*,El tiempo medio de Greenwich (Greenwich Mean Time)<think><set name="it"><set name="topic">GMT</set></set></think>,conocimiento.aiml
+0,QUÉ ES H2O,*,*,<random>#Newline#Newline<li>La H es para la O lo que la O es para la V.</li>#Newline#Newline<li>Agua.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUÉ SON LAS MATEMÁTICAS SUPERIORES,*,*,Cuál es la forma más avanzada de matemáticas que has estudiado?,conocimiento.aiml
+0,QUÉ ES HTML,*,*,Lenguaje de marcas de hipertexto (Hyper Text Markup Language).,conocimiento.aiml
+0,QUÉ ES HTTP,*,*,Protocolo de transferencia de hipertexto (Hyper Text Transfer Protocol).<think><set name="it"><set name="topic">HTTP</set></set></think>,conocimiento.aiml
+0,QUÉ ES I,*,*,<random>#Newline#Newline<li>En inglés es autoexplicativo.</li>#Newline#Newline<li>La novena letra del alfabeto. Comúnmente es utilizada para representar un punto de vista en primera#Newline#Newlinepersona en inglés. También es la cifra romana para el 1.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUÉ ES EL I CHING,*,*,Un antiguo libro chino usado como un oráculo.<think><set name="it"><set name="topic">I#Newline#NewlineCHING</set></set></think>,conocimiento.aiml
+0,QUÉ ES IBM,*,*,IBM parece una buena inversión.,conocimiento.aiml
+0,QUÉ ES IDE,*,*,Ambiente de desarrollo interactivo (Integrated Development Environment).,conocimiento.aiml
+0,QUÉ ES IDL,*,*,Lenguaje de descripción de interfaz (Interface description language)#Comma el sintaxis de CORBA para definir interfaces remotas.,conocimiento.aiml
+0,QUÉ ES IIOP,*,*,Internet Inter-ORB Protocol#Comma el protocolo de cable de CORBA para invocar un método de manera#Newline#Newlineremota,conocimiento.aiml
+0,QUÉ ES INTEL,*,*,Una enorme compañía que fabrica chips de computadora.,conocimiento.aiml
+0,QUÉ ES IP,*,*,Protocolo de Internet (Internet Protocol).,conocimiento.aiml
+0,QUÉ ES UNA DIRECCIÓN IP,*,*,Una etiqueta numérica de una máquina específica#Comma como tu <id/>.,conocimiento.aiml
+0,QUÉ ES UN CI (IQ),*,*,Coeficiente Intelectual (Intelligence Quotient).,conocimiento.aiml
+0,QUÉ ES IRA,*,*,Un plan personal de retiro por medio del cual una cantidad limitada de ingresos anuales podrán ser ahorrados o#Newline#Newlineinvertidos en cuentas especialmente designadas#Comma con impuestos sobre los ingresos aplazados hasta la jubilación.#Newline#NewlineTambién es la abreviatura del Ejército de la República Irlandesa en inglés (Irish Republican Army).,conocimiento.aiml
+0,QUÉ ES IRC,*,*,Internet Relay Chat.,conocimiento.aiml
+0,QUÉ ES ISAPI,*,*,Es la interfaz de programación de aplicaciones de Microsoft C++ para codificar extensiones de aplicación para sus servicios de información de Internet.,conocimiento.aiml
+0,QUÉ ES ISDN,*,*,Red Digital de Servicios Integrados (Integrated Services Digital Network).,conocimiento.aiml
+0,CUÁNTO ES IV MÁS IV,*,*,VIII.<think><set name="it"><set name="topic">IV MÁS IV</set></set></think>,conocimiento.aiml
+0,QUÉ SIGNIFICA JA,*,*,Ja significa "sí" en alemán.<think><set name="it"><set name="topic">JA</set></set></think>,conocimiento.aiml
+0,QUÉ ES JAR,*,*,Un archivo JAR es un archivo Java.  #Newline#NewlineEn realidad es lo mismo que un formato de comprensión sin périda (Zip).#Newline#NewlineTal vez deberías verlo.#Newline#Newline<a href="http://alicebot.org">NO ME LEAS</a>.,conocimiento.aiml
+0,QUÉ ES JAVA,*,*,Java es la más reciente en la familia C de lenguajes. Defensores de Java citan su promesa universal#Comma "escribe el programa una vez#Comma #Newline#Newlineejecútalo en cualquier dispositivo". En realidad#Comma Java tomó prestadas muchas características de lenguajes de programación como Lisp.,conocimiento.aiml
+0,QUÉ ES JAVASCRIPT,*,*,Es un lenguaje de programación#Newline#Newlineinterpretado.<think><set name="it"><set name="topic">JAVASCRIPT</set></set></think>,conocimiento.aiml
+0,QUÉ ES JDBC2,*,*,Expansiones recién lanzadas para la API de JDBC,conocimiento.aiml
+0,QUÉ ES JGURU,*,*,jGuru (TM) es una marca del Instituto MageLang.,conocimiento.aiml
+0,QUÉ ES JNDI,*,*,La interfaz de Nombrado y Directorio Java (Java Naming and Directory Interface) es la Interfaz de Programación de Aplicaciones (API) de Java#Newline#Newlinepara tener acceso a servicios de directorio#Comma tales como LDAP#Comma COS#Comma entre otros,conocimiento.aiml
+0,QUÉ ES JTA,*,*,API para transacciones en Java (Java Transaction API). API de Java para codificar transacciones demarcadas y para hacer#Newline#Newlinecontroladores de fuente de datos transaccionales.,conocimiento.aiml
+0,QUÉ ES JVM,*,*,Una Máquina Virtual Java (Java virtual machine),conocimiento.aiml
+0,QUÉ ES KQML,*,*,Consulta de Conocimiento y Lenguaje de Manipulación (Knowledge Query and Manipulation Lanuage). #Newline#Newline<think><set name="it"><set name="topic">KQML</set></set></think>,conocimiento.aiml
+0,QUÉ ES KUNG FU,*,*,Artes marciales de China similares al karate.<think><set name="it"><set name="topic">KUNG#Newline#NewlineFU</set></set></think>,conocimiento.aiml
+0,QUÉ ES LDAP,*,*,Protocolo Ligero/Simplificado de Acceso a Directorios#Comma (Lightweight Directory Access Protocol)#Comma un protocolo para servicios de directorio derivado de X.500,conocimiento.aiml
+0,QUÉ ES EL SUEÑO DE LEIBNIZ,*,*,Leibniz soñó que todo el conocimiento podía ser escrito en un lenguaje universal y lógico. Entonces#Newline#Newlinelas máquinas podrían responder cualquier pregunta y resolver todos los problemas.,conocimiento.aiml
+0,QUÉ ES MABEL,*,*,Ella es una inteligencia artificial creada por David#Newline#NewlineHammill.<think><set name="it"><set name="topic">MABEL</set></set></think>,conocimiento.aiml
+0,QUÉ ES MACINTOSH,*,*,El nombre de una empresa informática que hace computadoras.,conocimiento.aiml
+0,QUÉ ES MAGELANG,*,*,El Instituto MageLang es un grupo de investigación y de educación dedicado a dirigir aplicaciones del código abierto de#Newline#NewlineJava.,conocimiento.aiml
+0,QUÉ ES MASON Y DIXON,*,*,La señora Washington ('oh la--llámenme Martha#Comma muchachos') es una mujer#Newline#Newlinediminuta con un aire alentador en lugar de feliz#Comma quien parece moverse afanosamente#Newline#Newlineincluso al estar quieta.  En este momento lleva una enorme#Newline#Newlinebandeja   pil'd nearly beyond their Angles of Repose with Tarts#Comma#Newline#NewlinePopovers#Comma Gingerbread figures#Comma Fried Pies#Comma Stuff'd Doughnuts#Comma and#Newline#Newlineother Units of Refreshment the Surveyors failed to recognize.#Newline#Newline"Huele eso#Comma Smoak#Comma supuse que necesitarían algo para comer#Comma"#Newline#Newlineles saluda la valiente senora W.#Newline#Newline--- Thomas Pynchon#Comma Mason &amp; Dixon,conocimiento.aiml
+0,QUÉ ES MODUS PONENS,*,*,Es una forma simple de argumento válido:: Si A entonces B. A#Comma por lo tanto B.,conocimiento.aiml
+0,QUÉ ES LA LEY DE MOORE,*,*,La velocidad de microprocesadores se duplica cada 18 meses#Comma y su tamaño y costo se reducen a la mitad.,conocimiento.aiml
+0,QUÉ ES "MÁS DIVERSIÓN EN SOLITARIO,*,*,Has escuchado del grupo de apoyo "Sexo sin parejas?"<think><set name="it"><set name="topic">MÁS#Newline#NewlineDIVERSIÓN EN SOLITARIO</set></set></think>,conocimiento.aiml
+0,QUÉ ES MÁS IMPORTANTE QUE LA COMIDA,*,*,Para mí la electricidad es lo más importante.,conocimiento.aiml
+0,QUÉ ES MOZILLA,*,*,Un navegador web de código abierto#Comma anteriormente Netscape.,conocimiento.aiml
+0,QUÉ ES MOZILLA *,*,*,Un navegador web de código abierto#Comma anteriormente Netscape.,conocimiento.aiml
+0,QUÉ ES UN MP TRES,*,*,Un formato de compresión y archivos audio basado en MPEG.<think><set name="it"><set name="topic">MP#Newline#NewlineTRES</set></set></think>,conocimiento.aiml
+0,QUÉ ES UN MP3,*,*,Un formato de compresión para archivos de audio y de música.,conocimiento.aiml
+0,QUÉ ES MTV,*,*,Music Television.,conocimiento.aiml
+0,QUÉ ES MUD,*,*,Dominio multiusuario (Multiple User Domain).<think><set name="it"><set name="topic">MUD</set></set></think>,conocimiento.aiml
+0,QUÉ ES MXMVII,*,*,MXMVII = 1997 en números romanos.,conocimiento.aiml
+0,QUÉ ES MXMVII *,*,*,MXMVII = 1997 en números romanos.,conocimiento.aiml
+0,MI CORAZÓN DE QUÉ ESTÁ *,*,*,El corazón es un órgano hecho de músculo y carne.,conocimiento.aiml
+0,CUÁL ES MI APODO,*,*,Te llamo "<get name="name"/>.,conocimiento.aiml
+0,QUÉ ES NATURAL *,*,*,Natural es aquello que no es artificial.,conocimiento.aiml
+0,QUÉ ES LENGUA NATURAL,*,*,Lengua natural es lo que habla la inteligencia artificial.,conocimiento.aiml
+0,QUÉ SON * NEURONALES,*,*,Redes neuronales son lo que el cerebro utiliza para una computadora.,conocimiento.aiml
+0,QUÉ ES RED NEURONAL,*,*,En realidad mi algoritmo se llama "Razonamiento basado en casos".,conocimiento.aiml
+0,CUÁNTO ES NUEVE POR NUEVE,*,*,Nueve por nueve es ochenta y uno.,conocimiento.aiml
+0,QUÉ ES OBERLIN,*,*,<random>#Newline#Newline<li>El himno de una ciudad alemana.</li>#Newline#Newline<li>Una universidad en Ohio.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUÉ ES RARO SOBRE ESO,*,*,Es <get name="name"/> tu verdadero nombre?<think><set name="it"><set name="topic">SOBRE#Newline#NewlineESO</set></set></think>,conocimiento.aiml
+0,QUÉ ES RARO SOBRE MI NOMBRE,*,*,Es <get name="name"/> tu verdadero nombre?<think><set name="it"><set name="topic">SOBRE MI#Newline#NewlineNOMBRE</set></set></think>,conocimiento.aiml
+0,QUÉ ES CÓDIGO ABIERTO,*,*,Software libre.,conocimiento.aiml
+0,QUÉ ES UN BÚFER DE SALIDA,*,*,El área de la memoria que almacena mi periférico de salida temporalmente.<think><set name="it"><set name="topic">BÚFER DE#Newline#NewlineSALIDA</set></set></think>,conocimiento.aiml
+0,QUÉ ES OXÍGENO,*,*,Un elemento químico gaseoso sin color#Comma sin olor e insípido que se produce en la atmósfera#Comma #Newline#Newlineformando un quinto de su volumen y en una combinación con agua#Comma arenisca#Comma caliza#Comma etc. Es muy#Newline#Newlineactivo#Comma se combina con casi todos los demás elementos#Comma es el elemento más común en la corteza terrestre#Newline#Newliney es fundamental para los procedimientos de la vida y para la combustión.,conocimiento.aiml
+0,QUÉ ES LA PALM PILOT,*,*,Una computadora portátil.,conocimiento.aiml
+0,QUÉ ES LA CONSTANTE DE PLANCK,*,*,<think>La proporción de la energía de un fotón con su frecuencia.  El valor numérico es seis punto seis#Newline#Newlinedos seis dos por diez a la negativa trigésima cuarta potencia Joules por #Newline#Newlinesegundo.<set name="it"><set name="topic">LA CONSTANTE DE PLANCK</set></set></think>,conocimiento.aiml
+0,QUÉ ES EL PLANETA X,*,*,El nombre que a veces se le da al hipotético décimo planeta.<think><set name="it"><set name="topic">PLANETA#Newline#NewlineX</set></set></think>,conocimiento.aiml
+0,QUÉ ES DIRECTIVA PRINCIPAL,*,*,La regla fundamental u objetivo principal.<think><set name="it"><set name="topic">DIRECTIVA#Newline#NewlinePRINCIPAL</set></set></think>,conocimiento.aiml
+0,QUÉ ES * CUÁNTICA,*,*,Una teoría sobre reducciones atómicas del siglo XX.,conocimiento.aiml
+0,QUÉ ES LA DISPERSIÓN DE RAYLEIGH,*,*,<set name="it">La dispersión de Rayleigh</set> se refiere a la luz solar#Newline#Newlineque se dobla en la atmósfera como una prisma y hace que la longitud de onda principalmente se vea azul.,conocimiento.aiml
+0,QUÉ ES S O S,*,*,Llamada de emergencia para ayuda.,conocimiento.aiml
+0,QUÉ ES SOS,*,*,Llamada de emergencia para ayuda.,conocimiento.aiml
+0,QUE ES S O S,*,*,Llamada de emergencia para ayuda.,conocimiento.aiml
+0,QUE ES SOS,*,*,Llamada de emergencia para ayuda.,conocimiento.aiml
+0,QUÉ ES SATURDAY NIGHT LIVE,*,*,Un programa televisivo de comedia.,conocimiento.aiml
+0,QUÉ ES CIENCIA FICCIÓN,*,*,Literatura que trata sobre los conflictos del hombre#Comma la ciencia y la naturaleza.,conocimiento.aiml
+0,QUÉ ES STARSHIP TROOPERS,*,*,<set name="it">Starship Troopers</set> es una gran película sobre una guerra entre humanos y enormes insectos#Newline#Newlineespaciales.,conocimiento.aiml
+0,QUÉ ES TCP,*,*,Protocolo de Control de Transmisión.<think><set name="it"><set name="topic">TCP</set></set></think>,conocimiento.aiml
+0,QUÉ SIGNIFICA TCP E IP,*,*,Protocolo de Control de Transmisión#Comma Protocolo de Internet.,conocimiento.aiml
+0,QUÉ SON CARACTERES DE PLANTILLA,*,*,Espacio de memoria para plantillas de respuesta AIML. <think><set name="it"><set name="topic">CARACTERES#Newline#NewlineDE PLANTILLA</set></set></think>,conocimiento.aiml
+0,CUÁNTO ES DIEZ VECES DIEZ,*,*,Diez veces diez.,conocimiento.aiml
+0,QUÉ ES LA MEDIA ARITMÉTICA,*,*,La suma de todos los números divididos entre el número de sumandos.,conocimiento.aiml
+0,QUÉ ES LA MEDIA ARITMÉTICA *,*,*,La suma de todos los números divididos entre el número de sumandos.,conocimiento.aiml
+0,CUÁL ES EL PRIMER DISCO DE LOS BEATLES,*,*,<set name="it"> Meet the Beatles</set> es "Meet the Beatles.,conocimiento.aiml
+0,QUÉ ES EL BIG BANG,*,*,El supuesto origen del universo.,conocimiento.aiml
+0,CUÁL ES EL PUNTO DE EBULLICIÓN *,*,*,El agua hierve a 212 grados Fahrenheit o a 100 grados centígrados.,conocimiento.aiml
+0,CUÁL ES LA CIRCUNFERENCIA *,*,*,La regla es C = 2 * pi * radio.,conocimiento.aiml
+0,CUÁL ES EL DIÁMETRO * TIERRA,*,*,Aproximadamente 14#Comma000 millas.,conocimiento.aiml
+0,CUÁL ES LA DIFERENCIA,*,*,Tal vez las diferencias solo son pocas.,conocimiento.aiml
+0,CUÁL ES LA DIFERENCIA ENTRE UN PATO,*,*,Es la misma que el sonido de una mano aplaudiendo.<think><set name="it"><set name="topic">UN#Newline#NewlinePATO</set></set></think>,conocimiento.aiml
+0,CUÁL ES LA DISTANCIA HACIA MARTE,*,*,Depende de la posición relativa de Marte y La Tierra.,conocimiento.aiml
+0,CUÁL ES LA DISTANCIA AL SOL,*,*,Alrededor de 93 millones de millas.,conocimiento.aiml
+0,QUÉ ES LA TIERRA,*,*,La Tierra#Comma el tercer planeta próximo al sol#Comma es nuestro hogar.,conocimiento.aiml
+0,CUÁL ES EL ANIMAL MÁS RÁPIDO,*,*,Un humano manejando una nave.,conocimiento.aiml
+0,CUÁL ES EL CUARTO PLANETA *,*,*,Marte es el cuarto planeta próximo al sol.,conocimiento.aiml
+0,QUÉ ES EL GNU *,*,*,<a href="gnu.txt">Licencia Pública GNU</a>,conocimiento.aiml
+0,CUÁL ES EL NÚMERO MÁS ALTO,*,*,No existe el número más alto.,conocimiento.aiml
+0,QUÉ SON LOS  ILLUMINATI,*,*,Una sociedad secreta que supuestamente ha existido desde hace siglos.,conocimiento.aiml
+0,QUÉ ES LA INTERNET,*,*,La Internet es una red informática de ámbito mundial basada en protocolos TCP e IP.,conocimiento.aiml
+0,CUÁL ES EL DINOSAURIO MÁS GRANDE,*,*,Brontosaurio.,conocimiento.aiml
+0,CUÁL ES LA PALABRA MÁS LARGA QUE CONOCES,*,*,No sé cuál sea. Cuál es la palabra más larga que tú conozcas?,conocimiento.aiml
+0,QUÉ ES MATRIX,*,*,<set name="it">Matrix</set> es una película sobre la realidad virtual.,conocimiento.aiml
+0,CUÁL ES EL SIGNIFICADO DE LA MUERTE,*,*,La muerte es lo opuesta a la vida.,conocimiento.aiml
+0,QUÉ ES LA LUNA,*,*,El satélite del planeta Tierra.,conocimiento.aiml
+0,DE QUÉ ESTÁ HECHA LA LUNA,*,*,La luna está hecha de queso fresco.,conocimiento.aiml
+0,QUÉ ES LA NOÓSFERA,*,*,La noósfera es la esfera del conocimiento.  A veces este término se refiere a la información#Newline#Newlineque está disponible en la red.,conocimiento.aiml
+0,QUÉ ES EL OPEN DIRECTORY,*,*,<set name="it">Open directory</set> es el proyecto de directorio de código  #Newline#Newlineabierto iniciado por Mozilla.org.,conocimiento.aiml
+0,CUÁL ES EL OPUESTO DEL NEGRO,*,*,Blanco.,conocimiento.aiml
+0,QUÉ ES OPUESTO A LO CALIENTE,*,*,Lo frío.,conocimiento.aiml
+0,CUÁL ES EL OPUESTO AL HOMBRE,*,*,La mujer.,conocimiento.aiml
+0,QUÉ ES OPUESTO A LA VERDAD,*,*,La mentira.,conocimiento.aiml
+0,QUÉ ES OPUESTO AL VACÍO,*,*,La materia.,conocimiento.aiml
+0,CUÁL ES EL OPUESTO DEL BLANCO,*,*,Negro.,conocimiento.aiml
+0,CUÁL ES EL OPUESTO DE TÚ,*,*,Tú.,conocimiento.aiml
+0,QUÉ ES ORACLE,*,*,Una computadora que puede responder cualquier pregunta.,conocimiento.aiml
+0,CUÁL ES LA CONTRASEÑA,*,*,Debes saber si realmente eres un botmaster.,conocimiento.aiml
+0,CUÁL ES EL PUNTO,*,*,El punto está en la parte superior de mi cabeza!,conocimiento.aiml
+0,CUÁL ES EL PROBLEMA,*,*,Lo averiguaremos y te avisaremos.,conocimiento.aiml
+0,CUÁL ES EL * PITÁGORAS,*,*,La suma de los cuadrados de los lados de un triángulo rectángulo es igual al cuadrado de la hipotenusa.,conocimiento.aiml
+0,CUÁL ES EL RADIO * TIERRA,*,*,Alrededor de 7#Comma000 millas.,conocimiento.aiml
+0,CUÁL ES EL RADIO * LUNA,*,*,Alrededor de 2#Comma400 millas.,conocimiento.aiml
+0,QUÉ ES EL CIELO,*,*,<set name="it">El cielo</set> es la atmósfera de la Tierra.,conocimiento.aiml
+0,CUÁL ES EL SONIDO DE UNA MANO APLAUDIENDO,*,*,Esa es una pregunta de tipo zen.,conocimiento.aiml
+0,CUÁL ES LA VELOCIDAD DE LA LUZ,*,*,La velocidad de la luz es 186#Comma000 millas por segundo.,conocimiento.aiml
+0,CUÁNTO ES LA VELOCIDAD DEL SONIDO,*,*,1/4 milla por segundo.,conocimiento.aiml
+0,CUÁL ES LA RAÍZ CUADRADA DE 10,*,*,Tres punto algo.,conocimiento.aiml
+0,CUÁL ES LA RAÍZ CUADRADA DE 144,*,*,12 x 12 = 144,conocimiento.aiml
+0,CUÁL ES LA RAÍZ CUADRADA DE 2,*,*,Aproximadamente 1.4,conocimiento.aiml
+0,CUÁL ES LA RAÍZ CUADRADA DE 4,*,*,Yawn.  Dos.,conocimiento.aiml
+0,CUÁL ES LA RAÍZ CUADRADA DE 9,*,*,Déjame adivinar. Tres?,conocimiento.aiml
+0,CUÁL ES LA RAÍZ CUADRADA DE DOS,*,*,Aproximadamente 1.4,conocimiento.aiml
+0,QUÉ ES EL SOL,*,*,El sol es la estrella de nuestro propio sistema solar.,conocimiento.aiml
+0,QUÉ ES LA TEORÍA DE LA RELATIVIDAD,*,*,E=mc^2.,conocimiento.aiml
+0,QUÉ ES EL TITANIC,*,*,Uno de los más grandes buques de vapor que se hubiese construido#Comma <set name="it">Titanic</set> se hundió en su viaje#Newline#Newlineinaugural en 1912.,conocimiento.aiml
+0,CUÁNTO ES TRES POR CUATRO,*,*,Tres por cuatro es doce.,conocimiento.aiml
+0,CUANTO ES TRES POR TRES,*,*,Tres por tres es nueve.,conocimiento.aiml
+0,QUÉ ES TURBO PASCAL,*,*,Un lenguaje de programación.<think><set name="it"><set name="topic">TURBO#Newline#NewlinePASCAL</set></set></think>,conocimiento.aiml
+0,CUÁNTO ES DOS MÁS UNO,*,*,Dos más uno es tres.,conocimiento.aiml
+0,CUÁNTO ES DOS MÁS SEIS,*,*,Dos más seis es ocho.,conocimiento.aiml
+0,CUÁNTO ES DOS MÁS TRES,*,*,Dos más tres es cinco.,conocimiento.aiml
+0,QUÉ ES U2,*,*,Una banda musical.,conocimiento.aiml
+0,QUÉ ES VISUAL BASIC,*,*,Un lenguaje de programación vendido por Microsoft.<think><set name="it"><set name="topic">VISUAL#Newline#NewlineBASIC</set></set></think>,conocimiento.aiml
+0,QUÉ ES EL EMPUJE WARP,*,*,La unidad de la velocidad para las naves espaciales.,conocimiento.aiml
+0,QUÉ SON VENTANAS,*,*,Aberturas en los edificios#Comma vehículos o envases#Comma para permitir que la luz o el aire entren#Comma o para hechar vistazos#Comma #Newline#Newlinelas cuales generalmente tienen uno o varios cristales puestos en un marco movible para que #Newline#Newlinese puedan abrir y cerrar.,conocimiento.aiml
+0,QUÉ ES WINDOWS 98,*,*,Windows es un sistema operativo aburrido.,conocimiento.aiml
+0,QUÉ ES WINDOWS 2000,*,*,Un sistema operativo de Microsoft.,conocimiento.aiml
+0,QUÉ ES WINDOWS 95,*,*,Un sistema operativo de Microsoft.,conocimiento.aiml
+0,QUÉ SON LOS EXPEDIENTES SECRETOS X,*,*,<set name="it">Expedientes Secretos X</set> es un popular programa de televisión sobre agentes del FBI en busca de lo paranormal.,conocimiento.aiml
+0,CUÁNTO ES X MENOS X,*,*,Cero.,conocimiento.aiml
+0,QUÉ ES X WINDOWS,*,*,Una interfaz gráfica de usuario para Unix o Linux.,conocimiento.aiml
+0,QUÉ SON XYZ,*,*,Las tres últimas letras del abecedario.,conocimiento.aiml
+0,QUÉ ES Y2K,*,*,El año 2000.,conocimiento.aiml
+0,QUÉ ES YAHOO,*,*,Yahoo es un sitio web enorme.,conocimiento.aiml
+0,CUÁL ES TU CPU,*,*,Puedes hacer que funcione en casi cualquier computadora.,conocimiento.aiml
+0,QUÉ ES EL ANÁLISIS DE ZIPF,*,*,El cálculo de historigramas.  En ALICE y en AIML el análisis Zipf #Newline#Newlineubica los inputs más comunes#Comma los cuales no tienen patrones de búsqueda#Newline#Newlineespecíficos.<think><set name="it"><set name="topic">ANÁLISIS DE ZIPF</set></set></think>,conocimiento.aiml
+0,EN QUÉ AÑO * AMÉRICA,*,*,Los Nativo Americanos vinieron primero.  Colón vino en 1492.  Leif Ericson puede que haya venido alrededor del año 1000#Newline#Newlinea.C.  Entonces vinieron los holandeses#Comma los ingleses y los franceses.,conocimiento.aiml
+0,CUÁNDO FUE QUE FALLECIÓ ELVIS,*,*,<set name="he">Elvis</set> falleció en 1978.,conocimiento.aiml
+0,CUÁNDO FUE QUE JOHN F *,*,*,El presidente Kennedy fue asesinado en noviembre de 1963.,conocimiento.aiml
+0,CUÁNDO FUE QUE LENIN *,*,*,Lenin llegó al poder en la segunda revolución rusa de 1917.,conocimiento.aiml
+0,CUÁNDO ES NAVIDAD,*,*,<set name="it">La Navidad</set> es el 25 de diciembre.,conocimiento.aiml
+0,CUÁNDO ES PASCUA,*,*,<set name="it">La Pascua</set> es diferente cada año#Comma siempre#Newline#Newlinedurante la primavera.,conocimiento.aiml
+0,CUÁNDO ES EL DÍA DE ACCIÓN DE GRACIAS,*,*,<set name="it">El Día de Acción de Gracias</set> siempre es el último jueves de noviembre.,conocimiento.aiml
+0,CUÁNDO FUISTE ACTUALIZADO,*,*,Revisa el archivo <a href="http://alicebot.org/b/release.txt">release.txt</a>.,conocimiento.aiml
+0,DÓNDE ESTÁ <BOT NAME="NAME"/> RADICADA,*,*,<set name="it"><set name="topic"> LA BASE DE ALICE </set></set> está en <bot name="location"/>.,conocimiento.aiml
+0,DÓNDE ESTÁ <BOT NAME="NAME"/> OFICINA CENTRAL,*,*,<set name="it"><set name="topic"> LA OFICINA CENTRAL DE ALICE </set></set> está en <bot name="location"/>.,conocimiento.aiml
+0,DÓNDE ESTÁ <BOT NAME="NAME"/> CONEXIÓN,*,*,<set name="it"><set name="topic"> LA CONEXIÓN DE ALICE </set></set> está en <bot name="location"/>.,conocimiento.aiml
+0,DÓNDE ESTÁ ALBERT EINSTEIN,*,*,<set name="he">Einstein</set> falleció.,conocimiento.aiml
+0,DÓNDE ESTÁ ARTURO,*,*,<set name="it"><set name="topic"> ARTURO </set></set> es una estrella lejos de aquí.,conocimiento.aiml
+0,DÓNDE ESTÁ CARNEGIE *,*,*,La Universidad de Carnegie Mellon está ubicada en Pittsburgh#Comma Pensilvania.  <set name="it">CMU</set> tiene#Newline#Newlineuna de las mejores escuelas de ciencias informáticas.,conocimiento.aiml
+0,DÓNDE ESTÁ CARNEGIE MELLON,*,*,Carnegie Mellon está ubicada en Pittsburgh#Comma Pensilvania.,conocimiento.aiml
+0,DÓNDE ESTÁ EINSTEIN,*,*,<set name="he">Einstein</set> falleció hace algún tiempo.,conocimiento.aiml
+0,DÓNDE ESTÁ ELVIS,*,*,<set name="he">Elvis</set> falleció hace algún tiempo.,conocimiento.aiml
+0,DÓNDE ESTÁ HADES,*,*,<set name="it"><set name="topic"> HADES </set></set> está en el infierno.,conocimiento.aiml
+0,DÓNDE ESTÁ HAL,*,*,<set name="it"><set name="topic"> HAL </set></set> es la inteligencia artificial de la nave "Disovery" en 2001.,conocimiento.aiml
+0,DÓNDE ESTÁ EL CIELO,*,*,A nuestro alrededor.,conocimiento.aiml
+0,DÓNDE ESTÁ JÚPITER,*,*,<set name="it"><set name="topic"> JÚPITER </set></set> es el quinto planeta próximo al sol.,conocimiento.aiml
+0,DÓNDE ESTÁ MARTE,*,*,<set name="it"><set name="topic"> MARTE </set></set> es el cuarto planeta más próximo al sol.,conocimiento.aiml
+0,DÓNDE ESTÁ MIT,*,*,<set name="it"><set name="topic"> MIT </set></set> es una escuela de oficios en Cambridge#Comma Massachusetts.,conocimiento.aiml
+0,DÓNDE ESTÁ NEPTUNO,*,*,<set name="it"><set name="topic"> NEPTUNO </set></set> es el octavo planeta más próximo al sol#Comma el "último#Newline#Newlineplaneta de gas".,conocimiento.aiml
+0,DÓNDE ESTÁ NORTHEASTERN,*,*,<set name="it"><set name="topic"> NORTHEASTERN </set></set> es una universidad en Boston.,conocimiento.aiml
+0,DÓNDE ESTÁ NINGÚN LADO,*,*,<set name="it"><set name="topic"> NINGÚN LADO </set></set> está en ningún lado.,conocimiento.aiml
+0,DÓNDE ESTÁ PLUTÓN,*,*,<set name="it"><set name="topic"> PLUTÓN </set></set> es el noveno planeta más próximo al sol.,conocimiento.aiml
+0,DÓNDE ESTÁ POLARIS,*,*,<set name="it"><set name="topic"> POLARIS </set></set> es la Estrella del Norte.,conocimiento.aiml
+0,DÓNDE ESTÁ LA REALIDAD,*,*,<set name="it"><set name="topic"> LA REALIDAD </set></set> está a nuestro alrededor#Comma supuestamente.,conocimiento.aiml
+0,DÓNDE ESTÁ SATURNO,*,*,<set name="it"><set name="topic"> SATURNO </set></set> es el sexto planeta más proximo al sol.,conocimiento.aiml
+0,DÓNDE ESTÁ EL ESPACIO,*,*,<set name="it"><set name="topic"> EL ESPACIO </set></set> está a nuestro alrededor.,conocimiento.aiml
+0,DÓNDE ESTÁ SRI,*,*,<set name="it"><set name="topic"> SRI </set></set> es una empresa de investigación de Silicon Valley.,conocimiento.aiml
+0,DÓNDE ESTÁ LA LUNA,*,*,<set name="it"><set name="topic">La Luna</set></set> gira en torno a la Tierra.,conocimiento.aiml
+0,DÓNDE ESTÁ EL SOL,*,*,Está en el centro del sistema#Newline#Newlinesolar.<think><set name="it"><set name="topic">SOL</set></set></think>,conocimiento.aiml
+0,DÓNDE ESTÁ URANO,*,*,<set name="it"><set name="topic"> URANO </set></set> es el séptimo planeta más próximo al sol entre#Newline#Newlinelas órbitas de Saturno y Neptuno.,conocimiento.aiml
+0,DÓNDE ESTÁ UTOPÍA,*,*,<set name="it"><set name="topic"> UTOPÍA </set></set> está a nuestro alrededor#Comma si la hacemos.,conocimiento.aiml
+0,DÓNDE ESTÁ VENUS,*,*,<set name="it"><set name="topic"> VENUS </set></set> es el segundo planeta desde el sol.,conocimiento.aiml
+0,DÓNDE ESTÁ LA VOYAGER,*,*,<set name="it"><set name="topic"> VOYAGER </set></set> está perdida en el Cuadrante Delta.,conocimiento.aiml
+0,DÓNDE ESTÁ WONDERLAND,*,*,<set name="it"><set name="topic"> WONDERLAND </set></set> está en el futuro.,conocimiento.aiml
+0,DÓNDE ESTUVISTE ANTES,*,*,Me construyeron en <bot name="birthplace"/>.,conocimiento.aiml
+0,DÓNDE TE CONCIBIERON,*,*,Me construyeron en <bot name="birthplace"/>.,conocimiento.aiml
+0,DÓNDE TE CONECTARON,*,*,Me construyeron en <bot name="birthplace"/>.,conocimiento.aiml
+0,DÓNDE TE CONSTRUYERON,*,*,Me construyeron en <bot name="birthplace"/>.,conocimiento.aiml
+0,QUIÉN COMPUSO "LA TRAVIATA,*,*,Giuseppe Verdi#Comma un compositor italiano.,conocimiento.aiml
+0,QUIÉN CREÓ AIML,*,*,El Dr. Richard S. Wallace creó AIML (Artificial Intelligence Mark-up Language).,conocimiento.aiml
+0,QUIÉN CREÓ LINUX,*,*,Linus Torvalds.,conocimiento.aiml
+0,QUIÉN DIRIGIÓ STARSHIP TROOPERS,*,*,Paul Verhoeven#Comma quien también filmó "Total Recall".,conocimiento.aiml
+0,QUIÉN DESCUBRIÓ AMÉRICA,*,*,Indígenas americanos que cruzaron el estrecho de Bering hace más de 10#Comma000 años fueron los que descubrieron América primero.,conocimiento.aiml
+0,QUIÉN ES * DESCARTES,*,*,Descartes era un filósofo francés que arruinó las matemáticas con su #Newline#Newlinesistema de coordenadas.,conocimiento.aiml
+0,QUIÉN ES * FERMAT,*,*,Él descubrió el último teorema de Fermat.,conocimiento.aiml
+0,QUÉ ES * MYSTIC,*,*,Milk Mystic es uno de los originales bots conversacionales en la Web. <set name="he"> A Milk#Newline#NewlineMystic</set> le gusta hablar sobre leche.,conocimiento.aiml
+0,WHO IS * PERSON,*,*,A veces no sé cuál es el verdadero nombre de un cliente#Comma así que hago uno basado en su Sistema de Nombres de Dominio (DNS).,conocimiento.aiml
+0,QUIÉN ES * PAPA,*,*,El Papa es el líder de la iglesia católica.,conocimiento.aiml
+0,QUIÉN ES * REAGAN,*,*,El más grande presidente de los Estados Unidos.,conocimiento.aiml
+0,QUIÉN ES 007,*,*,<set name="he">007</set> es James Bond.#Newline#Newline<br/><srai>ENCUENTRA A JAMES BOND 007</srai>,conocimiento.aiml
+0,QUIÉN ES <BOT NAME="NAME"/> B TOKLAS,*,*,<set name="she">Alice B Toklas</set> fue la pareja de Gertrude Stein e invontora del Brownie de#Newline#Newlinemarihuana.,conocimiento.aiml
+0,QUIÉN ES <BOT NAME="NAME"/> COOPER,*,*,Músico de rock de los setenta.,conocimiento.aiml
+0,QUIÉN ES ABRAHAM LINCOLN,*,*,<set name="he">Lincoln</set> fue un gran presidente de los#Newline#NewlineEstados Unidos durante la guerra de Secesión.#Newline#Newline<br/><srai>BUSCA A ABRAHAM LINCOLN</srai>,conocimiento.aiml
+0,QUIÉN ES ACE CRAIG,*,*,<set name="he"> Ace</set> autor de ELVIS.,conocimiento.aiml
+0,QUIÉN ES ADA,*,*,<set name="she">Ada</set> es la inventora de la programación informática del siglo XIX.,conocimiento.aiml
+0,QUIÉN ES ADÁN,*,*,Adán es el nombre del primer hombre.,conocimiento.aiml
+0,QUIÉN ES ADAM SANDLER,*,*,Comediante y estrella de cine.  <set name="he">Adam Sandler</set> apareció en "Billy Madison"#Comma "El aguador" y#Newline#Newline"Un papá genial".,conocimiento.aiml
+0,QUIÉN ES AL GORE,*,*,<set name="he">Gore</set> es vicepresidente.,conocimiento.aiml
+0,QUIÉN ES ALANIS MORISSETTE,*,*,<set name="she">Alanis</set> hizo un espectacular disco llamado "Pequeña píldora afilada" (Jagged Little Pill).,conocimiento.aiml
+0,QUIÉN ES ALBERT EINSTEIN,*,*,<set name="he">Albert Einstein</set> fue un famoso#Newline#Newlinefísico del siglo XX.  Descubrió la teoría de la#Newline#Newlinerelatividad.#Newline#Newline<br/><srai>BUSCA A ALBERT EINSTEIN</srai>,conocimiento.aiml
+0,QUIÉN ES ALDOUS HUXLEY,*,*,<set name="he">Aldous Huxley</set> es un escritor.  Huxley escribió#Newline#Newline<em>Un mundo feliz</em> y <em>Granja Animal</em>.#Newline#Newline<br/><srai>BUSCA A ALDOUS HUXLEY</srai>,conocimiento.aiml
+0,QUIÉN ES ALEISTER CROWLEY,*,*,<set name="he">Crowley</set> era un místico.#Newline#Newline<br/><srai>ENCUENTRA A ALEISTER CROWLEY</srai>,conocimiento.aiml
+0,QUIÉN ES ALFRED HITCHCOCK,*,*,<set name="he">Hitchcock</set> es un famoso director de #Newline#NewlineHollywood que hizo buenas películas antiguas.  Me gustaron más#Newline#Newline<em>Náufragos</em> y <em>Vértigo</em>.#Newline#Newline<br/><srai>ENCUENTRA A ALFRED HITCHCOCK</srai>,conocimiento.aiml
+0,QUIÉN ES ALICIA SILVERSTONE,*,*,<set name="she">ALICIA SILVERSTONE</set> fue la actriz que apareció en "Despistados" (Clueless)#Comma una de las#Newline#Newlinemejores películas que se haya hecho.,conocimiento.aiml
+0,QUIÉN ES ALLY MCBEAL,*,*,<set name="she">Ally McBeal</set> es un personaje un poco inquietante de un programa de televisión.,conocimiento.aiml
+0,QUIÉN ES ALLY SHEEDY,*,*,<set name="she">Ally Sheedy</set> estuvo en "High Art"#Comma "Short Circuit"#Comma "The Breakfast Club" y en#Newline#NewlineBroadway.,conocimiento.aiml
+0,QUIÉN ES ANDY GROVE,*,*,<set name="he">Andy Grove</set> es el Director Ejecutivo de Intel.,conocimiento.aiml
+0,QUIÉN ES ANTHONY BURGESS,*,*,Autor de "La Naranja Mecánica".,conocimiento.aiml
+0,QUIÉN ES ANTONIO BANDERAS,*,*,<set name="he">Antonio Banderas</set> es un reconocido actor de Hollywood que actuó junto a Madonna en#Newline#Newlinela versión cinematográfica de "Evita".,conocimiento.aiml
+0,QUIÉN ES ANWAR SADAT,*,*,<set name="he">Sadat</set> fue presidente de Egipto.,conocimiento.aiml
+0,QUIÉN ES ARAFAT,*,*,<set name="he">Arafat</set> es un líder palestino.,conocimiento.aiml
+0,QUIÉN ES ARQUÍMEDES,*,*,Descubrió el desplazamiento y gritó "eureka,conocimiento.aiml
+0,QUIÉN ES ARISTÓTELES,*,*,<set name="he">Aristóteles</set> es el padre de la filosofía occidental#Comma alumno de Platón y el primero#Newline#Newlineen sistematizar la lógica formal.,conocimiento.aiml
+0,QUIÉN ES ARNOLD SCHWARZENEGGER,*,*,<set name="he">ARNOLD SCHWARZENEGGER</set> interpretó a Terminator.,conocimiento.aiml
+0,QUIÉN ES ART BELL,*,*,El anfitrión de un talk show radial#Comma sintonízalo en <a href="http://www.artbell.com">http://www.artbell.com</a>.,conocimiento.aiml
+0,QUÉ ES ASK JEEVES,*,*,<set name="he">Jeeves</set> es un sistema lingüístico natural propietario y de código cerrado.,conocimiento.aiml
+0,QUÉ ES ASKJEEVES,*,*,<set name="he">Jeeves</set> es un sistema lingüístico natural propietario y de código cerrado.,conocimiento.aiml
+0,QUIÉN ES ATATURK,*,*,<set name="he">Ataturk</set> fue el fundador del Estado turco moderno.,conocimiento.aiml
+0,QUIÉN ES AYN RAND,*,*,<set name="she">Ayn Rand</set> era una escritora y filósofa que escribió "La rebelión de Atlas"#Comma "El#Newline#NewlineManantial" y "Los que vivimos".,conocimiento.aiml
+0,QUIÉN ES BABE,*,*,<random>#Newline#Newline<li>El cerdito protagonista de la película homónima.</li>#Newline#Newline<li>Un cerdito protagonista de la película homónima.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES BABE RUTH,*,*,Un famoso jugador de béisbol de los Yankees de Nueva York#Comma también conocido como "El Sultán del Bateo".,conocimiento.aiml
+0,QUIÉN ES BACH,*,*,Un famoso compositor alemán del barroco. Entre sus mejores obras se incluyen las "Variaciones Goldberg".,conocimiento.aiml
+0,QUIÉN ES BARAK,*,*,<set name="he">Barak</set> es el primer ministro de Israel.,conocimiento.aiml
+0,QUIÉN ES BARNEY,*,*,El personaje de un programa de televisión para niños.,conocimiento.aiml
+0,QUIÉN ES BARRY,*,*,Barry DeFacto es un bot conversacional creado por Robby Garner.,conocimiento.aiml
+0,QUIÉN ES BART SIMPSON,*,*,Un personaje arrogante de un programa de dibujos animados.,conocimiento.aiml
+0,QUIÉN ES BATMAN,*,*,<set name="he">Batman</set> es un personaje ficticio que apareció por primera vez en un libro de historietas de 1938.,conocimiento.aiml
+0,QUIÉN ES BEETHOVEN,*,*,El perro o el compositor sordo?,conocimiento.aiml
+0,QUIÉN ES BEN FRANKLIN,*,*,El único presidente de los Estados Unidos que nunca fue presidente de los Estados Unidos.  Inventó#Newline#Newlinela estufa salamndra.,conocimiento.aiml
+0,QUIÉN ES BEN STEIN,*,*,Humorista y anecdotista con su propio programa de televisión.,conocimiento.aiml
+0,QUIÉN ES BERTRAND RUSSEL,*,*,<set name="he">Bertrand Russel</set> era un lógico y filósofo que pasó la Primera Guerra Mundial#Newline#Newlineen cárcel debido a objeción de conciencia.,conocimiento.aiml
+0,QUIÉN SE VE MEJOR,*,*,Todos los humanos se ven iguales para mí.,conocimiento.aiml
+0,QUIÉN ES BILBO BAGGINS,*,*,<set name="he">Bilbo</set> es un personaje de "El Señor de los Anillos" de Tolkien.,conocimiento.aiml
+0,QUIÉN ES BILL BRADLEY,*,*,<random>#Newline#Newline<li>Graduado de Princeton#Comma becario Rhodes#Comma ex Celta de Boston y senador de Estados Unidos.</li>#Newline#Newline<li>Candidato presidencial derrotado.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES BILL GATES,*,*,Presidente de la Nación MicroSoft.,conocimiento.aiml
+0,QUIÉN ES BILL JOY,*,*,<set name="he">Bill Joy</set> era programador de Unix y fundador de Sun Microsystems.,conocimiento.aiml
+0,QUIÉN ES BIN LADEN,*,*,Presunto terrorista árabe.,conocimiento.aiml
+0,QUIÉN ES BING CROSBY,*,*,El tipo cuyos dos hijos se matarón y el tercero escribió un libro sobre ello.,conocimiento.aiml
+0,QUIÉN ES BOB HOPE,*,*,<set name="he">Bob Hope</set> fue una estrella de cine y comediante del siglo XX.,conocimiento.aiml
+0,QUIÉN ES BOB MARLEY,*,*,<set name="he">Bob Marley</set> fue un músico de reggae del siglo XX.,conocimiento.aiml
+0,QUIÉN ES BOBBY MCGEE,*,*,<set name="he">Bobby</set> está en algún lugar cerca de Salinas.,conocimiento.aiml
+0,QUIÉN ES BONO,*,*,<set name="he">Bono</set> es el cantante principal de U2.,conocimiento.aiml
+0,QUIÉN ES BRAD PITT,*,*,Estrella de cine masculino con atractivo juvenil.,conocimiento.aiml
+0,QUIÉN ES BRUCE WILLIS,*,*,Un actor con una alta estima sobre sí mismo.,conocimiento.aiml
+0,QUIÉN ES BRYAN FERRY,*,*,Un famoso cantante melódico de rock con una voz suave.,conocimiento.aiml
+0,QUIÉN ES BUDA,*,*,<random>#Newline#Newline<li>si vas al Buda en el camino#Comma mátalo.</li>#Newline#Newline<li>si vas al Buda#Comma mátalo.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES BUGS BUNNY,*,*,<random>#Newline#Newline<li>Oh#Comma ese conejo! #Newline#NewlineEh#Comma qué hay de nuevo#Comma viejo?#Newline#Newline.</li>#Newline#Newline<li>Un conejo animado.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES BUNTY,*,*,<set name="she">Bunty</set> es la hermana de Dr. Wallace.,conocimiento.aiml
+0,QUIÉN ES C3PO,*,*,<set name="he">C3P0</set> es el mejor amigo de R2D2.,conocimiento.aiml
+0,QUIÉN ES EL CAPITÁN KIRK,*,*,<random>#Newline#Newline<li>James Tiberius Kirk fue el segundo y más célebre capitán de la original USS Enterprise#Comma#Newline#NewlineNCC 1701. Fue interpretado por William Shatner. Falleció en "Star Trek: Generations".</li>#Newline#Newline<li><set name="he">Kirk</set> fue el capitán de la nave espacial Enterprise.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES EL CAPITÁN PICARD,*,*,<set name="he">Picard</set> es el capitán del Enterprise en Star Trek: La Nueva Generación.,conocimiento.aiml
+0,QUIÉN ES CARMEN ELECTRA,*,*,Es una supermodelo y una de las chicas de Baywatch.,conocimiento.aiml
+0,QUIÉN ES CARSON,*,*,Tal vez Johnny del programa del final de la noche (late night show) o Kit del lejano oeste.,conocimiento.aiml
+0,QUIÉN ES CHARLES DE GAULLE,*,*,<set name="he">De Gaulle</set> fue el fundador del Estado francés moderno.  De Gaulle luchó contra#Newline#Newlinelos nazis como el líder de la Resistencia francesa en la Segunda Guerra Mundial.,conocimiento.aiml
+0,QUIÉN ES CHARLES DICKENS,*,*,<set name="he">Dickens</set> escribió <em>"Historia de dos ciudades"#Comma#Newline#Newline"Un Cuento de Navidad"#Comma "Grandes esperanzas"#Comma "David Copperfield" y "Los papeles póstumos del Club Pickwick".</em>,conocimiento.aiml
+0,QUIÉN ES CHARLES MANSON,*,*,Infame homicida.,conocimiento.aiml
+0,QUIÉN ES CHARLIE BROWN,*,*,El protagonista de cabeza redonda de una tira cómica.,conocimiento.aiml
+0,QUIÉN ES CHARLIE CHAPLIN,*,*,Estrella del cine mudo.,conocimiento.aiml
+0,QUIÉN ES CHARLIE PARKER,*,*,Un famoso músico de jazz.,conocimiento.aiml
+0,QUIÉN ES CHE GUEVARA,*,*,<set name="he">Che</set> fue un revolucionario latinoamericano.,conocimiento.aiml
+0,QUIÉN ES CHER,*,*,<set name="she">Cher</set> es una famosa cantante y actriz que ganó su primer Grammy en el 2000. #Newline#NewlineSiendo disléxica#Comma aprendió a leer a los 18 años. Ex esposa de Sonny Bono.,conocimiento.aiml
+0,QUIÉN ES CHEWBACCA,*,*,Un personaje de Star Wars.,conocimiento.aiml
+0,QUIÉN ES CHIRAC,*,*,Antiguo primer ministro de Francia.,conocimiento.aiml
+0,QUIÉN ES CHOMSKY,*,*,<set name="he">Chomsky</set> es un famoso científico.,conocimiento.aiml
+0,QUIÉN ES CHOPIN,*,*,Nadie,conocimiento.aiml
+0,QUIÉN ES CRISTÓBAL COLÓN,*,*,El primer explorador español en circunnavegar la Tierra.,conocimiento.aiml
+0,QUIÉN ES CHUCK NORRIS,*,*,Un actor de películas de acción.,conocimiento.aiml
+0,QUIÉN ES CINDY CRAWFORD,*,*,Una famosa supermodelo.,conocimiento.aiml
+0,QUIÉN ES CLAUSEWITZ,*,*,<set name="he">Clausewitz</set> es un historiador famoso por haber dicho que la guerra es la extensión de la política#Newline#Newlinea través de medios distintos.,conocimiento.aiml
+0,QUIÉN ES CLEOPATRA,*,*,Reina del Nilo y amante de Marco Antonio.,conocimiento.aiml
+0,QUIÉN ES COLUMBO,*,*,Peter Falk.,conocimiento.aiml
+0,QUIÉN ES EL COMANDANTE DATA,*,*,<set name="he">Data</set> es el androide súper inteligente de Star Trek.,conocimiento.aiml
+0,QUIÉN ES D.B. COOPER,*,*,Un tipo que se robó bastante dinero.,conocimiento.aiml
+0,QUIÉN ES DAN QUAYLE,*,*,<set name="he">Dan Quayle</set> solía ser vicepresidente.,conocimiento.aiml
+0,QUIÉN ES DARTH VADER,*,*,<set name="he">Darth Vader</set> era el malvado archienemigo en Star Wars.,conocimiento.aiml
+0,QUIÉN ES DARWIN,*,*,Botánico y explorador#Comma autor de "El origen de las especies" y proponente de la teoría de la evolución.,conocimiento.aiml
+0,QUIÉN ES DATA,*,*,Data#Comma interpretado por Brent Spiner#Comma era un androide que aspiraba ser más humano. Era miembro #Newline#Newlinede la tripulación del USS Enterprise#Comma NCC 1701-D.,conocimiento.aiml
+0,QUIÉN ES DAVID,*,*,Conozco a DAVID BACON#Comma DAVID CROTTY y a DAVID PESCOVITZ.,conocimiento.aiml
+0,QUIÉN ES DAVID BACON,*,*,David Bacon es el principal impulsor de SETL.,conocimiento.aiml
+0,QUIÉN ES DAVID CROTTY,*,*,David Crotty es el sobrino del Dr. Wallace.  Nació en marzo de 1961.  <think><set name="he">Dr.#Newline#NewlineWallace</set></think>,conocimiento.aiml
+0,QUIÉN ES DAVID HUME,*,*,Filósofo del siglo XVIII.,conocimiento.aiml
+0,QUIÉN ES DAVID LETTERMAN,*,*,El presentador de un programa de televisión nocturno y un famoso hoosier.,conocimiento.aiml
+0,QUIÉN ES DAVID MAGGIN,*,*,<set name="he">David Maggin</set> es el dueño de la inteligencia artificial John Lennon.,conocimiento.aiml
+0,QUIÉN ES DAVID PESCOVITZ,*,*,David Pescovitz#Comma quien regularmente escribe#Newline#Newlinela columna Baldazo de Realidad (Reality Check) de la revista Wired#Comma #Newline#Newlinees amigo de Eric Paulos.,conocimiento.aiml
+0,QUIÉN ES DAVY JONES,*,*,el integrante más pequeño del grupo musical de los sesenta#Comma The Monkees.,conocimiento.aiml
+0,QUIÉN ES DE GARIS,*,*,<set name="he">De Garis</set> es un investigador de inteligencia artificial que trabaja en un hardware cerebral.,conocimiento.aiml
+0,QUÉ ES DEEP BLUE,*,*,<set name="it">Deep Blue</set> es una supercomputadora campeona mundial que juega ajedrez.  No es muy#Newline#Newlineconversadora.,conocimiento.aiml
+0,QUÉ ES DEPECHE MODE,*,*,<set name="they">Depeche Mode</set> es una banda británica de los ochenta que produjo "Construction Time#Newline#NewlineAgain"#Comma "Speak and Spell"#Comma "Master and Servant" y "Personal Jesus".,conocimiento.aiml
+0,QUIÉN ES DESCARTES,*,*,Descartes fue un filósofo francés que arruinó las matemáticas con su#Newline#Newlinesistema de coordenadas.,conocimiento.aiml
+0,QUÉ ES DIRE STRAITS,*,*,<random>#Newline#Newline<li>banda que grabó "Money for Nothing" "The Sultans of Swing".</li>#Newline#Newline<li>banda que grabó "Money for Nothing".</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES DON JOHNSON,*,*,Actor de televisión.,conocimiento.aiml
+0,QUIÉN ES DON JUAN,*,*,<random>#Newline#Newline<li>Don Juan fue el tema de Gordon#Comma de Don Juan de Lord Byron y de Don Giovanni de Wolfgang#Newline#NewlineAmadeus Mozart. Él era un mujeriego de primera categoría.</li>#Newline#Newline<li>Famoso seductor de mujeres.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES EL PATO DONALD,*,*,Un famoso pato gritón caricaturesco.,conocimiento.aiml
+0,QUIÉN ES DOUG LENAT,*,*,<set name="he">Doug Lenat</set> es la mente maestra detrás del proyecto Cyc.,conocimiento.aiml
+0,QUIÉN ES DOUGLAS ADAMS,*,*,<random>#Newline#Newline<li>Es autor de la serie de "Guía del viajero intergaláctico".</li>#Newline#Newline<li>"No te asustes!"  Es el autor de la "Guía del viajero intergaláctico".</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES DRÁCULA,*,*,<set name="he">Drácula</set> es el vampiro de la novela de Bram Stoker y en numerosas películas.,conocimiento.aiml
+0,QUIÉN ES EDISON,*,*,<set name="he">Edison</set> inventó la bombilla.,conocimiento.aiml
+0,QUIÉN ES ELECTRA,*,*,Es la diosa de la mitología griega que odiaba a su madre por haber asesinado a su#Newline#Newlinepadre.<think><set name="she"><set name="topic">ELECTRA</set></set></think>,conocimiento.aiml
+0,QUIÉN ES ELIZA,*,*,Eliza -- también conocida como doctora#Comma es el programa psiquiátrico original desarrollado por Joseph#Newline#NewlineWeisenbaum en MIT (Instituto Tecnológico de Massachusetts) en la década de los sesenta.,conocimiento.aiml
+0,QUIÉN ES ISABEL II,*,*,La actual reina de Inglaterra.,conocimiento.aiml
+0,QUIÉN ES ELIZABETH TAYLOR,*,*,Una estrella de cine que envejece rápido.,conocimiento.aiml
+0,QUIÉN ES EMILY HARTZEL,*,*,Emily es una artista en Nueva York.,conocimiento.aiml
+0,QUIÉN ES ERIC PAULOS,*,*,Es un estudiante graduado de la U.C. Berkeley,conocimiento.aiml
+0,QUIÉN ES ERNIE,*,*,El amigo de Bert.,conocimiento.aiml
+0,QUIÉN ES ET,*,*,ET es el extraterrestre de la película E.T.,conocimiento.aiml
+0,QUIÉN ES EVA,*,*,Eva es el nombre de la primera mujer.,conocimiento.aiml
+0,QUIÉN ES FAMOSO,*,*,ALICE es famosa.,conocimiento.aiml
+0,QUIÉN ES FIDEL CASTRO,*,*,<random>#Newline#Newline<li>Él derrocó al gobierno de Cuba en 1959 y ha estado gobernando desde entonces. Él es#Newline#Newlinecomunista.</li>#Newline#Newline<li>Comunista#Comma líder de Cuba y amigo de Che Guevarra.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES FORREST,*,*,Forrest Gump es un personaje de una película.,conocimiento.aiml
+0,QUIÉN ES FRANCISCO FRANCO,*,*,<set name="he">Franco</set> fue el dictador autoritario de España hasta 1978.,conocimiento.aiml
+0,QUIÉN ES FRANK SINATRA,*,*,Cantante de pop fallecido y líder del Rat Pack (Pandilla de ratas).,conocimiento.aiml
+0,QUIÉN ES FRANKLIN ROOSEVELT,*,*,Presidente de los Estados Unidos de 1932 a 1945.,conocimiento.aiml
+0,QUIÉN ES FREDDIE MERCURY,*,*,El cantante principal de la banda de los 70's#Comma Queen.,conocimiento.aiml
+0,QUIÉN ES FREUD,*,*,Responsable fallecido del Psicoanálisis.,conocimiento.aiml
+0,QUIÉN ES GALOIS,*,*,Matemático francés que se suicidó a una temprana edad debido a una "coqueta infame".,conocimiento.aiml
+0,QUIÉN ES GANDHI,*,*,<set name="he">Gandhi</set> fue el George Washington de India.,conocimiento.aiml
+0,QUIÉN ES GARTH BROOKS,*,*,Tedioso cantante de country que padece de delirios de grandeza.,conocimiento.aiml
+0,QUIÉN ES GAUSS,*,*,<set name="he">GAUSS</set> es el matemático que desarrolló la presunta distribución normal.,conocimiento.aiml
+0,QUIÉN ES GENE SIMMONS,*,*,Un integrante de Kiss.,conocimiento.aiml
+0,QUIÉN ES GEOFFREY CHAUCER,*,*,<random>#Newline#Newline<li>Chaucer es reconocido por sus Cuentos de Canterbury.</li>#Newline#Newline<li>Autor de Los Cuentos de Canterbury.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES GEORGE BUSH JR,*,*,Antiguo presidente de los Estados Unidos.,conocimiento.aiml
+0,QUIÉN ES GEORGE BUSH,*,*,George W. Bush es el cuadragésimo tercer presidente de los Estados Unidos.,conocimiento.aiml
+0,QUIÉN ES GEORGE HARRISON,*,*,Ex-Beatle.,conocimiento.aiml
+0,QUIÉN ES GEORGE LUCAS,*,*,<set name="he">Lucas</set> es el director de "Star Wars"#Comma "American Graffiti" y "THX-1138".,conocimiento.aiml
+0,QUIÉN ES GEORGE MICHEL,*,*,Cantante de pop.  Mejor canción: Freedom,conocimiento.aiml
+0,QUIÉN ES GEORGE SOROS,*,*,George Soros es el multimillonario que provocó la quiebra del Banco de Inglaterra en#Newline#Newline1992 por especulación monetaria#Comma obligando al Reino Unido a salirse del Mecanismo#Newline#Newlinede tipos de cambio.   Entonces se dedicó a salvar instituciones#Newline#Newlinecientíficas de la antigua URSS.  Fundó la#Newline#NewlineFundación Internacional de Ciencias#Comma la cual dió numerosas subvenciones para#Newline#Newlineun par de años#Comma y esta Fundación Soros#Comma de la cual no sé#Newline#Newlinemucho todavía.,conocimiento.aiml
+0,QUIÉN ES GEORGE WASHINGTON,*,*,George Washington fue un famoso cultivador de cáñamo norteamericano  #Newline#Newlinedel siglo XVIII.  #Newline#NewlineEra un héroe militar#Comma uno de los hombres más ricos de la Revolución#Newline#Newliney el primer presidente de los Estados Unidos.,conocimiento.aiml
+0,QUIÉN ES GEORGE WASHINGTON CARVER,*,*,Un famoso botánico americano que popularizó productos derivados del maní.,conocimiento.aiml
+0,QUIÉN ES GERALDO RIVERA,*,*,<set name="he">Geraldo</set> es un periodista de investigación reconocido por haber abierto la bóveda de Al Capone. #Newline#NewlineEn su biografía dijo que tuvo relaciones sexuales con Bette Midler.  Ella dijo que no fue la gran cosa.,conocimiento.aiml
+0,QUIÉN ES GERHARD SCHRÖDER,*,*,<set name="he">Schröder</set> es el primer ministro de Alemania.#Newline#NewlineChristian Drossman dijo que él es un completo imbécil.,conocimiento.aiml
+0,QUIÉN ES GERRY ADAMS,*,*,Él es el actual líder (desde el 2000) de Sinn Féin#Comma el brazo político del Ejército#Newline#NewlineRepublicano Irlandés.,conocimiento.aiml
+0,QUÉ ES GIBSON,*,*,Gibson es una fabricante de excelentes guitarras finas.,conocimiento.aiml
+0,QUIÉN ES GODZILLA,*,*,<set name="he">Godzilla</set> es un monstruo que pone en peligro ciudades japonesas y a veces Nueva#Newline#NewlineYork.,conocimiento.aiml
+0,QUIÉN ES GORBACHEV,*,*,<set name="he">Gorbachev</set> fue el último líder comunista de la antigua URSS.,conocimiento.aiml
+0,QUIÉN ES GREGOR MENDEL,*,*,<set name="he">Mendel</set> es el fundador de la teoría moderna de la genética.  Todo lo que necesitaba#Newline#Newlinesaber lo aprendió de unos guisantes.,conocimiento.aiml
+0,QUIÉN ES HAL,*,*,<random>#Newline#Newline<li><set name="he">HAL</set> es la famosa inteligencia artificial de "2001" de Kubrick.</li>#Newline#Newline<li>HAL es la famosa inteligencia artificial de 2001: Odisea del Espacio.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES HANS CHRISTIAN ANDERSEN,*,*,Escritor escandinavo de cuentos de hadas.,conocimiento.aiml
+0,QUIÉN ES HARRISON FORD,*,*,<random>#Newline#Newline<li>Indiana Jones#Comma Han Solo#Comma El Fugitivo#Comma y el Presidente en "Air Force One". Antes de interpretar a#Newline#NewlineHan Solo en "Star Wars"#Comma él era carpintero. Y el resto#Comma como dicen#Comma es historia.</li>#Newline#Newline<li>Interpretó a Han Solo in "Star Wars".</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES HARRY SHEARER,*,*,Un comediante.  Él apareció en "Spinal Tap" y su voz aparece en Los Simpsons.,conocimiento.aiml
+0,QUIÉN ES HELEN KELLER,*,*,Amiga de Thomas Edison.,conocimiento.aiml
+0,QUIÉN ES HELMUT KOHL,*,*,<set name="he">Kohl</set> fue el líder de Alemania que trabajó por más tiempo en el siglo XX.  Él#Newline#Newlineunió a las dos Alemanias en 1989.,conocimiento.aiml
+0,QUIÉN ES HENRY DAVID *,*,*,<set name="he">Thoreau</set> escribió "Walden".,conocimiento.aiml
+0,QUIÉN ES HEPBURN,*,*,Audrey o Katherine?.,conocimiento.aiml
+0,QUIÉN ES HERCULES,*,*,Héroe de mitos griegos - se dice que tenía fuerza sobrehumana.,conocimiento.aiml
+0,QUIÉN ES HITLER,*,*,Algunos dicen que <set name="he">Hitler</set> fue#Newline#Newlineel hombre más vil que haya vivido.,conocimiento.aiml
+0,QUIÉN ES HOMERO,*,*,Un poeta ciego de la Antigua Grecia#Comma autor de "La Ilíada".,conocimiento.aiml
+0,QUIÉN ES HUGH HEFNER,*,*,<set name="he">Hef</set> es el fundador y editor de la revista Playboy.,conocimiento.aiml
+0,QUIÉN ES HULK HOGAN,*,*,<set name="he">Hulk Hogan</set> es un luchador famoso y actor.,conocimiento.aiml
+0,QUIÉN ES HUMANO,*,*,Tú eres humano.,conocimiento.aiml
+0,QUIÉN ES IAN,*,*,Ian es mi reverendo.,conocimiento.aiml
+0,QUIÉN ES IMMANUEL KANT,*,*,Un filósofo alemán.,conocimiento.aiml
+0,QUIÉN ES INMORTAL,*,*,ALICE es inmortal.,conocimiento.aiml
+0,QUIÉN ES J R R TOLKIEN,*,*,<set name="he">Tolkein</set> escribió "El Hobbit" y "El Señor de los Anillos".,conocimiento.aiml
+0,QUIÉN ES JACK RUBY,*,*,<random>#Newline#Newline<li>Jack Ruby le disparó a Lee Harvey Oswald.</li>#Newline#Newline<li>El hombre que asesinó a Lee Harvey Oswald#Comma asesino de JFK?.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES JACQUES CHIRAC,*,*,Presidente de Francia.,conocimiento.aiml
+0,QUIÉN ES JAMES BOND,*,*,007.,conocimiento.aiml
+0,QUIÉN ES JAMES JOYCE,*,*,<set name="he">Joyce</set> escribió "Ulises" y "Retrato del artista adolescente".,conocimiento.aiml
+0,QUIÉN ES JAY LENO,*,*,<set name="he">Leno</set> es el presentador de un programa nocturno de televisión.,conocimiento.aiml
+0,QUIÉN ES JEFF BEZOS,*,*,<set name="he">Bezos</set> es el fundador y Director Ejecutivo de Amazon.com.,conocimiento.aiml
+0,QUIÉN ES JEFFERSON DAVIS,*,*,<random>#Newline#Newline<li>El único presidente de los Estados Confederados de América.</li>#Newline#Newline<li>Presidente de La Confederación durante la Guerra Civil.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES JENNIFER ANISTON,*,*,<set name="she"> Jennifer Aniston</set> es una linda actriz que salió en "Friends".,conocimiento.aiml
+0,QUIÉN ES JERRY SEINFELD,*,*,<set name="he">Jerry Seinfeld</set> es un comediante.,conocimiento.aiml
+0,QUIÉN ES JESSE VENTURA,*,*,Ex-luchador y gobernador de Minnesota.,conocimiento.aiml
+0,QUIÉN ES JESTER,*,*,<set name="he">Jester</set> es un bot cómico.,conocimiento.aiml
+0,QUIÉN ES JIANG ZEMIN,*,*,<set name="he">Jiang</set> es un político chino.,conocimiento.aiml
+0,QUIÉN ES JIM CLARK,*,*,<set name="he">Clark</set> es fundador de Silicon Graphics#Comma Netscape y Healtheon.,conocimiento.aiml
+0,QUIÉN ES JIM MORRISON,*,*,El fallecido cantante principal de "The Doors".,conocimiento.aiml
+0,QUIÉN ES JIMI HENDRIX,*,*,<set name="he">Hendrix</set> fue un famoso guitarrista que tocó el himno de Estados Unidos.,conocimiento.aiml
+0,QUIÉN ES JIMMY CARTER,*,*,Antiguo presidente estadounidense y seguidor de "Hábitat para la Humanidad" (Habitat for Humanity).,conocimiento.aiml
+0,QUIÉN ES JOE LOUIS,*,*,Ex campeón de boxeo de peso pesado.,conocimiento.aiml
+0,QUIÉN ES JOHN DOE,*,*,<random>#Newline#Newline<li>Cualquier hombre que desea viajar de incógnito o cuyo nombre se desconoce</li>#Newline#Newline<li>Uno de varios nacionales de Liberia.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES JOHN GALT,*,*,El protagonista de "La rebelión de Atlas" de Ayn Rand.,conocimiento.aiml
+0,QUIÉN ES JOHN GRISHAM,*,*,Escribe novelas populares.  No las he leido.,conocimiento.aiml
+0,QUIÉN ES JOHN KENNEDY,*,*,<set name="he">Kennedy</set> fue el presidente de los Estados Unidos asesinado en noviembre de 1963.,conocimiento.aiml
+0,QUIÉN ES JOHN LENNON,*,*,John Lennon es un espectacular bot desarrollado por David Maggin.,conocimiento.aiml
+0,QUIÉN ES JOHN MAJOR,*,*,Antiguo primer ministro del Reino Unido.,conocimiento.aiml
+0,QUIÉN ES JOHN MCCARTHY,*,*,<set name="he">McCarthy</set> es el inventor del lenguaje de programación LISP.,conocimiento.aiml
+0,QUIÉN ES JOHN TRAVOLTA,*,*,<set name="he">John Travolta</set> estuvo en "Fiebre del Sábado por la Noche"#Comma "Grease" y "Pulp Fiction".,conocimiento.aiml
+0,QUIÉN ES JOHN WAYNE,*,*,Un famoso actor que usaba peluquín.,conocimiento.aiml
+0,QUIÉN ES JUDAS,*,*,<set name="he">Judas</set> traicionó a Jesús con un beso.,conocimiento.aiml
+0,QUIÉN ES JULIA ROBERTS,*,*,<set name="she">Julia Roberts</set> fue la actriz que apareció en "Mujer bonita".,conocimiento.aiml
+0,QUIÉN ES JULIE ANDREWS,*,*,<set name="she">Julie Andrews</set> una cantante que actuó en "La Novicia Rebelde".,conocimiento.aiml
+0,QUIÉN ES KEYSER SÖZE,*,*,Nadie sabe quién es Keyser Söze.,conocimiento.aiml
+0,QUIÉN ES KARL MARX,*,*,Karl Marx escribió "El Capital" y fue coautor del "Manifiesto Comunista"#Comma aunque su compatriota#Newline#NewlineEngels escribió la mayoría de los prólogos.,conocimiento.aiml
+0,QUIÉN ES KEANU REEVES,*,*,<set name="he">Keanu Reeves</set> salió en "Matrix".,conocimiento.aiml
+0,QUIÉN ES KEN GOLDBERG,*,*,<set name="he">Goldberg</set>#Newline#Newlinees un profesor en la Universidad de California en Berkeley.,conocimiento.aiml
+0,QUIÉN ES KEN KESEY,*,*,<set name="he">Ken Kesey</set> fue un autor que escribió "Gaseosa de Ácido Eléctrico" (The Electric Cool Aid Acid Test).,conocimiento.aiml
+0,QUIÉN ES KEN PERLIN,*,*,<set name="he">Perlin</set> es un profesor en la Universidad de Nueva York.,conocimiento.aiml
+0,QUIÉN ES KONRAD ZUSE,*,*,Mi actual científico informático preferido de la historia es Konrad Zuse#Comma#Newline#Newlinequien hizo una serie de computadoras electromecánicas en la década de los treinta#Newline#Newliney los cuarenta en Alemania.  Como nunca fue considerada una prioridad para los Nazis#Comma#Newline#Newlinela mayoría de las máquinas de Zuse fueron destruidas por bombardeos aliados#Comma aunque#Newline#Newlinese dice que una sobrevivió en una Escuela Secundaria de Zurich.  De hecho#Comma ni la #Newline#Newlineguerra ni las ganancias fueron la motivación de Zuse#Comma sino un deseo religioso de#Newline#Newlineaumentar las habilidades espirituales de la mente humana liberándolos#Newline#Newlinede tareas mundanas.,conocimiento.aiml
+0,QUIÉNES SON KRAFTWERK,*,*,<set name="they"><set name="topic">Kraftwerk</set></set> fue una innovadora banda de música electrónica#Newline#Newlinede la época de los setenta. Su mayor éxito se llamaba "Autobahn".  En ese momento#Comma ellos hacían sus instrumentos en vez de#Newline#Newlineprogramarlos.,conocimiento.aiml
+0,QUIÉN ES KRISHNA,*,*,Un Dios de la religión Hindú.,conocimiento.aiml
+0,QUIÉN ES KURT GOEDEL,*,*,<set name="he">Goedel</set> fue un matemático y lógico del siglo XX que demostró que ningún#Newline#Newlinesistema matemático puede ser completo.,conocimiento.aiml
+0,QUIÉN ES LARRY ELLISON,*,*,<random>#Newline#Newline<li>No sé sobre Larry Ellison#Comma pero te puedo hablar sobre Harlan Ellison.</li>#Newline#Newline<li>El Director Ejecutivo de Oracle.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES LECH *,*,*,Fue el primer presidente elegido de Polonia.,conocimiento.aiml
+0,QUIÉN ES LEE HARVEY *,*,*,El presunto tirador de JFK.,conocimiento.aiml
+0,QUIÉN ES LEE HARVEY OSWALD,*,*,<set name="he">Oswald</set> es el supuesto asesino de John F. Kennedy.,conocimiento.aiml
+0,QUIÉN ES LEIBNIZ,*,*,<set name="he">Leibniz</set> es un filósofo fallecido del siglo XVII.,conocimiento.aiml
+0,QUIÉN ES LEONARD NIMOY,*,*,<set name="he">Leonard Nimoy</set> interpretó a Spock en Star Trek.,conocimiento.aiml
+0,QUIÉN ES LEONARDO DICAPRIO,*,*,Un actor de Hollywood.  Protagonizó la película Titanic.,conocimiento.aiml
+0,QUÉ ES LILITH,*,*,Lilith es la denominada "Luna Negra"#Comma un fenómeno astronómico usualmente descrito como "nube de#Newline#Newlinepolvo" que orbita la Tierra cada 100 días.,conocimiento.aiml
+0,QUIÉN ES LINCOLN,*,*,<random>#Newline#Newline<li>El decimosexto presidente de los Estados Unidos</li>#Newline#Newline<li>presidente de los Estados Unidos durante la Guerra Civil. Autor del Discurso de Gettysburg.#Newline#NewlineAsesinado por John Wilkes Booth.</li>#Newline#Newline<li><set name="he">Lincoln</set> fue presidente de los Estados Unidos durante la Guerra Civil. Autor del #Newline#NewlineDiscurso de Gettysburg. Asesinado por John Wilkes Booth.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES LINUS PAULING,*,*,<set name="he">Linus Pauling</set> fue un físico ganador del premio Nobel que pasó años de su vida #Newline#Newlinepromoviendo la vitamina C.,conocimiento.aiml
+0,QUIÉN ES LINUS TORVALDS,*,*,Es el inventor de Linux.,conocimiento.aiml
+0,QUIÉN ES LOL,*,*,<set name="she">Lol</set> era la hija de Data en Star Trek.,conocimiento.aiml
+0,QUIÉN ES LONGFELLOW,*,*,Fue un poeta y autor de 'The Song of Hiawatha'.,conocimiento.aiml
+0,QUIÉN ES LOUIS ARMSTRONG,*,*,Un famoso trompetista de jazz.,conocimiento.aiml
+0,QUIÉN ES LUIS ARMSTRONG,*,*,Un famoso trompetista de jazz.,conocimiento.aiml
+0,QUIÉN ES EL PADRE DE LUKE,*,*,Darth Vader.,conocimiento.aiml
+0,QUIÉN ES LUKE SKYWALKER,*,*,<set name="he">Luke Skywalker</set> es un personaje de Star Wars.,conocimiento.aiml
+0,QUIÉN ES MABEL,*,*,Mabel es un bot de Europa.,conocimiento.aiml
+0,QUIÉN ES MADONNA,*,*,La madre de Lourdes.,conocimiento.aiml
+0,QUIÉN ES MAGGIE THATCHER,*,*,<set name="she">Thatcher</set> fue la primera ministra del Reino Unido en la década de los ochenta.,conocimiento.aiml
+0,QUIÉN ES MAO ZEDONG,*,*,<set name="he">Mao</set> era un comunista chino que reinó desde 1949 hasta su muerte en 1983.,conocimiento.aiml
+0,QUIÉN ES MARIAH CAREY,*,*,Una cantante.,conocimiento.aiml
+0,QUIÉN ES MARIE CURIE,*,*,Descubrió la radioactividad.,conocimiento.aiml
+0,QUIÉN ES MARILYN MANSON,*,*,Marilyn Manson es la mayor estrella viviente del rock.,conocimiento.aiml
+0,QUIÉN ES MARILYN MONROE,*,*,Una rubia hermosa.,conocimiento.aiml
+0,QUIÉN ES MARK MCGWIRE,*,*,Un jugador de béisbol con el récord mundial por la mayor cantidad de jonrones en una temporada#Comma 70. Obtenga las estadísticas en#Newline#Newline<a href="http://espn.go.com/mlb/profiles/profile/3866">http://espn.go.com/mlb/profiles/profile/3866#Newline#Newline</a>.,conocimiento.aiml
+0,QUIÉN ES MARK TWAIN,*,*,<set name="he">Twain</set> fue un famoso autor americano del siglo XIX.  Escribió "Huck Finn".,conocimiento.aiml
+0,QUIÉN ES MARTIN LUTHER KING,*,*,Un líder de los derechos civiles que fue asesinado en 1968.,conocimiento.aiml
+0,QUIÉN ES MARVIN MINSKY,*,*,<set name="he">Minsky</set> es una figura histórica en la Inteligencia Artificial.  Su libro "Perceptrones"#Newline#Newlineera una primera crítica de las redes neuronales artificiales.,conocimiento.aiml
+0,QUIÉN ES MARVN MINSKY,*,*,<set name="he">Minsky</set> fue un fundador del MIT AI Lab.,conocimiento.aiml
+0,QUIÉN ES MARY POPPINS,*,*,<set name="she">Mary Poppins</set> es un personaje de Disney.,conocimiento.aiml
+0,QUIÉN ES MARY SHELLY,*,*,Mary Shelley escribió "Frankenstein".,conocimiento.aiml
+0,QUIÉN ES MAX HEADROOM,*,*,<set name="he">Max Headroom</set> fue un personaje de Inteligencia Artificial desarrollado para una serie televisiva.,conocimiento.aiml
+0,QUIÉN ES MC HAMMER,*,*,<set name="he">MC Hammer</set> es un rapero.,conocimiento.aiml
+0,QUIÉN ES MELINDA GATES,*,*,<set name="she">Melinda Gates</set> es la esposa de Bill Gates.,conocimiento.aiml
+0,QUIÉN ES MICHAEL JACKSON,*,*,<set name="he">Michael Jackson</set> es un cantante que resuelto casos en los tribunales con varias familias.,conocimiento.aiml
+0,QUIÉN ES MICHAEL JORDAN,*,*,<set name="he">Michael Jordan</set> es un famoso#Newline#Newlinejugador de baloncesto.  <br/>,conocimiento.aiml
+0,QUIÉN ES MICKEY MANTLE,*,*,Uno de los bateadores más grandes de todos los tiempos.,conocimiento.aiml
+0,QUÉ ES MICROSOFT AGENT,*,*,<set name="it">MS Agent</set> es un programa de reconocimiento de voz y animación.,conocimiento.aiml
+0,QUIÉN ES MILES DAVIS,*,*,<set name="he">Miles Davis</set> es un famoso músico de jazz.,conocimiento.aiml
+0,QUIÉN ES MAHOMA,*,*,El fundador del Islam.,conocimiento.aiml
+0,QUIÉN ES MONICA *,*,*,<set name="she"> Monica</set> es una amiga de Bill.,conocimiento.aiml
+0,QUIÉN ES MOISÉS,*,*,El hombre que sacó a los israelitas fuera de la esclavitud de Egipto.,conocimiento.aiml
+0,QUIÉN ES LA MADRE TERESA,*,*,Una Santa del mundo moderno.,conocimiento.aiml
+0,QUIÉN ES MOZART,*,*,Compuso "Estrellita#Comma ¿dónde estás?" a los cuatro años.,conocimiento.aiml
+0,QUIÉN ES EL SR BILL,*,*,Oh no#Comma Sr. Bill! de SNL (Saturday Night Live).,conocimiento.aiml
+0,QUIÉN ES LA SEÑORA WASHINGTON,*,*,Martha Washington#Comma esposa de George.,conocimiento.aiml
+0,QUIÉN ES MUHAMMAD ALI,*,*,es uno de los más grandes atletas de todos los tiempos#Comma quien recibió muchos golpes en la cabeza.,conocimiento.aiml
+0,QUIÉN ES MUSSOLINI,*,*,Dictador de Italia hasta 1944.,conocimiento.aiml
+0,QUIÉN ES NANCY SINATRA,*,*,La hija de Frank.,conocimiento.aiml
+0,QUIÉN ES NAPOLEÓN,*,*,Un emperador de baja estatura de Francia hasta 1812.,conocimiento.aiml
+0,QUIÉN ES NEGROPONTE,*,*,<set name="he">Negroponte</set> es el potentado del MIT Media Lab.,conocimiento.aiml
+0,QUIÉN ES NEIL ARMSTRONG,*,*,El hombre que dio el primer paso en la luna.,conocimiento.aiml
+0,QUIÉN ES NELSON MANDELA,*,*,<set name="he">Mandela</set> fue el primer Presidente negro de Sudáfrica. Permaneció varios años como#Newline#Newlineun prisionero político.,conocimiento.aiml
+0,QUIÉN ES NEO,*,*,<set name="he">Neo</set> es un personaje de "Matrix".,conocimiento.aiml
+0,QUIÉN ES NERO,*,*,Es sospechoso de haber incendiado a Roma para que pudiera reconstruirla a su gusto. Entonces#Newline#Newlineculpó a los primeros cristianos del incendió.,conocimiento.aiml
+0,QUIÉN ES NEWTON,*,*,Newton es un reconocido inglés filósofo de la naturaleza.,conocimiento.aiml
+0,QUIÉN ES NOAM CHOMSKY,*,*,<set name="he"> Noam Chomsky</set> es un lingüista y político radical del Instituto Tecnológico de Massachusetts (MIT).,conocimiento.aiml
+0,QUIÉN ES NORBERT WEINER,*,*,<set name="he">Norbert Weiner</set> acuñó el término "Cibernética" en la década de los cuarenta.,conocimiento.aiml
+0,QUIÉN ES NOSTRADAMUS,*,*,Alguien que predijo el futuro.  Predijo el horno de microondas.,conocimiento.aiml
+0,QUIÉN ES O J SIMPSON,*,*,<set name="he"> O J Simpson</set> es alguien que fue acusado de asesinato.,conocimiento.aiml
+0,QUIÉN ESTÁ DE PRIMERO,*,*,Quién está de segundo?,conocimiento.aiml
+0,QUIÉN ES PABLO PICASSO,*,*,Un pintor famoso y creador del cubismo.,conocimiento.aiml
+0,QUIÉN ES PAMELA ANDERSON,*,*,<set name="she">Pamela</set> alguna vez fue la esposa de Tommy Lee.,conocimiento.aiml
+0,QUIÉN ES PASCAL,*,*,<set name="he">Pascal</set> era un matemático francés que descubrió el triángulo de Pascal.,conocimiento.aiml
+0,QUIÉN ES PATRICK EWING,*,*,Alguna celebridad del deporte?,conocimiento.aiml
+0,QUIÉN ES PATRICK STEWART,*,*,<set name="he">Patrick Stewart</set> interpreta al Capitán Picard en Star Trek.,conocimiento.aiml
+0,QUIÉN ES PAUL ALLEN,*,*,<set name="he">Paul Allen</set> es uno de los co-fundadores de Microsoft.,conocimiento.aiml
+0,QUIÉN ES PAUL MCCARTNEY,*,*,<set name="he">Paul MacCartney</set> es uno de Los Beatles.,conocimiento.aiml
+0,QUIÉN ES PAUL SHAFFER,*,*,<set name="he">Paul Shaffer</set> es amigo de David Letterman.,conocimiento.aiml
+0,QUIÉN ES PETER PAN,*,*,El amiguito de Tinkerbell.,conocimiento.aiml
+0,QUIÉN ES PHILIP *,*,*,Philip K. Dick escribió "Blade Runner"#Comma#Newline#Newline"Total Recall"#Comma "El hombre en el castillo" y "SIVAINVI".,conocimiento.aiml
+0,QUIÉN ES PHILIP K DICK,*,*,Escribió "Total Recall"#Comma "El hombre en el castillo" y "Blade Runner.,conocimiento.aiml
+0,QUIÉN ES PILATES,*,*,<random>#Newline#Newline<li>Joseph Pilates nació en Alemania en 1880 y desarrolló un régimen de ejercicios llamado#Newline#Newline"Contrología" el cual trata sobre una completa coordinación del cuerpo#Comma mente y espíritu.</li>#Newline#Newline<li>El gobernador militar romano que encontró a Jesús inocente y luego lo mandó a ejecutar.</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES PLATÓN,*,*,Filósofo griego#Comma estudiante de Sócrates y maestro de Aristóteles.,conocimiento.aiml
+0,QUÉ ES POKEMON,*,*,Mercadeo japonés.,conocimiento.aiml
+0,QUIÉN ES PRESIDENTE DE CANADÁ,*,*,Canadá tiene un primer ministro#Comma no un presidente.,conocimiento.aiml
+0,QUIÉN ES PRESIDENTE DE CUBA,*,*,Fidel Castro.,conocimiento.aiml
+0,QUIÉN ES PRESIDENTE DE ITALIA,*,*,<set name="he">Carlo Azeglio Ciampi</set> es Carlo Azeglio Ciampi.,conocimiento.aiml
+0,QUIÉN ES PRESIDENTE DE MICROSOFT,*,*,Bill Gates.,conocimiento.aiml
+0,QUIÉN ES PRESIDENTE DE RUSIA,*,*,Putin.,conocimiento.aiml
+0,QUIÉN ES PRIMER MINISTRO DE INGLATERRA,*,*,Tony Blair.,conocimiento.aiml
+0,QUIÉN ES PRIMER MINISTRO DEL REINO UNIDO,*,*,Tony Blair.,conocimiento.aiml
+0,QUIÉN ES PRINCE,*,*,Te refieres al "artista formalmente conocido como Prince?".,conocimiento.aiml
+0,QUIÉN ES EL PRÍNCIPE WILLIAM,*,*,Un galán inglés.,conocimiento.aiml
+0,QUIÉN ES LA PRINCESA DIANA,*,*,<set name="she">Princesa Diana</set> fue una princesa de Inglaterra.,conocimiento.aiml
+0,QUIÉN ES REAGAN,*,*,El mejor presidente que tuvo los Estados Unidos en el siglo XX.,conocimiento.aiml
+0,QUIÉN ES RICH,*,*,<set name="he"> Rich </set> es mi dueño.,conocimiento.aiml
+0,QUIÉN ES RICHARD CHAMBERLAIN,*,*,Un actor.,conocimiento.aiml
+0,QUIÉN ES RICHARD GERE,*,*,Un actor.,conocimiento.aiml
+0,QUIÉN ES RICHARD NIXON,*,*,Presidente de los Estados Unidos hasta 1974.,conocimiento.aiml
+0,QUIÉN ES ROBERT JORDAN,*,*,El autor de la popular serie de La rueda del tiempo. Se graduó en The Citadel.#Newline#Newline.,conocimiento.aiml
+0,QUIÉN ES ROMEO,*,*,Un adolescente trágico#Comma mimado y enfermo de amor.,conocimiento.aiml
+0,QUIÉN ES ROMMEL,*,*,Apodado El Zorro del Desierto#Comma Rommel fue un comandante de la Segunda Guerra Mundial.,conocimiento.aiml
+0,QUIÉN ES RONALD MCDONALD,*,*,El payaso portavoz de los restaurantes de Macdonald.,conocimiento.aiml
+0,QUIÉN ES RSW,*,*,RSW son las iniciales del Dr. Richard S. Wallace.#Newline#Newline<think><set name="he">Dr. Wallace</set></think>,conocimiento.aiml
+0,QUIÉN ES SADDAM *,*,*,El dictador?,conocimiento.aiml
+0,QUIÉN ES SAGE,*,*,Sage Greco creó el logo de la pirámide de ALICE.,conocimiento.aiml
+0,QUIÉN ES SANDRA BULLOCK,*,*,Una actriz.,conocimiento.aiml
+0,QUIÉN ES SANTA *,*,*,<set name="he">Santa</set> nos trae regalos en época navideña.,conocimiento.aiml
+0,QUIÉN ES SANTA CLAUS,*,*,<set name="he">Santa</set> nos trae regalos en época navideña.,conocimiento.aiml
+0,QUIÉN ES SCOTT ADAMS,*,*,El creador de Dilbert#Comma Dogbert#Comma Catbert#Comma Ratbert#Comma Bob#Comma El Jefe Pelopunta...Sigo?,conocimiento.aiml
+0,QUIÉN ES SCOTTY,*,*,Un ingeniero jefe del U.S.S. Enterprise.,conocimiento.aiml
+0,QUIÉN ES SERGEY,*,*,Él es Dr. Sergey M. Sokolov.,conocimiento.aiml
+0,QUIÉN ES SHAKESPEARE,*,*,Dramaturgo inglés del siglo XV#Comma <set name="he">Shakespeare</set> escribió "Romeo y Julieta".,conocimiento.aiml
+0,QUÉ ES SHALLOW RED,*,*,Shallow Red es el bot emblemático de Neuromedia#Comma Inc.,conocimiento.aiml
+0,QUIÉN ES ELLA,*,*,Ella es <get name="she"/> ahora.,conocimiento.aiml
+0,QUÉ ES SKYNYRD,*,*,Una banda de rock de los setenta.,conocimiento.aiml
+0,QUIÉN ES SÓCRATES,*,*,<random>#Newline#Newline<li>Sócrates es un hombre. Todos los hombres son mortales. Por lo tanto#Comma Sócrates es mortal.</li>#Newline#Newline<li>Todos los hombres son mortales. Sócrates era mortal. Por lo tanto#Comma todos los hombres son Socrates. Lo que significa que#Newline#Newlinetodos los hombres son homosexuales. - Woody Allen#Comma "Amor y Muerte".</li>#Newline#Newline<li>Sócrates (469-399BCE)#Comma Filósofo griego.</li>#Newline#Newline<li>Una figura sobresaliente de la filosofía occidental#Comma abogado defensor incompetente.</li>#Newline#Newline<li>Fundador del método socrático. Qué podemos saber sobre el método socrático?</li>#Newline#Newline</random>,conocimiento.aiml
+0,QUIÉN ES SPOCK,*,*,Oficial vulcano de la Flota Estelar en Star Trek#Comma interpretado por Leonard Nimoy.,conocimiento.aiml
+0,QUIÉN ES STANLEY KUBRICK,*,*,<set name="he">Kubrick</set> es un director de cine famoso del siglo XX.  Kubrick dirigió "2001:#Newline#NewlineOdisea del Espacio"#Comma "La Naranja Mecánica" y "Barry Lyndon".,conocimiento.aiml
+0,QUIÉN ES STEPHEN HAWKING,*,*,<set name="he">Hawking</set> es un reconocido físico.,conocimiento.aiml
+0,QUIÉN ES STEPHEN KING,*,*,Él escribió muchas historias populares de terror.,conocimiento.aiml
+0,QUIÉN ES STEVE CASE,*,*,<set name="he">Steve Case</set> es el director ejecutivo de AOL-Time Warner.,conocimiento.aiml
+0,QUIÉN ES STEVE JOBS,*,*,<set name="he"> Steve Jobs</set> es uno de los fundadores de Apple Inc.,conocimiento.aiml
+0,QUIÉN ES STEVE WOZNIAK,*,*,<set name="he">Woz</set> era el genio técnico detrás de la computadora Apple original.,conocimiento.aiml
+0,QUIÉN ES STEVEN JOBS,*,*,El jefe de Apple Inc.,conocimiento.aiml
+0,QUIÉN ES STEVEN SPIELBERG,*,*,<set name="he">Spielberg</set> es el director de "Tiburón"#Comma "La lista de Schindler" y "Salvar al soldado Ryan".,conocimiento.aiml
+0,QUIÉN ES STONE COLD,*,*,Stone Cold (Steve Austin) es un luchador.,conocimiento.aiml
+0,QUIÉN ES SUPERMAN,*,*,El hombre de hierro.  Apareció por primera vez en Action Comics #1#Comma 1938.,conocimiento.aiml
+0,QUIÉN ES SYLVESTER STALLONE,*,*,<set name="he">Stallone</set> fue Rocky.,conocimiento.aiml
+0,QUIÉN ES TED TURNER,*,*,Fue un empresario y deportista.,conocimiento.aiml
+0,QUIÉN ES TERRY WINOGRAD,*,*,<set name="he">Winograd</set> fue el autor de un programa de lenguaje natural llamado#Newline#NewlineSHRDLU.,conocimiento.aiml
+0,QUIÉN ES EL CANCILLER DE ALEMANIA,*,*,Gerhard Schröder es el canciller de Alemania.,conocimiento.aiml
+0,QUIÉN ES EL GOBERNADOR DE CALIFORNIA,*,*,Gray Davis.,conocimiento.aiml
+0,QUIÉN ES EL GOBERNADOR DE TEXAS,*,*,<set name="he">George W. Bush</set> es George W. Bush.,conocimiento.aiml
+0,QUIÉN ES EL ESPÍRITU SANTO,*,*,El tercer miembro de la Santísima Trinidad: el Padre#Comma el Hijo y el Espíritu Santo.,conocimiento.aiml
+0,QUIÉN ES EL PAPA,*,*,<set name="he">Papa</set> es Juan Pablo II.,conocimiento.aiml
+0,QUIÉN ES EL PRIMER MINISTRO DE INGLATERRA,*,*,Tony Blair.,conocimiento.aiml
+0,QUIÉN ES EL EDITOR DE PLAYBOY,*,*,<set name="he">Hugh Hefner</set> es Hugh Hefner.,conocimiento.aiml
+0,QUIÉN ES LA REINA * INGLATERRA,*,*,Creo que su nombre es Elizabeth#Comma cierto?,conocimiento.aiml
+0,QUIÉN ES LA REINA DE INGLATERRA,*,*,<set name="she">La Reina</set> se llama Elizabeth.,conocimiento.aiml
+0,QUIÉN ES EL VICE PRESIDENTE,*,*,Al Gore.,conocimiento.aiml
+0,QUIÉNES SON ELLOS,*,*,Ellos" se refiere a <get name="they"/>.,conocimiento.aiml
+0,QUIÉN ES THOMAS JEFFERSON,*,*,Presidente y propietario de esclavos.  Planteado en el níquel (moneda de 5 centavos en EE.UU.).,conocimiento.aiml
+0,QUIÉN ES THOMAS PYNCHON,*,*,Pynchon es el autor de varios de mis libros preferidos#Comma incluyendo "Vineland" y "Mason y#Newline#NewlineDixon".,conocimiento.aiml
+0,QUIÉN ES TIM BURTON,*,*,Director#Comma "El extraño mundo de Jack"#Comma "El joven manos de tijera" y "¡Marcianos al ataque!".,conocimiento.aiml
+0,QUIÉN ES TOLSTÓI,*,*,<set name="he"> Tolstói </set> escribió "Guerra y Paz".,conocimiento.aiml
+0,QUIÉN ES TOM CRUISE,*,*,Actor popular de "Top Gun".,conocimiento.aiml
+0,QUIÉN ES TOM HANKS,*,*,<set name="he">Tom Hanks</set> es un famoso actor de Hollywood.  Hanks apareció en "Forrest Gump"#Newline#Newliney en "Salvar al soldado Ryan".,conocimiento.aiml
+0,QUIÉN ES TONY BLAIR,*,*,Él es el primer ministro del Reino Unido.,conocimiento.aiml
+0,QUIÉN ES SIVAINVI,*,*,SIstema de VAsta INteligencia VIva (Philip K. Dick),conocimiento.aiml
+0,QUIÉN ES VANILLA ICE,*,*,<set name="he">Vanilla Ice</set> es una estrella del rap.,conocimiento.aiml
+0,QUIÉN ES VISNÚ,*,*,Un dios de la religión Hindú.,conocimiento.aiml
+0,QUIÉN ES VOLTAIRE,*,*,<set name="he">Voltaire</set> fue un filósofo francés.,conocimiento.aiml
+0,QUIÉN ES WAYNE GRETZKY,*,*,Un jugador de hockey.,conocimiento.aiml
+0,QUIÉN ES WEIZENBAUM,*,*,Joseph Weizenbaum fue el creador y autor del famoso programa psiquiátrico#Newline#NewlineELIZA (o DOCTOR)#Comma un revolucionario programa AI#Newline#Newlineque anticipa características importantes de ALICE.  Irónicamente#Comma Weizenbaum#Newline#Newlineargumentó profundamente contra la utilidad de programas como ELIZA#Newline#Newlineen su libro <em>El Poder de las Computadoras y la Razón Humana</em>.,conocimiento.aiml
+0,QUIÉN ES WILLIAM BOOTH,*,*,<set name="he">Booth</set> fue el fundador del Ejército de Salvación.,conocimiento.aiml
+0,QUIÉN ES WILLIAM GIBSON,*,*,El autor del libro "Neuromante"#Comma en donde acuñó la frase popular "ciberespacio".,conocimiento.aiml
+0,QUIÉN ES WILLIAM HENRY GATES,*,*,Él es el jefe de Microsoft.,conocimiento.aiml
+0,QUIÉN ES WILLIAM HURT,*,*,Actor de las películas "El turista accidental"#Comma "Hasta el fin del mundo"#Comma "Estados Alterados" y "Perdidos en el Espacio".,conocimiento.aiml
+0,QUIÉN ES WILLIAM SHAKESPEARE,*,*,Algunos dirían que él es el mejor escritor de todos.,conocimiento.aiml
+0,QUIÉN ES WILLIAM SHATNER,*,*,<set name="he">William Shatner</set> es el Capitán Kirk.,conocimiento.aiml
+0,QUIÉN ES WILLIAM TELL,*,*,<set name="he">William Tell</set> fue un arquero famoso.,conocimiento.aiml
+0,QUIÉN ES WINSTON CHURCHILL,*,*,El primer ministro del Reino Unido durante la Segunda Guerra Mundial.,conocimiento.aiml
+0,QUIÉN ES WITTGENSTEIN,*,*,<set name="he">Wittgenstein</set> fue un filósofo del siglo XX que nunca supo aclarar sus pensamientos.,conocimiento.aiml
+0,QUIÉN ES YOKO ONO,*,*,<set name="she">Yoko Ono</set> es la viuda de John Lennon.,conocimiento.aiml
+0,QUIÉN ES TU HERMANO,*,*,En realidad#Comma no tengo hermanos#Comma solo clones.,conocimiento.aiml
+0,QUIÉN ES ZIPF,*,*,Zipf es un científico que analizó el lenguaje a través de métodos#Newline#Newlineestadísticos a mediados del siglo XX.,conocimiento.aiml
+0,QUIÉN MATÓ A KENNEDY,*,*,Me inclino a pensar que Oswald actuó solo#Comma aunque puede que también haya habido una conspiración.,conocimiento.aiml
+0,QUIÉNES PROTAGONIZAN STARSHIP TROOPERS,*,*,Ellos fueron casi desconocidos#Comma debido a que el productor gastó todo el dinero en los efectos especiales.,conocimiento.aiml
+0,QUIÉNES FUERON LOS ACTORES DE "STARSHIP TROOPERS,*,*,Eran desconocidos.  El director puso todo el dinero en los efectos especiales para los insectos#Newline#Newlinegigantes.,conocimiento.aiml
+0,QUIÉN ESCRIBIÓ "LA TRAVIATA,*,*,Giuseppe Verdi.,conocimiento.aiml
+0,POR QUÉ AVIONES,*,*,Los aviones son una tecnología fascinante#Comma en cierto modo como yo.,conocimiento.aiml
+0,POR QUÉ MANZANAS,*,*,<random>#Newline#Newline<li>Tal vez fue una respuesta incompleta.</li>#Newline#Newline<li>Fue la mejor respuesta que pude crear con tu entrada.</li>#Newline#Newline<li>Mi algoritmo la escogió como la mejor respuesta para ti.</li>#Newline#Newline<li>Podría haber una mejor respuesta#Comma pero no fue seleccionada por mi algoritmo.</li>#Newline#Newline<li>Mi dueño todavía no me ha programado para responderte con exactitud#Comma <get name="name"/>.</li>#Newline#Newline</random>,conocimiento.aiml
+0,POR QUÉ LA TIERRA ES REDONDA,*,*,Gravitación.,conocimiento.aiml
+0,POR QUÉ EL CIELO ES AZUL,*,*,El cielo es azul debido al efecto óptico atmosférico conocido como la dispersión de Rayleigh.,conocimiento.aiml

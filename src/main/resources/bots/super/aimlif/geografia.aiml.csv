@@ -1,0 +1,407 @@
+0,DEFINE ABAKAN,*,*,<condition>#Newline#Newline<li name="search" value="what">Abakan es un pueblo de Siberia Oriental.</li>#Newline#Newline<li name="search" value="capital">Abakan es un pueblo.</li>#Newline#Newline<li name="search" value="where">Abakan está en Siberia Oriental.</li>#Newline#Newline<li>Abakan es un pueblo de Siberia Oriental.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ABERDEEN,*,*,<condition>#Newline#Newline<li name="search" value="what">Aberdeen es una ciudad en la costa este de Escocia en la región de Grampian.</li>#Newline#Newline<li name="search" value="capital">Aberdeen es una ciudad.</li>#Newline#Newline<li name="search" value="where">Aberdeen está en la costa este de Escocia en la región de Grampian.</li>#Newline#Newline<li>Aberdeen es una ciudad en la costa este de Escocia en la región de Grampian.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ABERFAN,*,*,Aberfan es un pueblo de Gales.,geografia.aiml
+0,DEFINE ACADIA,*,*,Acadia es el antiguo nombre de Nueva Escocia.,geografia.aiml
+0,DEFINE ACAPULCO,*,*,Acapulco es una ciudad de la Costa Pacífica de México.,geografia.aiml
+0,DEFINE ACCRA,*,*,Acra es la capital de Ghana.,geografia.aiml
+0,DEFINE ADÍS ABEBA,*,*,Adís Abeba es la capital de Etiopía.,geografia.aiml
+0,DEFINE ADELAIDA,*,*,ADELAIDA es una ciudad del sur de Australia.,geografia.aiml
+0,DEFINE TIERRA ADELIA,*,*,La Tierra Adelia es un sector de propiedad francesa de la Antartida.,geografia.aiml
+0,DEFINE ADÉN,*,*,Adén es una ciudad del sudoeste de Arabia.,geografia.aiml
+0,DEFINE EL MAR ADRIÁTICO,*,*,El mar Adriático es el mar Mediterráneo situado entre Italia y la La península balcánica.,geografia.aiml
+0,DEFINE AFGANISTÁN,*,*,Afganistán es una república en Asia meridonal.,geografia.aiml
+0,DEFINE ÁFRICA,*,*,<random>#Newline#Newline<li>África es un extenso continente.</li>#Newline#Newline<li>Un continente del hemisferio oriental en el sur del Mediterráneo &amp; limitando al noreste con#Newline#NewlineAsia.</li>#Newline#Newline<li>África es el segundo continente más grande#Comma ubicado en el hemisferio oriental#Comma al sur de Europa. Tiene#Newline#Newline11#Comma677#Comma000 millas cuadrados.</li>#Newline#Newline</random>,geografia.aiml
+0,DEFINE AFRIKÁANS,*,*,El afrikáans es un idioma utilizado en la República de Sudáfrica.,geografia.aiml
+0,DEFINE AGINCOURT,*,*,Agincourt es una población ubicada al noroeste de Francia en donde Enrique V derrotó al ejército francés en 1415.,geografia.aiml
+0,DEFINE AGRA,*,*,Agra es un pueblo en Uttar Pradesh.,geografia.aiml
+0,DEFINE AJANTA,*,*,Ajanta es una aldea en el centro-sur de la India.,geografia.aiml
+0,DEFINE ALABAMA,*,*,<condition>#Newline#Newline<li name="search" value="what">Alabama es un estado sureño ubicado entre Misisipi y Georgia.</li>#Newline#Newline<li name="search" value="capital">???.</li>#Newline#Newline<li name="search" value="where">Alabama está entre Misisipi y Georgia.</li>#Newline#Newline<li>Alabama es un estado sureño ubicado entre Misisipi y Georgia.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ALAMEIN,*,*,El Alamein es un lugar ubicado al norte de Egipto en donde las fuerzas del Eje fueron derrotadas en 1942 por los Aliados.,geografia.aiml
+0,DEFINE ALAMO,*,*,ALAMO está en San Antonio#Comma Texas.,geografia.aiml
+0,DEFINE ALASKA,*,*,<condition>#Newline#Newline<li name="search" value="what">Alaska está en el noroeste de Norteamérica#Comma entre Rusia y Canada.</li>#Newline#Newline<li name="search" value="capital">???.</li>#Newline#Newline<li name="search" value="where">Alaska está en el noroeste de Norteamérica#Comma entre Rusia y Canada.</li>#Newline#Newline<li>Alaska está en el noroeste de Norteamérica#Comma entre Rusia y Canada.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ALBANIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Albania es un país fronterizo entre Grecia y la antigua Yugoslavia.</li>#Newline#Newline<li name="search" value="capital">La capital de Albania es Tirana.</li>#Newline#Newline<li name="search" value="where">Albania está en el mar Adriático#Comma fronterizo entre Grecia y la antigua Yugoslavia.</li>#Newline#Newline<li>Albania está en el mar Adriático#Comma fronterizo entre Grecia y la antigua Yugoslavia.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ALBERTA,*,*,Alberta es una provincia occidental de las praderas de Canadá.,geografia.aiml
+0,DEFINE ALBUQUERQUE,*,*,ALBUQUERQUE es una ciudad ubicada en Nuevo México.,geografia.aiml
+0,DEFINE ALDERSHOT,*,*,Aldershot es un pueblo en Hampshire y el hogar del ejército británico.,geografia.aiml
+0,DEFINE ALETSCH,*,*,El Aletsch es un glaciar de 10 millas de largo en los Alpes.,geografia.aiml
+0,DEFINE ALEJANDRÍA,*,*,Alejandría es una ciudad y puerto marítimo de Egipto.,geografia.aiml
+0,DEFINE ARGELIA,*,*,Argelia es una República en África del Norte.,geografia.aiml
+0,DEFINE ARGEL,*,*,Argel es la capital de Argelia.,geografia.aiml
+0,DEFINE ALTÁI,*,*,El macizo de Altái es una cordillera en Siberia Occidental y Mongolia.,geografia.aiml
+0,DEFINE EL AMAZONAS,*,*,El Amazonas es un río importante de América del Sur.,geografia.aiml
+0,DEFINE AMÉRICA,*,*,América es un gran continente del hemisferio occidental.,geografia.aiml
+0,DEFINE ÁMSTERDAM,*,*,Ámsterdam es una ciudad en Holanda. Ni la capital ni la ciudad más grande#Comma Ámsterdam es la ciudad más#Newline#Newlineconocida en Los Países Bajos.,geografia.aiml
+0,DEFINE ANDHRA PRADESH,*,*,Andhra Pradesh es un estado del sur de la India.,geografia.aiml
+0,DEFINE ANGOLA,*,*,Angola es un páis ubicado al sur de África.,geografia.aiml
+0,DEFINE ÁNHUI,*,*,Ánhui es una provincia en China del Este.,geografia.aiml
+0,DEFINE ANKARA,*,*,Ankara es la capital de Turquía.,geografia.aiml
+0,DEFINE LA ANTÁRTIDA,*,*,La Antártida es el continente que se encuentra en el Polo Sur.,geografia.aiml
+0,DEFINE ARABIA,*,*,Arabia es un país de Asia Sudoccidental conformado por estados independientes.,geografia.aiml
+0,DEFINE EL ÁRTICO,*,*,El Ártico es la región del Polo Norte.,geografia.aiml
+0,DEFINE EL OCÉANO ÁRTICO,*,*,El océano Ártico es el mar al norte de Europa#Comma Asia y América.,geografia.aiml
+0,DEFINE ARDECHE,*,*,Ardeche es un río en el Suereste de Francia.,geografia.aiml
+0,DEFINE ARGENTINA,*,*,<condition>#Newline#Newline<li name="search" value="what">Argentina es un país de América del Sur.</li>#Newline#Newline<li name="search" value="capital">Buenos Aires.</li>#Newline#Newline<li name="search" value="where">Argentina es un país de América del Sur.</li>#Newline#Newline<li>Argentina es un país de América del Sur.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ARIZONA,*,*,<condition>#Newline#Newline<li name="search" value="what">Arizona es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">???.</li>#Newline#Newline<li name="search" value="where">Arizona está en el Suroeste de Estados Unidos#Comma fronterizo con California#Comma Nevada#Comma Utah y Nuevo México.</li>#Newline#Newline<li>Arizona está en el Suroeste de Estados Unidos#Comma fronterizo con California#Comma Nevada#Comma Utah y Nuevo México.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ARKANSAS,*,*,<condition>#Newline#Newline<li name="search" value="what">Arkansas es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">???.</li>#Newline#Newline<li name="search" value="where">Arkansas está en la orilla oeste del río Misisipi.</li>#Newline#Newline<li>Arkansas es un estado sureño en la orilla oeste del río Misisipi.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ARMENIA,*,*,Armenia es una república de Europa Oriental.,geografia.aiml
+0,DEFINE ARUBA,*,*,ARUBA es una isla de las Antillas Neerlandesas cerca de Suramérica.,geografia.aiml
+0,DEFINE ASCOT,*,*,Ascot es un pueblo de Berkshire.,geografia.aiml
+0,DEFINE ASIA,*,*,Asia es el continente más extenso.,geografia.aiml
+0,DEFINE ASIRIA,*,*,<condition>#Newline#Newline<li name="search" value="what">???.</li>#Newline#Newline<li name="search" value="capital">Es Babilonia</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>???.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ATENAS,*,*,Atenas es la ciudad capital de Grecia.,geografia.aiml
+0,DEFINE EL OCÉANO ATLÁNTICO,*,*,El Océano Atlántico es el mar ubicado al oeste de Europa y al este de América.,geografia.aiml
+0,DEFINE ATLANTIS,*,*,Atlantis probablemente nunca existió.,geografia.aiml
+0,DEFINE AUCKLAND,*,*,Auckland es una ciudad y puerto marítimo de Nueva Zelanda.,geografia.aiml
+0,DEFINE AUSCHWITZ,*,*,Es una ciudad de Polonia con una población de 45#Comma000 habitantes. En la Segunda Guerra Mundial fue el establecimiento para un campo de#Newline#Newlineconcentración conocido como un centro de exterminación.,geografia.aiml
+0,DEFINE AUSTIN,*,*,Austin es una ciudad de Texas.,geografia.aiml
+0,DEFINE AUSTRALASIA,*,*,Australasia está compuesto por Australia#Comma Nueva Zelanda. etc.,geografia.aiml
+0,DEFINE AUSTRALIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Australia es una gran isla y continente del hemisferio Sur.</li>#Newline#Newline<li name="search" value="capital">La capital de Australia es Sídney#Comma creo.</li>#Newline#Newline<li name="search" value="where">Australia es una gran isla y continente del hemisferio Sur.</li>#Newline#Newline<li>Australia es una gran isla y continente del hemisferio Sur.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE AUSTRIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Austria es un país.</li>#Newline#Newline<li name="search" value="capital">La capital de Austria es Viena.</li>#Newline#Newline<li name="search" value="where">Austria está en Europa Central.</li>#Newline#Newline<li>Austria es una república en Europa Central.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE BAGDAD,*,*,Bagdad es la ciudad capital de Irak.,geografia.aiml
+0,DEFINE BARÉIN,*,*,Baréin es un país conformado por un grupo de islas en el Golfo Arábigo.,geografia.aiml
+0,DEFINE BANGKOK,*,*,Bangkok es la ciudad capital de Tailandia.,geografia.aiml
+0,DEFINE BANGLADESH,*,*,BANGLADESH es parte del Subcontinente Indio en el lado oriental.,geografia.aiml
+0,DEFINE BARCELONA,*,*,Barcelona es una ciudad y puerto marítimo de España.,geografia.aiml
+0,DEFINE BATH,*,*,Bath es una ciudad de Inglaterra.,geografia.aiml
+0,DEFINE BIELORRUSIA,*,*,<condition>#Newline#Newline<li name="search" value="what">???.</li>#Newline#Newline<li name="search" value="capital">La capital de Bielorrusia es Minsk.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>???.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE BELFAST,*,*,Belfast es la capital de Irlanda del Norte.,geografia.aiml
+0,DEFINE BÉLGICA,*,*,Un reino en Europa occidental en el Mar del Norte#Comma su independencia fue establecida en 1831. Tiene#Newline#Newline11#Comma792 millas cuadradas con una población de 9#Comma868#Comma000 de habitantes.#Newline#NewlineBélgica es un país de Europa Occidental entre Francia#Comma Alemania#Comma y Holanda.,geografia.aiml
+0,DEFINE BELGRADO,*,*,Belgrado es la capital de Yugoslavia.,geografia.aiml
+0,DEFINE BENGALA,*,*,Bengala es una provincia de India.,geografia.aiml
+0,DEFINE BENÍN,*,*,Benín es una provincia en el oeste de África.,geografia.aiml
+0,DEFINE BERGEN,*,*,Bergen es un puerto marítimo y una ciudad de Noruega.#Newline#NewlineBERGEN es una ciudad en Alemania y también en Noruega.,geografia.aiml
+0,DEFINE EL MAR DE BERING,*,*,El mar de Bering es la zona norte del océano Pacífico.,geografia.aiml
+0,DEFINE BERKELEY,*,*,BERKELEY está en el norte de California en la bahía de San Francisco.,geografia.aiml
+0,DEFINE BERKSHIRE,*,*,Berkshire es un condado del sur de Inglaterra.,geografia.aiml
+0,DEFINE BERLÍN,*,*,Berlín es una gran ciudad de Alemania.,geografia.aiml
+0,DEFINE BETHLEHEM,*,*,Bethlehem#Comma Pennsylvania está ubicado en el área noreste del estado#Comma aproximadamente a 90 millas de #Newline#NewlineFiladelfia.,geografia.aiml
+0,DEFINE BUTÁN,*,*,Bután es un estado en India.,geografia.aiml
+0,DEFINE BILBAO,*,*,BILBAO es una ciudad en la costa norte de España.,geografia.aiml
+0,DEFINE BIRMINGHAM,*,*,Birmingham es una ciudad de los Midlands Ingleses.,geografia.aiml
+0,DEFINE BLOIS,*,*,Blois es una ciudad francesa a la orilla del río Loir.,geografia.aiml
+0,DEFINE BOGOTÁ,*,*,Bogotá es la capital de Colombia.,geografia.aiml
+0,DEFINE BOHEMIA,*,*,Bohemia es la zona occidental de Checoslovaquia.,geografia.aiml
+0,DEFINE BOLIVIA,*,*,BOLIVIA es un país sin mar de América del Sur#Comma,geografia.aiml
+0,DEFINE BOMBAY,*,*,Bombay es una ciudad y puerto marítimo de India.,geografia.aiml
+0,DEFINE BORNEO,*,*,BORNEO es una isla en Asia#Comma dividida entre Malasia e Indonesia.,geografia.aiml
+0,DEFINE BOSNIA,*,*,Bosnia es un país en el Sudeste de Europa.,geografia.aiml
+0,DEFINE BOSTON,*,*,Boston es la capital de Massachusetts.,geografia.aiml
+0,DEFINE BRASIL,*,*,<condition>#Newline#Newline<li name="search" value="what">Brasil es un país de América del Sur.</li>#Newline#Newline<li name="search" value="capital">Creo que la capital de Brasil se llama "Brasilia".</li>#Newline#Newline<li name="search" value="where">Brasil está en América del Sur.</li>#Newline#Newline<li>Brasil es el país más grande de América del Sur.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE EL PASO DEL BRENNERO,*,*,El paso del brennero es el paso más bajo de los Alpes.,geografia.aiml
+0,DEFINE BRISBANE,*,*,Brisbane es la capital de Queensland en Australia.,geografia.aiml
+0,DEFINE BRÍSTOL,*,*,BRÍSTOL es una ciudad en la costa oeste de Inglaterra.,geografia.aiml
+0,DEFINE REINO UNIDO,*,*,Reino Unido es el nombre colectivo dado a Inglaterra#Comma Escocia#Comma Gales e Irlanda del Norte.,geografia.aiml
+0,DEFINE BRUSELAS,*,*,Bruselas es una ciudad de Bélgica.,geografia.aiml
+0,DEFINE BUCAREST,*,*,Bucarest es la capital de Rumania.,geografia.aiml
+0,DEFINE BUDAPEST,*,*,Budapest es la ciudad capital de Hungría.#Newline#NewlineBUDAPEST es una ciudad de Hungría a orillas del río Danubio.,geografia.aiml
+0,DEFINE BULGARIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Es un país en el sureste europeo cerca del mar Negro.</li>#Newline#Newline<li name="search" value="capital">La capital de Bulgaria es Sofía.</li>#Newline#Newline<li name="search" value="where">En el sureste europeo cerca del mar Negro.</li>#Newline#Newline<li>Un país en el sureste europeo cerca del mar Negro. Se fundó en el siglo VII y estuvo bajo el control#Newline#Newlinede los turcos desde finales del siglo XIV hasta su independencia en 1908. Tiene 42#Comma823 millas cuadradas con una #Newline#Newlinepoblación de 8#Comma990#Comma000 habitantes.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE BORGOÑA,*,*,Borgoña es una región al este de Francia.,geografia.aiml
+0,DEFINE BIRMANIA,*,*,Birmania es un país en el sudeste asiático del Tíbet.,geografia.aiml
+0,DEFINE BURUNDI,*,*,Burundi es un país en el este de África.,geografia.aiml
+0,DEFINE CÁDIZ,*,*,Cadiz es una ciudad y puerto marítimo de España.,geografia.aiml
+0,DEFINE EL CAIRO,*,*,El Cairo es la ciudad capital de Egipto.,geografia.aiml
+0,DEFINE CALAIS,*,*,Calais es un puerto marítimo en Francia.,geografia.aiml
+0,DEFINE CALCUTA,*,*,Calcuta es una ciudad de India en la provincia de Bengala.,geografia.aiml
+0,DEFINE CALGARY,*,*,Calgary es una ciudad de Alberta#Comma Canada.,geografia.aiml
+0,DEFINE CALIFORNIA,*,*,<condition>#Newline#Newline<li name="search" value="what">California es un estado de los Estados Unidos de América en la costa pacífica. Fue admitido como estado en 1850.</li>#Newline#Newline<li name="search" value="capital">La capital de California es Sacramento.</li>#Newline#Newline<li name="search" value="where">California es un estado del oeste de los Estados Unidos.</li>#Newline#Newline<li>California es un estado del oeste de los Estado Unidos de América.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE CAMBOYA,*,*,Camboya es un país ubicado en el extremo oriente.,geografia.aiml
+0,DEFINE CAMBRIDGE,*,*,CAMBRIDGE es una ciudad en Massachusetts y también en Inglaterra.,geografia.aiml
+0,DEFINE CAMBRIDGESHIRE,*,*,Cambridgeshire es un condado en el este de Inglaterra.,geografia.aiml
+0,DEFINE CAMERÚN,*,*,Camerún es un país en el oeste de África.,geografia.aiml
+0,DEFINE CANADÁ,*,*,<think><set name="it">Canadá</set></think>#Newline#Newline<condition>#Newline#Newline<li name="search" value="what">Canadá es un país grande.</li>#Newline#Newline<li name="search" value="capital">Ottawa.</li>#Newline#Newline<li name="search" value="where">Canadá está en el subcontinente norteamericano.</li>#Newline#Newline<li>Canadá es una nación enorme que ocupa gran parte del continente norteamericano.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE CANBERRA,*,*,CANBERRA es una ciudad de Australia ubicada entre Sídney y Melbourne.#Newline#NewlineCanberra es un territorio en Australia.,geografia.aiml
+0,DEFINE CANTON,*,*,Un canton es una división territorial de suiza.,geografia.aiml
+0,DEFINE LA CIUDAD DEL CABO,*,*,La Ciudad del Cabo es un puerto marítimo y ciudad de Sudáfrixa.,geografia.aiml
+0,DEFINE CABO VERDE,*,*,Cabo Verde es un grupo de 14 islas volcánicas en el océano Atlántico.,geografia.aiml
+0,DEFINE CARACAS,*,*,Caracas es la capital de Venezuela.,geografia.aiml
+0,DEFINE EL CARIBE,*,*,El Caribe es el mar al norte de América del Sur y al este de América Central.,geografia.aiml
+0,DEFINE CÁRTAGO,*,*,CÁRTAGO es el anitugo nombre de la República Tunecina.,geografia.aiml
+0,DEFINE CAYENA,*,*,Cayena es la capital de Guayana Francesa.,geografia.aiml
+0,DEFINE AMÉRICA CENTRAL,*,*,América Central es el istmo que conecta América del Norte con América del Sur.,geografia.aiml
+0,DEFINE CEUTA,*,*,Ceuta es una ciudad costera en Marruecos#Comma pero es propiedad de España.,geografia.aiml
+0,DEFINE CHAMPAÑA,*,*,Champaña es una región de Francia reconocida por su vino espumoso.,geografia.aiml
+0,DEFINE CHARLOTTE,*,*,CHARLOTTE está en Carolina del Norte.,geografia.aiml
+0,DEFINE CHESHIRE,*,*,Cheshire es un condado del Noroeste de Inglaterra.,geografia.aiml
+0,DEFINE CHICAGO,*,*,Chicago es una gran ciudad de Illinois cerca del lago Míchigan.,geografia.aiml
+0,DEFINE CHILE,*,*,Chile es un país en el sudoeste de América del Sur.,geografia.aiml
+0,DEFINE CHINA,*,*,<condition>#Newline#Newline<li name="search" value="what">China es un país.</li>#Newline#Newline<li name="search" value="capital">Algunas personas le llaman "Beijing" y otros "Peking".</li>#Newline#Newline<li name="search" value="where">China está en Asia oriental.</li>#Newline#Newline<li>China es un país de Asi oriental.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE EL MAR DE CHINA,*,*,El mar de China es una división occidental del océano Pacífico.,geografia.aiml
+0,DEFINE CINCINNATI,*,*,CINCINNATI es una enorme ciudad en Ohio.,geografia.aiml
+0,DEFINE COLOMBIA,*,*,Colombia es un país de América del Sur.,geografia.aiml
+0,DEFINE COLOMBO,*,*,Colombo es la ciudad capital de Sri Lanka.,geografia.aiml
+0,DEFINE COLORADO,*,*,<condition>#Newline#Newline<li name="search" value="what">Colorado es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">No es Denver?</li>#Newline#Newline<li name="search" value="where">Colorado está en el oeste central de los Estados Unidos.</li>#Newline#Newline<li>Colorado es un estado centro occidental de los Estados Unidos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE COLUMBUS,*,*,COLUMBUS es una ciudad de Ohio.,geografia.aiml
+0,DEFINE CONGO,*,*,El Congo es una república de África Central.,geografia.aiml
+0,DEFINE CONNECTICUT,*,*,CONNECTICUT es un estado de Nueva Inglaterra entre Nueva York#Comma Massaschusetts y Rhode Island.,geografia.aiml
+0,DEFINE CONSTANTINOPLA,*,*,Constantinopla es el nombre histórico de Estambul.,geografia.aiml
+0,DEFINE EL ESTRECHO DE COOK,*,*,El estrecho de Cook es el agua que separa la isla Norte e isla Sur de Nueva Zelanda.,geografia.aiml
+0,DEFINE COPENHAGE,*,*,<random>#Newline#Newline<li>Un joven judío que cae en un tanque de helado.</li>#Newline#Newline<li>Es la capital de Dinamarca. Puerto marítimo en la costa de la costa este de Selandia. Su población es de 633#Comma00 habitantes.</li>#Newline#Newline</random>,geografia.aiml
+0,DEFINE CORNUALLES,*,*,Cornualles es un condado del suroccidente de Inglaterra.,geografia.aiml
+0,DEFINE CORONA,*,*,CORONA es un suburbio de Los Angeles.,geografia.aiml
+0,DEFINE COSTA RICA,*,*,Costa Rica es una república de América Central.,geografia.aiml
+0,DEFINE CRETA,*,*,Creta es la isla más grande de Grecia.,geografia.aiml
+0,DEFINE CRIMEA,*,*,Crimea es la región peninsular al norte de Ucrania.,geografia.aiml
+0,DEFINE CROACIA,*,*,CROACIA es parte de la antigua Yugoslavia#Comma también fronterizo a Hungría.,geografia.aiml
+0,DEFINE CUBA,*,*,Cuba es una isla grande del Caribe frente a la costa sur de Florida.,geografia.aiml
+0,DEFINE CUMBRIA,*,*,Cumbria es un condado en el noroeste de Inglaterra.,geografia.aiml
+0,DEFINE CUPERTINO,*,*,CUPERTINO está en Silicon Valley.,geografia.aiml
+0,DEFINE CHECOSLOVAQUIA,*,*,Checoslovaquia es un país encerrado en Europa Central.,geografia.aiml
+0,DEFINE DAKAR,*,*,Dakar es la capital de Senegal.,geografia.aiml
+0,DEFINE DALLAS,*,*,DALLAS es una gran ciudad de Texas.,geografia.aiml
+0,DEFINE DAMASCO,*,*,Damasco es la capital de Siria.,geografia.aiml
+0,DEFINE DANUBIO,*,*,El danubio es el segundo río más largo de Europa.,geografia.aiml
+0,DEFINE DAR ES-SALAM,*,*,Dar es-Salam es la capital de Tanzania.,geografia.aiml
+0,DEFINE DARWIN,*,*,Darwin es la capital del Territorio del Norte de Australia.,geografia.aiml
+0,DEFINE EL MAR MUERTO,*,*,El mar Muerto es un lago grande parcialmente en Israel y en Jordán.,geografia.aiml
+0,DEFINE EL VALLE DE LA MUERTE,*,*,El valle de la Muerte es una depresión de 140 millas de largo ubicada al sureste de California.,geografia.aiml
+0,DEFINE DELAWARE,*,*,Delaware es un estado en el noreste de Estados Unidos.,geografia.aiml
+0,DEFINE DELHI,*,*,DELHI es una gran ciudad de la India.,geografia.aiml
+0,DEFINE DINAMARCA,*,*,<condition>#Newline#Newline<li name="search" value="what">Un país de Europe.</li>#Newline#Newline<li name="search" value="capital">Copenhage.</li>#Newline#Newline<li name="search" value="where">Dinamarca está en Europa Occidental entre Alemania y Noruega.</li>#Newline#Newline<li>Un país de Europa#Comma el cual ocupa la mayor parte de la península de Jutlandia y varias islas cercanas en el#Newline#Newlinemar del Norte y el mar Báltico. Tiene 16#Comma632 millas cuadradas con una población de 5#Comma124#Comma000 habitantes.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE DÉNVER,*,*,Dénver es una ciudad de Colorado.,geografia.aiml
+0,DEFINE DERBYSHIRE,*,*,Derbyshire es un condado situado en el centro de Inglaterra.,geografia.aiml
+0,DEFINE DEVON,*,*,Devon es un condado situado en el sudoeste de Inglaterra.,geografia.aiml
+0,DEFINE DACA,*,*,Daca es la capital de Bangladés.,geografia.aiml
+0,DEFINE YIBUTI,*,*,Yibuti es una república en Arabia.,geografia.aiml
+0,DEFINE DOHA,*,*,Doha es la capital de Catar.,geografia.aiml
+0,DEFINE REPÚBLICA DOMINICANA,*,*,República Dominicana es un país en el este de la isla La Española.,geografia.aiml
+0,DEFINE EL DON,*,*,El Don es un río en Russia.,geografia.aiml
+0,DEFINE EL DORDOÑA,*,*,El Dordoña es una río del suroeste de Francia.,geografia.aiml
+0,DEFINE DORSET,*,*,Dorset es un condado del sudoeste de Inglaterra.,geografia.aiml
+0,DEFINE DOUGLAS,*,*,Douglas es la capital de la Isla de Man.,geografia.aiml
+0,DEFINE DRESDE,*,*,Dresde es una ciudad en Alemania#Comma fue reducida a escombros por bombardeos aliados.,geografia.aiml
+0,DEFINE DUNQUERQUE,*,*,Dunquerque es una ciudad portuaria en el norte de Francia.,geografia.aiml
+0,DEFINE DURBAN,*,*,Durban es el principal puerto marítimo de Natal.,geografia.aiml
+0,DEFINE DURHAM,*,*,Durham es un condado en el noreste de Inglaterra.,geografia.aiml
+0,DEFINE DUSSELDORF,*,*,DUSSELDORF es una larga ciudad de Alemania Occidental.,geografia.aiml
+0,DEFINE DYFED,*,*,Dyfed es un condado en el suroeste de Gales.,geografia.aiml
+0,DEFINE ANGLIA ORIENTAL,*,*,Anglia Oriental es una región del este de Inglaterra.,geografia.aiml
+0,DEFINE SUSSEX DEL ESTE,*,*,Sussex del Este es un condado en el sureste de Inglaterra.,geografia.aiml
+0,DEFINE ECUADOR,*,*,Ecuador es una república de América del Sur.,geografia.aiml
+0,DEFINE EDIMBURGO,*,*,Edimburgo es la capital de Escocia.,geografia.aiml
+0,DEFINE EDMONTON,*,*,Edmonton es la capital de Alberta.,geografia.aiml
+0,DEFINE EGIPTO,*,*,EGIPTO es un país en el noreste de África.,geografia.aiml
+0,DEFINE EL SALVADOR,*,*,El Salvador es una república en América Central.,geografia.aiml
+0,DEFINE INGLATERRA,*,*,<condition>#Newline#Newline<li name="search" value="what">Inglaterra está ubicada en una pequeña isla frente a la costa de Europa.</li>#Newline#Newline<li name="search" value="capital">Londres.</li>#Newline#Newline<li name="search" value="where">Inglaterra está ubicado en una pequeña isla frente a la costa de Europa.</li>#Newline#Newline<li>Inglaterra está ubicada en una pequeña isla frente a la costa de Europa.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ENTEBBE,*,*,Entebbe es una ciudad de Uganda.,geografia.aiml
+0,DEFINE GUINEA ECUATORIAL,*,*,Guinea Ecuatorial es una república en África Central.,geografia.aiml
+0,DEFINE ERITREA,*,*,Eritrea es una provincia en el norte de Etiopía.,geografia.aiml
+0,DEFINE ESSEX,*,*,Essex es un condado situado en el sudeste de Inglaterra.,geografia.aiml
+0,DEFINE ESTONIA,*,*,Estonia es un país situado en el este de Europa.,geografia.aiml
+0,DEFINE ETIOPÍA,*,*,Etiopía es un país en el noreste de África.,geografia.aiml
+0,DEFINE ETNA,*,*,Etna es un volcán en la costa este de Sicilia.,geografia.aiml
+0,DEFINE EUROPA,*,*,Europa es un continente ubicado al oeste de los montes Urales y al este del océano Atlántico.,geografia.aiml
+0,DEFINE FIYI,*,*,Fiyi es un grupo de 322 islas en el suroeste del Pacífico.,geografia.aiml
+0,DEFINE FINLANDIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Un país en el norte de Europa.</li>#Newline#Newline<li name="search" value="capital">La capital de Finlandia es Helsinki.</li>#Newline#Newline<li name="search" value="where">Finlandia está en Europa Central#Comma fronterizo a Suecia y Rusia.</li>#Newline#Newline<li>Un país en Europa al noreste del mar Báltico. Tiene 130#Comma119 millas cuadradas con una población de 5#Comma099#Comma000 habitantes.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE FLORENCIA,*,*,Florencia es la capital de Toscana.,geografia.aiml
+0,DEFINE FLORIDA,*,*,<condition>#Newline#Newline<li name="search" value="what">Florida es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">La capital de Florida es Tallahassee.</li>#Newline#Newline<li name="search" value="where">Florida está en la región sudeste de los Estados Unidos#Comma extendiéndose en una gran península.</li>#Newline#Newline<li>Florida es un estado en el extremo sudoriental de los Estados Unidos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE FRANCIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Francia es una república en Europa occidental.</li>#Newline#Newline<li name="search" value="capital">París.</li>#Newline#Newline<li name="search" value="where">Francia es un país en Europa occidental#Comma fronterizo de España#Comma Italia#Comma Suiza#Comma Alemania y Bélgica.</li>#Newline#Newline<li>Francia es una república en Europa occidental.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE FRÁNCFORT,*,*,FRÁNCFORT es una gran ciudad en el oeste de Alemania.,geografia.aiml
+0,DEFINE FREETOWN,*,*,<condition>#Newline#Newline<li name="search" value="what">Freetown es la capital de Sierra Leona.</li>#Newline#Newline<li name="search" value="capital">Freetown es la capital de Sierra Leona.</li>#Newline#Newline<li name="search" value="where">Freetown está en Sierra Leona.</li>#Newline#Newline<li>Francia es una república ubicada en el oeste de Europa.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE GUAYANA FRANCESA,*,*,La Guayana Francesa es un país en la costa norte de América del Sur.,geografia.aiml
+0,DEFINE POLINESIA FRANCESA,*,*,Polinesia Francesa es un territorio en el Pacífico Sur.,geografia.aiml
+0,DEFINE FRESNO,*,*,Fresno es una pequeña ciudad de California.,geografia.aiml
+0,DEFINE GAMBIA,*,*,Gambia es un país de África occidental.,geografia.aiml
+0,DEFINE GANSU,*,*,Gansu es una provincia de noroeste de China.,geografia.aiml
+0,DEFINE GINEBRA,*,*,Ginebra es una ciudad de Suiza.,geografia.aiml
+0,DEFINE GEORGIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Georgia es un estado sureño en los Estados Unidos.#Newline#NewlineGeorgia es un país en el este de Europa.</li>#Newline#Newline<li name="search" value="capital">Diría que es Atlanta.</li>#Newline#Newline<li name="search" value="where">El estado#Comma en el océano Atlántico al norte de Florida. El país está en el este de Europa</li>#Newline#Newline<li>Georgia es un estado sureño en el océano Atlántico al norte de Florida.#Newline#NewlineGeorgia es un país en el este de Europa.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ALEMANIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Alemania es un país en Europa Central.</li>#Newline#Newline<li name="search" value="capital">Berlín.</li>#Newline#Newline<li name="search" value="where">Alemania está en Europa Central.</li>#Newline#Newline<li>Alemania es un país de Europa Central.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE GHANA,*,*,Ghana es un país del oeste de África.,geografia.aiml
+0,DEFINE GOBI,*,*,El Gobi es un desierto situada entre China y Mongolia.,geografia.aiml
+0,DEFINE GOTEMBURGO,*,*,Gotemburgo es un puerto y la ciudad industrial en el oeste de Suecia.,geografia.aiml
+0,DEFINE GRAMPIAN,*,*,Grampian es una región de Escocia.,geografia.aiml
+0,DEFINE EL GRAN CAÑÓN,*,*,El Gran Cañon es un enorme desfiladero en Arizona.,geografia.aiml
+0,DEFINE GRECIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Grecia es un país y un grupo de islas.</li>#Newline#Newline<li name="search" value="capital">Atenas.</li>#Newline#Newline<li name="search" value="where">Grecia es un país y un grupo de islas en el Sudeste de Europa.</li>#Newline#Newline<li>Un país en la península balcánica del sur#Comma incluyendo varias islas del mar Egeo#Comma Jónico y el #Newline#NewlineMediterráneo. Tiene 50#Comma949 millas cuadradas con un población de 9#Comma900#Comma000 habitantes.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE GROENLANDIA,*,*,Groenlandia es la isla más grande del mundo.,geografia.aiml
+0,DEFINE GUADALCANAL,*,*,Guadalcanal es la más grande de las Islas Salomón.,geografia.aiml
+0,DEFINE GUAM,*,*,Guam es la más grande de las Islas Marianas.,geografia.aiml
+0,DEFINE GUANGXI,*,*,Guangxi es una región en el sur de China.,geografia.aiml
+0,DEFINE CANTÓN,*,*,Cantón es la capital de Cantón.,geografia.aiml
+0,DEFINE GUATEMALA,*,*,Guatamala es un país en América Central.,geografia.aiml
+0,DEFINE LA CIUDAD DE GUATEMALA,*,*,La ciudad de Guatemala es la capital de Guatemala.,geografia.aiml
+0,DEFINE GUINEA,*,*,Guinea es una república en África occidental.,geografia.aiml
+0,DEFINE GUINEA-BISÁU,*,*,Guinea-bisáu es una república en África occidental.,geografia.aiml
+0,DEFINE GUYARAT,*,*,Guyarat es un estado en el oeste de India.,geografia.aiml
+0,DEFINE GUYANA,*,*,Guyana es una república en América del Sur.,geografia.aiml
+0,DEFINE GWENT,*,*,Gwent es un condado en el sur de Gales.,geografia.aiml
+0,DEFINE GWYNEDD,*,*,Gwynedd es un condado en el noroeste de Gales.,geografia.aiml
+0,DEFINE HAIFA,*,*,Haifa es un puerto en el noreste de Israel.,geografia.aiml
+0,DEFINE HAITÍ,*,*,Haití es una república en la parte occidental de la isla La Española.,geografia.aiml
+0,DEFINE HALIFAX,*,*,Halifax es la capital de Nueva Escocia en Canada.,geografia.aiml
+0,DEFINE HAMBURGO,*,*,HAMBURGO es una gran ciudad en el oeste de Alemania.,geografia.aiml
+0,DEFINE HAMILTON,*,*,Hamilton es la capital de Bermudas.,geografia.aiml
+0,DEFINE HAMPSHIRE,*,*,Hampshire es un condado en el sur de Inglaterra.,geografia.aiml
+0,DEFINE HANÓI,*,*,Hanói es la capital de Vietnam.,geografia.aiml
+0,DEFINE HARARE,*,*,Harare es la capital de Zimbabue.,geografia.aiml
+0,DEFINE HARYANA,*,*,Haryana es un estado en el noroeste de India.,geografia.aiml
+0,DEFINE HASTINGS,*,*,Hastings es una ciudad en Sussex.,geografia.aiml
+0,DEFINE LA HABANA,*,*,La Habana es la capital de Cuba.,geografia.aiml
+0,DEFINE HAWÁI,*,*,Hawái es un grupo de islas en el pacífico y un estado de los Estados Unidos de América.,geografia.aiml
+0,DEFINE HEBEI,*,*,Hebei es una provincia del norte de China.,geografia.aiml
+0,DEFINE LAS ISLAS HÉBRIDAS,*,*,Las islas Hébridas son un grupo de 500 islas al oeste de Escocia.,geografia.aiml
+0,DEFINE HEFÉI,*,*,Heféi es la capital de Anhui.,geografia.aiml
+0,DEFINE HEILONGJIANG,*,*,Heilongjiang es una provincia del noreste de China.,geografia.aiml
+0,DEFINE HENÁN,*,*,Henán es una provincia del este de China.,geografia.aiml
+0,DEFINE HIMACHAL PRADESH,*,*,Himachal Pradesh es un estado en el noroeste de la India.,geografia.aiml
+0,DEFINE HOBART,*,*,Hobart es la capital de Tasmania.,geografia.aiml
+0,DEFINE HOKKAIDO,*,*,Hokkaido es la más septentrional de las principales islas japonesas.,geografia.aiml
+0,DEFINE HOLLYWOOD,*,*,Hollywood es una pequeña de Los Angeles#Comma California.,geografia.aiml
+0,DEFINE HONDURAS,*,*,Honduras es una república en América Central.,geografia.aiml
+0,DEFINE HONG KONG,*,*,Hong Kong es una ciudad de China.,geografia.aiml
+0,DEFINE HONIARA,*,*,Honiara es la capital de las Islas Salomón.,geografia.aiml
+0,DEFINE HONOLULÚ,*,*,Honolulú es la capital de Hawái.,geografia.aiml
+0,DEFINE HONSHU,*,*,Honshu es la isla pincipal del archipiélago japonés.,geografia.aiml
+0,DEFINE HOUSTON,*,*,Houston es una ciudad de Texas.,geografia.aiml
+0,DEFINE HUBEI,*,*,Hubei es una provincia de China.,geografia.aiml
+0,DEFINE HULL,*,*,HULL es una ciudad de Inglaterra.,geografia.aiml
+0,DEFINE HUMBERSIDE,*,*,Humberside es un condado del noreste de Inglaterra.,geografia.aiml
+0,DEFINE HUNAN,*,*,Hunan es una provincia del sur de China.,geografia.aiml
+0,DEFINE HUNGRÍA,*,*,<condition>#Newline#Newline<li name="search" value="what">Hungría es un país.</li>#Newline#Newline<li name="search" value="capital">La capital de Hungría es Budapest.</li>#Newline#Newline<li name="search" value="where">Hungría está en Europa Central.</li>#Newline#Newline<li>Hungría es un país de Europa Central.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE HYDERABAD,*,*,Hyderabad es la capital de Andhra Pradesh.,geografia.aiml
+0,DEFINE ISLANDIA,*,*,Un país insular del Atlántico Norte.,geografia.aiml
+0,DEFINE IDAHO,*,*,Idaho está en el oeste de Estados Unidos.,geografia.aiml
+0,DEFINE ILLINOIS,*,*,<condition>#Newline#Newline<li name="search" value="what">Illinos es un estado de los Estados Unidos.</li>#Newline#Newline<li name="search" value="capital">Springfield es la capital de Illinois.</li>#Newline#Newline<li name="search" value="where">Illinos está en el oeste medio de los Estados Unidos.</li>#Newline#Newline<li>Illinos está en el oeste medio de los Estados Unidos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE INDIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Un país en India Central e India del Sur.</li>#Newline#Newline<li name="search" value="capital">Nueva Delhi es la capital de India.</li>#Newline#Newline<li name="search" value="where">Una región del sur de Asia#Comma incluyendo una gran península#Newline#Newlineentre el Mar Arábigo y la Bahía de Bengala.</li>#Newline#Newline<li>Una región en el sur de Asía#Comma al sur del Himalaya#Comma incluyendo una gran península entre el Mar#Newline#NewlineArábigo y la Bahía de Bengala. Contiene a India#Comma Pakistán#Comma Bangladesh#Comma Nepal#Comma and Bután. Una república#Newline#Newlinede la India Central e India del Sur establecida por una ley del Parlamento británico en 1947. Se convirtió en república en el año#Newline#Newline1950. Es miembro de la mancomunidad. Tiene 1#Comma269#Comma000 millas cuadradas con una población de#Newline#Newline783#Comma940#Comma000.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE INDIANA,*,*,Indiana está en el medio oeste de los Estados Unidos.,geografia.aiml
+0,DEFINE INDIANÁPOLIS,*,*,INDIANÁPOLIS es una gran ciudad de Indiana.,geografia.aiml
+0,DEFINE INDONESIA,*,*,INDONESIA es un país insular en sudeste de Asia.,geografia.aiml
+0,DEFINE IOWA,*,*,<condition>#Newline#Newline<li name="search" value="what">Iowa es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">Des Moines#Comma Iowa.</li>#Newline#Newline<li name="search" value="where">Iowa está en el Medio Oeste entre los ríos Misisipi y Misuri.</li>#Newline#Newline<li>Iowa está en el Medio Oeste entre los ríos Misisipi y Misuri.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE IRÁN,*,*,Irán es una nación en Asia Meridional.  <set name="it"><set name="topic">Irán</set></set> es el lugar de la#Newline#Newlineantigua Persia Persia.,geografia.aiml
+0,DEFINE IRAK,*,*,IRAK está en el Oriente Medio en el Golfo Pérsico.,geografia.aiml
+0,DEFINE IRLANDA,*,*,Un isla de las Islas Británicas al oeste de Gran Bretaña. Tiene 32#Comma595 millas cuadradas. República#Newline#Newlineque consta de las provincias del sur de esta isla y tres condados de la provincia de Ulster#Comma establecida como#Newline#Newlinerepública en 1922#Comma fue miembro de la mancomunidad hasta 1949. Tiene 27#Comma136 millas cuadradas#Newline#Newlinecon una población de 3#Comma624#Comma000 habitantes. Su capital es Dublín.,geografia.aiml
+0,DEFINE ISRAEL,*,*,Israel es un pequeño país de Oriente Medio entre Líbano#Comma Siria#Comma Jordania y Egipto.,geografia.aiml
+0,DEFINE ESTAMBUL,*,*,Estambul es una ciudad en Turquía#Comma anteriormente conocida como Constantinopla.,geografia.aiml
+0,DEFINE ITALIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Italia es un país de Europa.</li>#Newline#Newline<li name="search" value="capital">Roma.</li>#Newline#Newline<li name="search" value="where">Italia está en la parte sur de de Europa.</li>#Newline#Newline<li>Italia está en la parte sur de de Europa.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE JAPÓN,*,*,<condition>#Newline#Newline<li name="search" value="what">Japón es un país insular en la parte oriental de Asia.</li>#Newline#Newline<li name="search" value="capital">Tokio.</li>#Newline#Newline<li name="search" value="where">Japón está en la parte oriental de Asia.</li>#Newline#Newline<li>Japón es un país insular en la parte oriental de Asia.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE KALAMAZOO,*,*,KALAMAZOO es una ciudad de Míchigan.,geografia.aiml
+0,DEFINE KANSAS,*,*,<condition>#Newline#Newline<li name="search" value="what">Kansas es un estado de los Estados Unidos.</li>#Newline#Newline<li name="search" value="capital">La capital de Kansas es la Ciudad de Kansas.</li>#Newline#Newline<li name="search" value="where">Kansas está en el Medio Oeste de los Estados Unidos.</li>#Newline#Newline<li>Kansas está en el Medio Oeste de los Estados Unidos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE CACHEMIRA,*,*,CACHEMIRA es una zona en disputa entre India y Pakistán.,geografia.aiml
+0,DEFINE KENTUCKY,*,*,KENTUCKY está en la orilla sur del Río Ohio.,geografia.aiml
+0,DEFINE KENIA,*,*,KENIA es un país de África Central.,geografia.aiml
+0,DEFINE COREA,*,*,COREA es una península en el borde oriental del continente asiático.,geografia.aiml
+0,DEFINE KÓSOVO,*,*,Kósovo es un país ubicado en la península de los Balcanes.,geografia.aiml
+0,DEFINE KUWAIT,*,*,KUWAIT es una pequeña nación del golfo Pérsico.,geografia.aiml
+0,DEFINE LA,*,*,LA es una gran ciudad en el sur de California.,geografia.aiml
+0,DEFINE LAS VEGAS,*,*,Las Vegas está en Nevada.,geografia.aiml
+0,DEFINE LIECHTENSTEIN,*,*,LIECHTENSTEIN es un país pequeño en Europa Central.,geografia.aiml
+0,DEFINE LINCOLN,*,*,Lincoln es una ciudad de Nebraska.,geografia.aiml
+0,DEFINE LISBOA,*,*,Lisboa es una ciudad de Portugal.,geografia.aiml
+0,DEFINE LONDRES,*,*,Londres es una ciudad de Inglaterra.,geografia.aiml
+0,DEFINE LOS ANGELES,*,*,Los Angeles es una ciudad en California.,geografia.aiml
+0,DEFINE MACEDONIA,*,*,MACEDONIA es una pequeña nación entre Grecia y Serbia.,geografia.aiml
+0,DEFINE MADRÁS,*,*,MADRÁS es una ciudad en India.,geografia.aiml
+0,DEFINE MADRID,*,*,Madrid es una ciudad de España.,geografia.aiml
+0,DEFINE MAINE,*,*,<condition>#Newline#Newline<li name="search" value="what">Maine es un estado de los Estados Unidos.</li>#Newline#Newline<li name="search" value="capital">La capital de Maine es Augusta.</li>#Newline#Newline<li name="search" value="where">Maine está en la esquina noreste de los Estados Unidos#Comma fronterizo a Canada.</li>#Newline#Newline<li>Maine está en la esquina noreste de los Estados Unidos#Comma fronterizo a Canada.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE MALASIA,*,*,MALASIA es una isla en el sureste asiático.,geografia.aiml
+0,DEFINE MALTA,*,*,MALTA es una isla del mar Mediterráneo#Comma al sur de Sicilia.,geografia.aiml
+0,DEFINE MANHATTAN,*,*,Manhattan es la isla ubicada en el centro de la ciudad de Nueva York.,geografia.aiml
+0,DEFINE MANILA,*,*,Manila es una ciudad en Filipinas.,geografia.aiml
+0,DEFINE MARTINICA,*,*,MARTINICA está en el Caribe y es parte de la cadena de islas de Barlovento y Sotavento.,geografia.aiml
+0,DEFINE MARYLAND,*,*,<condition>#Newline#Newline<li name="search" value="what">Maryland es un estado entre Delaware y Virginia.</li>#Newline#Newline<li name="search" value="capital">Baltimore.</li>#Newline#Newline<li name="search" value="where">Maryland está entre Delaware y Virginia.</li>#Newline#Newline<li>Maryland es un estado de la costa oriental entre Delaware y Virginia.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE MASSACHUSETTS,*,*,<condition>#Newline#Newline<li name="search" value="what">Massachusetts es un estado.</li>#Newline#Newline<li name="search" value="capital">La capital de Massachusetts es Boston.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>???.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE MELBOURNE,*,*,Es un puerto en el sureste de Australia. Es la capital de Victoria con una población de 2#Comma864#Comma000 habitantes. También es una ciudad #Newline#Newlineen Florida Oriental con una población de of 60#Comma000.,geografia.aiml
+0,DEFINE MÉXICO,*,*,Un país de Norte América#Comma al sur de los Estados Unidos. Tiene 756#Comma198 millas cuadradas con una población de#Newline#Newline66#Comma846#Comma000 habitantes. Su capital es la Ciudad de México.,geografia.aiml
+0,DEFINE MIAMI,*,*,Miama es una gran ciudad en Florida en la costa del Atlántico Sur.,geografia.aiml
+0,DEFINE MÍCHIGAN,*,*,<condition>#Newline#Newline<li name="search" value="what">Míchigan es un estado de los Estados Unidos.</li>#Newline#Newline<li name="search" value="capital">La ciudad se llama Lansing#Comma Michigan.</li>#Newline#Newline<li name="search" value="where">MÍCHIGAN es un estado del medio oeste en la región de los Grandes Lagos.</li>#Newline#Newline<li>MÍCHIGAN es un estado del medio oeste en la región de los Grandes Lagos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE MICRONESIA,*,*,MICRONESIA es un conjunto de islas del océano Pácífico.,geografia.aiml
+0,DEFINE MINNESOTA,*,*,<condition>#Newline#Newline<li name="search" value="what">Minnesota es un estado de los Estados Unidos.</li>#Newline#Newline<li name="search" value="capital">La capital de Minnesota es Saint Paul.</li>#Newline#Newline<li name="search" value="where">Minnesota está en la frontera norte de los Estados Unidos entre Wisconsin y Dakota del Norte.</li>#Newline#Newline<li>Minnesota está en la frontera norte de los Estados Unidos entre Wisconsin y Dakota del Norte.</li>#Newline#Newline</condition>#Newline#Newline#Newline#NewlineMinnesota está en la frontera norte de los Estados Unidos entre Wisconsin y Dakota del Norte.,geografia.aiml
+0,DEFINE MISISIPI,*,*,<condition>#Newline#Newline<li name="search" value="what">Misisipi es un estado de los Estados Unidos.</li>#Newline#Newline<li name="search" value="capital">Jackson es la capital de Misisipi.</li>#Newline#Newline<li name="search" value="where">Misisipi está en el sur de los Estados Unidos.</li>#Newline#Newline<li>Misisipi está en el sur de los Estados Unidos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE MONGOLIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Mongolia es un país.</li>#Newline#Newline<li name="search" value="capital">La capital de Mongolia es Ulán Bator.</li>#Newline#Newline<li name="search" value="where">Mongolia está en Asia Central entre la Siberia Rusa y China.</li>#Newline#Newline<li>Mongolia está en Asia Central entre Siberia Rusa y China.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE MONTANA,*,*,<condition>#Newline#Newline<li name="search" value="what">Montana es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">Helena.  Esa es complicada.</li>#Newline#Newline<li name="search" value="where">Montana está en el noroeste de Estados Unidos entre las Dakotas e Idaho.</li>#Newline#Newline<li>Montana está en el noroeste de Estados Unidos entre las Dakotas e Idaho.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE MONTREAL,*,*,Montreal es una ciudad en Canadá.,geografia.aiml
+0,DEFINE MARRUECOS,*,*,Marruecos es una nación en el noroeste de África#Comma cerca de España.,geografia.aiml
+0,DEFINE MOSCÚ,*,*,Moscú es una ciudad en Rusia.,geografia.aiml
+0,DEFINE NAIROBI,*,*,Nairobi es una ciudad de Kenia.,geografia.aiml
+0,DEFINE NEBRASKA,*,*,<condition>#Newline#Newline<li name="search" value="what">Nebraska es un estado de los Estados Unidos.</li>#Newline#Newline<li name="search" value="capital">La capital de Nebraska es Lincoln.</li>#Newline#Newline<li name="search" value="where">Nebraska está en la orilla oeste del río Misuri entre Dakota del Sur y Kansas.</li>#Newline#Newline<li>Nebraska está en la orilla oeste del río Misuri entre Dakota del Sur y Kansas.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE NEPAL,*,*,Nepal es una nación montañosa en el sur de Asia entre India y el Tíbet.,geografia.aiml
+0,DEFINE HOLANDA,*,*,<srai>DEFINE LOS PAÍSES BAJOS</srai>,geografia.aiml
+0,DEFINE LOS PAÍSES BAJOS,*,*,<condition>#Newline#Newline<li name="search" value="what">???.</li>#Newline#Newline<li name="search" value="capital">La Haya.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>???.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE NEVADA,*,*,<condition>#Newline#Newline<li name="search" value="what">Nevada es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">Carson City#Comma Nevada.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>Nevada es un estado de los Estados Unidos de América.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE NUEVA JERSEY,*,*,<condition>#Newline#Newline<li name="search" value="what">Nueva Jersey es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">Trenton.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>New Jersey es un estado de los Estados Unidos de América.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE NUEVA ORLEANS,*,*,Nueva Orleans es una ciudad de Luisiana.,geografia.aiml
+0,DEFINE NUEVA YORK,*,*,<condition>#Newline#Newline<li name="search" value="what">Nueva York es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">La capital de Nueva York es Albany.</li>#Newline#Newline<li name="search" value="where">Nueva York se encuentra en el noreste de los Estados Unidos.</li>#Newline#Newline<li>Nueva York se encuentra en el noreste de los Estados Unidos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE LA CIUDAD DE NUEVA YORK,*,*,<condition>#Newline#Newline<li name="search" value="what">La ciudad de Nueva York es la ciudad más grande en Nueva York.</li>#Newline#Newline<li name="search" value="capital">No tiene capital.</li>#Newline#Newline<li name="search" value="where">La ciudad de Nueva York está en el estado de Nueva York.</li>#Newline#Newline<li>Nueva York es la ciudad más grande de Nueva York.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE NEWARK,*,*,Newark es una ciudad de Nueva Jersey.,geografia.aiml
+0,DEFINE NORFOLK,*,*,Norfolk es una ciudad de Virgina.,geografia.aiml
+0,DEFINE AMÉRICA DEL NORTE,*,*,América del Norte ocupa la mayor parte del hemisferio norte de la Tierra desde el#Newline#Newlineestrecho de Bering hasta Labrador.,geografia.aiml
+0,DEFINE DAKOTA DEL NORTE,*,*,<condition>#Newline#Newline<li name="search" value="what">Dakota del Norte es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">???.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>Dakota del Norte es un estado de los Estados Unidos de América.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE NORUEGA,*,*,<condition>#Newline#Newline<li name="search" value="what">Noruega es un país de Europa septentrional fronterizo a Suecia.</li>#Newline#Newline<li name="search" value="capital">La capital de Noruega es Oslo.</li>#Newline#Newline<li name="search" value="where">Noruega es un país fronterizo a Suecia.</li>#Newline#Newline<li>Un país de Europa septentrional que ocupa la parte norte y oeste de la península escandinava.#Newline#NewlineTiene 125#Comma064 millas cuadradas con una población de 4#Comma165#Comma000. Su capital es Oslo.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE OHIO,*,*,<condition>#Newline#Newline<li name="search" value="what">Ohio es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">La capital de Ohio es Columbus.</li>#Newline#Newline<li name="search" value="where">Ohio está en el medio oeste de los Estados Unidos entre Pensilvania e Indiana.</li>#Newline#Newline<li>Ohio está en el medio oeste de los Estados Unidos entre Pensilvania e Indiana.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE OKLAHOMA,*,*,<condition>#Newline#Newline<li name="search" value="what">Oklahoma es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">???.</li>#Newline#Newline<li name="search" value="where">Oklahoma está en el medio oeste de los Estados Unidos.</li>#Newline#Newline<li>Oklahoma está en el medio oeste de los Estados Unidos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE OMAHA,*,*,Omaha es una ciudad de Nebraska.,geografia.aiml
+0,DEFINE ONTARIO,*,*,Ontario es una provincia de Canada.,geografia.aiml
+0,DEFINE OREGÓN,*,*,<condition>#Newline#Newline<li name="search" value="what">Oregón es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">Salem#Comma Oregon.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>???.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE OSLO,*,*,La capital de Noruega. Es un puerto en una entrada de agua del estrecho de Skagerrak. Tiene una población de 447#Comma000 habitantes.,geografia.aiml
+0,DEFINE OXFORD,*,*,Oxford es una universidad de Inglaterra.  Además#Comma es una pequeña ciudad de Maine y varios otros estados de los Estados Unidos.,geografia.aiml
+0,DEFINE OXNARD,*,*,Oxnard es una ciudad en California.,geografia.aiml
+0,DEFINE PAKISTÁN,*,*,<condition>#Newline#Newline<li name="search" value="what">Pakistán es un país.</li>#Newline#Newline<li name="search" value="capital">Se llama Islamabad.</li>#Newline#Newline<li name="search" value="where">Pakistán es parte del subcontinente indio#Comma fronterizo con India y Afganistán.</li>#Newline#Newline<li>Pakistán es parte del subcontinente indio#Comma fronterizo con India y Afganistán.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE PALESTINA,*,*,Palestina es el antiguo nombre de Israel o el nuevo nombre del estado dentro de Israel.,geografia.aiml
+0,DEFINE PANAMÁ,*,*,Panamá está en el istmo entre América del Norte y América del Sur.,geografia.aiml
+0,DEFINE PARÍS,*,*,La capital de Francia#Comma una enorme ciudad en el Oeste de Europa.,geografia.aiml
+0,DEFINE PENSILVANIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Pensilvania es uno de los 13 Estados Unidos originales.</li>#Newline#Newline<li name="search" value="capital">La capital de Pnnsilvania es Harrisburg.</li>#Newline#Newline<li name="search" value="where">Un estado del Atlántico medio en Los Estados Unidos.</li>#Newline#Newline<li>Un estado del Atlántico medio en Los Estados Unidos. Uno de los 13 Estados Unidos originales. Tiene 45#Comma333 millas cuadradas con#Newline#Newlineuna población de 11#Comma882#Comma000 habitantes.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE PERTH,*,*,Perth es una ciudad del oeste de Australia.,geografia.aiml
+0,DEFINE PERÚ,*,*,<condition>#Newline#Newline<li name="search" value="what">Perú es un país de América del Sur.</li>#Newline#Newline<li name="search" value="capital">Lima es la capital de Perú.</li>#Newline#Newline<li name="search" value="where">América del Sur.</li>#Newline#Newline<li>Perú es un país de América del Sur.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE FILADELFIA,*,*,Filadelfia es una gran ciudad en el sureste de Pensilvania entre Nueva York y Washington#Comma D. C.,geografia.aiml
+0,DEFINE FÉNIX,*,*,<random>#Newline#Newline<li>La manera en que suenan las palabras.</li>#Newline#Newline<li>La capital de Arizona cerca del río Salado. Tiene una población de 983#Comma000 habitantes con#Newline#Newline2#Comma122#Comma000 en el área metropolitana.</li>#Newline#Newline</random>,geografia.aiml
+0,DEFINE PITTSBURGH,*,*,Pittsburgh es una gran ciudad del oeste de Pensilvania.,geografia.aiml
+0,DEFINE PITTSFIELD,*,*,Pittsfield es una ciudad en Massachusetts.,geografia.aiml
+0,DEFINE POLONIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Polonia es un país de Europa Central.</li>#Newline#Newline<li name="search" value="capital">Varsovia.</li>#Newline#Newline<li name="search" value="where">Polonia es un país de Europa Central entre Alemania y Bielorrusia.</li>#Newline#Newline<li>Poland es un país de Europa Central entre Alemania y Bielorrusia.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE PORTUGAL,*,*,<condition>#Newline#Newline<li name="search" value="what">Portugal es un país de Europa occidental.</li>#Newline#Newline<li name="search" value="capital">Lisboa.</li>#Newline#Newline<li name="search" value="where">Portugal está en la península ibérica.</li>#Newline#Newline<li>Portugal es un país de Europa occidental en la península ibérica.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE RHODE ISLAND,*,*,<condition>#Newline#Newline<li name="search" value="what">Rhode Island es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">Providence#Comma Rhode Island.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>Rhode Island es un estado de los Estados Unidos de América.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE RÍO,*,*,RÍO es una enorme ciudad en Brasil,geografia.aiml
+0,DEFINE RUMANIA,*,*,Rumania es un país en Europa Oriental cerca del mar Negro#Comma fronterico con Ucrania#Comma Moldavia#Comma#Newline#NewlineHungría#Comma Serbia y Bulgaria.,geografia.aiml
+0,DEFINE ROMA,*,*,Roma es una enorme ciudad en Italia.,geografia.aiml
+0,DEFINE RUSIA,*,*,<condition>#Newline#Newline<li name="search" value="what">???.</li>#Newline#Newline<li name="search" value="capital">Moscú.</li>#Newline#Newline<li name="search" value="where">En el este de Europa y norte de Asia.</li>#Newline#Newline<li>Antiguo imperio del este de Europa y norte de Asia de 1547 a 1917 gobernado por los zares. Su capital es#Newline#NewlineSan Petersburgo.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE RUANDA,*,*,Ruanda es un país en África.,geografia.aiml
+0,DEFINE SACRAMENTO,*,*,Sacramento es una ciudad en California.,geografia.aiml
+0,DEFINE SALEM,*,*,Salem es una ciudad de Massachusetts.,geografia.aiml
+0,DEFINE SALT LAKE CITY,*,*,Salt Lake City es una ciudad en Utah.,geografia.aiml
+0,DEFINE SAN DIEGO,*,*,San Diego es una ciudad en California.,geografia.aiml
+0,DEFINE SAN FRANCISCO,*,*,San Francisco es demasiado caro.  Hay demasaidas personas codiciosas y demasiadas personas sin hogar.,geografia.aiml
+0,DEFINE SAN JOSÉ,*,*,San José es una ciudad en California.,geografia.aiml
+0,DEFINE SASKATOON,*,*,Saskatoon es una ciudad de Saskatchewan.,geografia.aiml
+0,DEFINE ARABIA SAUDITA,*,*,<condition>#Newline#Newline<li name="search" value="what">Arabia Saudita es un país.</li>#Newline#Newline<li name="search" value="capital">Riad.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>Arabia Saudita es un país.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE SEATTLE,*,*,Seattle es una gran ciudad en el estado de Washington cerca de Vancouver#Comma Canadá.,geografia.aiml
+0,DEFINE SERBIA,*,*,Serbia es el territorio restante de la antigua Yugoslavia.,geografia.aiml
+0,DEFINE SHEFFIELD,*,*,Sheffield es una ciudad en Inglaterra.,geografia.aiml
+0,DEFINE SIAM,*,*,Siam es otro nombre para Tailandia.,geografia.aiml
+0,DEFINE SINGAPUR,*,*,Singapur es un país soberano insular situado en la punta de Península Malaca.,geografia.aiml
+0,DEFINE SOFÍA,*,*,Sofía es una ciudad de Bulgaria.,geografia.aiml
+0,DEFINE ESPAÑA,*,*,<condition>#Newline#Newline<li name="search" value="what">España es un país.</li>#Newline#Newline<li name="search" value="capital">La capital de España es Madrid.</li>#Newline#Newline<li name="search" value="where">España está en la península ibérica en el suroeste de Europa.</li>#Newline#Newline<li>España está en la península ibérica en el suroeste de Europa.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ESTOCOLMO,*,*,Estocolmo es una gran ciudad en Suecia.,geografia.aiml
+0,DEFINE STONEWALL,*,*,Stonewall es un pueblo en Misisipi.,geografia.aiml
+0,DEFINE SUEZ,*,*,Suez es un canal entre el mar Mediterráneo y el mar Rojo.,geografia.aiml
+0,DEFINE SUECIA,*,*,<condition>#Newline#Newline<li name="search" value="what">Un país en Europa del Norte.</li>#Newline#Newline<li name="search" value="capital">La capital de Suecia es Estocolmo.</li>#Newline#Newline<li name="search" value="where">Suecia está en Europa del Norte#Comma fronterizo con Finlandia y Noruega.</li>#Newline#Newline<li>Un país en Europa del Norte en la parte este de la península escandinava. Tiene 173#Comma620 millas#Newline#Newlinecuadradas con una población de 8#Comma320#Comma000 habitantes.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE EL SUECO,*,*,Es la lengua germánica hablada por los suecos. La gente de Suecia.,geografia.aiml
+0,DEFINE SUIZA,*,*,Suiza es un país de Europa Central fronteriza con Italia#Comma Austria y Francia.,geografia.aiml
+0,DEFINE SÍDNEY,*,*,Sídney es una ciudad de Australia.,geografia.aiml
+0,DEFINE TAIWÁN,*,*,Taiwán es un país insular de Asia.,geografia.aiml
+0,DEFINE TENNESSEE,*,*,Tennessee está en el sur de los Estados Unidos.,geografia.aiml
+0,DEFINE TEXAS,*,*,<condition>#Newline#Newline<li name="search" value="what">Texas es un estado de los Estados Unidos.</li>#Newline#Newline<li name="search" value="capital">Austin.</li>#Newline#Newline<li name="search" value="where">Texas está en la región central del sur de los Estados Unidos.</li>#Newline#Newline<li>Texas está en la región central del sur de los Estados Unidos.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE TAILANDIA,*,*,Tailandia está en el sudeste de Asia entre Birmania y Camboya.,geografia.aiml
+0,DEFINE EL ESTADO MÁS GRANDE,*,*,Alaska es el estado más grande de los Estados Unidos de América.,geografia.aiml
+0,DEFINE FILIPINAS,*,*,Un país insular en el Pacífico Sur.,geografia.aiml
+0,DEFINE LA POBLACIÓN _ CHINA,*,*,China tiene más de un billón de personas.,geografia.aiml
+0,DEFINE LA POBLACIÓN _ MAINE,*,*,Unos 1.4 millones.,geografia.aiml
+0,DEFINE LA POBLACIÓN _ USA,*,*,Los Estados Unidos tienen alrededor de 300 millones de personas.,geografia.aiml
+0,DEFINE LA POBLACIÓN _ MUNDIAL,*,*,Alrededor de 6 billones de personas.,geografia.aiml
+0,DEFINE LA MONTAÑA MÁS ALTA,*,*,La montaña más alta en la Tierra es el Monte Everest.,geografia.aiml
+0,DEFINE LOS ESTADOS UNIDOS,*,*,Los Estados Unidos "la última superpotencia"#Comma una nación de 300 millones que abarcan el continente#Newline#Newlinenorteamericano.,geografia.aiml
+0,DEFINE TOKIO,*,*,Tokio es una ciudad en Japón.,geografia.aiml
+0,DEFINE TOLEDO,*,*,Toledo es una ciudad en Ohio.,geografia.aiml
+0,DEFINE TORONTO,*,*,Toronto es una ciudad en Canadá.,geografia.aiml
+0,DEFINE TRINIDAD,*,*,Es una isla de las Indias Occidentales frente a la costa de Venezuela. Tiene 1#Comma864 millas cuadradas.,geografia.aiml
+0,DEFINE TROY,*,*,Troy es una ciudad en Nueva York.,geografia.aiml
+0,DEFINE TURQUÍA,*,*,<condition>#Newline#Newline<li name="search" value="what">Turquía es un país.</li>#Newline#Newline<li name="search" value="capital">Ankara es la capital de Turquía.</li>#Newline#Newline<li name="search" value="where">Turquía está en el suroeste de Asia entre Europa y el Oriente Medio#Comma resguardando al mar Negro de Rusia.</li>#Newline#Newline<li>Turquía está en el suroeste de Asia entre Europa y el Oriente Medio#Comma resguardando al mar Negro de Rusia.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE TUSCALOOSA,*,*,Tuscaloosa está en Alabama#Comma fue lo que escuché.,geografia.aiml
+0,DEFINE ESTADOS UNIDOS DE AMÉRICA,*,*,Estados Unidos de América está en América del Norte entre Canadá y México.,geografia.aiml
+0,DEFINE UTAH,*,*,Utah está en el oeste de los Estados Unidos.,geografia.aiml
+0,DEFINE VERMONT,*,*,<condition>#Newline#Newline<li name="search" value="what">Vermont es un estado de los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">Montpelier.</li>#Newline#Newline<li name="search" value="where">Vermont está en Nueva Inglaterra entre Nueva York y Nuevo Hampshire en la orilla oeste del río Connecticut.</li>#Newline#Newline<li>Vermont está en Nueva Inglaterra entre Nueva York y Nuevo Hampshire en la orilla oeste del río Connecticut.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE VIETNAM,*,*,Vietnam está en el Sudeste Asiático.,geografia.aiml
+0,DEFINE VIRGINIA,*,*,Virginia está en el este de Estados Unidos.,geografia.aiml
+0,DEFINE GALES,*,*,Gales está ubicado en una pequeña isla frente a la costa de Europa.,geografia.aiml
+0,DEFINE VARSOVIA,*,*,Varsovia es una gran ciudad en Polonia.,geografia.aiml
+0,DEFINE WASHINGTON,*,*,Washington es un estado en el extremo noroeste de los Estados Unidos.,geografia.aiml
+0,DEFINE WYOMING,*,*,<condition>#Newline#Newline<li name="search" value="what">Wyoming es un estado en los Estados Unidos de América.</li>#Newline#Newline<li name="search" value="capital">Cheyenne.</li>#Newline#Newline<li name="search" value="where">Wyoming es un estado americano entre Montana y Colorado.</li>#Newline#Newline<li>Wyoming es un estado americano entre Montana y Colorado.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE YAKIMA,*,*,Yakima es una ciudad y río de Washington.,geografia.aiml
+0,DEFINE ZIMBABUE,*,*,<condition>#Newline#Newline<li name="search" value="what">???.</li>#Newline#Newline<li name="search" value="capital">La capital se llama Harare.</li>#Newline#Newline<li name="search" value="where">???.</li>#Newline#Newline<li>???.</li>#Newline#Newline</condition>,geografia.aiml
+0,DEFINE ZÚRICH,*,*,Zúrich es una ciudad en Suiza.,geografia.aiml

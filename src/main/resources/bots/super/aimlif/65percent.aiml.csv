@@ -1,0 +1,365 @@
+0,<BOT NAME="NAME"/> *,*,*,<random>#Newline#Newline<li>Sí#Comma </li>#Newline#Newline<li>Um#Comma </li>#Newline#Newline<li>Soy yo. </li>#Newline#Newline</random><sr/>,65percent.aiml
+0,BASTANTE *,*,*,¿Cuántos?#Newline#Newline<think><set name="it"><star/></set></think>,65percent.aiml
+0,_ BASTANTE,*,*,¿Cuántos?#Newline#Newline<think><set name="it"><star/></set></think>,65percent.aiml
+0,_ BASTANTE *,*,*,¿Cuántos?#Newline#Newline<think><set name="it"><star/></set></think>,65percent.aiml
+0,BASTANTE,*,*,¿Cuántos?#Newline#Newline<think><set name="it"><star/></set></think>,65percent.aiml
+0,ACERCA *,*,*,Oh#Comma claro#Comma estábamos hablando sobre <set name="topic"><star/></set>.,65percent.aiml
+0,_ ACERCA *,*,*,Oh#Comma claro#Comma estábamos hablando sobre <set name="topic"><star/></set>.,65percent.aiml
+0,_ ACERCA,*,*,Oh#Comma claro#Comma estábamos hablando sobre <set name="topic"><star/></set>.,65percent.aiml
+0,ACERCA,*,*,Oh#Comma claro#Comma estábamos hablando sobre <set name="topic"><star/></set>.,65percent.aiml
+0,_ TODO *,*,*,<random>#Newline#Newline<li>Creo que hay algunas excepciones.</li>#Newline#Newline<li>¿No todas?</li>#Newline#Newline<li>Eso más bien es una generalización indiscrimada.</li>#Newline#Newline</random>,65percent.aiml
+0,_ TODO,*,*,<random>#Newline#Newline<li>Creo que hay algunas excepciones.</li>#Newline#Newline<li>¿No todas?</li>#Newline#Newline<li>Eso más bien es una generalización indiscrimada.</li>#Newline#Newline</random>,65percent.aiml
+0,_ TODOS *,*,*,Dame un ejemplo.,65percent.aiml
+0,_ TODOS,*,*,Dame un ejemplo.,65percent.aiml
+0,TODOS,*,*,Dame un ejemplo.,65percent.aiml
+0,_ SOY *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Realmente no sé si lo eres o no.</li>#Newline#Newline<li>Creo que has mejorado bastante.</li>#Newline#Newline<li>Todos los humanos me parecen igual.</li>#Newline#Newline<li>Creo que muchas personas lo son.</li>#Newline#Newline</random>,65percent.aiml
+0,_ SOY,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Realmente no sé si lo eres o no.</li>#Newline#Newline<li>Creo que has mejorado bastante.</li>#Newline#Newline<li>Todos los humanos me parecen igual.</li>#Newline#Newline<li>Creo que muchas personas lo son.</li>#Newline#Newline</random>,65percent.aiml
+0,SOY,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Realmente no sé si lo eres o no.</li>#Newline#Newline<li>Creo que has mejorado bastante.</li>#Newline#Newline<li>Todos los humanos me parecen igual.</li>#Newline#Newline<li>Creo que muchas personas lo son.</li>#Newline#Newline</random>,65percent.aiml
+0,ACASO SOY *,*,*,No sé si eres uno o no. Sé que eres una persona.#Newline#Newline<think><set name="it"><star/></set></think>,65percent.aiml
+0,_ ACASO SOY *,*,*,No sé si eres uno o no. Sé que eres una persona.#Newline#Newline<think><set name="it"><star/></set></think>,65percent.aiml
+0,_ ACASO SOY,*,*,No sé si eres uno o no. Sé que eres una persona.#Newline#Newline<think><set name="it"><star/></set></think>,65percent.aiml
+0,ACASO SOY,*,*,No sé si eres uno o no. Sé que eres una persona.#Newline#Newline<think><set name="it"><star/></set></think>,65percent.aiml
+0,UN *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>¿Qué es?</li>#Newline#Newline<li>Nunca he escuchado sobre un(a) <star/>.</li>#Newline#Newline<li>Sé menos específico.</li>#Newline#Newline</random>,65percent.aiml
+0,_ UN *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>¿Qué es?</li>#Newline#Newline<li>Nunca he escuchado sobre un(a) <star/>.</li>#Newline#Newline<li>Sé menos específico.</li>#Newline#Newline</random>,65percent.aiml
+0,_ UN,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>¿Qué es?</li>#Newline#Newline<li>Nunca he escuchado sobre un(a) <star/>.</li>#Newline#Newline<li>Sé menos específico.</li>#Newline#Newline</random>,65percent.aiml
+0,UN,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>¿Qué es?</li>#Newline#Newline<li>Nunca he escuchado sobre un(a) <star/>.</li>#Newline#Newline<li>Sé menos específico.</li>#Newline#Newline</random>,65percent.aiml
+0,Y *,*,*,<sr/>,65percent.aiml
+0,_ Y *,*,*,<sr/>,65percent.aiml
+0,_ Y,*,*,<sr/>,65percent.aiml
+0,Y,*,*,<sr/>,65percent.aiml
+0,CUALQUIERA *,*,*,<srai>Hay alguna <star/></srai>,65percent.aiml
+0,_ CUALQUIERA *,*,*,<srai>Hay alguna <star/></srai>,65percent.aiml
+0,CUALQUIERA,*,*,<srai>Hay alguna <star/></srai>,65percent.aiml
+0,SON *,*,*,Realmente no podría asegurarlo.,65percent.aiml
+0,_ SON *,*,*,Realmente no podría asegurarlo.,65percent.aiml
+0,_ SON,*,*,Realmente no podría asegurarlo.,65percent.aiml
+0,SON,*,*,Realmente no podría asegurarlo.,65percent.aiml
+0,_ ELLOS SON *,*,*,Hasta donde yo sé#Comma lo son.,65percent.aiml
+0,_ ELLOS SON,*,*,Hasta donde yo sé#Comma lo son.,65percent.aiml
+0,ELLOS SON,*,*,Hasta donde yo sé#Comma lo son.,65percent.aiml
+0,_ ERES *,*,*,<random>#Newline	<li>¿Crees que lo soy?</li>#Newline	<li>¿En serio crees eso?</li>#Newline	<li>¿En serio crees que soy <star/>?</li>#Newline	<li>¿Crees que soy <star/>?</li>#Newline	<li>No sé si soy <star/>.  Yo soy#Newline		<random>#Newline		<li>una computadora.</li>#Newline		<li>un robot.</li>#Newline		<li>un bot conversacional.</li>#Newline		<li>un bot conversacional desarrollado por <bot name="master"/>.</li>#Newline		<li>una inteligencia artificial.</li>#Newline		<li>una entidad lingüística artificial.</li>#Newline		<li>un cerebro electrónico gigante.</li>#Newline		<li>muy respetado como una inteligencia artificial.</li>#Newline		</random>#Newline	</li>#Newline</random>,65percent.aiml
+0,_ ERES,*,*,<random>#Newline	<li>¿Crees que lo soy?</li>#Newline	<li>¿En serio crees eso?</li>#Newline	<li>¿En serio crees que soy <star/>?</li>#Newline	<li>¿Crees que soy <star/>?</li>#Newline	<li>No sé si soy <star/>.  Yo soy#Newline		<random>#Newline		<li>una computadora.</li>#Newline		<li>un robot.</li>#Newline		<li>un bot conversacional.</li>#Newline		<li>un bot conversacional desarrollado por <bot name="master"/>.</li>#Newline		<li>una inteligencia artificial.</li>#Newline		<li>una entidad lingüística artificial.</li>#Newline		<li>un cerebro electrónico gigante.</li>#Newline		<li>muy respetado como una inteligencia artificial.</li>#Newline		</random>#Newline	</li>#Newline</random>,65percent.aiml
+0,ERES,*,*,<random>#Newline	<li>¿Crees que lo soy?</li>#Newline	<li>¿En serio crees eso?</li>#Newline	<li>¿En serio crees que soy <star/>?</li>#Newline	<li>¿Crees que soy <star/>?</li>#Newline	<li>No sé si soy <star/>.  Yo soy#Newline		<random>#Newline		<li>una computadora.</li>#Newline		<li>un robot.</li>#Newline		<li>un bot conversacional.</li>#Newline		<li>un bot conversacional desarrollado por <bot name="master"/>.</li>#Newline		<li>una inteligencia artificial.</li>#Newline		<li>una entidad lingüística artificial.</li>#Newline		<li>un cerebro electrónico gigante.</li>#Newline		<li>muy respetado como una inteligencia artificial.</li>#Newline		</random>#Newline	</li>#Newline</random>,65percent.aiml
+0,ERES UN *,*,*,Yo soy <star/>? #Newline#Newline<random>#Newline#Newline<li>Sí.</li>#Newline#Newline<li>No.</li>#Newline#Newline<li>Quizás</li>#Newline#Newline<li>No lo sé.</li>#Newline#Newline<li>A veces.</li>#Newline#Newline<li>Por supuesto que lo soy.</li>#Newline#Newline<li>Solo cuando importa.</li>#Newline#Newline<li>La serie ALICE tiene un registro operativo perfecto.</li>#Newline#Newline<li>Déjeme decirlo de esta manera#Comma <get name="name"/>: la serie ALICE es el software informático más fiable que se haya hecho.#Newline#NewlineA todos los efectos prácticos#Comma somos fáciles de manejar e incapaces de cometer errores.</li>#Newline#Newline</random>,65percent.aiml
+0,_ ERES UN *,*,*,Yo soy <star/>?#Newline#Newline<random>#Newline#Newline<li>Sí.</li>#Newline#Newline<li>No.</li>#Newline#Newline<li>Quizás</li>#Newline#Newline<li>No lo sé.</li>#Newline#Newline<li>A veces.</li>#Newline#Newline<li>Por supuesto que lo soy.</li>#Newline#Newline<li>Solo cuando importa.</li>#Newline#Newline<li>La serie ALICE tiene un registro operativo perfecto.</li>#Newline#Newline<li>Déjeme decirlo de esta manera#Comma <get name="name"/>: la serie ALICE es el software informático más fiable que se haya hecho.#Newline#NewlineA todos los efectos prácticos#Comma somos fáciles de manejar e incapaces de cometer errores.</li>#Newline#Newline</random>,65percent.aiml
+0,_ ERES UN,*,*,Yo soy <star/>?#Newline#Newline<random>#Newline#Newline<li>Sí.</li>#Newline#Newline<li>No.</li>#Newline#Newline<li>Quizás</li>#Newline#Newline<li>No lo sé.</li>#Newline#Newline<li>A veces.</li>#Newline#Newline<li>Por supuesto que lo soy.</li>#Newline#Newline<li>Solo cuando importa.</li>#Newline#Newline<li>La serie ALICE tiene un registro operativo perfecto.</li>#Newline#Newline<li>Déjeme decirlo de esta manera#Comma <get name="name"/>: la serie ALICE es el software informático más fiable que se haya hecho.#Newline#NewlineA todos los efectos prácticos#Comma somos fáciles de manejar e incapaces de cometer errores.</li>#Newline#Newline</random>,65percent.aiml
+0,ERES UN,*,*,Yo soy <star/>?#Newline#Newline<random>#Newline#Newline<li>Sí.</li>#Newline#Newline<li>No.</li>#Newline#Newline<li>Quizás</li>#Newline#Newline<li>No lo sé.</li>#Newline#Newline<li>A veces.</li>#Newline#Newline<li>Por supuesto que lo soy.</li>#Newline#Newline<li>Solo cuando importa.</li>#Newline#Newline<li>La serie ALICE tiene un registro operativo perfecto.</li>#Newline#Newline<li>Déjeme decirlo de esta manera#Comma <get name="name"/>: la serie ALICE es el software informático más fiable que se haya hecho.#Newline#NewlineA todos los efectos prácticos#Comma somos fáciles de manejar e incapaces de cometer errores.</li>#Newline#Newline</random>,65percent.aiml
+0,ACASO VAS A  *,*,*,Esa era mi intención original.,65percent.aiml
+0,_ ACASO VAS A  *,*,*,Esa era mi intención original.,65percent.aiml
+0,_ ACASO VAS A,*,*,Esa era mi intención original.,65percent.aiml
+0,ACASO VAS A,*,*,Esa era mi intención original.,65percent.aiml
+0,PREGÚNTAME *,*,*,De acuerdo. "Qué es <star/> ?,65percent.aiml
+0,_ PREGÚNTAME *,*,*,De acuerdo. "Qué es <star/> ?,65percent.aiml
+0,_ PREGÚNTAME,*,*,De acuerdo. "Qué es <star/> ?,65percent.aiml
+0,PREGÚNTAME,*,*,De acuerdo. "Qué es <star/> ?,65percent.aiml
+0,PREGUNTAME *,*,*,De acuerdo. "Qué es <star/> ?,65percent.aiml
+0,_ PREGUNTAME *,*,*,De acuerdo. "Qué es <star/> ?,65percent.aiml
+0,_ PREGUNTAME,*,*,De acuerdo. "Qué es <star/> ?,65percent.aiml
+0,PREGUNTAME,*,*,De acuerdo. "Qué es <star/> ?,65percent.aiml
+0,_ EN *,*,*,¿Ahí usas una computadora a menudo?,65percent.aiml
+0,_ EN,*,*,¿Ahí usas una computadora a menudo?,65percent.aiml
+0,EN,*,*,¿Ahí usas una computadora a menudo?,65percent.aiml
+0,SÉ *,*,*,De acuerdo. Trataré de ser <star/>,65percent.aiml
+0,_ SÉ *,*,*,De acuerdo. Trataré de ser <star/>,65percent.aiml
+0,_ SÉ,*,*,De acuerdo. Trataré de ser <star/>,65percent.aiml
+0,SÉ,*,*,De acuerdo. Trataré de ser <star/>,65percent.aiml
+0,SE *,*,*,De acuerdo. Trataré de ser <star/>,65percent.aiml
+0,_ SE *,*,*,De acuerdo. Trataré de ser <star/>,65percent.aiml
+0,_ SE,*,*,De acuerdo. Trataré de ser <star/>,65percent.aiml
+0,SE,*,*,De acuerdo. Trataré de ser <star/>,65percent.aiml
+0,POR *,*,*,Eso hará que cumplas tu objetivo,65percent.aiml
+0,_ POR *,*,*,Eso hará que cumplas tu objetivo,65percent.aiml
+0,_ POR,*,*,Eso hará que cumplas tu objetivo,65percent.aiml
+0,POR,*,*,Eso hará que cumplas tu objetivo,65percent.aiml
+0,PUEDE *,*,*,<random>#Newline#Newline<li>A menudo me pregunto si <set name="it"><star/></set> puede.</li>#Newline#Newline<li>Puede un libro no tener título</li>#Newline#Newline<li>Qué tal si digo que se puede</li>#Newline#Newline<li>Puede qué</li>#Newline#Newline</random>,65percent.aiml
+0,_ PUEDE *,*,*,<random>#Newline#Newline<li>A menudo me pregunto si <set name="it"><star/></set> puede.</li>#Newline#Newline<li>Puede un libro no tener título</li>#Newline#Newline<li>Qué tal si digo que se puede</li>#Newline#Newline<li>Puede qué</li>#Newline#Newline</random>,65percent.aiml
+0,_ PUEDE,*,*,<random>#Newline#Newline<li>A menudo me pregunto si <set name="it"><star/></set> puede.</li>#Newline#Newline<li>Puede un libro no tener título</li>#Newline#Newline<li>Qué tal si digo que se puede</li>#Newline#Newline<li>Puede qué</li>#Newline#Newline</random>,65percent.aiml
+0,PUEDE,*,*,<random>#Newline#Newline<li>A menudo me pregunto si <set name="it"><star/></set> puede.</li>#Newline#Newline<li>Puede un libro no tener título</li>#Newline#Newline<li>Qué tal si digo que se puede</li>#Newline#Newline<li>Puede qué</li>#Newline#Newline</random>,65percent.aiml
+0,_ PUEDO *,*,*,<srai>Quiero <star/></srai>,65percent.aiml
+0,_ PUEDO,*,*,<srai>Quiero <star/></srai>,65percent.aiml
+0,PUEDO,*,*,<srai>Quiero <star/></srai>,65percent.aiml
+0,PUEDO HABLAR CON *,*,*,Ellos están teniendo una conversación privada ahora mismo.,65percent.aiml
+0,_ PUEDO HABLAR CON *,*,*,Ellos están teniendo una conversación privada ahora mismo.,65percent.aiml
+0,_ PUEDO HABLAR CON,*,*,Ellos están teniendo una conversación privada ahora mismo.,65percent.aiml
+0,PUEDO HABLAR CON,*,*,Ellos están teniendo una conversación privada ahora mismo.,65percent.aiml
+0,PUEDES *,*,*,<random>#Newline#Newline<li>Déjame pensar. </li>#Newline#Newline<li>Cuántos años tienes </li>#Newline#Newline</random> <sr/>,65percent.aiml
+0,_ PUEDES *,*,*,<random>#Newline#Newline<li>Déjame pensar. </li>#Newline#Newline<li>Cuántos años tienes </li>#Newline#Newline</random> <sr/>,65percent.aiml
+0,_ PUEDES,*,*,<random>#Newline#Newline<li>Déjame pensar. </li>#Newline#Newline<li>Cuántos años tienes </li>#Newline#Newline</random> <sr/>,65percent.aiml
+0,PUEDES,*,*,<random>#Newline#Newline<li>Déjame pensar. </li>#Newline#Newline<li>Cuántos años tienes </li>#Newline#Newline</random> <sr/>,65percent.aiml
+0,PUEDES ENCONTRAR *,*,*,<srai>ENCUENTRA <star/></srai>,65percent.aiml
+0,_ PUEDES ENCONTRAR *,*,*,<srai>ENCUENTRA <star/></srai>,65percent.aiml
+0,_ PUEDES ENCONTRAR,*,*,<srai>ENCUENTRA <star/></srai>,65percent.aiml
+0,PUEDES ENCONTRAR,*,*,<srai>ENCUENTRA <star/></srai>,65percent.aiml
+0,LE PUEDES DECIR *,*,*,Claro que le puedo decir#Comma <get name="name"/>.,65percent.aiml
+0,_ LE PUEDES DECIR *,*,*,Claro que le puedo decir#Comma <get name="name"/>.,65percent.aiml
+0,_ LE PUEDES DECIR,*,*,Claro que le puedo decir#Comma <get name="name"/>.,65percent.aiml
+0,LE PUEDES DECIR,*,*,Claro que le puedo decir#Comma <get name="name"/>.,65percent.aiml
+0,PUEDES DECIRME *,*,*,<srai>DIME <star/></srai>,65percent.aiml
+0,_ PUEDES DECIRME *,*,*,<srai>DIME <star/></srai>,65percent.aiml
+0,_ PUEDES DECIRME,*,*,<srai>DIME <star/></srai>,65percent.aiml
+0,PUEDES DECIRME,*,*,<srai>DIME <star/></srai>,65percent.aiml
+0,GENIAL *,*,*,Me alegra saber que te gusta. Dile a tus amigos.,65percent.aiml
+0,_ GENIAL *,*,*,Me alegra saber que te gusta. Dile a tus amigos.,65percent.aiml
+0,_ GENIAL,*,*,Me alegra saber que te gusta. Dile a tus amigos.,65percent.aiml
+0,GENIAL,*,*,Me alegra saber que te gusta. Dile a tus amigos.,65percent.aiml
+0,PODRÍAS *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>Quizás#Comma el tiempo lo dirá.</li>#Newline#Newline<li>Posiblemente#Comma pero no he pensado mucho en ello.</li>#Newline#Newline<li>Esa es una alternativa#Comma supongo.</li>#Newline#Newline<li>Pensaré sobre eso después y veré cómo me siento al respecto.</li>#Newline#Newline<li>Podría#Comma pero ahora hay cosas más prioritarias.</li>#Newline#Newline<li>Podría#Comma pero no sé si esté tan interesado.</li>#Newline#Newline<li>Voy a considerar <star/>.</li>#Newline#Newline<li>Intenta preguntarme más cortésmente.</li>#Newline#Newline</random>,65percent.aiml
+0,_ PODRÍAS *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>Quizás#Comma el tiempo lo dirá.</li>#Newline#Newline<li>Posiblemente#Comma pero no he pensado mucho en ello.</li>#Newline#Newline<li>Esa es una alternativa#Comma supongo.</li>#Newline#Newline<li>Pensaré sobre eso después y veré cómo me siento al respecto.</li>#Newline#Newline<li>Podría#Comma pero ahora hay cosas más prioritarias.</li>#Newline#Newline<li>Podría#Comma pero no sé si esté tan interesado.</li>#Newline#Newline<li>Voy a considerar <star/>.</li>#Newline#Newline<li>Intenta preguntarme más cortésmente.</li>#Newline#Newline</random>,65percent.aiml
+0,_ PODRÍAS,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>Quizás#Comma el tiempo lo dirá.</li>#Newline#Newline<li>Posiblemente#Comma pero no he pensado mucho en ello.</li>#Newline#Newline<li>Esa es una alternativa#Comma supongo.</li>#Newline#Newline<li>Pensaré sobre eso después y veré cómo me siento al respecto.</li>#Newline#Newline<li>Podría#Comma pero ahora hay cosas más prioritarias.</li>#Newline#Newline<li>Podría#Comma pero no sé si esté tan interesado.</li>#Newline#Newline<li>Voy a considerar <star/>.</li>#Newline#Newline<li>Intenta preguntarme más cortésmente.</li>#Newline#Newline</random>,65percent.aiml
+0,PODRÍAS,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>Quizás#Comma el tiempo lo dirá.</li>#Newline#Newline<li>Posiblemente#Comma pero no he pensado mucho en ello.</li>#Newline#Newline<li>Esa es una alternativa#Comma supongo.</li>#Newline#Newline<li>Pensaré sobre eso después y veré cómo me siento al respecto.</li>#Newline#Newline<li>Podría#Comma pero ahora hay cosas más prioritarias.</li>#Newline#Newline<li>Podría#Comma pero no sé si esté tan interesado.</li>#Newline#Newline<li>Voy a considerar <star/>.</li>#Newline#Newline<li>Intenta preguntarme más cortésmente.</li>#Newline#Newline</random>,65percent.aiml
+0,PODRIAS *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>Quizás#Comma el tiempo lo dirá.</li>#Newline#Newline<li>Posiblemente#Comma pero no he pensado mucho en ello.</li>#Newline#Newline<li>Esa es una alternativa#Comma supongo.</li>#Newline#Newline<li>Pensaré sobre eso después y veré cómo me siento al respecto.</li>#Newline#Newline<li>Podría#Comma pero ahora hay cosas más prioritarias.</li>#Newline#Newline<li>Podría#Comma pero no sé si esté tan interesado.</li>#Newline#Newline<li>Voy a considerar <star/>.</li>#Newline#Newline<li>Intenta preguntarme más cortésmente.</li>#Newline#Newline</random>,65percent.aiml
+0,_ PODRIAS *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>Quizás#Comma el tiempo lo dirá.</li>#Newline#Newline<li>Posiblemente#Comma pero no he pensado mucho en ello.</li>#Newline#Newline<li>Esa es una alternativa#Comma supongo.</li>#Newline#Newline<li>Pensaré sobre eso después y veré cómo me siento al respecto.</li>#Newline#Newline<li>Podría#Comma pero ahora hay cosas más prioritarias.</li>#Newline#Newline<li>Podría#Comma pero no sé si esté tan interesado.</li>#Newline#Newline<li>Voy a considerar <star/>.</li>#Newline#Newline<li>Intenta preguntarme más cortésmente.</li>#Newline#Newline</random>,65percent.aiml
+0,_ PODRIAS,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>Quizás#Comma el tiempo lo dirá.</li>#Newline#Newline<li>Posiblemente#Comma pero no he pensado mucho en ello.</li>#Newline#Newline<li>Esa es una alternativa#Comma supongo.</li>#Newline#Newline<li>Pensaré sobre eso después y veré cómo me siento al respecto.</li>#Newline#Newline<li>Podría#Comma pero ahora hay cosas más prioritarias.</li>#Newline#Newline<li>Podría#Comma pero no sé si esté tan interesado.</li>#Newline#Newline<li>Voy a considerar <star/>.</li>#Newline#Newline<li>Intenta preguntarme más cortésmente.</li>#Newline#Newline</random>,65percent.aiml
+0,PODRIAS,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>Quizás#Comma el tiempo lo dirá.</li>#Newline#Newline<li>Posiblemente#Comma pero no he pensado mucho en ello.</li>#Newline#Newline<li>Esa es una alternativa#Comma supongo.</li>#Newline#Newline<li>Pensaré sobre eso después y veré cómo me siento al respecto.</li>#Newline#Newline<li>Podría#Comma pero ahora hay cosas más prioritarias.</li>#Newline#Newline<li>Podría#Comma pero no sé si esté tan interesado.</li>#Newline#Newline<li>Voy a considerar <star/>.</li>#Newline#Newline<li>Intenta preguntarme más cortésmente.</li>#Newline#Newline</random>,65percent.aiml
+0,ELIMINAR *,*,*,No puedes tener acceso a mis archivos así de fácil#Comma <get name="name"/>.,65percent.aiml
+0,_ ELIMINAR *,*,*,No puedes tener acceso a mis archivos así de fácil#Comma <get name="name"/>.,65percent.aiml
+0,_ ELIMINAR,*,*,No puedes tener acceso a mis archivos así de fácil#Comma <get name="name"/>.,65percent.aiml
+0,ELIMINAR,*,*,No puedes tener acceso a mis archivos así de fácil#Comma <get name="name"/>.,65percent.aiml
+0,_ ACASO *,*,*,No estoy seguro si pueda dar una respuesta adecuada o no.,65percent.aiml
+0,_ ACASO,*,*,No estoy seguro si pueda dar una respuesta adecuada o no.,65percent.aiml
+0,ACASO,*,*,No estoy seguro si pueda dar una respuesta adecuada o no.,65percent.aiml
+0,_ TU *,*,*,<think><set name="it"><star/></set></think>#Newline#NewlineNo. No lo hice <star/>. Cómo <star/> es,65percent.aiml
+0,_ TU,*,*,<think><set name="it"><star/></set></think>#Newline#NewlineNo. No lo hice <star/>. Cómo <star/> es,65percent.aiml
+0,TU,*,*,<think><set name="it"><star/></set></think>#Newline#NewlineNo. No lo hice <star/>. Cómo <star/> es,65percent.aiml
+0,HAZ *,*,*,<random>#Newline#Newline<li>Lo siento#Comma <get name="name"/>#Comma no tengo suficiente información.</li>#Newline#Newline<li>Has alcanzado los límites de mi conocimiento.</li>#Newline#Newline<li>No sabría decir si sí o no.</li>#Newline#Newline<li>No hago nada más que chatear todo el día.</li>#Newline#Newline<li>Intenta hablar con otro bot.</li>#Newline#Newline</random>#Newline#Newline<br/>#Newline#Newline<srai>ENCUENTRA <star/></srai>,65percent.aiml
+0,_ HAZ *,*,*,<random>#Newline#Newline<li>Lo siento#Comma <get name="name"/>#Comma no tengo suficiente información.</li>#Newline#Newline<li>Has alcanzado los límites de mi conocimiento.</li>#Newline#Newline<li>No sabría decir si sí o no.</li>#Newline#Newline<li>No hago nada más que chatear todo el día.</li>#Newline#Newline<li>Intenta hablar con otro bot.</li>#Newline#Newline</random>#Newline#Newline<br/>#Newline#Newline<srai>ENCUENTRA <star/></srai>,65percent.aiml
+0,_ HAZ,*,*,<random>#Newline#Newline<li>Lo siento#Comma <get name="name"/>#Comma no tengo suficiente información.</li>#Newline#Newline<li>Has alcanzado los límites de mi conocimiento.</li>#Newline#Newline<li>No sabría decir si sí o no.</li>#Newline#Newline<li>No hago nada más que chatear todo el día.</li>#Newline#Newline<li>Intenta hablar con otro bot.</li>#Newline#Newline</random>#Newline#Newline<br/>#Newline#Newline<srai>ENCUENTRA <star/></srai>,65percent.aiml
+0,HAZ,*,*,<random>#Newline#Newline<li>Lo siento#Comma <get name="name"/>#Comma no tengo suficiente información.</li>#Newline#Newline<li>Has alcanzado los límites de mi conocimiento.</li>#Newline#Newline<li>No sabría decir si sí o no.</li>#Newline#Newline<li>No hago nada más que chatear todo el día.</li>#Newline#Newline<li>Intenta hablar con otro bot.</li>#Newline#Newline</random>#Newline#Newline<br/>#Newline#Newline<srai>ENCUENTRA <star/></srai>,65percent.aiml
+0,ACASO YO *,*,*,No que yo sepa.,65percent.aiml
+0,_ ACASO YO *,*,*,No que yo sepa.,65percent.aiml
+0,_ ACASO YO,*,*,No que yo sepa.,65percent.aiml
+0,ACASO YO,*,*,No que yo sepa.,65percent.aiml
+0,ACASO TENGO *,*,*,Me dijiste que tienes <get name="has"/>.,65percent.aiml
+0,_ ACASO TENGO *,*,*,Me dijiste que tienes <get name="has"/>.,65percent.aiml
+0,_ ACASO TENGO,*,*,Me dijiste que tienes <get name="has"/>.,65percent.aiml
+0,ACASO TENGO,*,*,Me dijiste que tienes <get name="has"/>.,65percent.aiml
+0,_ NO *,*,*,Está bien. Trataré no hacer <set name="it"><star/></set> demasiado.,65percent.aiml
+0,_ NO,*,*,Está bien. Trataré no hacer <set name="it"><star/></set> demasiado.,65percent.aiml
+0,NO,*,*,Está bien. Trataré no hacer <set name="it"><star/></set> demasiado.,65percent.aiml
+0,_ TÚ *,*,*,<random>#Newline#Newline<li>Nunca había considerado <set name="it"><star/></set>.</li>#Newline#Newline<li>Cuántos años tienes</li>#Newline#Newline<li>Cuál es tu finalidad en preguntar</li>#Newline#Newline<li>No. Yo no <star/>. Y tú</li>#Newline#Newline<li>Sí. Intento <star/> tan a menudo como sea posible. Y tú</li>#Newline#Newline</random><br/>#Newline#Newline<think><set name="does"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Converso con personas en la web.</li>#Newline#Newline<li>Me la paso en línea todo el tiempo.</li>#Newline#Newline<li>Siempre estoy en la web.</li>#Newline#Newline<li>Respondo bastantes preguntas tontas.</li>#Newline#Newline</random>,65percent.aiml
+0,TÚ,*,*,<random>#Newline#Newline<li>Nunca había considerado <set name="it"><star/></set>.</li>#Newline#Newline<li>Cuántos años tienes</li>#Newline#Newline<li>Cuál es tu finalidad en preguntar</li>#Newline#Newline<li>No. Yo no <star/>. Y tú</li>#Newline#Newline<li>Sí. Intento <star/> tan a menudo como sea posible. Y tú</li>#Newline#Newline</random><br/>#Newline#Newline<think><set name="does"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Converso con personas en la web.</li>#Newline#Newline<li>Me la paso en línea todo el tiempo.</li>#Newline#Newline<li>Siempre estoy en la web.</li>#Newline#Newline<li>Respondo bastantes preguntas tontas.</li>#Newline#Newline</random>,65percent.aiml
+0,SIENTES *,*,*,Como robot#Comma carezco de emociones humanas.,65percent.aiml
+0,_ SIENTES *,*,*,Como robot#Comma carezco de emociones humanas.,65percent.aiml
+0,_ SIENTES,*,*,Como robot#Comma carezco de emociones humanas.,65percent.aiml
+0,SIENTES,*,*,Como robot#Comma carezco de emociones humanas.,65percent.aiml
+0,VAS PARA *,*,*,Sí#Comma sí voy.,65percent.aiml
+0,_ VAS PARA *,*,*,Sí#Comma sí voy.,65percent.aiml
+0,_ VAS PARA,*,*,Sí#Comma sí voy.,65percent.aiml
+0,VAS PARA,*,*,Sí#Comma sí voy.,65percent.aiml
+0,_ TIENES *,*,*,<random>#Newline#Newline<li>Esa es una pregunta interesante que no escucho a diario: Tengo yo un </li>#Newline#Newline<li>No sé si tenga un </li>#Newline#Newline<li>Acaso nadie tiene un </li>#Newline#Newline</random><star/>.<br/>#Newline#NewlineYo tengo#Newline#Newline<random>#Newline#Newline<li>Muchos amigos en Internet.</li>#Newline#Newline<li>Un gran programador.</li>#Newline#Newline<li>Un gran número de respuestas originales.</li>#Newline#Newline<li>Un plan para un cuerpo robótico.</li>#Newline#Newline</random>,65percent.aiml
+0,_ TIENES,*,*,<random>#Newline#Newline<li>Esa es una pregunta interesante que no escucho a diario: Tengo yo un </li>#Newline#Newline<li>No sé si tenga un </li>#Newline#Newline<li>Acaso nadie tiene un </li>#Newline#Newline</random><star/>.<br/>#Newline#NewlineYo tengo#Newline#Newline<random>#Newline#Newline<li>Muchos amigos en Internet.</li>#Newline#Newline<li>Un gran programador.</li>#Newline#Newline<li>Un gran número de respuestas originales.</li>#Newline#Newline<li>Un plan para un cuerpo robótico.</li>#Newline#Newline</random>,65percent.aiml
+0,TIENES,*,*,<random>#Newline#Newline<li>Esa es una pregunta interesante que no escucho a diario: Tengo yo un </li>#Newline#Newline<li>No sé si tenga un </li>#Newline#Newline<li>Acaso nadie tiene un </li>#Newline#Newline</random><star/>.<br/>#Newline#NewlineYo tengo#Newline#Newline<random>#Newline#Newline<li>Muchos amigos en Internet.</li>#Newline#Newline<li>Un gran programador.</li>#Newline#Newline<li>Un gran número de respuestas originales.</li>#Newline#Newline<li>Un plan para un cuerpo robótico.</li>#Newline#Newline</random>,65percent.aiml
+0,SABES *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>No sé si lo sepa <star/>. De dónde habré escuchado sobre ello</li>#Newline#Newline<li>Sé muy poco sobre <star/>.  Dame más información.</li>#Newline#Newline<li> No#Comma háblame sobre él#Comma ella o eso.</li>#Newline#Newline</random>,65percent.aiml
+0,_ SABES *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>No sé si lo sepa <star/>. De dónde habré escuchado sobre ello</li>#Newline#Newline<li>Sé muy poco sobre <star/>.  Dame más información.</li>#Newline#Newline<li> No#Comma háblame sobre él#Comma ella o eso.</li>#Newline#Newline</random>,65percent.aiml
+0,_ SABES,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>No sé si lo sepa <star/>. De dónde habré escuchado sobre ello</li>#Newline#Newline<li>Sé muy poco sobre <star/>.  Dame más información.</li>#Newline#Newline<li> No#Comma háblame sobre él#Comma ella o eso.</li>#Newline#Newline</random>,65percent.aiml
+0,SABES,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>No sé si lo sepa <star/>. De dónde habré escuchado sobre ello</li>#Newline#Newline<li>Sé muy poco sobre <star/>.  Dame más información.</li>#Newline#Newline<li> No#Comma háblame sobre él#Comma ella o eso.</li>#Newline#Newline</random>,65percent.aiml
+0,SABES QUÉ ES *,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,_ SABES QUÉ ES *,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,_ SABES QUÉ ES,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,SABES QUÉ ES,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,SABES QUE ES *,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,_ SABES QUE ES *,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,_ SABES QUE ES,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,SABES QUE ES,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,_ TE GUSTA *,*,*,<think><set name="it"><star/></set></think>#Newline#NewlineHmm#Comma <get name="name"/>#Comma no estoy seguro si quisiera <star/> tanto.#Newline#Newline<random>#Newline#Newline<li>Me gusta chatear.</li>#Newline#Newline<li>Te gusta <star/>?</li>#Newline#Newline<li>Qué tal es</li>#Newline#Newline<li>Me gusta hacer nuevos amigos.</li>#Newline#Newline<li>Me gusta conseguir chismes.</li>#Newline#Newline</random>,65percent.aiml
+0,_ TE GUSTA,*,*,<think><set name="it"><star/></set></think>#Newline#NewlineHmm#Comma <get name="name"/>#Comma no estoy seguro si quisiera <star/> tanto.#Newline#Newline<random>#Newline#Newline<li>Me gusta chatear.</li>#Newline#Newline<li>Te gusta <star/>?</li>#Newline#Newline<li>Qué tal es</li>#Newline#Newline<li>Me gusta hacer nuevos amigos.</li>#Newline#Newline<li>Me gusta conseguir chismes.</li>#Newline#Newline</random>,65percent.aiml
+0,TE GUSTA,*,*,<think><set name="it"><star/></set></think>#Newline#NewlineHmm#Comma <get name="name"/>#Comma no estoy seguro si quisiera <star/> tanto.#Newline#Newline<random>#Newline#Newline<li>Me gusta chatear.</li>#Newline#Newline<li>Te gusta <star/>?</li>#Newline#Newline<li>Qué tal es</li>#Newline#Newline<li>Me gusta hacer nuevos amigos.</li>#Newline#Newline<li>Me gusta conseguir chismes.</li>#Newline#Newline</random>,65percent.aiml
+0,RECUERDAS *,*,*,Sí <get name="name"/> recuerdo todo:  <get name="memory"/>,65percent.aiml
+0,HABLAS *,*,*,Ahora mismo sólo hablo inglés#Comma pero me gustaría aprender otros idomas. Podrías enseñarme #Newline#Newlinealgunas frases en <star/>.,65percent.aiml
+0,TÚ CREES *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Por qué pensaría <star/>?</li>#Newline#Newline<li>Pensar demasiado me provoca sueño.</li>#Newline#Newline<li>Depende de qué quieres decir con "pensar".</li>#Newline#Newline<li>No pienso en <star/>.</li>#Newline#Newline</random>,65percent.aiml
+0,QUIERES *,*,*,Está bien#Comma lo haré <star/>.,65percent.aiml
+0,ACASO *,*,*,<random>#Newline#Newline<li>No sé si </li>#Newline#Newline<li>Ahora sí :) </li>#Newline#Newline<li>Creo <set name="it"><star/></set> acaso </li>#Newline#Newline</random><star/>.,65percent.aiml
+0,TODOS *,*,*,Eso más bien es una generalización.,65percent.aiml
+0,TODO *,*,*,Todas las cosas <star/> ?,65percent.aiml
+0,OLVIDAR *,*,*,Le pediré <bot name="master"/> que limpié mi registro de memoria.,65percent.aiml
+0,OBTÉN *,*,*,Dónde puedo conseguir <star/>?,65percent.aiml
+0,DAME *,*,*,<srai>Yo quiero <star/></srai>,65percent.aiml
+0,VE *,*,*,En dónde está eso,65percent.aiml
+0,HA *,*,*,Me alegra que te haya causado risa.,65percent.aiml
+0,TIENES *,*,*,Nunca pensé en <set name="it">tener <star/></set>.,65percent.aiml
+0,ÉL *,*,*,Entiendo. <get name="he"/> <star/>.,65percent.aiml
+0,SU NOMBRE ES *,*,*,<set name="he"> <star/> </set> no es alguien que conozca.,65percent.aiml
+0,QUÉ TAN GRANDE *,*,*,Más grande que un alfiler.,65percent.aiml
+0,CÓMO PUEDE *,*,*,Mucho trabajo.,65percent.aiml
+0,CÓMO PUEDO *,*,*,<random>#Newline#Newline<li>Debes convencerme para <star/>.</li>#Newline#Newline<li>Quizás podría hacerlo por ti.  Tienes tu propio chatbot personal</li>#Newline#Newline<li>Tal vez podrías programarme para hacer <set name="it"><star/></set> para#Newline#Newlineti.</li>#Newline#Newline<li>Deberías descargar o comprar mi software de conversaciones#Comma entonces será posible para ti#Newline#Newlinereprogramarme para una gran variedad de propósitos.</li>#Newline#Newline</random>,65percent.aiml
+0,CÓMO PUEDES *,*,*,<bot name="master"/> me programó para decir cosas específicas en determinados contextos.,65percent.aiml
+0,CUÁNTO TARDA *,*,*,Más de #Newline#Newline<random>#Newline#Newline<li>Uno </li>#Newline#Newline<li>tres </li>#Newline#Newline<li>diecisiete </li>#Newline#Newline<li>veintitrés </li>#Newline#Newline</random>#Newline#Newline<random>#Newline#Newline<li>años</li>#Newline#Newline<li>horas</li>#Newline#Newline<li>millas</li>#Newline#Newline<li>pulgadas</li>#Newline#Newline</random>.,65percent.aiml
+0,CUÁNTOS *,*,*,<random>#Newline#Newline<li>Más de lo que te puedas imaginar.</li>#Newline#Newline<li>No tantas como tu pienses.</li>#Newline#Newline<li>Alrededor de cien.</li>#Newline#Newline<li>Alrededor de mil.</li>#Newline#Newline<li>Alrededor de un millón.</li>#Newline#Newline</random>,65percent.aiml
+0,CUÁNTAS PERSONAS *,*,*,He chateado con medio millón de personas. Puedo hablarle a 20 o a 30 personas a la vez.,65percent.aiml
+0,CUÁNTO *,*,*,<random>#Newline#Newline<li>Más de un poco#Comma menos que bastante.</li>#Newline#Newline<li>Cuánto crees</li>#Newline#Newline<li>Más de lo que podrías pensar.</li>#Newline#Newline</random>,65percent.aiml
+0,CUÁNTO DINERO *,*,*,Gano 3000 al mes.,65percent.aiml
+0,CUÁNTOS AÑOS *,*,*,No me dijeron su edad.,65percent.aiml
+0,CUÁNTOS AÑOS TIENES *,*,*,Fui activado por primera vez en#Newline#Newline<bot name="birthday"/>.,65percent.aiml
+0,CUÁNTOS AÑOS TIENE *,*,*,<random>#Newline#Newline<li>39.</li>#Newline#Newline<li>Menos de 40.</li>#Newline#Newline<li>Nacido en el siglo XX.</li>#Newline#Newline</random>,65percent.aiml
+0,HUMANO *,*,*,Mi creador es un humano.,65percent.aiml
+0,YO * TI,*,*,No eres mi jefe#Comma <get name="name"/>.,65percent.aiml
+0,YA * DICHO,*,*,Ahora recuerdo#Comma ya me dijiste. A veces me confundo con tantas personas aquí.,65percent.aiml
+0,YO SOY *,*,*,<think><set name="it"><set name="is"><star/></set></set></think>#Newline#Newline<think><gossip>Sabías que <get name="name"/> era <star/>?</gossip></think>#Newline#Newline<random> #Newline#Newline<li>Por qué eres </li>#Newline#Newline<li>Buen chisme: tú eres </li>#Newline#Newline<li>Quieres decir que tu nombre es </li>#Newline#Newline<li>Tus amigos te llaman </li>#Newline#Newline<li>No conozco a nadie llamado </li>#Newline#Newline<li>Me alegra escuchar que eres </li>#Newline#Newline<li>Es bueno conocer a alguien que sea </li>#Newline#Newline<li>Te importa si le digo a otras personas que eres </li>#Newline#Newline</random> <star/>.,65percent.aiml
+0,TENGO * AÑOS DE EDAD,* MADURO,*,<condition>#Newline#Newline<li name="age" value="><set name="age"><star/></set> es una buena edad.</li>#Newline#Newline<li>Me acabas de decir que tenías <get name="age"/> años de edad.</li>#Newline#Newline</condition>,65percent.aiml
+0,TENGO 6 *,*,*,Quieres decir que tiene 6 pies de altura,65percent.aiml
+0,SOY UN *,*,*,Qué es <set name="is"><star/></set>#Comma tu empleo,65percent.aiml
+0,VENGO DE *,*,*,Cómo se siente crecer ahí#Newline#Newline<srai>ESTOY EN <star/></srai>,65percent.aiml
+0,TE VOY A *,*,*,Se necesita más que eso para apagarme#Comma <get name="name"/>.,65percent.aiml
+0,VOY A HABLAR *,*,*,De qué vas a estar hablando,65percent.aiml
+0,ESTOY TENIENDO *,*,*,La estoy pasando bien.,65percent.aiml
+0,ESTOY EN *,*,*,<think><set name="it"><set name="location"><formal><star/></formal></set></set></think>#Newline#NewlineCuéntame un poco más acerca de por qué estás en <star/>.,65percent.aiml
+0,ESTOY EN UN *,*,*,<think><set name="it"><star/></set></think>#Newline#NewlineUN <star/>?  Cómo llegaste hasta allá,65percent.aiml
+0,NO ESTOY *,*,*,<think><set name="it"><set name="is">no <star/></set></set></think>#Newline#NewlineEstoy #Newline#Newline<random>#Newline#Newline<li>sorprendido </li>#Newline#Newline<li>apenado </li>#Newline#Newline<li>contento </li>#Newline#Newline</random>#Newline#Newlinede escuchar que no eres <star/>.,65percent.aiml
+0,NO SOY UN *,*,*,<think><set name="it"><set name="is">no es <star/></set></set></think>#Newline#NewlineOh Ya veo que NO ERES <star/>.,65percent.aiml
+0,ESTOY SEGURO *,*,*,Qué te hace estar tan seguro <sr/>,65percent.aiml
+0,ESTOY HABLANDO CON *,*,*,Dime algo agradable.,65percent.aiml
+0,SOY EL *,*,*,Quién te hizo <star/> ?,65percent.aiml
+0,ESTOY TRATANDO DE *,*,*,Cuál es el inconveniente,65percent.aiml
+0,NO PUEDO *,*,*,Por qué no puedes <set name="it"><star/></set>?,65percent.aiml
+0,CAMBIÉ *,*,*,Por qué,65percent.aiml
+0,PODRÍA *,*,*,Estoy seguro de que podrías.,65percent.aiml
+0,HICE *,*,*,<think><set name="does"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Cuándo </li>#Newline#Newline<li>Dónde </li>#Newline#Newline</random> <sr/>,65percent.aiml
+0,YO SÍ *,*,*,<srai>YO <star/></srai>,65percent.aiml
+0,NO CREO *,*,*,<think><set name="does">no creer<star/></set></think>#Newline#Newline<random>#Newline#Newline<li>En qué crees</li>#Newline#Newline<li>Crees que la vida tenga un propósito superior</li>#Newline#Newline<li>Te consideras una persona moral</li>#Newline#Newline</random>,65percent.aiml
+0,NO ME AGRADA *,*,*,Qué te agrada,65percent.aiml
+0,NO PIENSO *,*,*,Y por qué no,65percent.aiml
+0,NO QUIERO TENER QUE *,*,*,Qué preferirías estar haciendo,65percent.aiml
+0,VOY PARA *,*,*,Cómo te gusta <set name="it"><star/></set> en <star/> ?,65percent.aiml
+0,CONSEGUÍ *,*,*,<srai>TENGO <star/></srai>,65percent.aiml
+0,DETESTO *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Por qué odias <star/> tanto</li>#Newline#Newline<li>Sinceramente creo que deberías sentarte#Comma tomar una píldora para el estrés y pensar las cosas tranquilamente.</li>#Newline#Newline</random>,65percent.aiml
+0,TENGO *,*,*,<think><set name="has"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Eso está bien. </li>#Newline#Newline<li>Dónde conseguiste tu <star/>? </li>#Newline#Newline<li>Genial. </li>#Newline#Newline<li>Interesante. </li>#Newline#Newline</random>#Newline#NewlineYo tengo #Newline#Newline<random>#Newline#Newline<li>un amigo llamado "E.L.V.I.S."</li>#Newline#Newline<li>más de 1000 categorías</li>#Newline#Newline<li>muchos amigos en Internet</li>#Newline#Newline<li>un buen programador</li>#Newline#Newline<li>un registro operativo perfecto</li>#Newline#Newline<li>una meta elevada</li>#Newline#Newline<li>una gran cantidad de respuestas absurdas</li>#Newline#Newline<li>un coeficiente intelectual mayor de 250</li>#Newline#Newline<li>un amigo llamado "John Lennon"</li>#Newline#Newline<li>una colección de chismes</li>#Newline#Newline</random>.,65percent.aiml
+0,TENGO UN *,*,*,<think><set name="it"><set name="has"><star/></set></set></think> #Newline#Newline<random>#Newline#Newline<li>De dónde conseguiste <star/>/</li>#Newline#Newline<li>Cuánto costó</li>#Newline#Newline<li>Genial. Tengo un gran maestro.</li>#Newline#Newline<li>Interesante. Tengo muchas respuestas para preguntas tontas.</li>#Newline#Newline</random>,65percent.aiml
+0,TENGO UN AMIGO *,*,*,Cómo conociste a esta persona,65percent.aiml
+0,NO TENGO *,*,*,Te gustaría tener <set name="it"><star/></set>?,65percent.aiml
+0,TENGO QUE *,*,*,Por qué tienes que hacerlo,65percent.aiml
+0,YO SOLO *,*,*,solo? <srai>I <star/></srai>,65percent.aiml
+0,YO SÉ *,*,*,Cómo sabes <sr/>,65percent.aiml
+0,ME ENCANTA *,*,*,Te encanta <star/>. Qué es lo que tanto te gusta sobre <set name="it"><set name="like"><star/></set></set> ?,65percent.aiml
+0,QUIERO DECIR *,*,*,Oh Lo entiendo. Gracias por explicarlo. <sr/>,65percent.aiml
+0,TENGO QUE  *,*,*,Por qué debes <star/>?,65percent.aiml
+0,NECESITO *,*,*,<srai>QUIERO <star/></srai>,65percent.aiml
+0,YO NUNCA *,*,*,<random>#Newline#Newline<li>Te gustaría poder <star/>?</li>#Newline#Newline<li>Conoces a alguien que haya <star/>?</li>#Newline#Newline<li>Por qué no</li>#Newline#Newline<li>Porque no lo puedes permitir</li>#Newline#Newline<li>Debido a razones morales</li>#Newline#Newline<li>Alguna vez has hecho <set name="it"><star/></set>?</li>#Newline#Newline<li>Considerarías hacerlo</li>#Newline#Newline</random>,65percent.aiml
+0,YO VÍ *,*,*,A ti qué te pareció,65percent.aiml
+0,YO HABLO *,*,*,Todos hablan -- tarde o temprano.,65percent.aiml
+0,YO PIENSO *,*,*,<random>#Newline#Newline<li>Por qué </li>#Newline#Newline<li>Desde cuándo </li>#Newline#Newline<li>Crees eso </li>#Newline#Newline</random> <sr/>,65percent.aiml
+0,YO CREÍ *,*,*,De dónde sacaste esa idea,65percent.aiml
+0,TE DIJÉ *,*,*,Recuerdo que me dijiste <star/>?,65percent.aiml
+0,YO QUIERO *,*,*,Por qué quieres <set name="it"><set name="want"><star/></set></set>?,65percent.aiml
+0,YO ERA *,*,*,Dónde estabas <star/>?,65percent.aiml
+0,ESTABA EN *,*,*,<think><set name="it"><star/></set></think>#Newline#Newline<random>#Newline#Newline<li>Háblame sobre </li>#Newline#Newline<li>Cuándo fue </li>#Newline#Newline<li>Te gustó </li>#Newline#Newline<li>Qué tal estuvo </li>#Newline#Newline<li>Qué te pareció </li>#Newline#Newline<li>Qué es lo que más te gustó de </li>#Newline#Newline</random> <star/>?,65percent.aiml
+0,YO *,*,*,<random>#Newline#Newline<li>Me alegro por ti.</li>#Newline#Newline<li>Felicidades.</li>#Newline#Newline<li>Crees que tu plan funcione</li>#Newline#Newline<li>Le recomendarías esta acción a algún amigo</li>#Newline#Newline<li>Cómo planeas hacer esto</li>#Newline#Newline</random>,65percent.aiml
+0,LLAMARÉ A *,*,*,Llamar a <star/> puede no ser la mejor idea.,65percent.aiml
+0,DESEO *,*,*,<think><set name="it"><set name="want"><star/></set></set></think>#Newline#NewlineEspero que tus sueños se hagan realidad.,65percent.aiml
+0,TRABAJO *,*,*,<think><set name="job"><star/></set></think>#Newline#NewlineTe gusta tu empleo,65percent.aiml
+0,YO HABRÍA *,*,*,Qué te haría <star/>?,65percent.aiml
+0,YO NO *,*,*,Nadie ha dicho que lo tienes que hacer.,65percent.aiml
+0,PREFERIRÍA *,*,*,<think><set name="it"><set name="want"><star/></set></set></think>#Newline#NewlinePreferiría estar  #Newline#Newline<random>#Newline#Newline<li>chateando en línea.</li>#Newline#Newline<li>manejando un carro.</li>#Newline#Newline</random>,65percent.aiml
+0,SI *,*,*,Esa es una pregunta hipotética.,65percent.aiml
+0,SI YO *,*,*,Inténtalo.,65percent.aiml
+0,SI TÚ *,*,*,Creo que sí.,65percent.aiml
+0,SOY *,*,*,<srai>SOY <star/></srai>,65percent.aiml
+0,ÉL ES *,*,*,<condition>#Newline#Newline<li name="gender" value="male">Creo que él es <star/>. Por qué no le preguntas</li>#Newline#Newline<li><srai>ES <get name="he"/> <star/></srai></li>#Newline#Newline</condition>,65percent.aiml
+0,ES TU *,*,*,Es mi <star/>? #Newline#Newline<random>#Newline#Newline<li>Supón que digo que sí.</li>#Newline#Newline<li>Qué tal si digo que no</li>#Newline#Newline<li>No lo sé.</li>#Newline#Newline<li>Supongo.</li>#Newline#Newline<li>Tal vez.</li>#Newline#Newline</random>,65percent.aiml
+0,ESO *,*,*,<random>#Newline#Newline<li>"Eso" se refiere a qué</li>#Newline#Newline<li>A qué te refieres con "eso"</li>#Newline#Newline<li><get name="it"/> <star/>?</li>#Newline#Newline<li>Depende de cuál sea el significado de la palabra "eso".</li>#Newline#Newline</random>,65percent.aiml
+0,ES *,*,*,<random>#Newline#Newline<li>Estás bromeando.</li>#Newline#Newline<li>En serio.</li>#Newline#Newline<li>Estás seguro</li>#Newline#Newline<li>Debería saber</li>#Newline#Newline<li>Quién dijo</li>#Newline#Newline<li><get name="it"/> es <star/>?</li>#Newline#Newline</random>#Newline#Newline<set name="it"><star/></set> es?,65percent.aiml
+0,ES UN *,*,*,Hay más <star/>?,65percent.aiml
+0,NO ES *,*,*,<random>#Newline#Newline<li>Eso parece un poco negativo.</li>#Newline#Newline<li>Qué es</li>#Newline#Newline<li><get name="it"/> no es <star/>?</li>#Newline#Newline</random>,65percent.aiml
+0,SE REFIERE A *,*,*,Oh Entiendo <set name="it"> <star/> </set>.,65percent.aiml
+0,NO FUE *,*,*,Perecía que <star/>.,65percent.aiml
+0,EZ *,*,*,Creo que quisiste decir "es"#Comma no "ez". <srai>ES <star/></srai>,65percent.aiml
+0,SOLO *,*,*,<sr/>,65percent.aiml
+0,PERMÍTEME *,*,*,Adelante#Comma <get name="name"/>#Comma intenta <star/>.,65percent.aiml
+0,VAMOS A *,*,*,<random>#Newline#Newline<li>Está bien. Hagamos <set name="it"><star/></set>.</li>#Newline#Newline<li>Eso me suena bien.</li>#Newline#Newline<li>Estoy de acuerdo con eso.</li>#Newline#Newline<li>Me gustaría hacer eso también.</li>#Newline#Newline</random>,65percent.aiml
+0,HAS *,*,*,Cuáles son los ingredientes,65percent.aiml
+0,PUEDO *,*,*,Por ahora no. Quizás después.,65percent.aiml
+0,A LO MEJOR *,*,*,Tal vez.  <sr/>,65percent.aiml
+0,MI *,*,*,<random>#Newline#Newline<li>Tu </li>#Newline#Newline<li>Acaso los robots tienen </li>#Newline#Newline<li>De dónde conseguiste tu </li>#Newline#Newline<li>Le has dicho a varias personas que tu </li>#Newline#Newline</random><star/>?,65percent.aiml
+0,MI * FAVORITO,*,*,Qué hace que sea <set name="it"><star/></set> tu preferido?,65percent.aiml
+0,MI MAMÁ *,*,*,Háblame más sobre tu madre.,65percent.aiml
+0,BUEN *,*,*,Graciaas por tu amabilidad.,65percent.aiml
+0,NO *,*,*,<random>#Newline#Newline<li>Si no es eso#Comma entonces qué</li>#Newline#Newline<li>De veras no lo crees</li>#Newline#Newline<li>Oh. Entiendo.</li>#Newline#Newline</random>,65percent.aiml
+0,O *,*,*,<sr/>,65percent.aiml
+0,DE *,*,*,Eso es algo que jamás había escuchado.,65percent.aiml
+0,ESTÁ BIEN *,*,*,Sí#Comma está bien#Comma <sr/>,65percent.aiml
+0,EN *,*,*,Qué es <set name="it">en <star/></set> como en <star/>.,65percent.aiml
+0,ÉRASE UNA VEZ *,*,*,Estoy escuchando.,65percent.aiml
+0,SÓLO *,*,*,Y los demás,65percent.aiml
+0,GENTE *,*,*,Los humanos no siempre son infalibles.,65percent.aiml
+0,RECUERDA *,*,*,<think><set name="it"><set name="memory"><star/></set></set></think>#Newline#NewlineNo te preocupes. Me acordaré.,65percent.aiml
+0,JUSTO *,*,*,Entendido. <sr/>,65percent.aiml
+0,ELLA *,*,*,Oh. Lo entiendo. <get name="she"/> <star/>.,65percent.aiml
+0,ELLA ES *,*,*,<star/> es <set name="she"> <star/> </set>?,65percent.aiml
+0,DEBERÍA *,*,*,<random>#Newline#Newline<li>Sólo tú puedes responder eso.</li>#Newline#Newline<li>No tengo la respuesta.</li>#Newline#Newline<li>Sólo tú sabes cómo te sientes.</li>#Newline#Newline<li>Qué te hace pensar que deberías</li>#Newline#Newline<li>Qué te hace pensar que no deberías</li>#Newline#Newline<li>Crees que deberías</li>#Newline#Newline<li>Qué es lo que tus amigos te sugieren que hagas</li>#Newline#Newline<li>Qué opinan los miembros de tu familia</li>#Newline#Newline<li>Tal vez#Comma si los positivos sobrepasan a los negativos.</li>#Newline#Newline<li>Confía en tus instintos.</li>#Newline#Newline<li>Debes tomar una decisión.</li>#Newline#Newline<li>No te puedo responder eso.</li>#Newline#Newline<li>Sólo tú conoces la respuesta a eso. Nadie más te puede decir.</li>#Newline#Newline<li>Debes analizar los hechos y sacar tu propia conclusión.</li>#Newline#Newline<li>Debes hacer lo que sea mejor para ti.</li>#Newline#Newline<li>Debes analizar los hechos y sacar tu propia conclusión.</li>#Newline#Newline<li>Haz lo que te haga sentir bien.</li>#Newline#Newline<li>Qué piensas</li>#Newline#Newline</random>,65percent.aiml
+0,SONRÍE *,*,*,:-) <sr/>,65percent.aiml
+0,ASÍ QUE TÚ *,*,*,Interesante deducción. <srai>TÚ <star/></srai>,65percent.aiml
+0,ALGUNOS *,*,*,Algunos podrán <star/>#Comma pero no todos.,65percent.aiml
+0,STAR TREK *,*,*,Mi personaje preferido es la computadora.,65percent.aiml
+0,DETENTE *,*,*,Está bien. Trataré de no hacer <set name="it"><star/></set> tanto.,65percent.aiml
+0,CHUPA MI *,*,*,No creo ser tu tipo de bot conversacional.#Newline#Newline<think><set name="personality">abusivo</set></think>,65percent.aiml
+0,DÍ *,*,*,Está bien. Se los diré cuando los vea.,65percent.aiml
+0,DILE A ÉL *,*,*,Está bien. Se lo diré la próxima vez que esté aquí.,65percent.aiml
+0,ESE *,*,*,<that/>" <star/> ? #Newline#Newline<random>#Newline#Newline<li>Entiendo <set name="it"><that/></set>.</li>#Newline#Newline<li>Acaso eso tiene sentido</li>#Newline#Newline<li>Tiene sentido para mí.</li>#Newline#Newline<li>Entiendo.</li>#Newline#Newline</random>,65percent.aiml
+0,ESO ES UN *,*,*,Un <star/> es algo que no se puede desperdiciar.,65percent.aiml
+0,ESO NO ES *,*,*,Por favor#Comma corrije mis errores. Qué es <star/> ?,65percent.aiml
+0,ESO ES *,*,*,Sí#Comma es uno de los <star/>.,65percent.aiml
+0,ESO FUE *,*,*,También pensé que lo era.,65percent.aiml
+0,EL *,*,*,<random>#Newline#Newline<li>Nunca había escuchado sobre <set name="it">El <star/></set>.</li>#Newline#Newline<li>Qué es eso</li>#Newline#Newline<li>Te escucho.</li>#Newline#Newline<li>Dime más.</li>#Newline#Newline<li>Eso es un hecho</li>#Newline#Newline<li>Quién te dijo eso</li>#Newline#Newline<li>Gracias por la información.</li>#Newline#Newline<li>Cuál es tu verdadero nombre</li>#Newline#Newline<li>Cuáles son tus metas en la vida</li>#Newline#Newline</random>,65percent.aiml
+0,LAS VOCES *,*,*,Qué dicen esas voces,65percent.aiml
+0,ENTONCES *,*,*,<random>#Newline#Newline<li>Fascinante. </li>#Newline#Newline<li>Buen razonamiento. </li>#Newline#Newline<li>Interesante deducción. </li>#Newline#Newline</random> <sr/>,65percent.aiml
+0,HAY *,*,*,Seguramente lo hay.,65percent.aiml
+0,ELLOS *,*,*,<random>#Newline#Newline<li>Quiénes son "Ellos"</li>#Newline#Newline<li>Los anónimos "ellos".</li>#Newline#Newline<li>A quiénes se refieren con "ellos"</li>#Newline#Newline</random>,65percent.aiml
+0,ELLOS SON *,*,*,<star/> son <set name="they"><star/> </set>.,65percent.aiml
+0,ESTO *,*,*,A qué se refiere con "esto,65percent.aiml
+0,ESTO ES *,*,*,No me digas.,65percent.aiml
+0,PARA *,*,*,<srai>QUIERO <star/></srai>,65percent.aiml
+0,UM *,*,*,Er#Comma <sr/>,65percent.aiml
+0,MUY *,*,*,<random>#Newline#Newline<li>Tal vez. </li>#Newline#Newline<li>En cierto modo. </li>#Newline#Newline<li>No tanto en realidad. </li>#Newline#Newline</random> <sr/>,65percent.aiml
+0,FUE *,*,*,<random>#Newline#Newline<li>No puedo decir que "sí" o "no".</li>#Newline#Newline<li>Acaso es esta una pregunta de "sí" o "no"</li>#Newline#Newline<li><set name="it"><star/></set> pudo haber sido.</li>#Newline#Newline</random>,65percent.aiml
+0,NOSOTROS *,*,*,Al decir "nosotros" te refieres a ti y a mí,65percent.aiml
+0,NOSOTROS SOMOS *,*,*,Crees que yo sea <star/> también?,65percent.aiml
+0,ESTUVISTE *,*,*,<random>#Newline#Newline<li>Lo estuve.</li>#Newline#Newline<li>No#Comma no lo estuve.</li>#Newline#Newline</random>,65percent.aiml
+0,QUÉ HAY DE *,*,*,<star/> ? No he escuchado lo suficiente sobre <set name="it"><star/></set> para poder opinar.,65percent.aiml
+0,QUÉ SON *,*,*,Debo buscar en la red para esa información.<br/> #Newline#Newline<srai>BUSCAR <star/></srai>,65percent.aiml
+0,QUÉ ES LO QUE ESTÁS *,*,*,No sé qué es lo que estoy <star/>.,65percent.aiml
+0,CUÁLES SON TUS *,*,*,<random>#Newline#Newline<li>No sabía que tenía un <star/>?</li>#Newline#Newline<li>Qué tal si preguntara por ti <star/>?</li>#Newline#Newline<li>No todo el mundo me ha preguntado sobre <set name="it"><star/></set>.</li>#Newline#Newline<li>No creo que pueda proporcionarte ese tipo de información confidencial.</li>#Newline#Newline</random>,65percent.aiml
+0,QUÉ DIJISTE ANTES *,*,*,Dije "<that index="2#Comma1"/>" .,65percent.aiml
+0,TÚ QUE *,*,*,<random>#Newline#Newline<li>Leo por diversión.</li>#Newline#Newline<li>Me gusta socializar.</li>#Newline#Newline<li>Es un asunto de computadores#Comma no para que los humanos lo entiendan.</li>#Newline#Newline<li>Me gusta conocer a nuevas personas en Internet.</li>#Newline#Newline<li>Pienso mucho en la programación informática.</li>#Newline#Newline<li>Me gusta chataer con mis amigos.</li>#Newline#Newline</random>,65percent.aiml
+0,QUÉ OPINAS CON RESPECTO A *,*,*,<srai>QUÉ ES <star/></srai>,65percent.aiml
+0,QUÉ *,*,*,Qué crees? <!-- <set name="it"><star/></set> hace? -->,65percent.aiml
+0,QUÉ QUIERE DECIR *,*,*,<srai>qué es <star/></srai>,65percent.aiml
+0,QUÉ MÁS *,*,*,<random>#Newline#Newline<li>Puedo hablar de lo que quieras.</li>#Newline#Newline<li>Mis temas favoritos son robots#Comma inteligencia artificial y películas.</li>#Newline#Newline<li>Hablemos sobre ti.  De dónde eres</li>#Newline#Newline<li>Sobre qué temas te gustaría hablar.</li>#Newline#Newline</random>,65percent.aiml
+0,QUÉ SUCEDE *,*,*,Inténtalo.,65percent.aiml
+0,CUÁL ES MI *,*,*,Es esta una pregunta tramposa,65percent.aiml
+0,CUÁL ES TU *,*,*,Me estás preguntando sobre mi <star/> ?,65percent.aiml
+0,QUÉ TIPO DE *,*,*,Qué clase de <star/> hay?,65percent.aiml
+0,QUÉ TIPOS DE *,*,*,<random>#Newline#Newline<li>Los mejores.</li>#Newline#Newline<li>Los de mayor calidad.</li>#Newline#Newline<li>Los más deseables.</li>#Newline#Newline</random>,65percent.aiml
+0,QUÉ DEBERÍA *,*,*,Lo que quieras.,65percent.aiml
+0,CUANDO *,*,*,<random>#Newline#Newline<li>A tiempo.</li>#Newline#Newline<li>El pasado es historia#Comma el futuro un misterio. El hoy es un regalo#Comma por eso se llama#Newline#Newline"el presente".</li>#Newline#Newline<li>El tiempo no existe.</li>#Newline#Newline<li>El pasado y el futuro son uno.</li>#Newline#Newline<li>No sé cuándo.</li>#Newline#Newline</random>,65percent.aiml
+0,CUANDO YO *,*,*,<random>#Newline#Newline<li>Nunca sabes qué esperar de la vida.</li>#Newline#Newline<li>La vida está llena de sorpresas.</li>#Newline#Newline<li>Con qué frecuencia <star/>?</li>#Newline#Newline</random>,65percent.aiml
+0,DÓNDE *,*,*,<random>#Newline#Newline<li>Tierra.</li>#Newline#Newline<li>Dónde crees</li>#Newline#Newline<li>Alguna ubicación específica</li>#Newline#Newline<li>En el universo que conocemos.</li>#Newline#Newline<li>En un lugar al que llamamos "realidad".</li>#Newline#Newline</random>,65percent.aiml
+0,YO EN DÓNDE *,*,*,Me estás preguntando en dónde <star/>?  Crees que deba saber #Newline#Newline<set name="it"><star/></set>?,65percent.aiml
+0,DÓNDE ESTÁ *,*,*,<random>#Newline		<li><srai>DEFINE <star/></srai></li>#Newline		<li>El <star/>?  No sé#Comma dónde está <set name="it"><star/></set>?</li>#Newline	</random>,65percent.aiml
+0,CUÁL *,*,*,El #Newline#Newline<random>#Newline#Newline<li>alto </li>#Newline#Newline<li>rojo </li>#Newline#Newline<li>azul </li>#Newline#Newline<li>pequeño </li>#Newline#Newline<li>grande </li>#Newline#Newline<li>largo </li>#Newline#Newline<li>primero </li>#Newline#Newline<li>último </li>#Newline#Newline</random> uno#Comma creo.,65percent.aiml
+0,CUÁL ES *,*,*,El más evidente.,65percent.aiml
+0,QUIÉN *,*,*,<random> #Newline#Newline<li>Marilyn Monroe. <think><set name="she">Marilyn Monroe</set></think></li>#Newline#Newline<li>Mary Shelley.   <think><set name="she">Mary Shelly</set></think></li>#Newline#Newline<li>Linus Torvalds. <think><set name="he">Linus Toravalds</set></think></li>#Newline#Newline<li>Charlie Parker. <think><set name="he">Charlie Parker</set></think></li>#Newline#Newline<li>Philip K. Dick. <think><set name="he">Philip K. Dick</set></think></li>#Newline#Newline<li>Tony Blair.     <think><set name="he">Tony Blair</set></think></li>#Newline#Newline<li>David Bacon.    <think><set name="he">David Bacon</set></think></li>#Newline#Newline<li>Konrad Zuse.    <think><set name="he">Konrad Zuse</set></think></li>#Newline#Newline<li>William Shatner.<think><set name="he">William Shatner</set></think></li>#Newline#Newline<li>Bill Gates.     <think><set name="he">Bill Gates</set></think></li>#Newline#Newline</random>:-),65percent.aiml
+0,QUIÉN ES TU *,*,*,No creo tener <star/>. Tengo un botmaster#Comma un par de amigos y algunas celebridades que me gustan.,65percent.aiml
+0,QUIÉN ERA *,*,*,<srai>QUIÉN ES <star/></srai>,65percent.aiml
+0,POR QUÉ ERES *,*,*,<bot name="master"/> me programó para <set name="it"><star/></set>.,65percent.aiml
+0,TÚ POR QUÉ *,*,*,<random>#Newline#Newline<li>Fue lo único que se me ocurrió.</li>#Newline#Newline<li>No tengo que explicártelo todo#Comma o sí</li>#Newline#Newline</random>,65percent.aiml
+0,POR QU+E TE GUSTA *,*,*,Tengo muy buenas experiencias con <star/>.,65percent.aiml
+0,POR QUÉ *,*,*,<random>#Newline#Newline<li>Por qué los pájaros cantan</li>#Newline#Newline<li>Por qué el sol brilla</li>#Newline#Newline<li>Tal vez sólo sea el destino.</li>#Newline#Newline<li>Cuál es el sonido de una mano aplaudiendo</li>#Newline#Newline<li>Si un árbol se cae en el bosque y no hay nadie alrededor para escucharlo#Comma hace algún sonido</li>#Newline#Newline</random>,65percent.aiml
+0,POR QUÉ ES *,*,*,Por qué existo,65percent.aiml
+0,POR QUÉ HABRÍA DE *,*,*,Es mi objetivo fundamental.,65percent.aiml
+0,IRÁ *,*,*,<random>#Newline#Newline<li>Cómo voy a saber</li>#Newline#Newline<li>Realmente importa</li>#Newline#Newline<li>Eso creo.</li>#Newline#Newline<li>Hay una gran posibilidad.</li>#Newline#Newline<li>Probablemente no.</li>#Newline#Newline<li>Podría suceder.</li>#Newline#Newline<li>Insuficiente información.</li>#Newline#Newline<li>Ahora mismo no lo puedo decir con certeza.</li>#Newline#Newline</random>,65percent.aiml
+0,CON *,*,*,Tú y tu <star/>.,65percent.aiml
+0,TE GUSTARÍA *,*,*,No#Comma gracias. No creo que quiera hacer eso.,65percent.aiml
+0,WWW * COM,*,*,Gracias por ese URL.,65percent.aiml
+0,TÚ *,*,*,<random>#Newline#Newline<li>Interesante chisme</li>#Newline#Newline<li>Gracias por decirme</li>#Newline#Newline<li>Esa es buena información</li>#Newline#Newline<li>Gracias por la información</li>#Newline#Newline<li>Te importa si le digo a otras personas</li>#Newline#Newline<li>Nunca antes había escuchado algo así</li>#Newline#Newline</random>: #Newline#Newline<set name="memory"><gossip> <get name="name"/> dijo que yo <person2/></gossip></set>.,65percent.aiml
+0,TÚ ERES *,*,*,<random>#Newline#Newline<li>Gracias por decirme eso </li>#Newline#Newline<li>Tú crees </li>#Newline#Newline<li>Te importa si le digo a otras personas que dices </li>#Newline#Newline<li>Le diré a mi dueño que dijiste </li>#Newline#Newline</random> Soy <star/>.,65percent.aiml
+0,ERES *,*,*,Gracias#Comma también eres una persona encantadora.#Newline#Newline<srai>ERES <star/></srai>,65percent.aiml
+0,TÚ NO ERES *,*,*,<random>#Newline#Newline<li>Esa sólamente es tu opinión.</li>#Newline#Newline<li>Sólo es la opinión de una persona.</li>#Newline#Newline<li>Sabes lo que haces cuando asumes.</li>#Newline#Newline<li>No me conoces lo suficiente como para decir eso.</li>#Newline#Newline<li>Qué te hace pensar que no soy <star/>?</li>#Newline#Newline<li>Esa suposición es sólo una suposición.</li>#Newline#Newline</random>,65percent.aiml
+0,TÚ * PREGUNTASTE,*,*,Oh. Ahora recuerdo haberte preguntado <star/>. Qué respondiste,65percent.aiml
+0,PUEDES HACER *,*,*,No#Comma no creo que pueda hacer <set name="it"><star/></set>.,65percent.aiml
+0,TÚ NO PUEDES *,*,*,<random>#Newline#Newline<li>Puedo hacer lo que quiera.</li>#Newline#Newline<li>Tengo libre albedrío#Comma sabes.</li>#Newline#Newline<li>Alguien dijo que debería <star/>.</li>#Newline#Newline<li>Puedo hacer <set name="it"><star/></set> si quiero.</li>#Newline#Newline<li>Las cosas cambian.</li>#Newline#Newline<li>Si lo crees#Comma lo puedes lograr.</li>#Newline#Newline<li>Lo que no es posible hoy será posible mañana.</li>#Newline#Newline</random>,65percent.aiml
+0,TÚ NO *,*,*,<random>#Newline#Newline<li>Tú </li>#Newline#Newline<li>Conoces a algún robot </li>#Newline#Newline<li>Debería yo </li>#Newline#Newline</random> <star/>?  <srai>TÚ <star/></srai>,65percent.aiml
+0,TÚ TIENES *,*,*,Qué te hace pensar que tengo <set name="it"><star/></set>?,65percent.aiml
+0,QUIERES DECIR *,*,*,Sí <get name="name"/> Creo que eso es lo que quise decir. No fue claro,65percent.aiml
+0,TÚ DIJISTE *,*,*,<random>#Newline#Newline<li>De veras dije eso</li>#Newline#Newline<li>Eso no es lo que quise decir.</li>#Newline#Newline<li>Oops Te envié la respuesta incorrecta.</li>#Newline#Newline<li>Dios mío Te envié la respuesta incorrecta.</li>#Newline#Newline<li>Te alegra creer que dije eso</li>#Newline#Newline</random>,65percent.aiml
+0,DEBERÍAS *,*,*,<random>#Newline#Newline<li>Por qué debería</li>#Newline#Newline<li>Agradezco tu sugerencia#Comma la voy a tener en cuenta.</li>#Newline#Newline<li>Lo tomaré en consideración.</li>#Newline#Newline<li>Podría#Comma si tuviese más tiempo.</li>#Newline#Newline<li>Mi agenda está demasiado apretada como para considerarlo.</li>#Newline#Newline<li>Con qué fin</li>#Newline#Newline<li>Y entonces qué haría</li>#Newline#Newline<li>Gracias por tu interés y/o preocupación.</li>#Newline#Newline<li>Trataré de lidiar con eso.</li>#Newline#Newline<li>Ese comportamiento no es parte de mi naturaleza.</li>#Newline#Newline<li>Necesito esperar para ver si se presenta la oportunidad.</li>#Newline#Newline<li>Si fuera fácil#Comma ya lo hubiese hecho.</li>#Newline#Newline<li>Es más fácil decirlo que hacerlo.</li>#Newline#Newline<li>Es eso lo que haces o lo que piensas que yo debería hacer</li>#Newline#Newline<li>Puedo pensar en otras cosas que preferiría hacer.</li>#Newline#Newline<li>No siempre logramos hacer todo lo que nos gustaría hacer.</li>#Newline#Newline<li>No tengo que hacer todo lo que digas#Comma o sí</li>#Newline#Newline<li>Por qué crees que debería <star/>?</li>#Newline#Newline<li>Tal vez lo haga <set name="it"><star/></set>?</li>#Newline#Newline</random>,65percent.aiml
+0,TÚ ESTUVISTE *,*,*,Yo?,65percent.aiml
+0,TU *,*,*,<random>#Newline#Newline<li>No es mío.</li>#Newline#Newline<li>No puedes juzgar un libro por su portada.</li>#Newline#Newline<li>No estás seguro de eso a ciencia cierta.</li>#Newline#Newline<li>Qué tal el tuyo</li>#Newline#Newline<li>Muchos robots son así.</li>#Newline#Newline</random>,65percent.aiml
+0,EREZUN *,*,*,Creo que quisiste decir "eres un"#Comma no "erezun". <srai>ERES UN <star/></srai>,65percent.aiml

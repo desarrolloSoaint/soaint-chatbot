@@ -1,0 +1,208 @@
+{
+	"id": "b6c07619-619e-5d22-2af9-8ed21872a5b1",
+	"name": "SoaintChatBot",
+	"description": "",
+	"order": [
+		"1a2006f6-4e19-2641-0775-d5b41a9d3fee",
+		"5042d760-1d68-da66-3dcd-d72822193118",
+		"ec1eb44d-e002-67cb-8961-260e7bd4d21d",
+		"26fa4d39-9e0b-d5b4-9be2-aa6ff38a7ca9"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1579810514772,
+	"owner": "2986849",
+	"public": false,
+	"requests": [
+		{
+			"id": "1a2006f6-4e19-2641-0775-d5b41a9d3fee",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsic3ByaW5nLWJvb3QtYXBwbGljYXRpb24iXSwidXNlcl9uYW1lIjoiYWRtaW4iLCJzY29wZSI6WyJzY29wZV9yZWFkIiwic2NvcGVfd3JpdGUiXSwiZXhwIjoxNTg3ODI3MjQwLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6ImI3MWUwOWFkLTk4NWMtNDQzMy1hNDMyLTFlYWMwYTk2M2M5YiIsImNsaWVudF9pZCI6InNvYWludC1jbGllbnQifQ.wQjao_1gRpkSDviOZO4LE0BeCXjkTrw1ZqN1qdsD31c\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsic3ByaW5nLWJvb3QtYXBwbGljYXRpb24iXSwidXNlcl9uYW1lIjoiYWRtaW4iLCJzY29wZSI6WyJzY29wZV9yZWFkIiwic2NvcGVfd3JpdGUiXSwiZXhwIjoxNTg3ODI3MjQwLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6ImI3MWUwOWFkLTk4NWMtNDQzMy1hNDMyLTFlYWMwYTk2M2M5YiIsImNsaWVudF9pZCI6InNvYWludC1jbGllbnQifQ.wQjao_1gRpkSDviOZO4LE0BeCXjkTrw1ZqN1qdsD31c",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://soniatback.herokuapp.com/api/v1/bot/botQuestion?question=servicios soaint",
+			"queryParams": [
+				{
+					"key": "question",
+					"value": "servicios soaint",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587827049964,
+			"name": "GetAnswer",
+			"description": "",
+			"collectionId": "b6c07619-619e-5d22-2af9-8ed21872a5b1",
+			"responses": []
+		},
+		{
+			"id": "26fa4d39-9e0b-d5b4-9be2-aa6ff38a7ca9",
+			"headers": "Origin: http://localhost:4200\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsic3ByaW5nLWJvb3QtYXBwbGljYXRpb24iXSwidXNlcl9uYW1lIjoiYWRtaW4iLCJzY29wZSI6WyJzY29wZV9yZWFkIiwic2NvcGVfd3JpdGUiXSwiZXhwIjoxNTg3ODI3NjM3LCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjgyNTRmYWY0LWQwOWEtNGI3OC1hMjNjLTU3MzM5NmFiMWQyZCIsImNsaWVudF9pZCI6InNvYWludC1jbGllbnQifQ.cJQH4GBwUFZbWpaxxJspjwNtrftaU-jB0qpmEL33FLg\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Origin",
+					"value": "http://localhost:4200",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsic3ByaW5nLWJvb3QtYXBwbGljYXRpb24iXSwidXNlcl9uYW1lIjoiYWRtaW4iLCJzY29wZSI6WyJzY29wZV9yZWFkIiwic2NvcGVfd3JpdGUiXSwiZXhwIjoxNTg3ODI3NjM3LCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjgyNTRmYWY0LWQwOWEtNGI3OC1hMjNjLTU3MzM5NmFiMWQyZCIsImNsaWVudF9pZCI6InNvYWludC1jbGllbnQifQ.cJQH4GBwUFZbWpaxxJspjwNtrftaU-jB0qpmEL33FLg",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://soniatback.herokuapp.com/api/v1/bot/test?question=hola",
+			"queryParams": [
+				{
+					"key": "question",
+					"value": "hola",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587827055626,
+			"name": "Test",
+			"description": "",
+			"collectionId": "b6c07619-619e-5d22-2af9-8ed21872a5b1",
+			"responses": [],
+			"rawModeData": ""
+		},
+		{
+			"id": "5042d760-1d68-da66-3dcd-d72822193118",
+			"headers": "Content-Type: application/x-www-form-urlencoded\nAuthorization: Basic c29haW50LWNsaWVudDokMmEkMDQkZS9jMS9SZnNXdVRoYVdGQ3JjQ3VKZW95dndDVjBVUk4vNlBuOVpGbHJ0SVdhVS92ai9CZkc=\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Basic c29haW50LWNsaWVudDokMmEkMDQkZS9jMS9SZnNXdVRoYVdGQ3JjQ3VKZW95dndDVjBVUk4vNlBuOVpGbHJ0SVdhVS92ai9CZkc=",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://soniatback.herokuapp.com/api/v1/auth/token",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "username",
+					"value": "admin",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "password",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "grant_type",
+					"value": "password",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "basicAuth",
+			"helperAttributes": {
+				"id": "basic",
+				"username": "soaint-client",
+				"password": "$2a$04$e/c1/RfsWuThaWFCrcCuJeoyvwCV0URN/6Pn9ZFlrtIWaU/vj/BfG",
+				"saveToRequest": true
+			},
+			"time": 1587827051954,
+			"name": "Get TOKEN",
+			"description": "",
+			"collectionId": "b6c07619-619e-5d22-2af9-8ed21872a5b1",
+			"responses": []
+		},
+		{
+			"id": "ec1eb44d-e002-67cb-8961-260e7bd4d21d",
+			"headers": "Content-Type: application/json\nOrigin: https://soniatback.herokuapp.com\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Origin",
+					"value": "https://soniatback.herokuapp.com",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://soniatback.herokuapp.com/api/v1/bot/login",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587827394238,
+			"name": "Login",
+			"description": "",
+			"collectionId": "b6c07619-619e-5d22-2af9-8ed21872a5b1",
+			"responses": [],
+			"rawModeData": "{\n\"username\": \"admin\",\n\"password\": \"password\"\n}"
+		}
+	]
+}

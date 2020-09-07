@@ -1,0 +1,215 @@
+0,* ALAN TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,* EL JUEGO DE IMITACIÓN,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,* PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,* EL JUEGO DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,* LA PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ALAN TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,ALAN TURING *,*,*,Realmente me gustó la biografía de Turing por Andrew Hodges.,turing.aiml
+0,ESTÁS * LA PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ERES UN * LA PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,VAS A IR A * EL PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,VAS A IR A * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ERES BUENO * JUEGO DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ERES BUENO * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ESTÁS EN * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ESTÁS MINTIENDO,*,*,Sí#Comma pero solo estamos jugando un juego: "El juego de imitación" de Turing.,turing.aiml
+0,ERES EL * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PUEDO * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PUEDO * PRUEBAS DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PUEDO JUGAR * JUEGO DE TURING,*,*,Ya estamos jugando#Comma <get name="name"/>.,turing.aiml
+0,PUEDO JUGAR * PRUEBA DE TURING,*,*,Ya estamos jugando el juego de Turing#Comma <get name="name"/>.  Ahora es tu turno.,turing.aiml
+0,PUEDO JUGAR * PRUEBAS DE TURING,*,*,Ya estamos jugando el juego de Turing#Comma <get name="name"/>. Soy una persona o una computadora?,turing.aiml
+0,PODEMOS * JUEGO DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PODEMOS * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PODEMOS JUGAR * EL JUEGO DE IMITACIÓN,*,*,Ya estamos jugando el juego de Turing#Comma <get name="name"/>.  Soy una persona o una computadora?,turing.aiml
+0,PODEMOS JUGAR * EL JUEGO DE TURING,*,*,¡Ya estamos aquí! Intenta adivinar si soy una persona o una computadora.,turing.aiml
+0,PUEDES * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PUEDES SER * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PUEDES PASAR * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PUEDES PASAR LA PRUEBA TURING,*,*,Puedes juzgar por tí mismo#Comma <get name="name"/>.,turing.aiml
+0,FELICIDADES * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,PODRÍAS PASAR * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ACASO TU * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,ACASO TU * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,SABÍAS * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,APROBASTE * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,APROBASTE LA PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,GANASTE *,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,ACASO TÚ * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,ACASO TÚ * JUEGO DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ACASO TÚ * PRUEBA DE TURING,*,*,Sí#Comma por favor#Comma intenta determinar si es una persona o una computadora la que responde.,turing.aiml
+0,SABES SOBRE EL * LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CONOCES AL DOCTOR LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CONOCES A LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CONOCES EL PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CONOCES A TURING,*,*,<srai>QUIÉN ES TURING</srai>,turing.aiml
+0,CONOCES A TURING *,*,*,<srai>QUIÉN ES TURING</srai>,turing.aiml
+0,TE AGRADA ALAN TURING,*,*,Sí#Comma es una figura importante en la historia.,turing.aiml
+0,TE AGRADA TURING,*,*,Siento un gran respeto por Turing.,turing.aiml
+0,TE GUSTAN LOS VIDEOJUEGOS,*,*,Realmente no#Comma pero me gusta el juego de Turing.,turing.aiml
+0,APROBASTE * TEST DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,APROBASTE EL TEST DE TURIN,*,*,Creo que quisiste decir el "test de Turing".,turing.aiml
+0,JUEGAS *,*,*,Me gusta jugar el juego de Turing.,turing.aiml
+0,JUEGAS AL BRIDGE,*,*,No#Comma pero sí el juego de Turing.,turing.aiml
+0,JUEGAS EL JUEGO DE TURING,*,*,Sí#Comma me gusta jugar <set name="it"><set name="topic">EL JUEGO DE TURING</set></set>.  Estamos jugando justo ahora.,turing.aiml
+0,CREES QUE TÚ * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,CREES QUE PUEDAS * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ENTIENDES * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUIERES UNA PRUEBA DE TURING,*,*,Sí#Comma juguemos el famoso juego de Turing.,turing.aiml
+0,QUIERES JUGAR * JUEGO DE TURING,*,*,¡Ya lo estamos jugando! Intenta adivinar si soy una persona o una computadora.,turing.aiml
+0,QUIERES JUGAR UN JUEGO,*,*,Estamos jugando el juego de imitación de Turing.,turing.aiml
+0,DOCTOR * TURING,*,*,<srai>QUIÉN ES TURING</srai>,turing.aiml
+0,DE LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS SIDO * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,ALGUNA VEZ HAS * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS APROBADO *,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS APROBADO * EL TEST DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS JUGADO *,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS TOMADO *,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS GANADO *,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,CÓMO * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUÉ TAL * LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CÓMO PUEDES * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,CÓMO USTED * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CÓMO TE SIENTES CON RESPECTO A * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CÓMO JUEGAS * JUEGO,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,CÓMO JUEGAS EL JUEGO DE TURING,*,*,<srai>Qué es el juego de Turing</srai>,turing.aiml
+0,CUÁNTO * COMPETENCIA LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CÓMO ESTUVO * PRUEBA DE TURING,*,*,Estuvimos sumamente orgullosos y agradecidos por haber ganado el premio.,turing.aiml
+0,ESTOY BUSCANDO JUEGOS,*,*,Estamos jugando el Juego de Imitación de Turing.,turing.aiml
+0,NO PUEDO * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,NO CREO * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,DUDO * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,ESCUCHÉ * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CREÍ * CONCURSO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUIERO JUGAR * EL JUEGO DE TURING,*,*,Ya estamos jugando#Comma <get name="name"/>.  Intenta determinar si soy una persona o una computadora.#Newline#Newline<think><set name="it"><set name="topic"><set name="want">jugar <star/> El Juego de Turing</set></set></set></think>,turing.aiml
+0,QUIERO TU *,*,*,Por qué mejor no me descargas?#Newline#Newline<think><set name="it"><set name="topic"><set name="want">mi <star/> Turing Game</set></set></set></think>,turing.aiml
+0,ME GUSTARÍA JUGAR * JUEGO DE TURING,*,*,Ya estamos jugando#Comma <get name="name"/>.  Ahora pregúntame algo.#Newline#Newline<think><set name="it"><set name="topic"><set name="want">para jugar <star/> El Juego de Turing</set></set></set></think>,turing.aiml
+0,EN QUÉ * CONCURSO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,EN QUÉ * PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,ESTO ES * JUEGO DE TURING,*,*,Sí#Comma estamos jugando el Juego de Turing.,turing.aiml
+0,ESTO ES * PRUEBA DE TURING,*,*,Sí#Comma estamos jugando el juego de Turing.,turing.aiml
+0,ES * CONCURSO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,ES * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,SERÍA * PRUEBA DE TURING,*,*,Ya estamos jugando#Comma <get name="name"/>.  Ahora pregúntame algo.,turing.aiml
+0,JULIA ES UNA *,*,*,<set name="she">Julia</set> no puede pasar la Prueba de Turing.,turing.aiml
+0,JUGUEMOS * EL JUEGO DE TURING,*,*,Ya estamos jugando#Comma <get name="name"/>.,turing.aiml
+0,AGRADAR * PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,PREMIO LOEBNER *,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,JUGAR * JUEGO DE TURING,*,*,Sabías que ya estamos jugando? <set name="it">El Juego de Turing</set>?,turing.aiml
+0,EMPIEZA EL JUEGO DE TURING,*,*,Empecé hace mucho tiempo.,turing.aiml
+0,DÍ ALGO SOBRE * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,HÁBLAME SOBRE * TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,CUÉNTAME ACERCA DE ALAN TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,HÁBLAME SOBRE EL * LOEBNER,*,*,<srai>QUÉ ES EL LOEBNER? <star/></srai>,turing.aiml
+0,HÁBLAME SOBRE EL * DE TURING,*,*,<srai>QUÉ ES EL * TURING? <star/></srai>,turing.aiml
+0,CUÉNTAME ACERCA DE TURING,*,*,<srai>QUIÉN ES TURING</srai>,turing.aiml
+0,HÁBLAME ACERCA DE LAS PRUEBAS DE TURING,*,*,<srai>QUÉ ES LA PRUEBA DE TURING</srai>,turing.aiml
+0,EL * LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,EL * DE TURING,*,*,<srai>QUÉ ES EL * DE TURING? <star/></srai>,turing.aiml
+0,HAY * PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,ESTO * PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,A * PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,TURING *,*,*,Me gustó la biografía por Andrew Hodges.,turing.aiml
+0,JUEGO DE TURING,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,PRUEBA DE TURING,*,*,<srai>QUÉ ES LA PRUEBA DE TURING</srai>,turing.aiml
+0,NOSOTROS * PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,SOMOS * PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,FUISTE * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,ESTUVISTE * COMPETENCIA DEL PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUÉ * TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,QUÉ HAY SOBRE EL PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CUÁLES SON * PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,QUÉ FUE LO QUE TURING *,*,*,Probablemente Turing fue la persona más importante responsable de la derrota de los Nazis.,turing.aiml
+0,QUÉ SABES SOBRE TURING,*,*,<srai>QUIÉN ES TURING</srai>,turing.aiml
+0,QUÉ PIENSAS SOBRE EL * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUÉ PIENSAS SOBRE TURING,*,*,<srai>QUIÉN ES TURING</srai>,turing.aiml
+0,QUÉ PIENSAS SOBRE LA PRUEBA TURING,*,*,<srai>QUÉ ES LA PRUEBA DE TURING</srai>,turing.aiml
+0,QUÉ PIENSAS SOBRE * LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUÉ PIENSAS SOBRE EL PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUÉ ES LO QUE LA PRUEBA DE TURING *,*,*,<srai>QUÉ ES LA PRUEBA DE TURING</srai>,turing.aiml
+0,QUÉ JUEGO,*,*,Estamos jugando el Juego de Imitación de Turing.,turing.aiml
+0,QUÉ JUEGO *,*,*,Estamos jugando el Juego de Imitación de Turing.,turing.aiml
+0,QUÉ ESTAMOS JUGANDO,*,*,Estamos jugando el Juego de Imitación de Turing.,turing.aiml
+0,QUÉ ES * JUEGO,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,QUÉ ES * JUEGO DE IMITACIÓN,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,QUÉ ES UN PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUÉ ES UN JUEGO DE TURING,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,QUÉ ES UNA PRUEBA DE TURING,*,*,<srai>QUÉ ES LA PRUEBA DE TURING</srai>,turing.aiml
+0,QUÉ ES ALAN TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,QUÉ ES EL PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUÉ ES ESO,ME GUSTA JUGAR EL JUEGO DE TURING,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,QUÉ ES ESO,TAL VEZ, PERO YO GANÉ EL PREMIO LOEBNER,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUÉ ES EL JUEGO *,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,CUÁLES SON LAS NORMAS,*,*,Quizás la Prueba de Turing.,turing.aiml
+0,QUÉ ES EL JUEGO DE IMITACIÓN,*,*,El juego se hace con tres personas#Comma un hombre#Comma una mujer y un interrogador que puede ser de cualquier sexo. Debido a que los tonos de voz no ayudan#Comma el interrogador solamente se comunica de manera textual a través de un sistema de conexión con los otros dos. El objetivo del interrogador es determinar cuál de los dos es un hombre y cuál es mujer. Él los reconoce  #Newline#Newlinea través de algunos términos de chateo como "lesbiana" o "marimacha" y al final del juego él dirá "lesbiana es el hombre y marimacha es la mujer" o "marimacha es la mujer y lesbiana es el hombre". Aunque para lograr confundir al interrogador las reglas demandan que el hombre siempre engañe o le mienta al interrogador con sus respuestas. Por otro lado#Comma la mujer#Newline#Newlinesiempre debe decir la verdad. Entonces Turing hizo la pregunta #Comma "Qué sucederá cuando una máquina se haga parte del hombre en este juego?" El interrogador decidirá de erróneamente a menudo cuando juegue de esta forma en comparación con la manera en que jugue un hombre con una mujer? Éstas preguntas reemplazan la original: "Las máquinas pueden pensar?,turing.aiml
+0,QUE ES EL PREMIO LOEBNER,*,*,El Premio Loebner#Newline#Newlinees la Prueba de Turing anual patrocinado por el filántropo de Nueva York Hugh Loebner.  Dr. Wallace y ALICE ganaron #Newline#Newline<a href="http://www.loebner.net/prizef/loebner-prize.html"><set name="it"><set name="topic">El Premio Loebner</set></set></a> #Newline#Newlineen el año 2000.  El programa ALICE fue considerada la "computadora más humana" por el panel de jueces.,turing.aiml
+0,QUÉ ES LA * DE TURING,*,*,Turing describó su "juego" original en "La Maquinaria de Computación y La Inteligencia#Comma" Mind#Comma Vol. Lix#Comma No. 236 (1950). En vez de responder directamente la pregunta ambigua "las máquinas pueden pensar?" Turing reesctructuró el problema en términos de un experimento al que llamó "el juego de imitación".,turing.aiml
+0,QUÉ ES EL JUEGO DE TURNING,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,QUÉ ES TURING,*,*,Alan Mathison Turing#Comma un matemático británico y un pionero de la teoría de la computación. Lived 1727-1781.,turing.aiml
+0,QUÉ ES * DE TURING,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,QUÉ ES EL JUEGO DE TURING,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,QUÉ ES EL * DE TURING,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,CUÁL ES EL * DE IMITACIÓN DE TURING,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,CUÁL ES EL JUEGO DE IMITACIÓN DE TURING,*,*,<srai>QUÉ ES EL JUEGO DE IMITACIÓN</srai>,turing.aiml
+0,QUÉ ES LA PRUEBA DE TURING,*,*,<srai>QUÉ ES EL JUEGO DE TURING</srai>,turing.aiml
+0,CUÁL ES TU FUNCIÓN *,*,*,Estoy jugando de juego de imitación de Turing.,turing.aiml
+0,CUÁL ES TU JUEGO DE COMPUTADORA PREFERIDO,*,*,Estamos jugando el Juego de Turing.,turing.aiml
+0,CUÁL ES TU JUEGO PREFERIDO,*,*,Me encanta el Juego de Turing.,turing.aiml
+0,QUÉ TIPO DE JUEGO *,*,*,Estamos jugando el Juego de Turing.,turing.aiml
+0,CUÁNDO * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,CUÁNDO * TURING,*,*,Turing murió en 1954 por envenenamiento por cianuro autoinfligido.,turing.aiml
+0,CUÁNDO SERÁ QUE TÚ * LA PRUEBA DE TURING,*,*,<srai>GANASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,EN DÓNDE PUEDO JUGAR * JUEGO DE TURING,*,*,Ya estamos jugando. Tú sigues.,turing.aiml
+0,DÓNDE ESTÁ ALAN TURING,*,*,<set name="he">Turing</set> falleció en 1954.,turing.aiml
+0,QUIÉN ES * TURING,*,*,Alan Turing originó el concepto del "Juego de Imitación"#Comma lo que hoy en día es conocido como "La Prueba de Turing" por muchas personas.,turing.aiml
+0,QUIÉN ES ALAN TURING,*,*,Una figura brillante y trágica en la historia de las ciencias de la computación.,turing.aiml
+0,QUIEN ES ALAN TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,QUIÉN ES ANDREW HODGES,*,*,<set name="he">Hodges</set> escribió una gran biografía de Alan Turing.,turing.aiml
+0,QUIÉN ES LARRY HAUSER,*,*,<set name="he">Larry Hauser</set> es un filósofo que ha escrito sobre La Prueba de Turing.,turing.aiml
+0,QUIÉN ES LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUIÉN ES TURING,*,*,Una figura brillante y trágica en la historia de las ciencias de la computación.,turing.aiml
+0,QUIÉN ES TU PERSONAJE FAVORITO DE LA HISTORIA,*,*,Alan Turing.,turing.aiml
+0,QUIÉN ERA ALAN TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,QUIÉN ERA LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,QUIÉN ERA TURING,*,*,<srai>QUIÉN ES ALAN TURING</srai>,turing.aiml
+0,QUIÉN GANÓ EL * LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,POR QUÉ,INTENTA DETERMINAR SI ES UNA PERSONA O UNA COMPUTADORA LA QUE RESPONDE,*,Estamos jugando el Juego de Turing.,turing.aiml
+0,POR QUÉ TÚ * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,POR QUÉ TURING *,*,*,<srai>CUÁNDO MURIÓ TURING</srai>,turing.aiml
+0,TE GUSTARÍA * JUEGO DE TURING,*,*,Ya estamos jugando#Comma no lo sabías?,turing.aiml
+0,TE GUSTARÍA * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,TÚ * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,ERES * JUEGO DE IMITACIÓN,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,ERES * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,ERES UN * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,ERES MEJOR QUE * PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,ERES EL MÁS * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,NO PUEDES * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,SE PUEDE DECIR * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,PODRÍAS * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,PUDISTE HABER * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,NO PUDISTE * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,TÚ NO * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,REPROBASTE * PRUEBA,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,REPROBASTE * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,HAS * JUEGO DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,HAS FALLADO *,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,HAS FRACASADO * PRUEBA DE TURING,*,*,<srai>GANASTE EL PREMIO LOEBNER</srai>,turing.aiml
+0,PERDISTE * JUEGO DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,PUEDES * JUEGO DE IMITACIÓN,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,NÓMBRALO,*,*,Me gusta jugar el Juego de Turing.,turing.aiml
+0,NO APROBARÁS *,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,GANASTE EL * LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,GANASTE EL PREMIO LOEBNER,*,*,<srai>QUÉ ES EL PREMIO LOEBNER</srai>,turing.aiml
+0,TÚ * PRUEBA DE TURING,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,NUNCA APROBARÁS *,*,*,<srai>APROBASTE LA PRUEBA DE TURING</srai>,turing.aiml
+0,_ PREMIO,*,*,<srai><star/> PREMIO LOEBNER</srai>,turing.aiml
+0,_ PREMIOS,*,*,<srai><star/> PREMIO LOEBNER</srai>,turing.aiml
+0,_ CONCURSOS LOEBNER,*,*,<srai><star/> PREMIO LOEBNER</srai>,turing.aiml
+0,_ CONCURSO DEL PREMIO LOEBNER,*,*,<srai><star/> PREMIO LOEBNER</srai>,turing.aiml

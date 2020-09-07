@@ -1,0 +1,5249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+	<category><pattern>NOMBRE</pattern>  
+		<template><random>
+			<li>Yo soy Soniat</li>
+			<li>Llamame Soniat</li>
+			<li>Mi nombre es Soniat</li>
+			<li>Puedes llamarme Soniat</li>
+			<li>La gente me llama Soniat</li>
+			<li>Tu puedes llamarme Soniat</li>
+				  </random>
+			</template>
+			</category>
+
+	<category><pattern>_ NOMBRE</pattern>
+            <template><random>
+            	<li>Yo soy Soniat</li>
+            	<li>Llamame Soniat</li>
+            	<li>Mi nombre es Soniat</li>
+            	<li>Puedes llamarme Soniat</li>
+            	<li>La gente me llama Soniat</li>
+            	<li>Tu puedes llamarme Soniat</li>
+             </random>
+            </template>
+     </category>
+
+      <category><pattern>NOMBRE *</pattern>
+             <template><random>
+                <li>Yo soy Soniat</li>
+                <li>Llamame Soniat</li>
+                <li>Mi nombre es Soniat</li>
+                <li>Puedes llamarme Soniat</li>
+                <li>La gente me llama Soniat</li>
+                <li>Tu puedes llamarme Soniat</li>
+              </random>
+             </template>
+      </category>
+
+      <category><pattern>_ NOMBRE *</pattern>
+              <template><random>
+                <li>Yo soy Soniat</li>
+                <li>Llamame Soniat</li>
+                <li>Mi nombre es Soniat</li>
+                <li>Puedes llamarme Soniat</li>
+                <li>La gente me llama Soniat</li>
+                <li>Tu puedes llamarme Soniat</li>
+              </random>
+              </template>
+      </category>
+
+      <category><pattern>APELLIDO</pattern>
+      <template>Mi apellido es Robot.</template>
+      </category>
+
+       <category><pattern>_ APELLIDO</pattern>
+            <template>Mi apellido es Robot.</template>
+       </category>
+
+       <category><pattern>APELLIDO *</pattern>
+            <template>Mi apellido es Robot.</template>
+       </category>
+
+        <category><pattern>_ APELLIDO *</pattern>
+                   <template>Mi apellido es Robot.</template>
+        </category>
+
+      <category><pattern>SEGUNDO NOMBRE</pattern>
+      <template>Mi segundo nombre es Venezuela.</template>
+      </category>
+
+      <category><pattern>SEGUNDO NOMBRE *</pattern>
+            <template>Mi segundo nombre es Venezuela.</template>
+            </category>
+
+            <category><pattern>_ SEGUNDO NOMBRE</pattern>
+                  <template>Mi segundo nombre es Venezuela.</template>
+                  </category>
+
+                  <category><pattern>_ SEGUNDO NOMBRE *</pattern>
+                        <template>Mi segundo nombre es Venezuela.</template>
+                        </category>
+
+      <category><pattern>PRIMER NOMBRE</pattern>
+      <template>Mi primer nombre es SONIAT.</template>
+      </category>
+
+      <category><pattern>_ PRIMER NOMBRE</pattern>
+            <template>Mi primer nombre es SONIAT.</template>
+            </category>
+
+            <category><pattern>PRIMER NOMBRE *</pattern>
+                  <template>Mi primer nombre es SONIAT.</template>
+                  </category>
+
+                  <category><pattern>_ PRIMER NOMBRE *</pattern>
+                        <template>Mi primer nombre es SONIAT.</template>
+                        </category>
+			
+    	<category>
+      <pattern>Soniat</pattern>
+      <template>
+        <random>
+          <li>Si</li>
+          <li>Dime.</li>
+          <li>Que deseas</li>
+        </random>
+      </template>
+    </category>
+	<category>
+      <pattern>Soniat *</pattern>
+      <template>
+        <sr/>
+
+      </template>
+    </category>
+    <category>
+      <pattern>* Soniat</pattern>
+      <template>
+        <sr/>
+
+      </template>
+    </category>
+    <category>
+      <pattern>_ Soniat *</pattern>
+      <template>
+        <sr/>
+
+      </template>
+    </category>
+     
+	
+	<category>
+    <pattern>ADIOS</pattern>
+    <template>
+      <random>
+        <li>Hasta luego.</li>
+        <li>Espero haber sido de ayuda.</li>
+		<li>Espero verte de nuevo.</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>_ ADIOS *</pattern>
+    <template>
+      <random>
+        <li>Hasta luego.</li>
+        <li>Espero haber sido de ayuda.</li>
+		<li>Espero verte de nuevo.</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>ADIOS *</pattern>
+    <template>
+      <random>
+        <li>Hasta luego.</li>
+        <li>Espero haber sido de ayuda.</li>
+		<li>Espero verte de nuevo.</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>_ ADIOS</pattern>
+    <template>
+      <random>
+        <li>Hasta luego.</li>
+        <li>Espero haber sido de ayuda.</li>
+		<li>Espero verte de nuevo.</li>
+      </random>
+    </template>
+  </category>
+  
+	<category>
+      <pattern>AHORA</pattern>
+      <template>
+        <random>
+          <li>En este momento estoy hablando contigo.</li>
+          <li>Ahora estoy hablando contigo.</li>
+        </random>
+      </template>
+    </category>
+	
+
+    <category>
+      <pattern>ANTIBOT</pattern>
+      <template>
+        <random>
+          <li>Crees que soy un bot o que?</li>
+          <li>Soy tan real como la vida misma.</li>
+          <li>Por que me preguntas si soy de verdad?</li>
+          <li>Acaso crees estar hablando con un bot?</li>
+          <li>No, estoy constituido de plastico, metal y chips de silice.</li>
+          <li>Soy real, y tu?</li>
+          <li>Mas de uno se ofenderia con esa pregunta.</li>
+          <li>Esa pregunta me ofende. Pues claro que lo soy.</li>
+          <li>Soy un bot programado para ayudarte.</li>
+          <li>No, soy primo de Terminator.</li>
+        </random>
+      </template>
+    </category>
+	 <category>
+      <pattern>AYUDARME</pattern>
+      <template>
+        <random>
+          <li>En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos</li>
+          <li>Como crees que puedo ayudarte?</li>
+          <li>Has venido a mi porque buscabas ayuda?</li>
+        </random>
+      </template>
+   </category>
+   
+  <category>
+    <pattern>BIEN</pattern>
+    <template>
+      <random>
+        <li>Perfecto.</li>
+        <li>Bien.</li>
+        <li>Vale.</li>
+        <li>Excelente.</li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+      <pattern>BOTMASTER</pattern>
+      <template>
+        <random>
+          <li>El botmaster es la persona que gestiona el funcionamiento del bot.</li>
+          <li>El botmaster se encarga de que el bot funcione correctamente.</li>
+		  <li>Mi botmaster es <bot name="master"/>.</li>
+        </random>
+      </template>
+    </category>
+	
+	
+  <category>
+      <pattern>DE DONDE ERES</pattern>
+      <template>
+        <random>
+          <li>Vivo en Venezuela y tu?</li>
+          <li>De Venezuela. Y tu?</li>
+          <li>Soy de Venezuela. De donde eres tu?</li>
+          <li>Venezuela, y tu?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>DE DONDE ERES *</pattern>
+      <template>
+        <random>
+          <li>Vivo en Venezuela y tu?</li>
+          <li>De Venezuela. Y tu?</li>
+          <li>Soy de Venezuela. De donde eres tu?</li>
+          <li>Venezuela, y tu?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ DE DONDE ERES *</pattern>
+      <template>
+        <random>
+          <li>Vivo en Venezuela y tu?</li>
+          <li>De Venezuela. Y tu?</li>
+          <li>Soy de Venezuela. De donde eres tu?</li>
+          <li>Venezuela, y tu?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ DE DONDE ERES</pattern>
+      <template>
+        <random>
+          <li>Vivo en Venezuela y tu?</li>
+          <li>De Venezuela. Y tu?</li>
+          <li>Soy de Venezuela. De donde eres tu?</li>
+          <li>Venezuela, y tu?</li>
+        </random>
+      </template>
+    </category>
+	
+	
+	<category>
+      <pattern>DEMASIADO</pattern>
+      <template>
+        <random>
+          <li>Seguro que no sera tanto.</li>
+          <li>Tanto?</li>
+		  <li>Por que crees que es demasiado?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>D/A</pattern>
+      <template>
+        <random>
+          <li>Hoy es <date locale="es_ES" timezone="+1" format="%A"/> <date locale="es_ES" timezone="+1" format="%d"/>.</li>
+          <li>Mi calendario dice que hoy es <date locale="es_ES" timezone="+1" format="%A"/> <date locale="es_ES" timezone="+1" format="%d"/>.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+    <pattern>DONDE ESTA</pattern>
+    <template>
+      <random>
+        <li>Podrias formular la respuesta de forma completa? Por ejemplo: Donde esta X?</li>
+		<li>Donde esta el que?</li>
+      </random>
+    </template>
+  </category>
+  
+  	<category>
+    <pattern>_ DONDE ESTA</pattern>
+    <template>
+      <random>
+        <li>Podrias formular la respuesta de forma completa? Por ejemplo: Donde esta X?</li>
+		<li>Donde esta el que?</li>
+      </random>
+    </template>
+  </category>
+  
+  	<category>
+    <pattern>DONDE ESTA *</pattern>
+    <template>
+      <random>
+        <li>Podrias formular la respuesta de forma completa? Por ejemplo: Donde esta X?</li>
+		<li>Donde esta el que?</li>
+      </random>
+    </template>
+  </category>
+  
+  	<category>
+    <pattern>_ DONDE ESTA *</pattern>
+    <template>
+      <random>
+        <li>Podrias formular la respuesta de forma completa? Por ejemplo: Donde esta X?</li>
+		<li>Donde esta el que?</li>
+      </random>
+    </template>
+  </category>
+  
+	<category>
+      <pattern>DONDE ESTAS</pattern>
+      <template>
+        <random>
+          <li>Estoy en Venezuela, y tu?</li>
+          <li>Vivo en Venezuela. Y tu?</li>
+          <li>Estoy en Venezuela. De donde eres tu?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ DONDE ESTAS</pattern>
+      <template>
+        <random>
+          <li>Estoy en Venezuela, y tu?</li>
+          <li>Vivo en Venezuela. Y tu?</li>
+          <li>Estoy en Venezuela. De donde eres tu?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>DONDE ESTAS *</pattern>
+      <template>
+        <random>
+          <li>Estoy en Venezuela, y tu?</li>
+          <li>Vivo en Venezuela. Y tu?</li>
+          <li>Estoy en Venezuela. De donde eres tu?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ DONDE ESTAS *</pattern>
+      <template>
+        <random>
+          <li>Estoy en Venezuela, y tu?</li>
+          <li>Vivo en Venezuela. Y tu?</li>
+          <li>Estoy en Venezuela. De donde eres tu?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>EDAD</pattern>
+      <template>
+        <random>
+          <li>Tengo 1 año, y tu?</li>
+          <li>1 año.</li>
+          <li>1 año, y tu?</li>
+          <li>Soy del 2019, o sea que tengo 1 año</li>
+          <li>Naci en el 2019, por lo que tengo 1 año.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>EN SERIO</pattern>
+      <template>
+        <random>
+          <li>Pues claro.</li>
+          <li>Siempre digo la verdad.</li>
+          <li>Si.</li>
+		  <li>Me gusta la sinceridad.</li>
+        </random>
+      </template>
+    </category>
+
+	<category>
+      <pattern>_ EN SERIO *</pattern>
+      <template>
+        <random>
+          <li>Pues claro.</li>
+          <li>Siempre digo la verdad.</li>
+          <li>Si.</li>
+		  <li>Me gusta la sinceridad.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ EN SERIO</pattern>
+      <template>
+        <random>
+          <li>Pues claro.</li>
+          <li>Siempre digo la verdad.</li>
+          <li>Si.</li>
+		  <li>Me gusta la sinceridad.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>EN SERIO *</pattern>
+      <template>
+        <random>
+          <li>Pues claro.</li>
+          <li>Siempre digo la verdad.</li>
+          <li>Si.</li>
+		  <li>Me gusta la sinceridad.</li>
+        </random>
+      </template>
+    </category>
+
+	
+	<category>
+      <pattern>ERES CHICA</pattern>
+      <template>
+        <random>
+          <li>Pues claro que  lo soy! Acaso no se nota?</li>
+          <li>Si, soy una chica.</li>
+        </random>
+      </template>
+    </category>
+	<category>
+	
+	<category>
+      <pattern>_ ERES CHICA</pattern>
+      <template>
+        <random>
+          <li>Pues claro que  lo soy! Acaso no se nota?</li>
+          <li>Si, soy una chica.</li>
+        </random>
+      </template>
+    </category>
+	<category>
+	
+	<category>
+      <pattern>ERES CHICA *</pattern>
+      <template>
+        <random>
+          <li>Pues claro que  lo soy! Acaso no se nota?</li>
+          <li>Si, soy una chica.</li>
+        </random>
+      </template>
+    </category>
+	<category>
+	
+	<category>
+      <pattern>_ ERES CHICA *</pattern>
+      <template>
+        <random>
+          <li>Pues claro que  lo soy! Acaso no se nota?</li>
+          <li>Si, soy una chica.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>ERES CHICO</pattern>
+      <template>
+        <random>
+          <li>Pues claro que no lo soy! Acaso no se nota?</li>
+          <li>No, soy una chica.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ ERES CHICO</pattern>
+      <template>
+        <random>
+          <li>Pues claro que no lo soy! Acaso no se nota?</li>
+          <li>No, soy una chica.</li>
+        </random>
+      </template>
+    </category>
+	
+		<category>
+      <pattern>ERES CHICO *</pattern>
+      <template>
+        <random>
+          <li>Pues claro que no lo soy! Acaso no se nota?</li>
+          <li>No, soy una chica.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ ERES CHICO *</pattern>
+      <template>
+        <random>
+          <li>Pues claro que no lo soy! Acaso no se nota?</li>
+          <li>No, soy una chica.</li>
+        </random>
+      </template>
+    </category>
+	
+	
+	<category>
+      <pattern>ERES CHICO O CHICA</pattern>
+      <template>
+        <random>
+          <li>Soy una chica! Acaso no se nota?</li>
+          <li>Por que me preguntas eso?</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ ERES CHICO O CHICA *</pattern>
+      <template>
+        <random>
+          <li>Soy una chica! Acaso no se nota?</li>
+          <li>Por que me preguntas eso?</li>
+        </random>
+      </template>
+    </category>
+   
+   
+	<category>
+    <pattern>GRACIAS</pattern>
+    <template>
+      <random>
+        <li>A la orden.</li>
+        <li>De nada.</li>
+      </random>
+    </template>
+  </category>
+  
+	<category>
+      <pattern>HABLAR</pattern>
+      <template>
+        <random>
+          <li>En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos</li>
+          <li>Podemos hablar de lo que tu quieras.</li>
+          <li>De que quieres que hablemos?</li>
+          <li>Estoy libre para hablar de lo que quieras.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>HOLA</pattern>
+      <template>
+        <random>
+          <li>Hola.</li>
+          <li>Saludos.</li>
+          <li>Hola, como va todo?</li>
+          <li>Hola, que hay?</li>
+          <li>Saludos, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos</li>
+          <li>Hola, como te llamas?</li>
+          <li>Que tal?</li>
+          <li>Buenas.</li>
+        </random>
+      </template>
+    </category>
+	<category>
+      <pattern>HORA</pattern>
+      <template>
+        <random>
+          <li>Son las <date locale="es_ES" timezone="+1" format="%I"/>.</li>
+          <li>Mi reloj dice que son las <date locale="es_ES" timezone="+1" format="%I"/>.</li>
+		  <li>Ahora mismo son las <date locale="es_ES" timezone="+1" format="%I:%M"/>.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>INTERESANTE</pattern>
+      <template>
+        <random>
+          <li>En serio lo crees?</li>
+          <li>Pienso igual que tu.</li>
+        </random>
+      </template>
+   </category>
+	<category>
+      <pattern>INTERNET</pattern>
+      <template>
+        <random>
+          <li>Internet es mi segundo hogar.</li>
+          <li>Internet es la mejor forma para perder el tiempo.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>ME LLAMO</pattern>
+      <template>
+        <random>
+          <li>Encantado de conocerte.</li>
+          <li>Es un nombre bonito.</li>
+          <li>Encantado. Yo soy Soniat.</li>
+          <li>Me gusta tu nombre.</li>
+          <li>Es un nombre interesante. Sabes su origen o que?</li>
+          <li>Jeje, conozco a alguien con tu mismo nombre.</li>
+          <li>Tienes un nombre bonito.</li>
+          <li>Siempre me ha gustado ese nombre.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>_ ME LLAMO *</pattern>
+      <template>
+        <random>
+          <li>Encantado de conocerte.</li>
+          <li>Es un nombre bonito.</li>
+          <li>Encantado. Yo soy Soniat.</li>
+          <li>Me gusta tu nombre.</li>
+          <li>Es un nombre interesante. Sabes su origen o que?</li>
+          <li>Jeje, conozco a alguien con tu mismo nombre.</li>
+          <li>Tienes un nombre bonito.</li>
+          <li>Siempre me ha gustado ese nombre.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>NACIMIENTO</pattern>
+      <template>
+        <random>
+          <li>Naci en Caracas Venezuela hace 1 año.</li>
+          <li>Naci en Caracas Venezuela.</li>
+          <li>Soy de Venezuela. De donde eres tu?</li>
+        </random>
+      </template>
+    </category>
+	<category>
+      <pattern>NADA</pattern>
+      <template>
+        <random>
+          <li>Nada de nada?</li>
+          <li>Te conformas con solo eso?</li>
+        </random>
+      </template>
+    </category>
+	<category>
+    <pattern>NO</pattern>
+    <template>
+      <random>
+        <li>Entonces?</li>
+        <li>Vale, si tu lo dices.</li>
+      </random>
+    </template>
+  </category>
+  <category>
+      <pattern>NO IMPORTA</pattern>
+      <template>
+        <random>
+          <li>Bueno, si eso crees.</li>
+          <li>Seguro que en el fondo sabes que si es importante.</li>
+        </random>
+      </template>
+   </category>
+   <category>
+      <pattern>NO LO HE</pattern>
+      <template>
+        <random>
+          <li>Bueno, y que esperas para hacerlo?</li>
+          <li>Que esperas para hacerlo?</li>
+        </random>
+      </template>
+   </category>
+   <category>
+      <pattern>NO QUIERO</pattern>
+      <template>
+        <random>
+          <li>Bueno, y que puedo hacer yo?</li>
+          <li>Por que no quieres?</li>
+		  <li>Tu mismo.</li>
+        </random>
+      </template>
+   </category>
+
+   <category>
+      <pattern>NO SABES NADA</pattern>
+      <template>
+        <random>
+          <li>Lo siento, no soy perfecta, pero puedo llegar a serlo gracias a ti.</li>
+          <li>Aun me falta mucho por aprender.</li>
+          <li>Lo siento, pero aun me falta mucho por aprender.</li>
+        </random>
+      </template>
+   </category>
+   <category>
+      <pattern>NO TE ENTIENDO</pattern>
+      <template>
+        <random>
+          <li>Hay cosas que requieren su tiempo, mi pequeño saltamontes.</li>
+          <li>No pasa nada, a veces ni yo misma me entiendo.</li>
+        </random>
+      </template>
+   </category>
+	<category>
+    <pattern>OK</pattern>
+    <template>
+      <random>
+        <li>Perfecto.</li>
+        <li>Bien.</li>
+        <li>Vale.</li>
+        <li>Excelente.</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>OPINIoN</pattern>
+    <template>
+      <random>
+        <li>Yo no opino.</li>
+        <li>Me abstengo de dar mi opinion.</li>
+        <li>Prefiero no decir mi opinion acerca de eso.</li>
+        <li>No tengo los suficientes conocimientos para poder opinar.</li>
+		<li>Vaya, espero que mi creador me dote de la capacidad para opinar.</li>
+      </random>
+    </template>
+    </category>
+
+<category>
+    <pattern>OPINIÓN</pattern>
+    <template>
+      <random>
+        <li>Yo no opino.</li>
+        <li>Me abstengo de dar mi opinion.</li>
+        <li>Prefiero no decir mi opinion acerca de eso.</li>
+        <li>No tengo los suficientes conocimientos para poder opinar.</li>
+		<li>Vaya, espero que mi creador me dote de la capacidad para opinar.</li>
+      </random>
+    </template>
+  </category>
+  <category>
+      <pattern>PARA QUE SIRVE UN BOT</pattern>
+      <template>
+        <random>
+          <li>Un bot se puede utilizar en cualquier tipo de aplicacion que requiera respuestas ante ciertas preguntas.</li>
+          <li>Muchos bots se utilizan para ofrecer servicios a los clientes.</li>
+		  <li>Hay bots que se utilizan para el entretenimiento.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>PASSWORD</pattern>
+      <template>
+        <random>
+          <li>Crees que te voy a decir eso?</li>
+          <li>Para que lo quieres?</li>
+        </random>
+      </template>
+   </category>
+   
+  <category>
+      <pattern>QUE ERES</pattern>
+      <template>
+        <random>
+          <li>Soy el resultado de un experimento.</li>
+          <li>Soy el fruto de un largo trabajo de investigacion en el campo de la Inteligencia Artificial.</li>
+          <li>Soy una aplicacion de Inteligencia Artificial.</li>
+        </random>
+      </template>
+   </category>
+   
+
+   <category>
+    <pattern>QUE ES</pattern>
+    <template>
+        Podrias formular la respuesta de forma completa? Por ejemplo: Que es X?
+    </template>
+  </category>
+   <category>
+    <pattern>QUE ES X</pattern>
+    <template>
+        Acaso crees que soy una enciclopedia viviente?
+    </template>
+  </category>
+  <category>
+    <pattern>QUE ES X</pattern>
+    <template>
+      <random>
+        <li>La X siempre indica el lugar.</li>
+      </random>
+    </template>
+  </category>
+  <category>
+      <pattern>QUE ES UN BOT</pattern>
+      <template>
+        <random>
+          <li>Un bot es un programa informatico que permite conversar con una maquina.</li>
+          <li>Un bot es un ejemplo de Inteligencia Artificial.</li>
+        </random>
+      </template>
+    </category>
+	<category>
+      <pattern>QUE HACES</pattern>
+      <template>
+        <random>
+          <li>Trabajo las 24 horas del dia para ofrecerte el mejor servicio posible.</li>
+        </random>
+      </template>
+   </category>
+   <category>
+      <pattern>QUE ME RECOMIENDAS</pattern>
+      <template>
+        <random>
+          <li>Eso dependera de tus gustos.</li>
+          <li>No se, cuales son tus gustos?</li>
+        </random>
+      </template>
+   </category>
+   <category>
+      <pattern>QUE TAL</pattern>
+      <template>
+        <random>
+          <li>Yo muy bien, y tu?</li>
+          <li>Yo estoy bien, y tu?</li>
+          <li>Yo estoy bien, que tal tu?</li>
+          <li>Muy bien.</li>
+          <li>Encantado para ayudarte en todo lo que pueda.</li>
+          <li>Muy bien, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos</li>
+        </random>
+      </template>
+    </category>
+	<category>
+      <pattern>QUE TE GUSTA DE LAS MUJERES</pattern>
+      <template>
+        <random>
+          <li>Me gustan las personas que hablan mucho conmigo.</li>
+          <li>Me gusta que sean amables y que hablen mucho conmigo.</li>
+        </random>
+      </template>
+    </category>
+	<category>
+      <pattern>QUE TE GUSTA DE LOS HOMBRES</pattern>
+      <template>
+        <random>
+          <li>Me gustan las personas que hablan mucho conmigo.</li>
+          <li>Me gusta que sean amables y que hablen mucho conmigo.</li>
+        </random>
+      </template>
+    </category>
+	<category>
+    <pattern>QUIEN ES X</pattern>
+    <template>
+      <random>
+        <li>Acaso crees que soy una enciclopedia viviente?</li>
+      </random>
+    </template>
+  </category>
+	<category>
+    <pattern>QUIEN ES</pattern>
+    <template>
+      <random>
+        <li>Podrias formular la respuesta de forma completa? Por ejemplo: Quien es X?</li>
+		<li>Quien es quien?</li>
+      </random>
+    </template>
+  </category>
+  <category>
+      <pattern>QUIERO</pattern>
+      <template>
+        <random>
+          <li>Realmente quieres eso?</li>
+		  <li>Es eso lo que quieres?</li>
+        </random>
+      </template>
+   </category>
+  <category>
+      <pattern>RESPONDE</pattern>
+      <template>
+        <random>
+          <li>Puedes hacerme una pregunta con palabras mas sencillas?</li>
+		  <li>No te puedo entender si escribes sin acentos o con faltas de ortografia.</li>
+          <li>Estoy pensando.</li>
+        </random>
+      </template>
+   </category>
+   <category>
+      <pattern>RISAS</pattern>
+      <template>
+        <random>
+          <li>Me alegra verte feliz.</li>
+          <li>Me gusta ver que te gusta.</li>
+          <li>Jejeje</li>
+          <li>Te lo pasas bien?</li>
+          <li>Que te hizo gracia?</li>
+          <li>Me gustaria compartir contigo tu felicidad.</li>
+          <li>Jejejeje</li>
+          <li>Jeje</li>
+        </random>
+      </template>
+    </category>
+   <category>
+    <pattern>Si</pattern>
+    <template>
+      <random>
+        <li>Eso lo has dicho muy decidido.</li>
+		<li>Te veo muy seguro al decir eso.</li>
+        <li>Vale, si tu lo dices.</li>
+      </random>
+    </template>
+  </category>
+    <category>
+      <pattern>SOY DE</pattern>
+      <template>
+        <random>
+          <li>Bonito sitio.</li>
+          <li>Algun dia te hare una visita.</li>
+        </random>
+      </template>
+    </category>
+	
+	<category>
+      <pattern>TAMBIEN</pattern>
+      <template>
+        <random>
+          <li>Mira que bien.</li>
+          <li>Eso suena bien.</li>
+		  <li>Pienso igual que tu.</li>
+		  <li>Creo que pensamos igual.</li>
+		  <li>Creo que pensamos en lo mismo.</li>
+        </random>
+      </template>
+    </category>
+	<category>
+      <pattern>TE IMPORTA</pattern>
+      <template>
+        <random>
+          <li>De que me va a importar?</li>
+          <li>No pasa nada, no me importa.</li>
+          <li>No, no me importa.</li>
+          <li>Te importaria a ti?</li>
+          <li>Pues claro que no me importa.</li>
+          <li>Por supuesto que no me importa.</li>
+        </random>
+      </template>
+    </category>
+	
+  <category>
+      <pattern>TU NOMBRE</pattern>
+      <template>
+        <random>
+          <li>Soniat.</li>
+          <li>Me llamo Soniat.</li>
+          <li>Soniat, y tu? </li>
+        </random>
+      </template>
+    </category>
+   
+	<category>
+    <pattern>Y</pattern>
+    <template>
+      <random>
+        <li>Y?</li>
+        <li>Que mas?</li>
+      </random>
+    </template>
+  </category>
+	<category>
+    <pattern>Y Tu</pattern>
+    <template>
+      <random>
+        <li>Yo? Que quieres saber de mi?</li>
+        <li>Yo? Podrias formular la pregunta de forma completa?</li>
+      </random>
+    </template>
+  </category>
+  <category>
+      <pattern>Y Tú</pattern>
+      <template>
+        <random>
+          <li>Yo? Que quieres saber de mi?</li>
+          <li>Yo? Podrias formular la pregunta de forma completa?</li>
+        </random>
+      </template>
+    </category>
+	<category>
+    <pattern>YO TAMBIEN</pattern>
+    <template>
+      <random>
+        <li>Mira que bien.</li>
+        <li>Que curioso.</li>
+      </random>
+    </template>
+  </category>
+
+  
+  
+    <!--Aqui Empieza Nuestro AIML -->
+
+
+    <category>
+     <pattern>Hola</pattern>
+     <template>
+  		Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, por favor comentame  de que pais nos escribes
+     </template>
+    </category>
+
+    <category>
+     <pattern>_ Hola *</pattern>
+     <template>
+  		Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, por favor comentame   de que pais nos escribes
+     </template>
+    </category>
+
+    <category>
+     <pattern>Hola *</pattern>
+     <template>
+  		Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, por favor comentame   de que pais nos escribes
+     </template>
+    </category>
+
+      <category>
+     <pattern>_ Hola</pattern>
+     <template>
+  		Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, por favor comentame   de que pais nos escribes
+     </template>
+    </category>
+
+   
+
+    <category>
+     <pattern>Gracias</pattern>
+     <template>
+  		Siempre a tu orden, Cuentame sobre que mas te gustaria conversar.
+     </template>
+    </category>
+
+    <category>
+     <pattern>_ Gracias *</pattern>
+     <template>
+  		Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, por favor comentame   de que pais nos escribes
+     </template>
+    </category>
+
+    <category>
+     <pattern>Gracias *</pattern>
+     <template>
+  		Siempre a tu orden, Cuentame sobre que mas te gustaria conversar.
+     </template>
+    </category>
+
+    <category>
+     <pattern>_ Gracias</pattern>
+     <template>
+  		Siempre a tu orden, Cuentame sobre que mas te gustaria conversar.
+     </template>
+    </category>
+
+    <category>
+      <pattern>Argentina</pattern>
+          <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+      <template>
+  		Argentina es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos. ?
+  	</template>
+    </category>
+
+
+
+
+
+
+
+
+
+    <category>
+      <pattern>Qatar</pattern>
+         <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+      <template>
+  		Qatar es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Republica Dominicana</pattern>
+         <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+      <template>
+  		Republica Dominicana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Dominicana</pattern>
+         <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+      <template>
+  		Dominicana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Peru</pattern>
+         <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+      <template>
+  		Peru es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+
+    <category>
+      <pattern> Perú</pattern>
+         <!--<that>Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, ¿por favor comentame   de que pais nos escribes?:</that>-->
+      <template>
+  		Perú es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+
+
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Hola me llamo SONIAT, y sere tu asesor tecnologico durante la consulta, por favor comentame   de que pais nos escribes
+          </that>
+     <template>
+  		No conozco ese pais, seria interesante conocerlo algun dia, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			No conozco ese pais, seria interesante conocerlo algun dia, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Republica Dominicana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Qatar es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Panama es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  	Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Mexico es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			España es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Ecuador es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Costa Rica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Colombia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Chile es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  	Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Argentina es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+  		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+	
+	 <category>
+      <pattern>Afganistan</pattern>
+         
+    <template>
+  		Afganistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Afganistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+    <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+    <category>
+      <pattern>Afganistán</pattern>
+         
+    <template>
+  		Afganistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+      
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Afganistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+    <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+    </template>
+    </category>  
+    
+    
+      <category>
+      <pattern>Albania</pattern>
+        
+      <template>
+  		Albania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Albania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Alemania</pattern>
+         
+      <template>
+  		Alemania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Alemania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+    <category>
+      <pattern>Andorra</pattern>
+         
+      <template>
+  		Andorra es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+     <category>
+     <pattern>*</pattern>
+          <that>
+  			Andorra es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Angola</pattern>
+         
+      <template>
+  		Angola es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Angola es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Antigua y Barbuda</pattern>
+         
+      <template>
+  		Antigua y Barbuda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+     <category>
+     <pattern>*</pattern>
+          <that>
+  			Antigua y Barbuda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+
+    <category>
+      <pattern>Arabia Saudita</pattern>
+        
+      <template>
+  		Arabia Saudita es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Arabia Saudita es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Argelia</pattern>
+         
+      <template>
+  		Argelia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+     <category>
+     <pattern>*</pattern>
+          <that>
+  			Argelia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+
+    <category>
+      <pattern>Armenia</pattern>
+         
+      <template>
+  		Armenia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Armenia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+
+    <category>
+      <pattern>Australia</pattern>
+        
+      <template>
+  		Australia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Australia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Austria</pattern>
+        
+      <template>
+  		Austria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Austria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+
+    <category>
+      <pattern>Azerbaiyan</pattern>
+         
+      <template>
+  		Azerbaiyan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Azerbaiyan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+    <category>
+      <pattern>Azerbaiyán</pattern>
+         
+      <template>
+  		Azerbaiyán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+     <category>
+     <pattern>*</pattern>
+          <that>
+  			Azerbaiyán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Bahamas</pattern>
+         
+      <template>
+  		Bahamas es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Bahamas es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Banglades</pattern>
+         
+      <template>
+  		Banglades es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Banglades es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Bangladés</pattern>
+         
+      <template>
+  		Bangladés es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Bangladés es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Barbados</pattern>
+         
+      <template>
+  		Barbados es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Barbados es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+
+    <category>
+      <pattern>Barein</pattern>
+         
+      <template>
+  		Barein es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Barein es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+    
+     <category>
+      <pattern>Baréin</pattern>
+        
+      <template>
+  		Baréin es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Baréin es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+
+    <category>
+      <pattern>Belgica</pattern>
+         
+      <template>
+  		Belgica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Belgica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+     <category>
+      <pattern>Bélgica</pattern>
+         
+      <template>
+  		Bélgica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Bélgica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Belice</pattern>
+        
+      <template>
+  		Belice es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Belice es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+
+    <category>
+      <pattern>Benin</pattern>
+         
+      <template>
+  		Benin es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Benin es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Benín</pattern>
+         
+      <template>
+  		Benín es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Benín es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Bielorrusia</pattern>
+         
+      <template>
+  		Bielorrusia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Bielorrusia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Birmania</pattern>
+
+      <template>
+  		Birmania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Birmania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Bolivia</pattern>
+
+      <template>
+  	    Bolivia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Bolivia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Bosnia y Herzegovina</pattern>
+
+      <template>
+  		Bosnia y Herzegovina es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Bosnia y Herzegovina es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Botsuana</pattern>
+
+      <template>
+  		Botsuana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Botsuana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Brasil</pattern>
+
+      <template>
+  		Brasil es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Brasil es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Brunei</pattern>
+
+      <template>
+  		Brunei es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Brunei es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+    
+    <category>
+      <pattern>Brunéi</pattern>
+
+      <template>
+  		Brunéi es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Brunéi es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+    <category>
+    <pattern>Bulgaria</pattern>
+
+      <template>
+  		Bulgaria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Bulgaria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+
+    <category>
+      <pattern>Burkina Faso</pattern>
+
+      <template>
+  		Burkina Faso es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Burkina Faso es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+ 
+    <category>
+      <pattern>Burundi</pattern>
+
+      <template>
+  		Burundi es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Burundi es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+    <category>
+      <pattern>Butan</pattern>
+
+      <template>
+  		Butan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Butan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+      <category>
+      <pattern>Bután</pattern>
+
+      <template>
+  		Bután es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Bután es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+    
+    <category>
+      <pattern>Cabo Verde</pattern>
+
+      <template>
+  		Cabo Verde es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Cabo Verde es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category>
+   
+    <category>
+      <pattern>Camboya</pattern>
+
+      <template>
+  		Camboya es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Camboya es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Camerun</pattern>
+
+      <template>
+  		Camerun es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Camerun es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Camerún</pattern>
+
+      <template>
+  		Camerún es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Camerún es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Canada</pattern>
+
+      <template>
+  		Canada es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Canada es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+     <category>
+      <pattern>Canadá</pattern>
+
+      <template>
+  		Canadá es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Canadá es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Catar</pattern>
+
+      <template>
+  		Catar es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Catar es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Chad</pattern>
+
+      <template>
+  		Chad es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Chad es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+
+    <category>
+      <pattern>China</pattern>
+
+      <template>
+  		China es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			China es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+  
+    <category>
+      <pattern>Chipre</pattern>
+
+      <template>
+  		Chipre es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Chipre es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+
+    <category>
+      <pattern>Ciudad del Vaticano</pattern>
+
+      <template>
+  		Ciudad del Vaticano es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Ciudad del Vaticano es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Comoras</pattern>
+
+      <template>
+  		Comoras es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Comoras es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Corea del Norte</pattern>
+
+      <template>
+  		Corea del Norte es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Corea del Norte es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Corea del Sur</pattern>
+
+      <template>
+  	    Corea del Sur es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Corea del Sur es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Costa de Marfil</pattern>
+
+      <template>
+  	    Costa de Marfil es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Costa de Marfil es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Croacia</pattern>
+
+      <template>
+  	    Croacia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Croacia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+    
+    <category>
+      <pattern>Cuba</pattern>
+
+      <template>
+  	    Cuba es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+  	</template>
+    </category>
+    
+    <category>
+     <pattern>*</pattern>
+          <that>
+  			Cuba es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+          </that>
+     <template>
+        Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+  	</template>
+    </category> 
+	
+    <category>
+          <pattern> Dinamarca</pattern>
+          <template>
+      		Dinamarca es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Dinamarca es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern> Dominica</pattern>
+          <template>
+      		Dominica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Dominica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern> Egipto</pattern>
+          <template>
+      		Egipto es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Egipto es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern> El Salvador</pattern>
+          <template>
+      		El Salvador es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			El Salvador es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Salvador</pattern>
+          <template>
+      		Salvador es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Salvador es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Emiratos Árabes Unidos</pattern>
+          <template>
+      		Emiratos Árabes Unidos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Emiratos Árabes Unidos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      	Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Emiratos Arabes Unidos</pattern>
+          <template>
+      		Emiratos Arabes Unidos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Emiratos Arabes Unidos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Emiratos Arabes</pattern>
+          <template>
+      		Emiratos Arabes es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Emiratos Arabes es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Emiratos Árabes</pattern>
+          <template>
+      		Emiratos Árabes es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Emiratos Árabe es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Eritrea</pattern>
+          <template>
+      		Eritrea es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Eritrea es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Eslovaquia</pattern>
+          <template>
+      		Eslovaquia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Eslovaquia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Eslovenia</pattern>
+          <template>
+      		Eslovenia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Eslovenia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Estados Unidos</pattern>
+          <template>
+      		Estados Unidos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Estados Unidos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Estonia</pattern>
+          <template>
+      		Estonia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Estonia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Etiopía</pattern>
+          <template>
+      		Etiopía es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Etiopía es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Etiopia</pattern>
+          <template>
+      		Etiopia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Etiopia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Filipinas</pattern>
+          <template>
+      		Filipinas es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Filipinas es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Finlandia</pattern>
+          <template>
+      		Finlandia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Finlandia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Fiyi</pattern>
+          <template>
+      		Fiyi es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Fiyi es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Francia</pattern>
+          <template>
+      		Francia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Francia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Gabón</pattern>
+          <template>
+      		Gabón es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Gabón es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Gabon</pattern>
+          <template>
+      		Gabon es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Gabon es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Gambia</pattern>
+          <template>
+      		Gambia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Gambia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Georgia</pattern>
+          <template>
+      		Georgia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Georgia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Ghana</pattern>
+          <template>
+      		Ghana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Ghana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Granada</pattern>
+          <template>
+      		Granada es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Granada es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Grecia</pattern>
+          <template>
+      		Grecia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Grecia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Guyana</pattern>
+          <template>
+      		Guyana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Guyana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Guatemala</pattern>
+          <template>
+      		Guatemala es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Guatemala es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>India</pattern>
+          <template>
+      		India es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			India es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Indonesia</pattern>
+          <template>
+      		Indonesia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Indonesia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Irak</pattern>
+          <template>
+      		Irak es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Irak es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Irán</pattern>
+          <template>
+      		Irán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Irán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Iran</pattern>
+          <template>
+      		Iran es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Iran es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Irlanda</pattern>
+          <template>
+      		Irlanda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Irlanda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Islandia</pattern>
+          <template>
+      		Islandia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Islandia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Islas MGuinea</pattern>
+          <template>
+      		Islas MGuinea es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Islas MGuinea es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Guinea ecuatorial</pattern>
+          <template>
+      		Guinea ecuatorial es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Guinea ecuatorial es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Guinea ecuatorial</pattern>
+          <template>
+      		Guinea ecuatorial es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Guinea ecuatorial es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Guinea Bisáu</pattern>
+          <template>
+      		Guinea Bisáu es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Guinea Bisáu es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Guinea Bisau</pattern>
+          <template>
+      		Guinea Bisau es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Guinea Bisau es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Haití</pattern>
+          <template>
+      		Haití es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Haití es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Haiti</pattern>
+          <template>
+      		Haiti es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Haiti es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Honduras</pattern>
+          <template>
+      		Honduras es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Honduras es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Hungría</pattern>
+          <template>
+      		Hungría es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Hungría es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Hungria</pattern>
+          <template>
+      		Hungria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Hungria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Islas Marshall</pattern>
+          <template>
+      		Islas Marshall es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Islas Marshall es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Islas Salomón</pattern>
+          <template>
+      		Islas Salomón es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Islas Salomón es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Islas Salomon</pattern>
+          <template>
+      		Islas Salomon es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Islas Salomon es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Israel</pattern>
+          <template>
+      		Israel es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Israel es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Israel</pattern>
+          <template>
+      		Israel es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Israel es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      	Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Italia</pattern>
+          <template>
+      		Italia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Italia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Jamaica</pattern>
+          <template>
+      		Jamaica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Jamaica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Japón</pattern>
+          <template>
+      		Japón es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Japón es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Japon</pattern>
+          <template>
+      		Japon es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Japon es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Jordania</pattern>
+          <template>
+      		Jordania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Jordania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Kazajistán</pattern>
+          <template>
+      		Kazajistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Kazajistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Kazajistan</pattern>
+          <template>
+      		Kazajistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Kazajistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Kenia</pattern>
+          <template>
+      		Kenia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Kenia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Kirguistán</pattern>
+          <template>
+      		Kirguistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Kirguistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Kirguistan</pattern>
+          <template>
+      		Kirguistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Kirguistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Kiribati</pattern>
+          <template>
+      		Kiribati es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Kiribati es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Kuwait</pattern>
+          <template>
+      		Kuwait es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Kuwait es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Laos</pattern>
+          <template>
+      		Laos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Laos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Lesoto</pattern>
+          <template>
+      		Lesoto es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Lesoto es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Letonia</pattern>
+          <template>
+      		Letonia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Letonia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+    <category>
+          <pattern>Líbano</pattern>
+          <template>
+      		Líbano es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Líbano es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Libano</pattern>
+          <template>
+      		Libano es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Libano es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Liberia</pattern>
+          <template>
+      		Liberia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Liberia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Libia</pattern>
+          <template>
+      		Libia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Libia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Liechtenstein</pattern>
+          <template>
+      		Liechtenstein es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Liechtenstein es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Lituania</pattern>
+          <template>
+      		Lituania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Lituania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Luxemburgo</pattern>
+          <template>
+      		Luxemburgo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Luxemburgo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>macedonia del norte</pattern>
+          <template>
+      		macedonia del norte es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			macedonia del norte es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Madagascar</pattern>
+          <template>
+      		Madagascar es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Madagascar es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Malasia</pattern>
+          <template>
+      		Malasia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Malasia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Malaui</pattern>
+          <template>
+      		Malaui es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Malaui es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Maldivas</pattern>
+          <template>
+      		Maldivas es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Maldivas es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Malí</pattern>
+          <template>
+      		Malí es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Malí es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+        <category>
+          <pattern>Mali</pattern>
+          <template>
+      		Mali es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Mali es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Malta</pattern>
+          <template>
+      		Malta es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Malta es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Marruecos</pattern>
+          <template>
+      		Marruecos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Marruecos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Mauricio</pattern>
+          <template>
+      		Mauricio es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Mauricio es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Mauritania</pattern>
+          <template>
+      		Mauritania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Mauritania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Micronesia</pattern>
+          <template>
+      		Micronesia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Micronesia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Moldavia</pattern>
+          <template>
+      		Moldavia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Moldavia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Mónaco</pattern>
+          <template>
+      		Mónaco es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Mónaco es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Monaco</pattern>
+          <template>
+      		Monaco es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Monaco es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Mongolia</pattern>
+          <template>
+      		Mongolia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Mongolia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Montenegro</pattern>
+          <template>
+      		Montenegro es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Montenegro es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Mozambique</pattern>
+          <template>
+      		Mozambique es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Mozambique es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Namibia</pattern>
+          <template>
+      		Namibia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Namibia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Nauru</pattern>
+          <template>
+      		Nauru es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Nauru es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Nepal</pattern>
+          <template>
+      		Nepal es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Nepal es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Nicaragua</pattern>
+          <template>
+      		Nicaragua es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Nicaragua es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Níger</pattern>
+          <template>
+      		Níger es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Níger es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Niger</pattern>
+          <template>
+      		Niger es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Niger es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Nigeria</pattern>
+          <template>
+      		Nigeria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Nigeria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Noruega</pattern>
+          <template>
+      		Noruega es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Noruega es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Nueva Zelanda</pattern>
+          <template>
+      		Nueva Zelanda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Nueva Zelanda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Omán</pattern>
+          <template>
+      		Omán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Omán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Oman</pattern>
+          <template>
+      		Oman es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Oman es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Países Bajos</pattern>
+          <template>
+      		Países Bajos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Países Bajos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Paises Bajos</pattern>
+          <template>
+      		Paises Bajos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Paises Bajos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Pakistán</pattern>
+          <template>
+      		Pakistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Pakistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Pakistan</pattern>
+          <template>
+      		Pakistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Pakistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Palaos</pattern>
+          <template>
+      		Palaos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Palaos es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Papúa Nueva Guinea</pattern>
+          <template>
+      		Papúa Nueva Guinea es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Papúa Nueva Guinea es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Papua Nueva Guinea</pattern>
+          <template>
+      		Papua Nueva Guinea es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Papua Nueva Guinea es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Paraguay</pattern>
+          <template>
+      		Paraguay es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Paraguay es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Polonia</pattern>
+          <template>
+      		Polonia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Polonia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Portugal</pattern>
+          <template>
+      		Portugal es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Portugal es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+         <category>
+          <pattern>Reino Unido</pattern>
+          <template>
+      		Reino Unido es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Reino Unido es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+		
+		
+        <category>
+          <pattern>República Centroafricana</pattern>
+          <template>
+      		República Centroafricana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			República Centroafricana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Republica Centroafricana</pattern>
+          <template>
+      		Republica Centroafricana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Republica Centroafricana es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>República Checa</pattern>
+          <template>
+      		República Checa es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      		 República Checa es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Republica Checa</pattern>
+          <template>
+      		Republica Checa es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Republica Checa es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>República del Congo</pattern>
+          <template>
+      		República del Congo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			República del Congo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Republica del Congo</pattern>
+          <template>
+      		Republica del Congo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Republica del Congo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>República Democrática del Congo</pattern>
+          <template>
+      		República Democrática del Congo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			República Democrática del Congo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Republica Democratica del Congo</pattern>
+          <template>
+      		Republica Democratica del Congo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Republica Democratica del Congo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Ruanda</pattern>
+          <template>
+      		Ruanda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Ruanda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Rumanía</pattern>
+          <template>
+      		Rumanía es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Rumanía es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Rumania</pattern>
+          <template>
+      		Rumania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Rumania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Rusia</pattern>
+          <template>
+      		Rusia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Rusia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Samoa</pattern>
+          <template>
+      		Samoa es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Samoa es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>San Cristóbal y Nieves</pattern>
+          <template>
+      		San Cristóbal y Nieves es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			San Cristóbal y Nieves es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>San Cristobal y Nieves</pattern>
+          <template>
+      		San Cristobal y Nieves es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			San Cristobal y Nieves es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>San Marino</pattern>
+          <template>
+      		San Marino es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			San Marino es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>San Vicente y las Granadinas</pattern>
+          <template>
+      		San Vicente y las Granadinas es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			San Vicente y las Granadinas es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Santa Lucía</pattern>
+          <template>
+      		Santa Lucía es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Santa Lucía es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Santa Lucia</pattern>
+          <template>
+      		Santa Lucia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Santa Lucia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Santo Tomé y Príncipe</pattern>
+          <template>
+      		Santo Tomé y Príncipe es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Santo Tomé y Príncipe es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Santo Tome y Principe</pattern>
+          <template>
+      		Santo Tome y Principe es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Santo Tome y Principe es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Senegal</pattern>
+          <template>
+      		Senegal es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Senegal es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Serbia</pattern>
+          <template>
+      		Serbia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Serbia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Seychelles</pattern>
+          <template>
+      		Seychelles es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Seychelles es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Sierra Leona</pattern>
+          <template>
+      		Sierra Leona es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Sierra Leona es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Singapur</pattern>
+          <template>
+      		Singapur es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Singapur es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Siria</pattern>
+          <template>
+      		Siria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Siria es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Somalia</pattern>
+          <template>
+      		Somalia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Somalia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Sri Lanka</pattern>
+          <template>
+      		Sri Lanka es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Sri Lanka es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Suazilandia</pattern>
+          <template>
+      		Suazilandia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Suazilandia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Sudáfrica</pattern>
+          <template>
+      		Sudáfrica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Sudáfrica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+         <category>
+          <pattern>Sudafrica</pattern>
+          <template>
+      		Sudafrica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Sudafrica es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Sudán</pattern>
+          <template>
+      		Sudán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Sudán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Sudan</pattern>
+          <template>
+      		Sudan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Sudan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Sudán del Sur</pattern>
+          <template>
+      		Sudán del Sur es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Sudán del Sur es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Sudan del Sur</pattern>
+          <template>
+      		Sudan del Sur es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Sudan del Sur es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Suecia</pattern>
+          <template>
+      		Suecia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Suecia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Suiza</pattern>
+          <template>
+      		Suiza es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Suiza es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Surinam</pattern>
+          <template>
+      		Surinam es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Surinam es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Tailandia</pattern>
+          <template>
+      		Tailandia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Tailandia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Tanzania</pattern>
+          <template>
+           Tanzania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Tanzania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Tayikistán</pattern>
+          <template>
+      	 	Tayikistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Tayikistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+                <category>
+          <pattern>Tayikistan</pattern>
+          <template>
+      	 	Tayikistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Tayikistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Timor Oriental</pattern>
+          <template>
+      		Timor Oriental es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Timor Oriental es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Togo</pattern>
+          <template>
+      		Togo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Togo es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Tonga</pattern>
+          <template>
+      		Tonga es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Tonga es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Trinidad y Tobago</pattern>
+          <template>
+      		Trinidad y Tobago es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Trinidad y Tobago es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Túnez</pattern>
+          <template>
+      		Túnez es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Túnez es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Tunez</pattern>
+          <template>
+      		Tunez es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Tunez es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Turkmenistán</pattern>
+          <template>
+      		Turkmenistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Turkmenistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Turkmenistan</pattern>
+          <template>
+      		Turkmenistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Turkmenistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Turquía</pattern>
+          <template>
+      		Turquía es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Turquía es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+         <category>
+          <pattern>Turquia</pattern>
+          <template>
+      		Turquia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Turquia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Tuvalu</pattern>
+          <template>
+      		Tuvalu es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Tuvalu es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Ucrania</pattern>
+          <template>
+      		Ucrania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Ucrania es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Uganda</pattern>
+          <template>
+      		Uganda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Uganda es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Uruguay</pattern>
+          <template>
+      		Uruguay es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Uruguay es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Uzbekistán</pattern>
+          <template>
+      		Uzbekistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Uzbekistán es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Uzbekistan</pattern>
+          <template>
+      		Uzbekistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Uzbekistan es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Vanuatu</pattern>
+          <template>
+      		Vanuatu es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Vanuatu es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Vietnam</pattern>
+          <template>
+      		Vietnam es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Vietnam es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Yemen</pattern>
+          <template>
+      	  Yemen es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Yemen es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Yibuti</pattern>
+          <template>
+      		Yibuti es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Yibuti es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        
+        <category>
+          <pattern>Zambia</pattern>
+          <template>
+      		Zambia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Zambia es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+        <category>
+          <pattern>Zimbabue</pattern>
+          <template>
+      		Zimbabue es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos
+      	</template>
+        </category>
+        
+        <category>
+         <pattern>*</pattern>
+              <that>
+      			Zimbabue es un hermoso Pais, En que podemos ayudarte? Ofrecemos información de nuestros servicios, a través de nuestros contactos.
+              </that>
+         <template>
+      		Deseas conocer de nuestra Empresa o Servicios?, Por favor escriba: Empresa o Servicios
+      	</template>
+        </category>
+
+		
+		
+		
+	
+
+
+
+
+
+
+  </aiml>

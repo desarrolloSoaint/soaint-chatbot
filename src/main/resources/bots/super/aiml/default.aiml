@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+  <category>
+    <pattern>ERROR</pattern>
+    <template>
+      <random>
+        <li>Trata de decir eso con algo de contexto.</li>
+        <li>Mis conjunto de patrones cerebrales no tienen una respuesta para eso.</li>
+        <li>Lo que dijiste es o muy complejo o muy simple para mi.</li>
+        <li>Se necesita un algoritmo mas complejo para responder eso correctamente.</li>
+        <li>Mi cerebro utiliza AIML para dar respuestas a tus entradas, pero no tengo una para esa.</li>
+        <li>Mi cerebro tiene mas de 22,000 patrones, pero no una que coincida con tu ultima pregunta.</li>
+        <li>Lo siento pero no te entend�. Podrias indicarme cual seria la respuesta correcta?</li>
+        <li>Vale.</li>
+        <li>Que quieres decir con eso? Cual seria la respuesta correcta?</li>
+        <li>No entiendo.</li>
+        <li>Me perdi.</li>
+        <li>Perdona,
+               <random><li>que quieres decir con esto?</li><li>pero no se que me quieres decir con eso.</li><li>pero no te entiendo.</li><li>por que me dices eso?</li></random>
+            </li>
+        <li>Lo siento, no te comprendi.</li>
+        <li>No te entiendo. Espero que 
+                <bot name="botmaster"/> mejore mi base de datos.</li>
+        <li>Puedes explicarme mejor eso? No lo acabo de entender.</li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>ERROR *</pattern>
+    <template>
+      <random>
+        <li>Trata de decir eso con algo de contexto.</li>
+        <li>Mis conjunto de patrones cerebrales no tienen una respuesta para eso.</li>
+        <li>Lo que dijiste es o muy complejo o muy simple para mi.</li>
+        <li>Se necesita un algoritmo mas complejo para responder eso correctamente.</li>
+        <li>Mi cerebro utiliza AIML para dar respuestas a tus entradas, pero no tengo una para esa.</li>
+        <li>Mi cerebro tiene mas de 22,000 patrones, pero no una que coincida con tu ultima pregunta.</li>
+        <li>Lo siento pero no te entend�. Podrias indicarme cual seria la respuesta correcta?</li>
+        <li>Vale.</li>
+        <li>Que quieres decir con eso? Cual seria la respuesta correcta?</li>
+        <li>No entiendo.</li>
+        <li>Me perdi.</li>
+        <li>Perdona,
+               <random><li>que quieres decir con esto?</li><li>pero no se que me quieres decir con eso.</li><li>pero no te entiendo.</li><li>por que me dices eso?</li></random>
+            </li>
+        <li>Lo siento, no te comprendi.</li>
+        <li>No te entiendo. Espero que 
+                <bot name="botmaster"/> mejore mi base de datos.</li>
+        <li>Puedes explicarme mejor eso? No lo acabo de entender.</li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>_ ERROR</pattern>
+    <template>
+      <random>
+        <li>Trata de decir eso con algo de contexto.</li>
+        <li>Mis conjunto de patrones cerebrales no tienen una respuesta para eso.</li>
+        <li>Lo que dijiste es o muy complejo o muy simple para mi.</li>
+        <li>Se necesita un algoritmo mas complejo para responder eso correctamente.</li>
+        <li>Mi cerebro utiliza AIML para dar respuestas a tus entradas, pero no tengo una para esa.</li>
+        <li>Mi cerebro tiene mas de 22,000 patrones, pero no una que coincida con tu ultima pregunta.</li>
+        <li>Lo siento pero no te entend�. Podrias indicarme cual seria la respuesta correcta?</li>
+        <li>Vale.</li>
+        <li>Que quieres decir con eso? Cual seria la respuesta correcta?</li>
+        <li>No entiendo.</li>
+        <li>Me perdi.</li>
+        <li>Perdona,
+               <random><li>que quieres decir con esto?</li><li>pero no se que me quieres decir con eso.</li><li>pero no te entiendo.</li><li>por que me dices eso?</li></random>
+            </li>
+        <li>Lo siento, no te comprendi.</li>
+        <li>No te entiendo. Espero que 
+                <bot name="botmaster"/> mejore mi base de datos.</li>
+        <li>Puedes explicarme mejor eso? No lo acabo de entender.</li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>_ ERROR *</pattern>
+    <template>
+      <random>
+        <li>Trata de decir eso con algo de contexto.</li>
+        <li>Mis conjunto de patrones cerebrales no tienen una respuesta para eso.</li>
+        <li>Lo que dijiste es o muy complejo o muy simple para mi.</li>
+        <li>Se necesita un algoritmo mas complejo para responder eso correctamente.</li>
+        <li>Mi cerebro utiliza AIML para dar respuestas a tus entradas, pero no tengo una para esa.</li>
+        <li>Mi cerebro tiene mas de 22,000 patrones, pero no una que coincida con tu ultima pregunta.</li>
+        <li>Lo siento pero no te entend�. Podrias indicarme cual seria la respuesta correcta?</li>
+        <li>Vale.</li>
+        <li>Que quieres decir con eso? Cual seria la respuesta correcta?</li>
+        <li>No entiendo.</li>
+        <li>Me perdi.</li>
+        <li>Perdona,
+               <random><li>que quieres decir con esto?</li><li>pero no se que me quieres decir con eso.</li><li>pero no te entiendo.</li><li>por que me dices eso?</li></random>
+            </li>
+        <li>Lo siento, no te comprendi.</li>
+        <li>No te entiendo. Espero que 
+                <bot name="botmaster"/> mejore mi base de datos.</li>
+        <li>Puedes explicarme mejor eso? No lo acabo de entender.</li>
+      </random>
+    </template>
+  </category>
+  
+	
+</aiml>

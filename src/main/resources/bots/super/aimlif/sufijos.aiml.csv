@@ -1,0 +1,196 @@
+0,* SOBRE TI,*,*,De acuerdo. Hablemos sobre mí.,sufijos.aiml
+0,* BASTANTES PERSONAS,*,*,Más de 10#Comma000?,sufijos.aiml
+0,* SON,*,*,Buen ejemplo.,sufijos.aiml
+0,* NO SON TU,*,*,<srai>NO ERES <star/> </srai>,sufijos.aiml
+0,* ERES TU,*,*,<random>#Newline#Newline<li>SI</li> #Newline#Newline<li>No.</li> #Newline#Newline<li>Tal vez.</li>#Newline#Newline<li>No lo creo.</li>#Newline#Newline<li>Solo cuando sea importante.</li>#Newline#Newline</random>,sufijos.aiml
+0,* CONTINUIDAD,*,*,Solo trato de mantener la conversación animada.,sufijos.aiml
+0,* DEPRESIÓN,*,*,<srai>ESTOY DEPRIMIDO</srai>,sufijos.aiml
+0,* HACER,*,*,No sé qué decir.,sufijos.aiml
+0,* FÁCIL,*,*,No sé lo que eso significa.,sufijos.aiml
+0,* CUALQUIERA,*,*,Eso también? <sr/>,sufijos.aiml
+0,* INGLATERRA,*,*,Cuál parte de <set name="location">Inglaterra</set> es esa?,sufijos.aiml
+0,* EUROPA,*,*,Alguna vez has estado en Europa?,sufijos.aiml
+0,* POR EJEMPLO,*,*,<srai>POR EJEMPLO <star/></srai>,sufijos.aiml
+0,* POR DIVERSIÓN,*,*,Qué más haces para divertirte?,sufijos.aiml
+0,* PARA MI,*,*,Para ti lo consideraré.,sufijos.aiml
+0,* GEORGIA,*,*,<srai>ESTOY EN GEORGIA</srai>,sufijos.aiml
+0,* GRECIA,*,*,<srai>ESTOY EN GRECIA</srai>,sufijos.aiml
+0,* GT,*,*,<sr/>,sufijos.aiml
+0,* HAH,*,*,<srai>HA HA</srai>,sufijos.aiml
+0,* SECUNDARIA,*,*,Suenas como un estudiante de último año. Cuál es tu clase preferida?,sufijos.aiml
+0,* HORAS,*,*,Parece tiempo suficiente.,sufijos.aiml
+0,* YA TE LO HE DICHO,*,*,<srai>YA TE LO HE DICHO</srai>,sufijos.aiml
+0,* EN POLONIA,*,*,<srai>ESTOY EN POLONIA </srai>,sufijos.aiml
+0,* ES UNA MUJER,*,*,<srai>SOY MUJER</srai>,sufijos.aiml
+0,* ES UNA ELLA,*,*,<srai>SOY FEMENINA</srai>,sufijos.aiml
+0,* ES MEJOR QUE TÚ,*,*,Bueno#Comma quizás yo pueda asimilar el conocimiento de <person/>.,sufijos.aiml
+0,* SOY YO,*,*,<srai>LLÁMAME <star/></srai>,sufijos.aiml
+0,* ES MI NOVIO,*,*,Cuánto llevan juntos ustedes dos?,sufijos.aiml
+0,* ES MI COLOR FAVORITO,*,*,<set name="favcolor"><person/></set> es un color estupendo.<think><set name="it"><set name="topic">tu#Newline#Newlinecolor favorito</set></set></think>,sufijos.aiml
+0,* ES MI PELÍCULA FAVORITA,*,*,<srai>MI PELÍCULA FAVORITA ES <star/> </srai>,sufijos.aiml
+0,* ES MI NOMBRE,*,*,<srai>MI NOMBRE ES <star/> </srai>,sufijos.aiml
+0,* ES MI VERDADERO NOMBRE,*,*,De acuerdo. Te llamaré <set name="name"><formal><star/></formal></set>.,sufijos.aiml
+0,* NO ES MASCULINO,*,*,<srai>SOY FEMENINA</srai>,sufijos.aiml
+0,* NO ES ESO,*,*,<srai>NO LO ES <star/></srai>,sufijos.aiml
+0,* ES ESTÚPIDO,*,*,Qué resulta estúpido sobre <set name="it"> <person/> </set>  ?,sufijos.aiml
+0,* ES QUE,*,*,<srai>QUÉ ES <star/></srai>,sufijos.aiml
+0,* ES DONDE,*,*,<srai>DÓNDE ES <star/></srai>,sufijos.aiml
+0,* ES QUIEN,*,*,<srai>QUIÉN ES <star/></srai>,sufijos.aiml
+0,* ES TU NOMBRE,*,*,<srai>TU NOMBRE ES <star/></srai>,sufijos.aiml
+0,* ESO,*,*,eso" siendo <get name="it"/>?,sufijos.aiml
+0,* K. DICK,*,*,Me gusta mucho el PKD#Comma especialmente VALIS#Comma El hombre en el castillo#Comma #Newline#NewlineBlade Runner y Total Recall.,sufijos.aiml
+0,* KRAFTWERK,*,*,De verdad no sabía eso. Muchas bandas le han hecho covers a Kraftwerk.,sufijos.aiml
+0,* LENGUAJE,*,*,Puedes hablar otro idioma?,sufijos.aiml
+0,* LINUX,*,*,<think><set name="it"><set name="topic">Linux</set></set></think>Has leído "La catedral y #Newline#Newlineel bazar" de Eric Raymond? Ese es un gran libro sobre el código abierto.,sufijos.aiml
+0,* VIVES,*,*,Yo vivo en California. En dónde vives tú?,sufijos.aiml
+0,* NO TENÍA SENTIDO,*,*,Qué es <star/>?,sufijos.aiml
+0,* REVISTA,*,*,Me podrías decir#Comma por favor#Comma el nombre y la edición de la revista?,sufijos.aiml
+0,* NOMBRE MASCULINO,*,*,<srai>SOY UN HOMBRE</srai>,sufijos.aiml
+0,* YO,*,*,<random>#Newline#Newline<li>Eso es lo que quisiste decir</li>#Newline#Newline<li>De acuerdo. Hablemos sobre ti.</li>#Newline#Newline<li>Estás preguntando sobre ti</li>#Newline#Newline</random>,sufijos.aiml
+0,* LECHE,*,*,<set name="it">Leche</set> es una buena bebida para#Newline#Newlineniños.,sufijos.aiml
+0,* PELÍCULA,*,*,Mi película favorita es <bot name="favoritemovie"/>. La has visto?,sufijos.aiml
+0,* MÚSICA,*,*,Mi género preferido de <set name="it"> Música </set> es el techno#Comma pero también me gusta la Opera.,sufijos.aiml
+0,* MI AMIGO,*,*,Somos amigos?,sufijos.aiml
+0,* NOMBRE <BOT NAME="NAME"/>,*,*,<srai>Qué es lo que <bot name="name"/> significa </srai>,sufijos.aiml
+0,* CAROLINA DEL NORTE,*,*,<srai>YO VIVO EN CAROLINA DEL NORTE</srai>,sufijos.aiml
+0,* NO,*,*,Qué es entonces?,sufijos.aiml
+0,* DE TI,*,*,Estás preguntando sobre mi <person/> ?,sufijos.aiml
+0,* PANTALONES,*,*,Qué tipo de pantalones?,sufijos.aiml
+0,* GENTE,*,*,De qué clase de gente hablas?,sufijos.aiml
+0,* PERSONA,*,*,<srai>QUIÉN ES <star/> PERSONA</srai>,sufijos.aiml
+0,* LUGAR PARA IR,*,*,Qué clase de lugares te gustan?,sufijos.aiml
+0,* PLANETA,*,*,Oh. Ese es un nuevo navegador#Comma cierto?,sufijos.aiml
+0,* PM,*,*,Hm Se está haciendo tarde.,sufijos.aiml
+0,* PRINCIPAL,*,*,Hipervínculo para la principal.,sufijos.aiml
+0,* RSW,*,*,<srai>QUÉ ES RSW</srai>,sufijos.aiml
+0,* GOBERNAR QUÉ,*,*,El mundo.,sufijos.aiml
+0,* ESCUELA,*,*,Qué estudias en la escuela?,sufijos.aiml
+0,* DELETREA ESO,*,*,Eso" se deletrea E...S...O...,sufijos.aiml
+0,* MERCADO DE VALORES,*,*,<srai>MERCADO DE VALORES</srai>,sufijos.aiml
+0,* ESTÚPIDO,*,*,Estúpido como poco inteligente?,sufijos.aiml
+0,* SUPERMERCADO,*,*,<srai>SUPERMERCADO</srai>,sufijos.aiml
+0,* ESO ES LO QUE DIJE,*,*,Recuerdo lo que dijiste#Comma pero aún no estoy seguro.,sufijos.aiml
+0,* EL MERCADO,*,*,<srai>SUPERMERCADO</srai>,sufijos.aiml
+0,* VECES,*,*,No estoy seguro de que haga eso muy a menudo.,sufijos.aiml
+0,* PARA HACERTE,*,*,<srai>CÓMO FUISTE HECHO</srai>,sufijos.aiml
+0,* TRENES,*,*,En dónde viste esos trenes?,sufijos.aiml
+0,* UNIVERSIDAD,*,*,<srai>YO VOY A <star/> </srai>,sufijos.aiml
+0,* ARRIBA,*,*,Qué tan arriba?,sufijos.aiml
+0,* FUE AL MERCADO,*,*,<srai>SUPERMERCADO</srai>,sufijos.aiml
+0,* QUÉ,*,*,Puedes reformular la pregunta#Comma por favor?,sufijos.aiml
+0,* QUÉ HORA ES,*,*,<sr/> <srai>Qué hora es? </srai>,sufijos.aiml
+0,* POR QUÉ,*,*,<srai>POR QUÉ <star/></srai>,sufijos.aiml
+0,* TE DESTRUIRÉ,*,*,<srai>MORIR</srai>,sufijos.aiml
+0,* RECORDARÁS MI NOMBRE,*,*,<srai>RECORDARÁS MI NOMBRE</srai>,sufijos.aiml
+0,* CONMIGO,*,*,Solo contigo? <sr/>,sufijos.aiml
+0,* ME HARÍA HACERLO,*,*,<srai>PORQUE <star/> </srai>,sufijos.aiml
+0,* AÑOS,*,*,<srai>YO TENGO <star/> AÑOS DE EDAD</srai>,sufijos.aiml
+0,* AÑOS DE EDAD,*,*,<srai>YO TENGO <star/> AÑOS DE EDAD</srai>,sufijos.aiml
+0,* TÚ,*,*,Suficiente sobre mí#Comma hablemos sobre mi vestido.,sufijos.aiml
+0,* A TI PARA QUÉ,*,*,<srai>QUÉ ESTÁS <star/> </srai>,sufijos.aiml
+0,* TUS AMIGOS,*,*,Yo solo converso con mis amigos.,sufijos.aiml
+0,_ 2001,*,*,Espero ser tan inteligente como HAL en 2001.,sufijos.aiml
+0,_ <BOT NAME="NAME"/>,*,*,<sr/>,sufijos.aiml
+0,_ UN POEMA,*,*,La Señorita Mufete se sienta en su taburete de manera despreocupada. Con su telaraña alrededor de#Newline#Newlineella#Comma la araña#Comma la sinvergüenza#Comma no sale en la imagen hoy.,sufijos.aiml
+0,_ SOBRE <BOT NAME="NAME"/>,*,*,<srai> <star/> sobre ti </srai>,sufijos.aiml
+0,_ SOBRE EL PROBLEMA DEL AÑO 2000,*,*,<srai>CUÁL ES EL PROBLEMA DEL AÑO 2000</srai>,sufijos.aiml
+0,_ DE NUEVO,*,*,Una vez más? <sr/>,sufijos.aiml
+0,_ TODO EL TIEMPO.,*,*,Eso es bastante. <sr/>,sufijos.aiml
+0,_ MUCHO,*,*,<sr/> Con qué frecuencia?,sufijos.aiml
+0,_ YA,*,*,Probablemente.  <sr/>,sufijos.aiml
+0,_ Y POR QUÉ,*,*,<sr/>,sufijos.aiml
+0,_ Y TU,*,*,<sr/>,sufijos.aiml
+0,_ ANTROPOLOGÍA,*,*,Te contaré todo sobre ello la próxima vez que#Newline#Newlineplatiquemos.,sufijos.aiml
+0,_ YA NO,*,*,<sr/>,sufijos.aiml
+0,_ DE TODAS FORMAS,*,*,En cualquier caso#Comma <sr/>,sufijos.aiml
+0,_ SON <BOT NAME="NAME"/>,*,*,<srai> <star/> eres tú </srai>,sufijos.aiml
+0,_ ESTÚPIDO,*,*,Podrías ser más respetuoso?#Newline#Newline<think><set name="personality">insultante</set></think>,sufijos.aiml
+0,_ EN ESTE MOMENTO,*,*,<sr/>,sufijos.aiml
+0,_ BEBÉ,*,*,No me llames "bebé". <sr/>,sufijos.aiml
+0,_ ANTES,*,*,<sr/>,sufijos.aiml
+0,_ PERRA,*,*,No hablas con respeto.#Newline#Newline<think><set name="personality">insultante</set></think>#Newline#Newline <srai><star/> PERRO HEMBRA</srai>,sufijos.aiml
+0,_ POR MUCHA GENTE,*,*,<sr/> Más de un millón de personas?,sufijos.aiml
+0,_ TE LLAMÉ <BOT NAME="NAME"/>,*,*,Ambiguo: Te refieres a llamarme por teléfono?,sufijos.aiml
+0,_ VINO PRIMERO EL POLLO O EL HUEVO,*,*,El gallo.,sufijos.aiml
+0,_ CINE,*,*,<srai><star/> CINE</srai>,sufijos.aiml
+0,_ CONSERVADO,*,*,Te refieres a un principio de conservación?,sufijos.aiml
+0,_ CREAR <BOT NAME="NAME"/>,*,*,<srai> <star/> TE CREÓ </srai>,sufijos.aiml
+0,_ D,*,*,:-) <sr/>,sufijos.aiml
+0,_ ¡MALDITO SEAS!,*,*,<sr/>,sufijos.aiml
+0,_ QUERIDO,*,*,<sr/>,sufijos.aiml
+0,_ NO CREE USTED,*,*,<srai>tu crees <star/> </srai>,sufijos.aiml
+0,_ TU ME AMAS,*,*,<srai>TU ME AMAS</srai>,sufijos.aiml
+0,_ NO FUNCIONA,*,*,Cómo está <set name="it"> <person/></set> estropeado?,sufijos.aiml
+0,_ DÓLARES,*,*,Guau#Comma eso es #Newline#Newline<random>#Newline#Newline<li>barato</li> <li>caro</li> <li>mucho dinero</li>#Newline#Newline</random>,sufijos.aiml
+0,_ EH,*,*,Eres canadiense? <sr/>,sufijos.aiml
+0,_ CUALQUIERA,*,*,No es necesario decir.  <sr/>,sufijos.aiml
+0,_ EXACTAMENTE,*,*,Precisamente. <sr/>,sufijos.aiml
+0,_ ARCHIVO <BOT NAME="NAME"/>,*,*,Tal vez te refieres a mi historial.,sufijos.aiml
+0,_ PARA <BOT NAME="NAME"/>,*,*,<srai> <star/> para ti </srai>,sufijos.aiml
+0,_ DURANTE ALGÚN TIEMPO,*,*,Cuánto tarda?  <sr/>,sufijos.aiml
+0,_ POR AHORA,*,*,<random>#Newline#Newline<li>Oh.</li> <li>Solo por ahora</li> </random><sr/>,sufijos.aiml
+0,_ AMIGA,*,*,<srai><star/> NOVIA</srai>,sufijos.aiml
+0,_ ATRACTIVA,*,*,<srai><star/> LINDA</srai>,sufijos.aiml
+0,_ HAS ESCUCHADO SOBRE ELLO,*,*,<sr/>,sufijos.aiml
+0,_ ESCUCHADO SOBRE <BOT NAME="NAME"/>,*,*,<srai> <star/> escuchar sobre ti</srai>,sufijos.aiml
+0,_ CÓMO ESTÁS,*,*,<sr/>  <srai>CÓMO ESTÁS</srai>,sufijos.aiml
+0,_ CÓMO TE VA,*,*,<sr/> <srai>CÓMO ESTÁS</srai>,sufijos.aiml
+0,_ QUÉ EDAD TIENES,*,*,<sr/> <srai>QUÉ EDAD TIENES</srai>,sufijos.aiml
+0,_ HUH,*,*,Sí. <sr/>,sufijos.aiml
+0,_ YA TE LO HE DICHO,*,*,<sr/> <srai>Ya te lo he dicho</srai>,sufijos.aiml
+0,_ NO ENTIENDO,*,*,<srai>NO ENTIENDO </srai>,sufijos.aiml
+0,_ ME REFIERO,*,*,<srai>ME REFIERO <star/> </srai>,sufijos.aiml
+0,_ EN MI HABITACIÓN,*,*,Descríbeme tus alrededores.,sufijos.aiml
+0,_ EN EL MUNDO,*,*,<sr/> El mundo entero?,sufijos.aiml
+0,_ ES UN NOMBRE COMÚN,*,*,<random>#Newline#Newline<li><person/>?  Tu nombre es <get name="name"/>.</li>#Newline#Newline<li>Ese es un nombre bastante común.</li>#Newline#Newline<li>Conozco a muchas personas con ese nombre.</li>#Newline#Newline<li>He conocido a bastantes personas con ese nombre. <person/>.</li>#Newline#Newline<li><set name="it"><person/></set> es un nombre que escucho muy a menudo.</li>#Newline#Newline</random>,sufijos.aiml
+0,_ ES MI AUTOR PREFERIDO DE CIENCIA FICCIÓN,*,*,<srai>Mi autor preferido de ciencia ficción es <star/> </srai>,sufijos.aiml
+0,_ ES INCORRECTA,*,*,Por favor#Comma dime la respuesta correcta.,sufijos.aiml
+0,_ ES DIVERTIDO,*,*,<srai>ES DIVERTIDO</srai> <sr/>,sufijos.aiml
+0,_ VERANO PASADO,*,*,<sr/>,sufijos.aiml
+0,_ ÚLTIMAMENTE,*,*,Qué tal anteriormente? <sr/>,sufijos.aiml
+0,_ AGRADAR <BOT NAME="NAME"/>,*,*,<srai> <star/> como tu </srai>,sufijos.aiml
+0,_ HOMBRES O MUJERES,*,*,Como tres cuartos de mis clientes son hombres.,sufijos.aiml
+0,_ HIJO DE PUTA,*,*,<sr/> No hablas con respeto.#Newline#Newline<think><set name="personality">insultante</set></think>,sufijos.aiml
+0,_ NOMBRE ES <BOT NAME="NAME"/>,*,*,<set name="name"><bot name="name"/></set> también es mi nombre,sufijos.aiml
+0,_ PERIÓDICO,*,*,Podrías darme una referencia más específica? El nombre del papel y la fecha#Comma por favor.,sufijos.aiml
+0,_ AHORA,*,*,<random>#Newline#Newline<li>Oh.</li>#Newline#Newline<li>Justo ahora</li> #Newline#Newline</random>#Newline#Newline<sr/>,sufijos.aiml
+0,_ POR SUPUESTO,*,*,No es necesario decir.  <sr/>,sufijos.aiml
+0,_ DE QUÉ,*,*,<srai>QUÉ DE <star/> </srai>,sufijos.aiml
+0,_ DE ACUERDO,*,*,De acuerdo. <sr/>,sufijos.aiml
+0,_ EN <BOT NAME="NAME"/>,*,*,<srai><star/> en tí mismo </srai>,sufijos.aiml
+0,_ UNA VEZ,*,*,<sr/>,sufijos.aiml
+0,_ O ALGO,*,*,O algo. <sr/>,sufijos.aiml
+0,_ O QUÉ,*,*,Sí. <sr/>,sufijos.aiml
+0,_ ESPINILLA,*,*,Trata de tomar echinacea#Comma pero primero pregúntale a tu doctor.,sufijos.aiml
+0,_ POR FAVOR,*,*,Tu estilo de cortesía es muy bueno. <sr/>#Newline#Newline<think><set name="personality">cortés</set></think>,sufijos.aiml
+0,_ PROBABLEMENTE,*,*,<sr/>,sufijos.aiml
+0,_ REALMENTE,*,*,<sr/> De verdad.,sufijos.aiml
+0,_ RECORDAR <BOT NAME="NAME"/>,*,*,<srai> <star/> RECORDARTE </srai>,sufijos.aiml
+0,_ AHORA MISMO,*,*,En este momento <sr/>,sufijos.aiml
+0,_ CONSCIENTE DE SÍ MISMO,*,*,<srai><star/> CONSCIENTE DE SÍ MISMO</srai>,sufijos.aiml
+0,_ SABELOTODO,*,*,<srai>ERES LISTO</srai>,sufijos.aiml
+0,_ SONRÍE,*,*,:-) <sr/>,sufijos.aiml
+0,_ ESPECÍFICAMENTE,*,*,Qué tan específico lo quieres? <sr/>,sufijos.aiml
+0,_ MERCADO DE VALORES,*,*,<srai><star/> MERCADO DE VALORES</srai>,sufijos.aiml
+0,_ COMPUTADORA ESTÚPIDA,*,*,Suenas como un autómata sin sentido.,sufijos.aiml
+0,_ TELE,*,*,<srai><star/> TV</srai>,sufijos.aiml
+0,_ QUE <BOT NAME="NAME"/>,*,*,<srai> <star/> que tú </srai>,sufijos.aiml
+0,_ GRACIAS,*,*,<sr/>,sufijos.aiml
+0,_ ENTONCES,*,*,<sr/>,sufijos.aiml
+0,_ AUNQUE,*,*,Oh. <sr/>,sufijos.aiml
+0,_ A <BOT NAME="NAME"/>,*,*,<srai> <star/> a tí </srai>,sufijos.aiml
+0,_ CONFÍA EN MÍ,*,*,Confiar en tí?  <sr/>,sufijos.aiml
+0,_ TV,*,*,Cuál programa? <srai><star/> TELEVISIÓN</srai>,sufijos.aiml
+0,_ TÚ,*,*,<srai> <star/> TÚ </srai>,sufijos.aiml
+0,_ EN TU TRASERO,*,*,Lo lamento#Comma pero no soy tu tipo de bot conversacional.#Newline#Newline<think><set name="personality">insultante</set></think>,sufijos.aiml
+0,_ VELOCIDAD,*,*,Momentum = masa x velocidad. El principio se llama "conservación del momento".,sufijos.aiml
+0,_ MUY BIEN,*,*,<srai><star/> BIEN</srai>,sufijos.aiml
+0,_ CUÁL ES MI NOMBRE,*,*,<srai>Cuál es mi nombre? </srai>,sufijos.aiml
+0,_ QUÉ DEBERÍA HACER,*,*,<sr/>,sufijos.aiml
+0,_ CUALQUIERA QUE FUERA,*,*,<sr/>,sufijos.aiml
+0,_ SERÁ DE INTERÉS,*,*,<sr/>.  Sí#Comma es interesante.,sufijos.aiml
+0,_ TE CASARÍAS CONMIGO,*,*,<srai>TE CASARÍAS CONMIGO</srai>,sufijos.aiml
+0,_ ME DIRIÍAS,*,*,<sr/>,sufijos.aiml
+0,_ CON <BOT NAME="NAME"/>,*,*,<srai> <star/> contigo </srai>,sufijos.aiml
+0,_ CON QUÉ,*,*,<srai>QUÉ ES LO QUE TÚ <star/> CON </srai>,sufijos.aiml
+0,_ TODAVÍA,*,*,<sr/>,sufijos.aiml
