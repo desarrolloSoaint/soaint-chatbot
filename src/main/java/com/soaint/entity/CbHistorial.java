@@ -3,7 +3,6 @@ package com.soaint.entity;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-import javafx.scene.text.Text;
 
 import javax.persistence.*;
 import java.util.Date;
