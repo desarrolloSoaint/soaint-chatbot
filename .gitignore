@@ -49,5 +49,5 @@ src/main/java/tv/thekitchen/central/auth/AuthController.java
 #src/main/resources/application.properties
 
 ###Ignorar carpeta avatar###
-src/main/resources/images/avatar/
-uploads/
+#src/main/resources/images/avatar/
+#uploads/
