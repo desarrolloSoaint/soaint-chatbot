@@ -31,11 +31,11 @@ public class CbHistorial {
     AcClientsPrivate id_client_private;
 
     @ApiModelProperty(value = "Campo question_client", required = true)
-    @Column(name="question_client")
+    @Column(name="question_client",length = 500)
     private String question_client;
 
     @ApiModelProperty(value = "Campo response_soniat", required = true)
-    @Column(name="response_soniat")
+    @Column(name="response_soniat",length = 500)
     private String response_soniat;
 
 
