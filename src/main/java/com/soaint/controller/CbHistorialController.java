@@ -20,7 +20,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/v1/clients/historial")
 @Api(tags = "CLIENTS")
-@CrossOrigin(origins = "*", methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE})
+@CrossOrigin(origins = "http://localhost:4200", methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE})
 public class CbHistorialController {
     @Autowired
     private CbHistorialRepository cbHistorialRepository;
