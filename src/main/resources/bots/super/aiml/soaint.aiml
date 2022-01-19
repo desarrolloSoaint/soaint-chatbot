@@ -455,94 +455,82 @@
                             </template>
                        </category>
 
-              <category>
+             <category>
                    <pattern>servicios</pattern>
                              <that>
-                           		Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                            Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
                               </that>
                        <template>
-                           		Ofrecemos los siguientes servicios: <br/>
-                         		-Automatizacion.<br/>
-                         		-Customer Experience.<br/>
-                         		-Arquitectura Empresarial.<br/>
-                         		-Seguridad. <br/>
-                         		-Gestion Documental.<br/>
-                         		-Agile Integration.<br/>
-                         		Por favor escriba algunos de ellos.
-                        </template>
+              Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
               </category>
 
                <category>
                 <pattern>servicios</pattern>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                 <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
-           	<category>
+            <category>
                 <pattern>servicio</pattern>
-                     <that>
-             			Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
-                     </that>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                      <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
                <category>
                 <pattern>servicio</pattern>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                 <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
 
                <category>
                 <pattern>servicios *</pattern>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                 <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
-           	<category>
+            <category>
                 <pattern>servicio *</pattern>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                 <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
@@ -550,29 +538,27 @@
 
                <category>
                 <pattern>_ servicios *</pattern>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                 <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
-           	<category>
+            <category>
                 <pattern>_ servicio *</pattern>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
@@ -580,675 +566,885 @@
 
                <category>
                 <pattern>_ servicios</pattern>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                 <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
-           	<category>
+            <category>
                 <pattern>_ servicio</pattern>
-                <template>
-             		Ofrecemos los siguientes servicios: <br/>
-           		-Automatizacion.<br/>
-           		-Customer Experience.<br/>
-           		-Arquitectura Empresarial.<br/>
-           		-Seguridad. <br/>
-           		-Gestion Documental.<br/>
-           		-Agile Integration.<br/>
-           		Por favor escriba algunos de ellos.
+                 <that>
+                                Deseas conocer de nuestra Empresa o Servicios? Por favor escriba: Empresa o Servicios
+                              </that>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Personas.<br/>
+                -Empresa.<br/>
+                Por favor escriba algunos de ellos.
                  </template>
                </category>
 
          <category>
-             <pattern>automatización</pattern>
-              <template>
-           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
-         		Mas informacion en:
-         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-            </template>
+             <pattern>persona</pattern>
+                       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Cuentas.<br/>
+                -Inversiones.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
            <category>
-             <pattern>automatización *</pattern>
+             <pattern>persona *</pattern>
               <template>
-           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
-         		Mas informacion en:
-         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-            </template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Cuentas.<br/>
+                -Inversiones.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
            <category>
-             <pattern>_ automatización *</pattern>
-              <template>
-           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
-         		Mas informacion en:
-         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-
-            </template>
+             <pattern>_ persona *</pattern>
+               <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Cuentas.<br/>
+                -Inversiones.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
            <category>
-             <pattern>_ automatización</pattern>
-              <template>
-           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
-         		Mas informacion en:
-         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-
-            </template>
+             <pattern>_ persona</pattern>
+               <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Cuentas.<br/>
+                -Inversiones.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
 
              <category>
-             <pattern>automatizacion</pattern>
-              <template>
-           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
-         		Mas informacion en:
-         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-            </template>
+             <pattern>persona</pattern>
+               <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Cuentas.<br/>
+                -Inversiones.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
            <category>
-             <pattern>automatizacion *</pattern>
-              <template>
-           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
-         		Mas informacion en:
-         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-            </template>
+             <pattern>persona *</pattern>
+               <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Cuentas.<br/>
+                -Inversiones.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
            <category>
-             <pattern>_ automatizacion *</pattern>
-              <template>
-           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
-         		Mas informacion en:
-         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-
-            </template>
+             <pattern>_ persona *</pattern>
+               <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Cuentas.<br/>
+                -Inversiones.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
            <category>
-             <pattern>_ automatizacion</pattern>
-              <template>
-           		Sistematiza los procesos de negocio o documentales empleando herramientas tecnologicas como: BPMS, RPA, BRMS y Gestores de Casos.
-         		Mas informacion en:
-         		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-
-            </template>
+             <pattern>_ persona</pattern>
+               <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Cuentas.<br/>
+                -Inversiones.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
 
            <category>
-             <pattern>customer experience</pattern>
-              <template>
-           		Monetizar los Procesos de Negocio de la Empresa o Entidad a traves de canales sociales y digitales, mas informacion aqui:
-         		<a href='https://soaint.com/customer-experience' target="_blank"><br/><br/>Haz Click Aqui</a>
-              </template>
+             <pattern>cuentas</pattern>
+               <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Corriente.<br/>
+                -Ahorro.<br/>
+                -Divisas del Sur. <br/>
+                Por favor escriba algunos de ellos.
+                 </template>
            </category>
 
 
 
       <category>
-        <pattern>customer experience *</pattern>
+        <pattern>cuentas *</pattern>
          <template>
-      		Monetizar los Procesos de Negocio de la Empresa o Entidad a traves de canales sociales y digitales, mas informacion aqui:
-    		<a href='https://soaint.com/customer-experience' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Corriente.<br/>
+                -Ahorro.<br/>
+                -Divisas del Sur. <br/>
+                Por favor escriba algunos de ellos.
+                 </template>
       </category>
 
       <category>
-        <pattern>_ customer experience *</pattern>
+        <pattern>_ cuentas *</pattern>
          <template>
-      		Monetizar los Procesos de Negocio de la Empresa o Entidad a traves de canales sociales y digitales, mas informacion aqui:
-    		<a href='https://soaint.com/customer-experience' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Corriente.<br/>
+                -Ahorro.<br/>
+                -Divisas del Sur. <br/>
+                Por favor escriba algunos de ellos.
+                 </template>
       </category>
 
       <category>
-        <pattern>_ customer experience</pattern>
+        <pattern>_ cuentas</pattern>
          <template>
-      		Monetizar los Procesos de Negocio de la Empresa o Entidad a traves de canales sociales y digitales, mas informacion aqui:
-    		<a href='https://soaint.com/customer-experience' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Corriente.<br/>
+                -Ahorro.<br/>
+                -Divisas del Sur. <br/>
+                Por favor escriba algunos de ellos.
+                 </template>
       </category>
 
       <category>
-        <pattern>arquitectura empresarial</pattern>
+        <pattern>corriente</pattern>
          <template>
-      		Ofrecemos un enfoque practico de aplicacion de Arquitectura Empresarial, no solo en lo tactico, sino  tambien en la operativa del dia a dia de requerimientos del negocio hacia TI. Mas informacion en
-    		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Sin Intereses.<br/>
+                -Con Intereses.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
       </category>
 
       <category>
-        <pattern>arquitectura empresarial *</pattern>
-         <template>
-      		Ofrecemos un enfoque practico de aplicacion de Arquitectura Empresarial, no solo en lo tactico, sino  tambien en la operativa del dia a dia de requerimientos del negocio hacia TI. Mas informacion en
-    		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-
-         </template>
+        <pattern>corriente *</pattern>
+        <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Sin Intereses.<br/>
+                -Con Intereses.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
       </category>
 
       <category>
-        <pattern>_ arquitectura empresarial *</pattern>
+        <pattern>_ corriente *</pattern>
          <template>
-      		Ofrecemos un enfoque practico de aplicacion de Arquitectura Empresarial, no solo en lo tactico, sino  tambien en la operativa del dia a dia de requerimientos del negocio hacia TI. Mas informacion en
-    		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-
-         </template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Sin Intereses.<br/>
+                -Con Intereses.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
       </category>
 
 
       <category>
-        <pattern>_ arquitectura empresarial</pattern>
+        <pattern>_ corriente</pattern>
          <template>
-      		Ofrecemos un enfoque practico de aplicacion de Arquitectura Empresarial, no solo en lo tactico, sino  tambien en la operativa del dia a dia de requerimientos del negocio hacia TI. Mas informacion en
-    		<a href='https://soaint.com/automatizacion/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Sin Intereses.<br/>
+                -Con Intereses.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
       </category>
 
-      <category>
-         <pattern>seguridad</pattern>
+         <category>
+         <pattern>ahorro</pattern>
          <template>
-      		Solucion madura que reduce el riesgo, previene el fraude y facilita el cumplimiento de regulaciones gubernamentales e internacionales a traves de una plataforma altamente extensible y flexible que ofrece una proteccion contra el fraude sin igual. Mas informacion en
-    		<a href='https://soaint.com/seguridad/' target="_blank"><br/><br/>Haz Click Aqui</a>
+      Con las Cuentas de Ahorro DELSUR usted puede depositar el excedente de su dinero destinado al ahorro, asi estos fondos devengan intereses y obtiene beneficios mientras su dinero esta en buen resguardo. Mas informacion en
+    <a href='http://www.delsur.com.ve/personas.php?id=16' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
          <category>
-         <pattern>seguridad *</pattern>
-         <template>
-      		Solucion madura que reduce el riesgo, previene el fraude y facilita el cumplimiento de regulaciones gubernamentales e internacionales a traves de una plataforma altamente extensible y flexible que ofrece una proteccion contra el fraude sin igual. Mas informacion en
-    		<a href='https://soaint.com/seguridad/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>ahorro *</pattern>
+          <template>
+            Con las Cuentas de Ahorro DELSUR usted puede depositar el excedente de su dinero destinado al ahorro, asi estos fondos devengan intereses y obtiene beneficios mientras su dinero esta en buen resguardo. Mas informacion en
+            <a href='http://www.delsur.com.ve/personas.php?id=16' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
         <category>
-         <pattern>_ seguridad *</pattern>
-         <template>
-      		Solucion madura que reduce el riesgo, previene el fraude y facilita el cumplimiento de regulaciones gubernamentales e internacionales a traves de una plataforma altamente extensible y flexible que ofrece una proteccion contra el fraude sin igual. Mas informacion en
-    		<a href='https://soaint.com/seguridad/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>_ ahorro *</pattern>
+          <template>
+            Con las Cuentas de Ahorro DELSUR usted puede depositar el excedente de su dinero destinado al ahorro, asi estos fondos devengan intereses y obtiene beneficios mientras su dinero esta en buen resguardo. Mas informacion en
+            <a href='http://www.delsur.com.ve/personas.php?id=16' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
          <category>
-         <pattern>_ seguridad</pattern>
-         <template>
-      		Solucion madura que reduce el riesgo, previene el fraude y facilita el cumplimiento de regulaciones gubernamentales e internacionales a traves de una plataforma altamente extensible y flexible que ofrece una proteccion contra el fraude sin igual. Mas informacion en
-    		<a href='https://soaint.com/seguridad/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
-        </category>
-
-         <category>
-         <pattern>gestion</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
-        </category>
-
-         <category>
-         <pattern>gestion *</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
-        </category>
-
-        <category>
-         <pattern>_ gestion *</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
-        </category>
-
-         <category>
-         <pattern>_ gestion</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>_ ahorro</pattern>
+          <template>
+            Con las Cuentas de Ahorro DELSUR usted puede depositar el excedente de su dinero destinado al ahorro, asi estos fondos devengan intereses y obtiene beneficios mientras su dinero esta en buen resguardo. Mas informacion en
+            <a href='http://www.delsur.com.ve/personas.php?id=16' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
     <category>
-         <pattern>gestión documental</pattern>
+         <pattern>divisas del sur</pattern>
          <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+      Es una cuenta corriente sin intereses en moneda extranjera, que les permite a las personas naturales y juridicas movilizarla mediante depositos, retiros y transferencias a terceros en el mismo banco. Mas informacion en
+    <a href='http://200.74.201.195/articulo.php?id=226' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
          <category>
-         <pattern>gestión documental *</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>divisas del sur *</pattern>
+          <template>
+            Es una cuenta corriente sin intereses en moneda extranjera, que les permite a las personas naturales y juridicas movilizarla mediante depositos, retiros y transferencias a terceros en el mismo banco. Mas informacion en
+            <a href='http://200.74.201.195/articulo.php?id=226' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
         <category>
-         <pattern>_ gestión documental *</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>_ divisas del sur *</pattern>
+          <template>
+            Es una cuenta corriente sin intereses en moneda extranjera, que les permite a las personas naturales y juridicas movilizarla mediante depositos, retiros y transferencias a terceros en el mismo banco. Mas informacion en
+            <a href='http://200.74.201.195/articulo.php?id=226' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
          <category>
-         <pattern>_ gestión documental</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>_ divisas del sur</pattern>
+          <template>
+            Es una cuenta corriente sin intereses en moneda extranjera, que les permite a las personas naturales y juridicas movilizarla mediante depositos, retiros y transferencias a terceros en el mismo banco. Mas informacion en
+            <a href='http://200.74.201.195/articulo.php?id=226' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
     <category>
-         <pattern>gestion documental</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>divisas del sur</pattern>
+          <template>
+            Es una cuenta corriente sin intereses en moneda extranjera, que les permite a las personas naturales y juridicas movilizarla mediante depositos, retiros y transferencias a terceros en el mismo banco. Mas informacion en
+            <a href='http://200.74.201.195/articulo.php?id=226' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
          <category>
-         <pattern>gestion documental *</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>divisas del sur *</pattern>
+          <template>
+            Es una cuenta corriente sin intereses en moneda extranjera, que les permite a las personas naturales y juridicas movilizarla mediante depositos, retiros y transferencias a terceros en el mismo banco. Mas informacion en
+            <a href='http://200.74.201.195/articulo.php?id=226' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
         <category>
-         <pattern>_ gestion documental *</pattern>
-         <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         <pattern>_ divisas del sur *</pattern>
+          <template>
+            Es una cuenta corriente sin intereses en moneda extranjera, que les permite a las personas naturales y juridicas movilizarla mediante depositos, retiros y transferencias a terceros en el mismo banco. Mas informacion en
+            <a href='http://200.74.201.195/articulo.php?id=226' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
          <category>
-         <pattern>_ gestion documental</pattern>
+         <pattern>_ divisas del sur</pattern>
          <template>
-      		Solucion para automatizar la gestion documental en la empresa. Surge de la necesidad de cubrir  las problematicas funcionales que puedes leer a continuacion a un bajo costo. Mas informacion en
-    		<a href='https://soaint.com/gestion-documental/' target="_blank"><br/><br/>Haz Click Aqui</a>
+            Es una cuenta corriente sin intereses en moneda extranjera, que les permite a las personas naturales y juridicas movilizarla mediante depositos, retiros y transferencias a terceros en el mismo banco. Mas informacion en
+            <a href='http://200.74.201.195/articulo.php?id=226' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
     <category>
-         <pattern>agile</pattern>
+         <pattern>sin intereses</pattern>
          <template>
-      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias.
+      Porque nos importan los detalles y valoramos su tiempo, le ofrecemos nuestra cuenta corriente con la cual su dinero se mueve a su ritmo, de forma comoda, segura y oportuna. Mas informacion en
+            <a href='http://www.delsur.com.ve/personas.php?id=15' target="_blank"><br/><br/>Haz Click Aqui</a>
 
          </template>
         </category>
 
         <category>
-         <pattern>agile *</pattern>
+         <pattern>sin intereses *</pattern>
          <template>
-      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
-    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+            Porque nos importan los detalles y valoramos su tiempo, le ofrecemos nuestra cuenta corriente con la cual su dinero se mueve a su ritmo, de forma comoda, segura y oportuna. Mas informacion en
+            <a href='http://www.delsur.com.ve/personas.php?id=15' target="_blank"><br/><br/>Haz Click Aqui</a>
+
          </template>
         </category>
 
         <category>
-         <pattern>_ agile *</pattern>
+         <pattern>_ sin intereses *</pattern>
          <template>
-      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
-    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+            Porque nos importan los detalles y valoramos su tiempo, le ofrecemos nuestra cuenta corriente con la cual su dinero se mueve a su ritmo, de forma comoda, segura y oportuna. Mas informacion en
+            <a href='http://www.delsur.com.ve/personas.php?id=15' target="_blank"><br/><br/>Haz Click Aqui</a>
+
          </template>
         </category>
 
       <category>
-         <pattern>_ agile</pattern>
+         <pattern>_ sin intereses</pattern>
          <template>
-      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
-    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
-        </category>
+            Porque nos importan los detalles y valoramos su tiempo, le ofrecemos nuestra cuenta corriente con la cual su dinero se mueve a su ritmo, de forma comoda, segura y oportuna. Mas informacion en
+            <a href='http://www.delsur.com.ve/personas.php?id=15' target="_blank"><br/><br/>Haz Click Aqui</a>
 
-    	<category>
-         <pattern>agile integration</pattern>
-         <template>
-    		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
-    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
-    	 </template>
-        </category>
-
-        <category>
-         <pattern>agile integration *</pattern>
-         <template>
-      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
-    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
-        </category>
-
-        <category>
-         <pattern>_ agile integration *</pattern>
-         <template>
-      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
-    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
-         </template>
-        </category>
-
-      <category>
-         <pattern>_ agile integration</pattern>
-         <template>
-      		Nuestra vision es que se nutran las capacidades de TI de las empresas, con una arquitectura que permita combinar sabiamente, los conceptos de API, microservicio y el enfoque tradicional de SOA; direccionando todo ello a la digitalizacion y los nuevos modelos de negocio para las industrias. Mas informacion en
-    		<a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
     <category>
-           <pattern>Precios</pattern>
+         <pattern>con intereses</pattern>
+         <template>
+    En DELSUR Banco Universal nos preocupamos por los detalles, por esta razon le ofrecemos nuestra Cuenta Corriente con Intereses que le ofrece movilidad y rendimiento en una sola cuenta. Mas informacion en
+    <a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+    </template>
+        </category>
+
+        <category>
+         <pattern>con intereses *</pattern>
+       <template>
+            En DELSUR Banco Universal nos preocupamos por los detalles, por esta razon le ofrecemos nuestra Cuenta Corriente con Intereses que le ofrece movilidad y rendimiento en una sola cuenta. Mas informacion en
+            <a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+        <category>
+         <pattern>_ con intereses *</pattern>
+        <template>
+            En DELSUR Banco Universal nos preocupamos por los detalles, por esta razon le ofrecemos nuestra Cuenta Corriente con Intereses que le ofrece movilidad y rendimiento en una sola cuenta. Mas informacion en
+            <a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+      <category>
+         <pattern>_ con intereses</pattern>
+         <template>
+            En DELSUR Banco Universal nos preocupamos por los detalles, por esta razon le ofrecemos nuestra Cuenta Corriente con Intereses que le ofrece movilidad y rendimiento en una sola cuenta. Mas informacion en
+            <a href='https://soaint.com/agile-integration/' target="_blank"><br/><br/>Haz Click Aqui</a>
+         </template>
+        </category>
+
+   <category>
+        <pattern>inversiones</pattern>
+         <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Certificado de Ahorro.<br/>
+                -Certificado a la Vista.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+      <category>
+        <pattern>inversiones *</pattern>
+        <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Certificado de Ahorro.<br/>
+                -Certificado a la Vista.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+      <category>
+        <pattern>_ inversiones *</pattern>
+         <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Certificado de Ahorro.<br/>
+                -Certificado a la Vista.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+
+      <category>
+        <pattern>_ inversiones</pattern>
+         <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Certificado de Ahorro.<br/>
+                -Certificado a la Vista.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+    <category>
+           <pattern>certificado de ahorro</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Son colocaciones a plazo fijo a partir de 30 dias, que le ganan al cliente el mejor rendimiento por su inversion. Mas informacion en
+             <a href='http://www.delsur.com.ve/personas.php?id=17' target="_blank"><br/><br/>Haz Click Aqui</a>
+      </template>
        </category>
 
         <category>
-           <pattern>Precios *</pattern>
+           <pattern>certificado de ahorro *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+            Son colocaciones a plazo fijo a partir de 30 dias, que le ganan al cliente el mejor rendimiento por su inversion. Mas informacion en
+             <a href='http://www.delsur.com.ve/personas.php?id=17' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
        <category>
-           <pattern>_ Precios *</pattern>
-           <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+           <pattern>_ certificado de ahorro *</pattern>
+            <template>
+            Son colocaciones a plazo fijo a partir de 30 dias, que le ganan al cliente el mejor rendimiento por su inversion. Mas informacion en
+             <a href='http://www.delsur.com.ve/personas.php?id=17' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
         <category>
-           <pattern>_ Precios</pattern>
+           <pattern>_ certificado de ahorro</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+            Son colocaciones a plazo fijo a partir de 30 dias, que le ganan al cliente el mejor rendimiento por su inversion. Mas informacion en
+             <a href='http://www.delsur.com.ve/personas.php?id=17' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
         <category>
-           <pattern>Tiempo</pattern>
+           <pattern>certificado a la vista</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      El Certificado de Inversion a la Vista, le permite a los clientes de DELSUR Banco Universal obtener rendimiento por sus fondos, en plazos menores a 29 dias, con opcion de disponer de su capital en cualquier momento, recuperando el monto depositado mas los intereses generados hasta el momento de la pre-cancelacion. Mas informacion en
+             <a href='http://www.delsur.com.ve/personas.php?id=21' target="_blank"><br/><br/>Haz Click Aqui</a>
+      </template>
        </category>
 
         <category>
-           <pattern>Tiempo *</pattern>
+           <pattern>certificado a la vista *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+            El Certificado de Inversion a la Vista, le permite a los clientes de DELSUR Banco Universal obtener rendimiento por sus fondos, en plazos menores a 29 dias, con opcion de disponer de su capital en cualquier momento, recuperando el monto depositado mas los intereses generados hasta el momento de la pre-cancelacion. Mas informacion en
+             <a href='http://www.delsur.com.ve/personas.php?id=21' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
        <category>
-           <pattern>_ Tiempo *</pattern>
+           <pattern>_ certificado a la vista *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+            El Certificado de Inversion a la Vista, le permite a los clientes de DELSUR Banco Universal obtener rendimiento por sus fondos, en plazos menores a 29 dias, con opcion de disponer de su capital en cualquier momento, recuperando el monto depositado mas los intereses generados hasta el momento de la pre-cancelacion. Mas informacion en
+             <a href='http://www.delsur.com.ve/personas.php?id=21' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
         <category>
-           <pattern>_ Tiempo</pattern>
+           <pattern>_ certificado a la vista</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
-       </category>
-
-        <category>
-           <pattern>Correo</pattern>
-           <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
-       </category>
-
-        <category>
-           <pattern>Correo *</pattern>
-           <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+            El Certificado de Inversion a la Vista, le permite a los clientes de DELSUR Banco Universal obtener rendimiento por sus fondos, en plazos menores a 29 dias, con opcion de disponer de su capital en cualquier momento, recuperando el monto depositado mas los intereses generados hasta el momento de la pre-cancelacion. Mas informacion en
+             <a href='http://www.delsur.com.ve/personas.php?id=21' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
        <category>
-           <pattern>_ Correo *</pattern>
+        <pattern>empresas</pattern>
+         <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Servicios Empresariales.<br/>
+                -Creditos.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+      <category>
+        <pattern>empresas *</pattern>
+        <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Servicios Empresariales.<br/>
+                -Creditos.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+      <category>
+        <pattern>_ empresas *</pattern>
+         <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Servicios Empresariales.<br/>
+                -Creditos.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+
+      <category>
+        <pattern>_ empresas</pattern>
+         <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Servicios Empresariales.<br/>
+                -Creditos.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+<category>
+        <pattern>servicios empresariales</pattern>
+         <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Pago de Nomina.<br/>
+                -Pago de Proveedores.<br/>
+                -Recaudación por Taquilla.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+      <category>
+        <pattern>servicios empresariales *</pattern>
+        <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Pago de Nomina.<br/>
+                -Pago de Proveedores.<br/>
+                -Recaudación por Taquilla.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+      <category>
+        <pattern>_ servicios empresariales *</pattern>
+        <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Pago de Nomina.<br/>
+                -Pago de Proveedores.<br/>
+                -Recaudación por Taquilla.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+
+      <category>
+        <pattern>_ servicios empresariales</pattern>
+        <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Pago de Nomina.<br/>
+                -Pago de Proveedores.<br/>
+                -Recaudación por Taquilla.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+
+
+        <category>
+           <pattern>pago de nomina</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Solucion a traves de la cual DELSUR Banco Universal le ofrece el servicio para procesar  el abono de la nomina de sus empleados.Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=56' target="_blank"><br/><br/>Haz Click Aqui</a>
+      </template>
        </category>
 
         <category>
-           <pattern>_ Correo</pattern>
+           <pattern>pago de nomina *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
-       </category>
-
-        <category>
-           <pattern>Proyectos</pattern>
-           <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
-       </category>
-
-        <category>
-           <pattern>Proyectos *</pattern>
-           <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+            Solucion a traves de la cual DELSUR Banco Universal le ofrece el servicio para procesar  el abono de la nomina de sus empleados.Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=56' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
        <category>
-           <pattern>_ Proyectos *</pattern>
+           <pattern>_ pago de nomina *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+            Solucion a traves de la cual DELSUR Banco Universal le ofrece el servicio para procesar  el abono de la nomina de sus empleados.Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=56' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
         <category>
-           <pattern>_ Proyectos</pattern>
+           <pattern>_ pago de nomina</pattern>
            <template>
-      		    Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	   </template>
+            Solucion a traves de la cual DELSUR Banco Universal le ofrece el servicio para procesar  el abono de la nomina de sus empleados.Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=56' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
+       </category>
+
+        <category>
+           <pattern>pago de proveedores</pattern>
+           <template>
+      Solucion a traves de la cual DELSUR Banco Universal le ofrece el servicio de procesamiento y el pago a los proveedores de su empresa mediante mecanismos que le facilitan sus procesos administrativos. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=57' target="_blank"><br/><br/>Haz Click Aqui</a>
+      </template>
+       </category>
+
+        <category>
+           <pattern>pago de proveedores *</pattern>
+            <template>
+            Solucion a traves de la cual DELSUR Banco Universal le ofrece el servicio de procesamiento y el pago a los proveedores de su empresa mediante mecanismos que le facilitan sus procesos administrativos. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=57' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
        <category>
-           <pattern>Proyecto</pattern>
+           <pattern>_ pago de proveedores *</pattern>
            <template>
-      		    Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	   </template>
+            Solucion a traves de la cual DELSUR Banco Universal le ofrece el servicio de procesamiento y el pago a los proveedores de su empresa mediante mecanismos que le facilitan sus procesos administrativos. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=57' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
         <category>
-           <pattern>Proyecto *</pattern>
+           <pattern>_ pago de proveedores</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+            Solucion a traves de la cual DELSUR Banco Universal le ofrece el servicio de procesamiento y el pago a los proveedores de su empresa mediante mecanismos que le facilitan sus procesos administrativos. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=57' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
        <category>
-           <pattern>_ Proyecto *</pattern>
+           <pattern>recaudación por taquilla</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+         Solucion para la gestion de cobro de su empresa, a traves de la cual pueden recibir los pagos que le adeuden sus clientes mediante los depositos que efectuen a traves de cualquier agencia de DELSUR Banco Universal. Mas informacion en
+            <a href='http://200.74.201.195/empresas.php?id=58' target="_blank"><br/><br/>Haz Click Aqui</a>
+        </template>
        </category>
 
         <category>
-           <pattern>_ Proyecto</pattern>
-           <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+           <pattern>recaudación por taquilla *</pattern>
+          <template>
+                Solucion para la gestion de cobro de su empresa, a traves de la cual pueden recibir los pagos que le adeuden sus clientes mediante los depositos que efectuen a traves de cualquier agencia de DELSUR Banco Universal. Mas informacion en
+            <a href='http://200.74.201.195/empresas.php?id=58' target="_blank"><br/><br/>Haz Click Aqui</a>
+           </template>
        </category>
+
+       <category>
+           <pattern>_ recaudación por taquilla *</pattern>
+           <template>
+                Solucion para la gestion de cobro de su empresa, a traves de la cual pueden recibir los pagos que le adeuden sus clientes mediante los depositos que efectuen a traves de cualquier agencia de DELSUR Banco Universal. Mas informacion en
+            <a href='http://200.74.201.195/empresas.php?id=58' target="_blank"><br/><br/>Haz Click Aqui</a>
+           </template>
+       </category>
+
+        <category>
+           <pattern>_ recaudación por taquilla</pattern>
+           <template>
+                Solucion para la gestion de cobro de su empresa, a traves de la cual pueden recibir los pagos que le adeuden sus clientes mediante los depositos que efectuen a traves de cualquier agencia de DELSUR Banco Universal. Mas informacion en
+            <a href='http://200.74.201.195/empresas.php?id=58' target="_blank"><br/><br/>Haz Click Aqui</a>
+           </template>
+       </category>
+
+       <category>
+        <pattern>creditos</pattern>
+         <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Credito Comercial.<br/>
+                -Construccion.<br/>
+                -Microcredito.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+      <category>
+        <pattern>creditos *</pattern>
+        <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Credito Comercial.<br/>
+                -Construccion.<br/>
+                -Microcredito.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+      <category>
+        <pattern>_ creditos *</pattern>
+       <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Credito Comercial.<br/>
+                -Construccion.<br/>
+                -Microcredito.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
+
+
+      <category>
+        <pattern>_ creditos</pattern>
+        <template>
+                    Ofrecemos los siguientes servicios: <br/>
+                -Credito Comercial.<br/>
+                -Construccion.<br/>
+                -Microcredito.<br/>
+                Por favor escriba algunos de ellos.
+                 </template>
+      </category>
 
         <category>
            <pattern>contacto</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
         <category>
            <pattern>contacto *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
        <category>
            <pattern>_ contacto *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
         <category>
            <pattern>_ contacto</pattern>
            <template>
-             Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-          </template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
        <category>
            <pattern>contactos</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
         <category>
            <pattern>contactos *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
        <category>
            <pattern>_ contactos *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
         <category>
            <pattern>_ contactos</pattern>
            <template>
-             Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-          </template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
         <category>
            <pattern>contactarlos</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
         <category>
            <pattern>contactarlos *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
        <category>
            <pattern>_ contactarlos *</pattern>
            <template>
-      		Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-      	</template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
         <category>
            <pattern>_ contactarlos</pattern>
            <template>
-             Para conocer nuestros precios y tiempos de ejecucion en los proyectos, contacta al analista de mercadeo mediante el siguiente correo. mercadeo-caribe@soaint.com
-          </template>
+      Para contactarnos, llena el siguiente formulario:
+<a href='https://arsrenacer.com/info-contacto/' target="_blank"><br/><br/>Formulario</a>
+      </template>
        </category>
 
     <category>
-         <pattern>soaint</pattern>
+         <pattern>Credito Comercial</pattern>
          <template>
-      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+      Producto destinado a satisfacer las necesidades de capital de trabajo, flujo de caja e inversiones, dirigidas a Personas Juridicas que tengan como destino una actividad comercial de produccion, comercializacion o servicios. Las modalidades del Credito Comercial DELSUR son a traves de una linea de credito, pagare o prestamo. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=50' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
         <category>
-         <pattern>_ soaint *</pattern>
-         <template>
-      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+         <pattern>_ Credito Comercial *</pattern>
+            <template>
+            Producto destinado a satisfacer las necesidades de capital de trabajo, flujo de caja e inversiones, dirigidas a Personas Juridicas que tengan como destino una actividad comercial de produccion, comercializacion o servicios. Las modalidades del Credito Comercial DELSUR son a traves de una linea de credito, pagare o prestamo. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=50' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
         <category>
-         <pattern>_ soaint</pattern>
-         <template>
-      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+         <pattern>_ Credito Comercial</pattern>
+            <template>
+            Producto destinado a satisfacer las necesidades de capital de trabajo, flujo de caja e inversiones, dirigidas a Personas Juridicas que tengan como destino una actividad comercial de produccion, comercializacion o servicios. Las modalidades del Credito Comercial DELSUR son a traves de una linea de credito, pagare o prestamo. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=50' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
         <category>
-         <pattern>soaint *</pattern>
-         <template>
-      		SOAINT es tu mejor asesor tecnologico expertos en transformacion digital.
+         <pattern>Credito Comercial *</pattern>
+            <template>
+            Producto destinado a satisfacer las necesidades de capital de trabajo, flujo de caja e inversiones, dirigidas a Personas Juridicas que tengan como destino una actividad comercial de produccion, comercializacion o servicios. Las modalidades del Credito Comercial DELSUR son a traves de una linea de credito, pagare o prestamo. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=50' target="_blank"><br/><br/>Haz Click Aqui</a>
          </template>
         </category>
 
     <category>
-         <pattern>eficaz</pattern>
+         <pattern>construccion</pattern>
            <template>
-      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+      El Credito al Constructor DELSUR ofrece excelentes condiciones y el respaldo de una de las instituciones financieras con amplia experiencia en el area, para el desarrollo de sus proyectos habitacionales y urbanisticos. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=51' target="_blank"><br/><br/>Haz Click Aqui</a>
            </template>
       </category>
 
       <category>
-         <pattern>eficaz *</pattern>
-           <template>
-      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+         <pattern>construccion *</pattern>
+            <template>
+            El Credito al Constructor DELSUR ofrece excelentes condiciones y el respaldo de una de las instituciones financieras con amplia experiencia en el area, para el desarrollo de sus proyectos habitacionales y urbanisticos. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=51' target="_blank"><br/><br/>Haz Click Aqui</a>
            </template>
       </category>
 
       <category>
-         <pattern>_ eficaz *</pattern>
-           <template>
-      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+         <pattern>_ construccion *</pattern>
+            <template>
+            El Credito al Constructor DELSUR ofrece excelentes condiciones y el respaldo de una de las instituciones financieras con amplia experiencia en el area, para el desarrollo de sus proyectos habitacionales y urbanisticos. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=51' target="_blank"><br/><br/>Haz Click Aqui</a>
            </template>
       </category>
 
       <category>
-         <pattern>_ eficaz</pattern>
-           <template>
-      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+         <pattern>_ construccion</pattern>
+            <template>
+            El Credito al Constructor DELSUR ofrece excelentes condiciones y el respaldo de una de las instituciones financieras con amplia experiencia en el area, para el desarrollo de sus proyectos habitacionales y urbanisticos. Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=51' target="_blank"><br/><br/>Haz Click Aqui</a>
            </template>
       </category>
       <category>
-         <pattern>Produccion</pattern>
+         <pattern>microcredito</pattern>
            <template>
-      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
-           </template>
-      </category>
-
-      <category>
-         <pattern>Produccion *</pattern>
-           <template>
-      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+      Es la modalidad de financiamiento para Persona Juridica, microempresas, emprendedores, que desarrollen actividades de comercializacion, prestacion de servicios, trasformacion y produccion industrial, agricola o artesanal de bienes, y su forma de pago se deriva del producto de estas actividades Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=52' target="_blank"><br/><br/>Haz Click Aqui</a>
            </template>
       </category>
 
       <category>
-         <pattern>_ Produccion *</pattern>
+         <pattern>microcredito *</pattern>
            <template>
-      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+            Es la modalidad de financiamiento para Persona Juridica, microempresas, emprendedores, que desarrollen actividades de comercializacion, prestacion de servicios, trasformacion y produccion industrial, agricola o artesanal de bienes, y su forma de pago se deriva del producto de estas actividades Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=52' target="_blank"><br/><br/>Haz Click Aqui</a>
            </template>
       </category>
 
       <category>
-         <pattern>_ Produccion</pattern>
+         <pattern>_ microcredito *</pattern>
            <template>
-      		SOAINT establece metas para alcanzar y desarrollar de manera mas efectiva las tareas para conseguir el objetivo deseado. Garantizando la confiabilidad y seguridad del cliente
+            Es la modalidad de financiamiento para Persona Juridica, microempresas, emprendedores, que desarrollen actividades de comercializacion, prestacion de servicios, trasformacion y produccion industrial, agricola o artesanal de bienes, y su forma de pago se deriva del producto de estas actividades Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=52' target="_blank"><br/><br/>Haz Click Aqui</a>
+           </template>
+      </category>
+
+      <category>
+         <pattern>_ microcredito</pattern>
+           <template>
+            Es la modalidad de financiamiento para Persona Juridica, microempresas, emprendedores, que desarrollen actividades de comercializacion, prestacion de servicios, trasformacion y produccion industrial, agricola o artesanal de bienes, y su forma de pago se deriva del producto de estas actividades Mas informacion en
+            <a href='http://www.delsur.com.ve/empresas.php?id=52' target="_blank"><br/><br/>Haz Click Aqui</a>
            </template>
       </category>
 
